@@ -1,17 +1,18 @@
-<!-- Heading -->
-# Heading 1
-## Heading 2
+##  Heading Guide
+### Heading 2222
 ### Heading 3
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
 
 <!-- Italics -->
+## Italics examples
 *This text is italic.*
 
 _This text_ is italic.
 
 <!-- Strong -->
+## Strong examples
 **This text** is strong.
 
 __This text__ is strong.

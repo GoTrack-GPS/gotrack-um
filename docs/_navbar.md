@@ -1,0 +1,2 @@
+* [English](/)
+* [Tiếng Việt](/vi/)
