@@ -4,4 +4,4 @@
 
 > <span style="line-height:1.8rem;font-weight:400;font-size:1.3rem">A rich interaction, lightweight, high performance GPS Fleet Management.<span>
 
-[Get Started](#weex-ui)
+[Get Started](modules/get-started/)
