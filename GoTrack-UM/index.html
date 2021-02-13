@@ -18,15 +18,22 @@
       search: 'auto',
       themeColor: '#F7C242',
       coverpage: 'docs/_coverpage.md',
+      homepage: 'README.md',
+      loadSidebar: 'docs/_sidebar.md',
+      loadNavbar: 'docs/_navbar.md',
+
 
       et: '#main',
       name: '',
       repo: '',
-      loadNavbar: true,
-      loadSidebar: true,
+
       subMaxLevel: 2,
       alias: {
-        '/.*/_sidebar.md': '/_sidebar.md'
+        '/.*/_navbar.md': 'docs/_navbar.md',
+        '/vi/.*/_sidebar.md': 'docs/_sidebar_vi.md',
+        '/modules/.*/_sidebar.md': 'docs/_sidebar.md',
+        '/vi/': 'README_vi.md',
+        '/vi/modules/(.*)/': 'modules/$1/README_vi.md',
       }
     }
   </script>

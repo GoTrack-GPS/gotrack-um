@@ -1,4 +1,5 @@
-<!-- docs/_sidebar.md -->
 
-* [Get Started](/get-started/)
-* [Web interface](guide.md "The greatest guide in the world")
+- [Get Started](modules/get-started/)
+- [Web interface](modules/web-interface/ "Professional GPS tracking solution")
+- [Mobile Apps](modules/mobile-apps/)
+- [FAQ](modules/faq/)
