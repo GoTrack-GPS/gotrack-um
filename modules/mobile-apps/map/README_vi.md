@@ -1,3 +1,1 @@
-# Ứng dụng di động
-- [Android]()
-- [iOS]()
+# Theo dõi trên bản đồ di động 

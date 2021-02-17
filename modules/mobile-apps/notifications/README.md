@@ -1,4 +1,1 @@
-# Mobile Apps
-
-- [Android]()
-- [iOS]()
+# Notifications
