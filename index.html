@@ -21,7 +21,7 @@
     window.$docsify = {
       name: 'GoTrack GPS',
       search: 'auto',
-      themeColor: '#F7C242',
+      themeColor: '#f6931c',
       // coverpage: 'docs/_coverpage.md',
       homepage: 'README.md',
       loadSidebar: 'docs/_sidebar.md',
@@ -41,7 +41,7 @@
         '/vi/CHANGELOG': 'CHANGELOG_vi.md',
       },
       basePath: location.port === '3000' ? '/' : '/gotrack-um/',
-      repo: 'lieubv/gotrack-um',
+      repo: 'gotrack-gps/gotrack-um',
       ga: '',
       search: {
         depth: 3,
@@ -51,7 +51,7 @@
       plugins: [
         function (hook, vm) {
           hook.beforeEach(function (html) {
-            var url = 'https://github.com/lieubv/gotrack-um/blob/master/' + vm.route.file;
+            var url = 'https://github.com/GoTrack-GPS/gotrack-um/blob/master/' + vm.route.file;
             var github = "<div  data-tooltip-title=\"Star it if you like\" data-tooltip-position=\"top\" class=\"tool-tip\"><iframe src=\"https://ghbtns.com/github-btn.html?user=alibaba&amp;repo=weex-ui&amp;type=watch&amp;count=true\" allowtransparency=\"true\" frameborder=\"0\" scrolling=\"0\" width=\"110\" height=\"20\" style='margin:0 10px -6px'></iframe></div>";
             var editHtml = '<a href=' + url + ' data-tooltip-title=\"Correct this doc\" data-tooltip-position=\"top\" class=\"tool-tip\" target=\"_blank\"><img class=\"emoji\" src=\"https://img.alicdn.com/tfs/TB1ica2lcLJ8KJjy0FnXXcFDpXa-128-128.png\" alt=\"Edit\"></a>';
             return
@@ -59,10 +59,10 @@
             // + editHtml
             // + github
             // + "</div>"
-            // + '\n\n'
-            html
-              + '\n----\n'
-              + '**Please feel free to use and contribute to the development.**'
+            '\n\n' +
+              html +
+              '\n----\n' +
+              '**Please feel free to use and contribute to the development.**'
           })
         },
         function (hook, vm) {
