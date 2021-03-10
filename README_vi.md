@@ -18,10 +18,10 @@ python --version
 
 - Launch web server (Python 2.x)
 ```
-python -m SimpleHTTPServer
+python -m SimpleHTTPServer 3000
 ```
 
 - Launch web server (Python 3.x)
 ```
-python -m http.server
+python -m http.server 3000
 ```
