@@ -43,6 +43,13 @@
         '/vi/modules/(.*)/': 'modules/$1/README_vi.md',
         '/vi/CHANGELOG': 'CHANGELOG_vi.md',
       },
+      markdown: {
+        renderer: {
+          image: function (href, title) {
+            return `<img src="${href}"/>`
+          }
+        }
+      },
       basePath: location.port === '3000' ? '/' : '/gotrack-um/',
       repo: 'gotrack-gps/gotrack-um',
       ga: '',
