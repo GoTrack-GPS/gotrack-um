@@ -11,7 +11,7 @@
       - [Chuyển thiết bị](vi/modules/web-interface/users/move-device/)
       - [Kích hoạt](vi/modules/web-interface/devices/activated/)
       - [gia hạn](vi/modules/web-interface/devices/extend/)
-      - [Gửi lệnh](vi/modules/web-interface/devices/send orders/)
+      - [Gửi lệnh](vi/modules/web-interface/devices/send-orders/)
     - [Giám sát trên bản đồ](vi/modules/web-interface/tracking/)
       - [Khoanh vùng](vi/modules/web-interface/tracking/Localization/)
       - [Thông báo](vi/modules/web-interface/tracking/notification/)
