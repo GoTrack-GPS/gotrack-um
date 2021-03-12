@@ -29,4 +29,14 @@ Click vào **Gửi đi**. Hiện lên thông báo: "Gửi thành công! Hãy xá
 <span style="display:block;text-align:center">![Restoring a forgotten password ](docs/assets/images/reset-password.png)
 > Lưu ý: Nếu bạn không có  email, hãy thử liên hệ với nhà cung cấp dịch vụ giám sát GPS để lấy lại mật khẩu truy cập vào tài khoản của bạn.
 * Kích hoạt thiết bị:
+ **Tạo thiết bị:**
+> Lưu ý: Chỉ là tài khoản của nhà phân phối/kỹ thuật/đại lý/ mới thêm được thiết bị
 
+Để bắt đầu tạo và định cấu hình thiết bị, trong thanh điều hướng ở trên cùng ngươi dùng chọn **Quản lý > Thiết bị > Thêm thiết bị**  
+
+<span style="display:block;text-align:center">![Manage device ](/docs/assets/images/manage-device.png)
+
+Khi click vào **Thêm thiết bị** màn hình sẽ hiển thị như sau:
+
+<span style="display:block;text-align:center">![add device ](/docs/assets/images/add-device.png)
+- Tài khoản: Click vào 
