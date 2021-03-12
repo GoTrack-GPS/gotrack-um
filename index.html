@@ -46,7 +46,7 @@
       markdown: {
         renderer: {
           image: function (href, title) {
-            return location.port === '3000' ? `<img src="${href}"/>` : `<img src="gotrack-um${href}"/>`
+            return location.port === '3000' ? `<img src="${href}"/>` : `<img src="/gotrack-um${href}"/>`
           }
         }
       },
