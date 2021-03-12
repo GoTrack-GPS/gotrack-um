@@ -46,11 +46,11 @@
       markdown: {
         renderer: {
           image: function (href, title) {
-            return `<img src="${href}"/>`
+            return location.port === '3000' ? `<img src="${href}"/>` : `<img src="gotrack-um/${href}"/>`
           }
         }
       },
-      //basePath: location.port === '3000' ? '/gotrack-um/' : '/gotrack-um/',
+      basePath: location.port === '3000' ? '/' : '/gotrack-um/',
       repo: 'gotrack-gps/gotrack-um',
       ga: '',
       search: {
