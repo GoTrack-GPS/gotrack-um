@@ -2,7 +2,7 @@
 Explore, learn, and understand the basics — the very first steps to become familiar with the Platform.
 
 * **Tài khoản người dùng**
- **Tạo một tài khoản**
+ __Tạo một tài khoản__
 Người dùng liên hệ với nhà cung cấp dịch vụ, đại lý để tạo tài khoản mới.
 Người dùng có thể đăng nhập tài khoản ngay tại giao diện của trang Web.
 
