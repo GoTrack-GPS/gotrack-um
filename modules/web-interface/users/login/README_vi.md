@@ -1,7 +1,7 @@
 # Đăng nhập
 Người dùng có thể đăng nhập tài khoản ngay tại giao diện của trang Web.
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface-users/GPS-gotrack_Login.png)
+<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/web-interface-users/GPS-gotrack_Login.png)
 
 **1.** Người dùng click vào đó có thể thay đổi ngôn ngữ của hệ thống.
 
