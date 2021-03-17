@@ -1,6 +1,6 @@
 # Quản lý tài khoản
 Sau khi tạo tài khoản xong, người dùng có thể tìm kiếm / thêm / sửa / đổi mật khẩu / xóa tạo khoản.
-# 1. Tìm kiếm tài khoản:
+# 1. Tìm kiếm tài khoản
 Có thể tìm kiếm theo các tiêu chí sau:
 
 <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/web-interface-users/search-account.png)
@@ -9,10 +9,10 @@ Có thể tìm kiếm theo các tiêu chí sau:
 - Tìm kiếm theo **Tài khoản con** : Bạn có thể tick vào ô vuông (□) đó, chọn **Tìm kiếm** để hiển thị thêm tất cả các tài khoản con mà tài khoản cha đã đăng ký cho.
 - **Đặt lại** : Sẽ xóa đi các ký tự bạn vừa nhập để tìm kiếm và hiển thị lại theo chế độ mặc định ban đầu.
 
-# 2. Thêm tài khoản:
+# 2. Thêm tài khoản
 Người dùng liên hệ với nhà cung cấp dịch vụ, đại lý để tạo tài khoản mới ( Chỉ tài khoản cha mới tạo được tài khoản mới).
 
-Để tạo tài khoản, trong thanh điều hướng dọc chọn **Icon quản lý > Tài khoản**  
+Để tạo tài khoản, trong thanh điều hướng dọc chọn **Quản lý > Tài khoản**  
 
 <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/web-interface-users/manage-account.png)
 
@@ -43,32 +43,54 @@ Khi click vào **Tạo mới người dùng** màn hình sẽ hiển thị như 
         - **Ngày đầu tuần**: Chọn ngày trong tuần mà bạn muốn hiển thị khi tìm kiếm theo tuần/báo cáo.
 
 Sau khi điền hết các thông tin thì click vào **Thêm** để hoàn thành thao tác.
-# 3. Sửa tài khoản:
-- Cách 1:
+# 3. Sửa tài khoản
+- **Cách 1:** 
 CLick vào **Sửa** của tài khoản đó. Sẽ xuất hiện một hộp thoại như hình dưới đây:
 
 
 <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/web-interface-users/edit-account.png)
 
  Sau khi sửa xong thông tin mà bạn cần sửa thì click vào **Lưu thay đổi** để hoàn thành thao tác.
+- **Cách 2:** Dùng tiện ích ở góc phải của hệ thống
 
+<span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/web-interface-users/edit-account-5.png)
+<p>
+   &emsp;&emsp;&emsp;&emsp;  - Bước 1: Click vào tài khoản cần sửa. <br>
+   &emsp;&emsp;&emsp;&emsp;  - Bước 2: Click 1 lần vào icon mũi tên ở góc bên phải trên cùng của hệ thống để mở rộng tiện ích. (Click 1 lần nữa để thu gọn tiện ích). Sẽ hiển thị hết các thông tin liên quan đến tài khoản.<br>
+   &emsp;&emsp;&emsp;&emsp;  - Bước 3: Click vào icon sửa để sửa tài khoản.<br>
+     Sau khi sửa xong thông tin mà bạn cần sửa thì click vào <b>Lưu thay đổi</b> để hoàn thành thao tác.<br><br>
+&emsp;&emsp;&emsp;&emsp;- Vùng 4: Click vào icon đó để sao chép tên tài khoản khi người dùng muốn tìm kiếm,...<br>
+&emsp;&emsp;&emsp;&emsp;- Vùng 5: Cài đặt cấu hình thông báo<br>
 
-- Cách 2: Click vào icon tài khoản góc dưới cùng bên trái hệ thống. Tiếp theo click vào **Sửa**
+<span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/web-interface-users/notification.png)
+
+   &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;  - **Thông báo** : Nhập email của bạn để nhận thông báo về email.<br>
+   &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;  - **Sms thông báo** : Nhập số điện thoại của bạn để nhận thông báo về điện thoại.<br>
+   &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; - **Tick / Bỏ tick vào ô vuông (□)** : Để nhận / Không nhận thông báo.<br>
+   &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; - Nếu chọn :<br>
+    &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;+  **Luôn hoạt động** : sẽ không hiển thị các thông tin ở vùng 5'.<br>
+    &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;+  **Hoạt động trong khoảng** : Hiển thị các thông tin ở vùng 5'. Chọn ngày và thời gian nhận thông báo về email / số điện thoại.<br>
+&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;+  **Loại thông báo** : Chọn các loại cảnh báo thông báo về email / app.<br>
+&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;Click vào **Lưu** để lưu cài đặt thông báo.<br>
+</p>
+
+- **Cách 3:**
+Click vào icon tài khoản góc dưới cùng bên trái hệ thống. Tiếp theo click vào **Sửa**
 
 <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/web-interface-users/edit-account-4.png)
 
 Xuất hiện hộp thoại như dưới đây: 
 
-<span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/web-interface-users/edit-account2.png)
+<span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/web-interface-users/edit-account-2.png)
 
 Sau khi sửa xong thông tin mà bạn cần sửa thì click vào **Lưu thay đổi** để hoàn thành thao tác.
 
-# 4. Đổi mật khẩu:
-- Cách 1: CLick vào nút ***...*** của tài khoản đó. Chọn **Đổi mật khẩu**.
+# 4. Đổi mật khẩu
+- **Cách 1:** CLick vào nút ***...*** của tài khoản đó. Chọn **Đổi mật khẩu**.
 
-<span style="display:block;text-align:center">![ manage edit acount 2](/docs/assets/images/web-interface/web-interface-users/edit-account-2.png)
+<span style="display:block;text-align:center">![ manage edit acount 2](/docs/assets/images/web-interface/web-interface-users/change-password-1.png)
 
-- Cách 2: Click vào icon tài khoản góc dưới cùng bên trái hệ thống. Tiếp theo click vào **Đổi mật khẩu**
+- **Cách 2:** Click vào icon tài khoản góc dưới cùng bên trái hệ thống. Tiếp theo click vào **Đổi mật khẩu**
 
 <span style="display:block;text-align:center">![ manage edit acount 2](/docs/assets/images/web-interface/web-interface-users/edit-account-3.png)
 
@@ -78,7 +100,7 @@ Sẽ xuất hiện một hộp thoại như hình dưới đây:
 
 Click vào **Lưu thay đổi** để hoàn thành thao tác.
 
-# 5. Xóa tài khoản:
+# 5. Xóa tài khoản
 CLick vào **...** của tài khoản đó. Chọn **Xóa**.
 
 <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/web-interface-users/delete-account.png)
@@ -91,7 +113,7 @@ Nếu:
 - Chọn **OK**: Sẽ xóa tài khoản đó.
 - Chọn **Hủy**: Sẽ hủy thao tác xóa.
 
-# 6. Xuất dữ liệu: 
+# 6. Xuất dữ liệu
 - Có 2 loại:
     - Xuất excel.
     - Xuất pdf.

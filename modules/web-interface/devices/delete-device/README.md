@@ -1,0 +1,1 @@
+# delete device english

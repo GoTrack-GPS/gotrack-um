@@ -7,13 +7,13 @@
     * [Quên mật khẩu](vi/modules/web-interface/users/forget-password/)
     * [Quản lý tài khoản](vi/modules/web-interface/users/account-management/) 
   * **Thiết bị GPS**
+    
+    * [Tìm kiếm thiết bị](vi/modules/web-interface/devices/search-device/)
     * [Thêm thiết bị](vi/modules/web-interface/devices/add-device/)
-    * [Chuyển thiết bị](vi/modules/web-interface/devices/move-device/)
-    * [Kích hoạt / Vô hiệu hóa thiết bị ](vi/modules/web-interface/devices/activated/)
-    * [Trạng thái thiết bị ](vi/modules/web-interface/devices/device-status/)
-    * [Gửi lệnh thiết bị](vi/modules/web-interface/devices/send-the-device-command/)      
-    * [Gia hạn thiết bị](vi/modules/web-interface/devices/device-extension/)
+    * [Sửa thiết bị ](vi/modules/web-interface/devices/edit-device/)
+    * [Xóa thiết bị ](vi/modules/web-interface/devices/delete-device/)
     * [Quản lý thiết bị](vi/modules/web-interface/devices/equipment-management/)
+  
   * **Bản đồ**  
     * [Menu](vi/modules/web-interface/tracking/menu/)
 

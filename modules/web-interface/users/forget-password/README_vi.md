@@ -5,12 +5,12 @@ Trong trường hợp người dùng quên mật khẩu, có thể dễ dàng kh
 <span style="display:block;text-align:center">![Restoring a forgotten password](/docs/assets/images/web-interface/web-interface-users/forget-password.png)
 
 Click vào **Gửi đi**. Hiện lên thông báo: "Gửi thành công! Hãy xác nhận mật khẩu qua email".
-# Bước 2: 
+# Bước 2: Xác nhận email
 Người dùng vào mail, click vào link **Reset password** để đổi mật khẩu.
 
 <span style="display:block;text-align:center">![Restoring a forgotten password](/docs/assets/images/web-interface/web-interface-users/mail_reset-password.png)
 
-# Bước 3: 
+# Bước 3: Cài lại mật khẩu
 Cài lại mật khẩu và click vào **Gửi đi** để vào trang chủ hệ thống.
 
 <span style="display:block;text-align:center">![Restoring a forgotten password ](/docs/assets/images/web-interface/web-interface-users/reset-password.png)
