@@ -21,4 +21,8 @@ Giao diện phần mềm đa dạng: Giao diện trên nền tảng Máy Tính, 
 Dưới đây là giao diện trang chủ (Tổng quan) của phần mềm.
 
 <span style="display:block;text-align:center">![active device ](/docs/assets/images/web-interface/Home-page.png)
-
+- **Vùng 1**: Menu dọc.
+    - **Vùng 1'** : Click 1 lần vào đó để mở rộng menu. (Click 1 lần nữa để thu gọn menu). 
+- **Vùng 2** : Vùng hiển thị dữ liệu tổng quát.
+- **Vùng 3** : Bật / Tắt thông tin cần hiển thị ở vùng dữ liệu.
+    - **Vùng 3'** : Click 1 lần vào đó để mở rộng cấu hình hiển thị. (Click 1 lần nữa để thu gọn cấu hình hiển thị). 
