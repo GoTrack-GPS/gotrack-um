@@ -3,11 +3,11 @@
 
 Để bắt đầu thêm và định cấu hình thiết bị, trong thanh điều hướng ở trên cùng người dùng chọn **Quản lý > Thiết bị**  
 
-<span style="display:block;text-align:center">![Manage device ](/docs/assets/images/web-interface/web-interface-device/manage-device.png)
+<span style="display:block;text-align:center">![Manage device ](/docs/assets/images/web-interface/device/manage-device.png)
 
 Khi click vào **Thêm thiết bị** màn hình sẽ hiển thị như sau:
 
-<span style="display:block;text-align:center">![add device ](/docs/assets/images/web-interface/web-interface-device/add-device.png)
+<span style="display:block;text-align:center">![add device ](/docs/assets/images/web-interface/device/add-device.png)
  
 - Hộp thoại xuất hiện gồm:
   - **Tải mẫu**: Click vào sẽ tải về file có dữ liệu ví dụ mẫu trong đó. Người dùng có thể thay thế dữ liệu.

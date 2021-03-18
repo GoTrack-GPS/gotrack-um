@@ -1,0 +1,72 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.icon-check-square {
+  width: 0.8798828125em;
+}
+
+.icon-file-alt {
+  width: 0.7548828125em;
+}
+
+.icon-plus-square {
+  width: 0.8798828125em;
+}
+
+.icon-star {
+  width: 1.1298828125em;
+}
+
+.icon-trash-alt {
+  width: 0.8798828125em;
+}
+
+.icon-angle-double-left {
+  width: 0.8798828125em;
+}
+
+.icon-angle-down {
+  width: 0.6298828125em;
+}
+
+.icon-car-alt {
+  width: 0.9423828125em;
+}
+
+.icon-chevron-down {
+  width: 0.8798828125em;
+}
+
+.icon-ellipsis-v {
+  width: 0.375em;
+}
+
+.icon-map-marked-alt {
+  width: 1.1298828125em;
+}
+
+.icon-ruler {
+  width: 1.2548828125em;
+}
+
+.icon-terminal {
+  width: 1.2548828125em;
+}
+
+.icon-user-tie {
+  width: 0.8798828125em;
+}
