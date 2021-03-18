@@ -20,27 +20,25 @@ Khi click vào **Tạo mới người dùng** màn hình sẽ hiển thị như 
 
 <span style="display:block;text-align:center">![Interface create acount](/docs/assets/images/web-interface/web-interface-users/create-account.png)
 
-- Hộp thoại xuất hiện gồm:
-   - **Cơ bản**
-        - **Tài khoản cha**: Chọn tài khoản cha để tạo tài khoản mới.
-        - **Trang chính**: Chọn trang để hiển thị đầu tiên sau khi đăng nhập hệ thống thành công.
-        - **Tài khoản**: Nhập tên tài khoản/tên đăng nhập viết liền không dấu. Không thể sửa.
-        - **Tên**: Nhập tên hiển thị thay thế tên người dùng khi hiển thị trên hồ sơ của bạn, ứng dụng.
-        - **Điện thoại**: Nhập số điện thoại hiện tại bạn đang dùng.
-        - **Email**: Nhập email hiện tại bạn đang dùng.
-        - **Vai trò**: Chọn tài khoản đó là tài khoản của nhà phân phối(admin)/người dùng/người dùng cơ bản.
-        - **Loại người dùng**: Chọn loại người dùng tương ứng với vai trò sử dụng tài khoản. Có 2 loại là đại lý và người dùng.
-        - **Mật khẩu**: Nhập mật khẩu viết liền và không dấu để đăng nhập vào hệ thống.
-        - **Xác nhận mật khẩu**: Nhập lại chính xác mật khẩu bạn vừa nhập.
-        - Mô tả: Có thể ghi thêm thông tin cá nhân của bạn hoặc mục đích bạn sử dụng hệ thống.
-        - **Địa chỉ**: Địa chỉ hiện tại của bạn.
-
-    - **Thông số**
-        - **Múi giờ**: Chọn múi giờ địa phương.
-        - **Ngôn ngữ**: Chọn ngôn ngữ theo nước mà bạn đang sinh sống.
-        - **Ngày tháng**: Chọn định dạng ngày tháng mà bạn muốn (dùng trong báo cáo).
-        - **Thời gian**: Chọn định dạng thời gian mà bạn muốn (dùng trong báo cáo).
-        - **Ngày đầu tuần**: Chọn ngày trong tuần mà bạn muốn hiển thị khi tìm kiếm theo tuần/báo cáo.
+- **Cơ bản**
+     - **Tài khoản cha**: Chọn tài khoản cha để tạo tài khoản mới.
+     - **Trang chính**: Chọn trang để hiển thị đầu tiên sau khi đăng nhập hệthống thành công.
+     - **Tài khoản**: Nhập tên tài khoản/tên đăng nhập viết liền không dấu.Không thể sửa.
+     - **Tên**: Nhập tên hiển thị thay thế tên người dùng khi hiển thị trên hồsơ của bạn, ứng dụng.
+     - **Điện thoại**: Nhập số điện thoại hiện tại bạn đang dùng.
+     - **Email**: Nhập email hiện tại bạn đang dùng.
+     - **Vai trò**: Chọn tài khoản đó là tài khoản của nhà phân phối(admin)người dùng/người dùng cơ bản.
+     - **Loại người dùng**: Chọn loại người dùng tương ứng với vai trò sử dụngtài khoản. Có 2 loại là đại lý và người dùng.
+     - **Mật khẩu**: Nhập mật khẩu viết liền và không dấu để đăng nhập vào hệthống.
+     - **Xác nhận mật khẩu**: Nhập lại chính xác mật khẩu bạn vừa nhập.
+     - Mô tả: Có thể ghi thêm thông tin cá nhân của bạn hoặc mục đích bạn sửdụng hệ thống.
+     - **Địa chỉ**: Địa chỉ hiện tại của bạn.
+ - **Thông số**
+     - **Múi giờ**: Chọn múi giờ địa phương.
+     - **Ngôn ngữ**: Chọn ngôn ngữ theo nước mà bạn đang sinh sống.
+     - **Ngày tháng**: Chọn định dạng ngày tháng mà bạn muốn (dùng trong báo cáo.
+     - **Thời gian**: Chọn định dạng thời gian mà bạn muốn (dùng trong báo cáo).
+     - **Ngày đầu tuần**: Chọn ngày trong tuần mà bạn muốn hiển thị khi tìm kiếm theo tuần/báo cáo.
 
 Sau khi điền hết các thông tin thì click vào **Thêm** để hoàn thành thao tác.
 # 3. Sửa tài khoản
@@ -53,26 +51,23 @@ CLick vào **Sửa** của tài khoản đó. Sẽ xuất hiện một hộp tho
  Sau khi sửa xong thông tin mà bạn cần sửa thì click vào **Lưu thay đổi** để hoàn thành thao tác.
 - **Cách 2:** Dùng tiện ích ở góc phải của hệ thống
 
-<span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/web-interface-users/edit-account-5.png)
-<p>
-   &emsp;&emsp;&emsp;&emsp;  - Bước 1: Click vào tài khoản cần sửa. <br>
-   &emsp;&emsp;&emsp;&emsp;  - Bước 2: Click 1 lần vào icon mũi tên ở góc bên phải trên cùng của hệ thống để mở rộng tiện ích. (Click 1 lần nữa để thu gọn tiện ích). Sẽ hiển thị hết các thông tin liên quan đến tài khoản.<br>
-   &emsp;&emsp;&emsp;&emsp;  - Bước 3: Click vào icon sửa để sửa tài khoản.<br>
-     Sau khi sửa xong thông tin mà bạn cần sửa thì click vào <b>Lưu thay đổi</b> để hoàn thành thao tác.<br><br>
-&emsp;&emsp;&emsp;&emsp;- Vùng 4: Click vào icon đó để sao chép tên tài khoản khi người dùng muốn tìm kiếm,...<br>
-&emsp;&emsp;&emsp;&emsp;- Vùng 5: Cài đặt cấu hình thông báo<br>
+    <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/web-interface-users/edit-account-5.png)
 
-<span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/web-interface-users/notification.png)
+    - Bước 1: Click vào tài khoản cần sửa. 
+    - Bước 2: Click 1 lần vào icon mũi tên ở góc bên phải trên cùng của hệ thống để mở rộng tiện ích. (Click 1 lần nữa để thu gọn tiện ích). Sẽ hiển thị hết các thông tin liên quan đến tài khoản.
+    - Bước 3: Click vào icon sửa để sửa tài khoản.>
+Sau khi sửa xong thông tin mà bạn cần sửa thì click vào **Lưu thay đổi** để hoàn thành thao tác.
+    - Vùng 4: Click vào icon đó để sao chép tên tài khoản khi người dùng muốn tìm kiếm,...>
+    - Vùng 5: Cài đặt cấu hình thông báo
+    <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/web-interface-users/notification.png)
 
-   &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;  - **Thông báo** : Nhập email của bạn để nhận thông báo về email.<br>
-   &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;  - **Sms thông báo** : Nhập số điện thoại của bạn để nhận thông báo về điện thoại.<br>
-   &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; - **Tick / Bỏ tick vào ô vuông (□)** : Để nhận / Không nhận thông báo.<br>
-   &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; - Nếu chọn :<br>
-    &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;+  **Luôn hoạt động** : sẽ không hiển thị các thông tin ở vùng 5'.<br>
-    &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;+  **Hoạt động trong khoảng** : Hiển thị các thông tin ở vùng 5'. Chọn ngày và thời gian nhận thông báo về email / số điện thoại.<br>
-&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;+  **Loại thông báo** : Chọn các loại cảnh báo thông báo về email / app.<br>
-&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;Click vào **Lưu** để lưu cài đặt thông báo.<br>
-</p>
+        - **Thông báo** : Nhập email của bạn để nhận thông báo về email.
+        - **Sms thông báo** : Nhập số điện thoại của bạn để nhận thông báo về điện thoại.
+        - **Tick / Bỏ tick vào ô vuông (□)** : Để nhận / Không nhận thông báo.<br>
+        - **Luôn hoạt động** : sẽ không hiển thị các thông tin ở vùng 5'.
+        -  **Hoạt động trong khoảng** : Hiển thị các thông tin ở vùng 5'. Chọn ngày và thời gian nhận thông báo về email / số điện thoại.
+        -  **Loại thông báo** : Chọn các loại cảnh báo thông báo về email / app.
+    Click vào **Lưu** để lưu cài đặt thông báo.
 
 - **Cách 3:**
 Click vào icon tài khoản góc dưới cùng bên trái hệ thống. Tiếp theo click vào **Sửa**
