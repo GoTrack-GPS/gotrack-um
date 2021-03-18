@@ -15,7 +15,7 @@
     * [Quản lý thiết bị](vi/modules/web-interface/devices/equipment-management/)
   
   * **Bản đồ**  
-    * [Menu](vi/modules/web-interface/tracking/menu/)
+    * [Giao diện chính ](vi/modules/web-interface/tracking/Interface-main/)
 
   * **Thông báo**
   * **Báo cáo**
