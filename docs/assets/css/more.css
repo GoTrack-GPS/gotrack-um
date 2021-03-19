@@ -7,6 +7,83 @@
     height: 18px;
 }
 
-.primary img {
-    color: #ff0000;
+
+
+/* get filter values: https://codepen.io/sosuke/pen/Pjoqqp */
+.svg-filter-primary  {
+    filter: invert(75%) sepia(29%) saturate(6621%) hue-rotate(349deg) brightness(101%) contrast(93%);
 }
+
+.svg-filter-distributor img {
+    filter: invert(75%) sepia(29%) saturate(6621%) hue-rotate(349deg) brightness(101%) contrast(93%);
+}
+
+.svg-filter-user img {
+    filter: invert(51%) sepia(16%) saturate(3561%) hue-rotate(169deg) brightness(97%) contrast(88%);
+}
+.svg-filter-search img {
+    filter: invert(48%) sepia(6%) saturate(1044%) hue-rotate(193deg) brightness(96%) contrast(85%);
+}
+.svg-filter-tick img {
+    filter: invert(75%) sepia(29%) saturate(6621%) hue-rotate(349deg) brightness(101%) contrast(93%);
+}
+
+.svg-filter-bacham img {
+    filter: invert(7%) sepia(2%) saturate(2395%) hue-rotate(335deg) brightness(92%) contrast(111%);
+}
+.svg-filter-info img {
+    filter: invert(7%) sepia(2%) saturate(2395%) hue-rotate(335deg) brightness(92%) contrast(111%);
+}
+.svg-filter-plus1 img {
+filter: invert(13%) sepia(90%) saturate(7278%) hue-rotate(0deg) brightness(95%) contrast(111%); 
+}
+.svg-filter-supermarket img {
+filter: invert(33%) sepia(38%) saturate(5566%) hue-rotate(199deg) brightness(99%) contrast(85%);
+}
+.svg-filter-company img {
+filter: invert(21%) sepia(48%) saturate(6395%) hue-rotate(256deg) brightness(83%) contrast(90%);
+}
+.svg-filter-stadium img {
+    filter: invert(34%) sepia(69%) saturate(5646%) hue-rotate(135deg) brightness(99%) contrast(102%);
+}
+.svg-filter-hospital img {
+    filter: invert(59%) sepia(14%) saturate(6367%) hue-rotate(321deg) brightness(98%) contrast(106%);
+}
+/* .svg-filter-setting img {
+filter: invert(100%) sepia(0%) saturate(7499%) hue-rotate(332deg) brightness(96%) contrast(101%);
+} */
+/* màu trạng thái xe */
+.svg-filter-circlegreen img {
+filter: invert(45%) sepia(94%) saturate(355%) hue-rotate(82deg) brightness(100%) contrast(92%);
+}
+.svg-filter-circlered img {
+filter: invert(22%) sepia(78%) saturate(7494%) hue-rotate(356deg) brightness(118%) contrast(121%);
+}
+.svg-filter-circleyellow img {
+filter: invert(72%) sepia(45%) saturate(4834%) hue-rotate(360deg) brightness(104%) contrast(104%);
+}
+.svg-filter-circletim img {
+filter: invert(24%) sepia(23%) saturate(3454%) hue-rotate(253deg) brightness(88%) contrast(88%);
+}
+.svg-filter-circleden img {
+filter: invert(10%) sepia(15%) saturate(1234%) hue-rotate(158deg) brightness(94%) contrast(85%);
+}
+.svg-filter-circlexam img {
+filter: invert(76%) sepia(7%) saturate(83%) hue-rotate(201deg) brightness(90%) contrast(90%);
+}
+.svg-filter-circlenau img {
+filter: invert(13%) sepia(12%) saturate(6502%) hue-rotate(343deg) brightness(95%) contrast(97%);
+}
+.svg-filter-circlexamtro img {
+filter: invert(100%) sepia(0%) saturate(1137%) hue-rotate(1deg) brightness(105%) contrast(69%);
+}
+/*  */
+
+
+
+
+
+
+
+
+

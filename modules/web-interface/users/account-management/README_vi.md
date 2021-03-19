@@ -1,13 +1,19 @@
 # Quản lý tài khoản
 Sau khi tạo tài khoản xong, người dùng có thể tìm kiếm / thêm / sửa / đổi mật khẩu / xóa tạo khoản.
+Click vào **Quản lý > Tài khoản** để thực thực các chức năng trong quản lý tài khoản.
+
+<span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/users/search-account-2.png)
+
 ### 1. Tìm kiếm tài khoản
 
-:mag: Tìm kiếm theo các tiêu chí sau:
+<span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg) Tìm kiếm theo các tiêu chí sau:
 
 <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/users/search-account.png)
 
-- Tìm kiếm theo **Tài khoản**/**Email** : Người dùng có thể nhập cả tên tài khoản/Email đã đăng ký  hoặc một vài ký tự có trong tên tài khoản/Email của mình. Chọn **Tìm kiếm** sẽ hiển thị ra tài khoản mình cần tìm.
-- Tìm kiếm theo **Tài khoản con** : Bạn có thể tick vào :ballot_box_with_check:, chọn **Tìm kiếm** để hiển thị thêm tất cả các tài khoản con mà tài khoản cha đã đăng ký cho.
+1. Tìm kiếm theo **Tài khoản**: Người dùng có thể nhập cả tên tài khoản đã đăng ký  hoặc một vài ký tự có trong tên tài khoản. 
+2. Tìm kiếm theo **Email** : Người dùng có thể nhập cả tên Email đã đăng ký hoặc một vài ký tự có trong Email của mình.
+3. Tìm kiếm theo **Tài khoản con** : Bạn có thể tick vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg) Tài khoản con.
+- Chọn **Tìm kiếm** sẽ hiển thị ra thông tin cần tìm.
 - **Đặt lại** : Sẽ xóa đi các ký tự bạn vừa nhập để tìm kiếm và hiển thị lại theo chế độ mặc định ban đầu.
 
 ### 2. Thêm tài khoản
@@ -17,7 +23,7 @@ Người dùng liên hệ với nhà cung cấp dịch vụ, đại lý để t�
 
 <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/users/manage-account.png)
 
-Khi click vào :heavy_plus_sign: **Tạo mới người dùng** màn hình sẽ hiển thị như sau:
+Khi click vào  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Tạo mới người dùng** màn hình sẽ hiển thị như sau:
 
 <span style="display:block;text-align:center">![Interface create acount](/docs/assets/images/web-interface/users/create-account.png)
 
@@ -56,7 +62,9 @@ Dùng tiện ích ở góc phải của hệ thống
 <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/users/edit-account-5.png)
 
 - Bước 1: Click vào tài khoản cần sửa. 
-- Bước 2: Click :arrow_down_small: 1 lần vào icon mũi tên ở góc bên phải trên cùng của hệ thống để mở rộng tiện ích. (Click :arrow_down_small: 1 lần nữa để thu gọn tiện ích). Sẽ hiển thị hết các thông tin liên quan đến tài khoản.
+- Bước 2: Click 1 lần vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-down.svg
+)   ở góc bên phải trên cùng của hệ thống để mở rộng tiện ích. (Click 1 lần nữa vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-down.svg
+) để thu gọn tiện ích). Sẽ hiển thị hết các thông tin liên quan đến tài khoản.
 - Bước 3: Click vào icon sửa để sửa tài khoản.>
 Sau khi sửa xong thông tin mà bạn cần sửa thì click vào **Lưu thay đổi** để hoàn thành thao tác.
 - Vùng 4: Click vào icon đó để sao chép tên tài khoản khi người dùng muốn tìm kiếm,...>
@@ -65,10 +73,11 @@ Sau khi sửa xong thông tin mà bạn cần sửa thì click vào **Lưu thay 
 
     - **Email thông báo** : Nhập email của bạn để nhận thông báo về email.
     - **Sms thông báo** : Nhập số điện thoại của bạn để nhận thông báo về điện thoại.
-    - **Tick / Bỏ tick  :ballot_box_with_check:** : Để nhận / Không nhận thông báo.
+    - **Tick / Bỏ tick  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg)** : Để nhận / Không nhận thông báo.
     - **Luôn hoạt động** : sẽ không hiển thị các thông tin ở vùng 5'.
     -  **Hoạt động trong khoảng** : Hiển thị các thông tin ở vùng 5'. Chọn ngày và thời gian nhận thông báo về email / số điện thoại.
     -  **Loại thông báo** : Chọn các loại cảnh báo thông báo về email / app.
+
     Click vào **Lưu** để lưu cài đặt thông báo.
 
 #### Cách 3
@@ -83,7 +92,8 @@ Xuất hiện hộp thoại như dưới đây:
 Sau khi sửa xong thông tin mà bạn cần sửa thì click vào **Lưu thay đổi** để hoàn thành thao tác.
 
 ### 4. Đổi mật khẩu
-- **Cách 1:** CLick vào :point_right:   **...** của tài khoản đó. Chọn **Đổi mật khẩu**.
+- **Cách 1:** CLick vào :point_right:   <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg
+)  của tài khoản đó. Chọn **Đổi mật khẩu**.
 
 <span style="display:block;text-align:center">![ manage edit acount 2](/docs/assets/images/web-interface/users/change-password-1.png)
 
@@ -98,7 +108,7 @@ Sẽ xuất hiện một hộp thoại như hình dưới đây:
 Click vào **Lưu thay đổi** để hoàn thành thao tác.
 
 ### 5. Xóa tài khoản
-CLick vào :point_right: **...** của tài khoản đó. Chọn **Xóa**.
+CLick vào :point_right: <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) của tài khoản đó. Chọn **Xóa**.
 
 <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/users/delete-account.png)
 
@@ -112,5 +122,6 @@ Nếu:
 
 ### 6. Xuất dữ liệu
 Có 2 loại:
-- Xuất excel.
-- Xuất pdf.
+- Xuất excel <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel.svg).
+
+- Xuất pdf  <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf.svg).

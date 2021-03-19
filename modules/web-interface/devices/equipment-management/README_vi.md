@@ -1,4 +1,7 @@
 # Quản lý thiết bị  
+Để thực hiện các chức năng của quản lý thiết bị, người dùng vào **Quản lý > Thiết bị** 
+
+  <span style="display:block;text-align:center">![search device ](/docs/assets/images/web-interface/device/search-device-2.png) 
 ### 1. Chuyển/Bán thiết bị
 Để chuyển/gán thiết bị sang cho tài khoản khác,có 2 cách
 * **Cách 1** : 

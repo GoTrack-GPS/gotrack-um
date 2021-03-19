@@ -1,4 +1,9 @@
 # Sửa thiết bị:
+Để bắt đầu thực hiện chức năng **Sửa**, người dùng Người dùng vào **Quản lý > Thiết bị** 
+
+  <span style="display:block;text-align:center">![search device ](/docs/assets/images/web-interface/device/search-device-2.png) 
+
+  
 Khi click vào icon **Sửa** của thiết bị đó, sẽ xuất hiện hộp thoại như sau: 
 ### 1. Cơ bản 
 <span style="display:block;text-align:center">![search device ](/docs/assets/images/web-interface/device/edit-device-basic-1.png)
@@ -15,7 +20,7 @@ Khi click vào icon **Sửa** của thiết bị đó, sẽ xuất hiện hộp 
         <span style="display:block;text-align:center">![search device ](/docs/assets/images/web-interface/device/Add-a-device-group.png)
     
         
-        - Bước 1: Click :heavy_plus_sign: để thêm nhóm  thiết bị.
+        - Bước 1: Click  :heavy_plus_sign: để thêm nhóm  thiết bị.
         - Bước 2: Chọn tài khoản muốn thêm nhóm thiết bị. Nhập tên nhóm thiế    bị.
         - Bước 3: Click vào **Thêm** để hoàn thành thao tác.
 
@@ -80,7 +85,7 @@ Khi click vào icon **Sửa** của thiết bị đó, sẽ xuất hiện hộp 
 
 <span style="display:block;text-align:center">![delete device](/docs/assets/images/web-interface/device/Sensor-device.png)
  
-Khi click vào **:heavy_plus_sign:Thêm cảm biến** , sẽ xuất hiện hộp thoại như sau: 
+Khi click vào  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Thêm cảm biến** , sẽ xuất hiện hộp thoại như sau: 
 
 <span style="display:block;text-align:center">![delete device](/docs/assets/images/web-interface/device/advanced-sensor-device.png)
 
@@ -107,7 +112,7 @@ Click **Thêm** để lưu cảm biến.
 ### 4. Camera 
 <span style="display:block;text-align:center">![delete device](/docs/assets/images/web-interface/device/add-camera-device.png)
 
-Khi click vào **:heavy_plus_sign:Thêm camera** xuất  hiện hộp thoại như hình trên: 
+Khi click vào  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Thêm camera** xuất  hiện hộp thoại như hình trên: 
 - **Tên** : Nhập tên camera bạn muốn lắp đặt.
 - **Id** : Nhập mã số của camera.
 - **Mô tả** : Có thể nhập thêm thông tin về camera,...
@@ -129,7 +134,7 @@ Click **Thêm** để lưu camera.
 
 <span style="display:block;text-align:center">![delete device](/docs/assets/images/web-interface/device/warning-device.png)
 
-Tick :white_check_mark: để bật/tắt cảnh báo thiết bị.
+Tick <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg)để bật/tắt cảnh báo thiết bị.
 
 Ngoài ra, có thể cấu hình thông báo thiết bị bằng cách như hình dưới đây :
 

@@ -13,7 +13,7 @@
      * [Quản lý thiết bị](vi/modules/web-interface/devices/equipment-management/)
   * **Bản đồ**  
      * [Giao diện chính ](vi/modules/web-interface/tracking/Interface-main/)
-     * [Bảng điều hướng ](vi/modules/web-interface/tracking/navigation-panel/)
+     * [Giám sát thiết bị chung trên bản đồ ](vi/modules/web-interface/tracking/navigation-panel/)
   * **Thông báo**
   * **Báo cáo**
  

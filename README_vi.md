@@ -30,5 +30,3 @@ python -m http.server 3000
 ```
 py -m http.server 3000
 ```
-### emoji
-https://gist.github.com/rxaviers/7360908
