@@ -87,6 +87,7 @@ def add(num1, num2):
 https://gist.github.com/rxaviers/7360908
 # Giao diện chính tổng quát
 ### 5. Gia hạn thiết bị
+#### Cách 1
 
 <!-- .icon-left img {
     margin-right: 10px;

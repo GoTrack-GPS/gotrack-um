@@ -44,18 +44,18 @@ Giám sát trực tuyến: Vị trí, lộ trình, hướng di chuyển, trạng
 
 2. Trung tâm bản đồ
 
-### Danh sách thiết bị thuộc một tài khoản đã chọn
+### Danh sách thiết bị 
 <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/list-device-map-2.png)
 
 - Bước 1 : Chọn tài khoản muốn xem danh sách thiết bị.
 - Bước 2 : Sau khi hiển thị danh sách có thể chọn chi tiết từng thiết bị, xem lịch sử, lộ trình di chuyển, sửa thông tin, cấu hình danh sách thiết bị và thực hiện các thap tác khác
-### Hộp hiển thị thông tin thiết bị thuộc một thiết bị đã chọn
+### Hộp hiển thị thông tin thiết bị 
 <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/box-infomation-device.png)
 
 - Bước 1 : Chọn thiết bị muốn .
 - Bước 2 : Sau khi hiển thị danh sách có thể cấu hình hộp thông tin, sửa thông tin, xem lịch sử, lộ trình di chuyển và thực hiện các thao tác khác.
 
-### Công cụ thao tác với thiết bị trên bản đồ
+### Công cụ trên bản đồ
 <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/map-tool.png)
 
 <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/settings.svg) Cài đặt bản đồ
@@ -94,9 +94,9 @@ Giám sát trực tuyến: Vị trí, lộ trình, hướng di chuyển, trạng
 * Khi icon xe hiển thị   <span class="icon-left svg-filter-circletim">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) : -->
 <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg)  Tìm địa chỉ trên bản đồ.
 
-<span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/ruler.svg) : Đo khoảng cách các điểm mà mình chọn trên bản đồ.
+<span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/ruler.svg)  Đo khoảng cách các điểm mà mình chọn trên bản đồ.
 
-<span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/directions.svg) : Tìm đường đi bằng cách nhập điểm đi, điểm đến hoặc bấm trên bản đồ.
+<span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/directions.svg)  Tìm đường đi bằng cách nhập điểm đi, điểm đến hoặc bấm trên bản đồ.
 
 <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/full-screen.svg) Mở rộng vùng hiển thị bản đồ
 

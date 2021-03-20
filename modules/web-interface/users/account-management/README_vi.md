@@ -62,7 +62,7 @@ Dùng tiện ích ở góc phải của hệ thống
 <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/users/edit-account-5.png)
 
 - Bước 1: Click vào tài khoản cần sửa. 
-- Bước 2: Click 1 lần vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-down.svg
+- Bước 2: Click 1 lần vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-right.svg
 )   ở góc bên phải trên cùng của hệ thống để mở rộng tiện ích. (Click 1 lần nữa vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-down.svg
 ) để thu gọn tiện ích). Sẽ hiển thị hết các thông tin liên quan đến tài khoản.
 - Bước 3: Click vào icon sửa để sửa tài khoản.>

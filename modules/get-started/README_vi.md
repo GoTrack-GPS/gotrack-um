@@ -24,6 +24,6 @@ Dưới đây là giao diện trang chủ (Tổng quan) của phần mềm.
 - **Vùng 1**: Menu được sử dụng để truy cập nhanh các công cụ và cài đặt được sử dụng thường xuyên.
 - **Vùng 2** : Vùng hiển thị dữ liệu tổng quát.
 - **Vùng 3** : Bật / Tắt  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg)thông tin cần hiển thị ở vùng dữ liệu.
-- **Vùng 4** : Click 1 lần vào <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-down.svg) để mở rộng cấu hình hiển thị. (Click 1 lần nữa vào <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-down.svg)để thu gọn cấu hình hiển thị). 
-- **Vùng 5** : Click 1 lần vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/angle-double-left.svg) để mở rộng menu dọc. (Click 1 lần nữa vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/angle-double-left.svg)để thu gọn menu dọc). 
+- **Vùng 4** : Click 1 lần vào <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-down.svg) để mở rộng cấu hình hiển thị. (Click 1 lần nữa vào <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-up.svg)để thu gọn cấu hình hiển thị). 
+- **Vùng 5** : Click 1 lần vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/angle-double-right.svg) để mở rộng menu dọc. (Click 1 lần nữa vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/angle-double-left.svg)để thu gọn menu dọc). 
 
