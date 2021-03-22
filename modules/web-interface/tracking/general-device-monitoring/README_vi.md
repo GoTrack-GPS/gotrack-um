@@ -16,15 +16,15 @@
 
 <span class="icon-left svg-filter-check">![Ok](/docs/assets/images/web-interface/icon/SVG/star.svg) Thêm / Bỏ thiết bị đó vào / ra danh sách yêu thích.  Xem chế độ yêu thích / Ản chế độ yêu thích
 
-<span class="icon-left svg-filter-check">![Ok](/docs/assets/images/web-interface/icon/SVG/filter-alt.svg) 
+<span class="icon-left svg-filter-check">![Ok](/docs/assets/images/web-interface/icon/SVG/location_alt.svg) Theo dõi
 
 ### Định vị thiết bị
 Chọn vào thiết bị cần xem, hệ thống hiển thị vị trí xe trên bảng đồ cùng một số thông số cơ bản như hình dưới :
 <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/monitoring-device.png)
 
 ### Cấu hình danh sách hiển thị
-#### Cách 1 : Vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/settings.svg) ở vùng 1
-#### Cách 2 : Vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/settings.svg) ở vùng 2
+* **Cách 1** : Vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/settings.svg) ở vùng 1
+* **Cách 2** : Vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/settings.svg) ở vùng 2
 <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/list-and-device-information-1.png)
 
 * **Danh sách thiết bị**
@@ -82,7 +82,7 @@ Ví dụ : Tắt hiển thị biểu tượng
 
 Ví dụ : Tắt biểu tượng 
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/Example-device-3.png)
+<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/Example-device-4.png)
 
 
 

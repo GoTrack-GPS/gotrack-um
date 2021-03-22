@@ -1,4 +1,4 @@
-- [**Giới thiệu**](vi/modules/get-started/)
+- **Giới thiệu**
 
   - **Tài khoản**
     - [Đăng nhập](vi/modules/web-interface/users/login/)

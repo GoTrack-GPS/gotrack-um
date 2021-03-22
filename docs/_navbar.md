@@ -1,4 +1,4 @@
 * [English](/)
-* [Tiếng Việt](/vi/)
+* [Tiếng Việt](vi/modules/get-started/)
 
 

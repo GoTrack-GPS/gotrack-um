@@ -103,46 +103,37 @@ https://gist.github.com/rxaviers/7360908
 
 <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg)
 
-<span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg) 
 
-<span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-down.svg)
+## Hướng dẫn cài đặt trên máy local
 
-<span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg)
+- clone the repository 
 
-<span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/angle-down.svg)
+- install python
 
-<span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/pdf-file-format-symbol.svg)
+- Change to site directory
+```
+cd /path/to/site/files
+```
 
-<span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel.svg)
+- Show Python version
+```
+python --version
+```
 
- <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf.svg)
+### Launch web server (Python 2.x)
+```
+python -m SimpleHTTPServer 3000
+```
 
- <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/info-circle.svg)
-
- 
- <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)
-
-  
- <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/motorcycle.svg)
-
- <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/car.svg)
-
- <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/company.svg)
-
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/home.svg)
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/restaurant.svg)
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/stadium2.svg)
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/school.svg)
-hospital
-<span class="icon-left svg-filter-primary">![Ok](/docs/assets/images/web-interface/icon/SVG/angle-double-left.svg)
-
-<span class="icon-left svg-filter-primary">![Ok](/docs/assets/images/web-interface/icon/SVG/cog.svg)
-
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/expand.svg)
-
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/minus-circle.svg)
- <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus-circle.svg)
- circle1
+### Launch web server (Python 3.x)
+1. MACOS
+``` 
+python -m http.server 3000
+```
+2. Window
+```
+py -m http.server 3000
+```
 
 
 
