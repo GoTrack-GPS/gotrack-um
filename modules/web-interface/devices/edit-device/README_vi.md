@@ -5,6 +5,9 @@
 
   
 Khi click vào icon **Sửa** của thiết bị đó, sẽ xuất hiện hộp thoại như sau: 
+<div id="suathietbi">
+</div>
+
 ### 1. Cơ bản 
 <span style="display:block;text-align:center">![search device ](/docs/assets/images/web-interface/device/edit-device-basic-1.png)
 
@@ -81,7 +84,14 @@ Khi click vào icon **Sửa** của thiết bị đó, sẽ xuất hiện hộp 
     - **Gửi dữ liệu**: Có thể  bật / tắt.
     - **Sở Giao thông vận tải** : Chọn tỉnh để gửi dữ liệu. (Chỉ chọn đượkhi bật chế độ gửi dữ liệu).
     - **Loại hình vận tải QVCN** : Chọn 1 trong các loại hình đó, đúng với xe / phương tiện mà bạn lắp thiết bị. (Chỉ chọn được khi bật chế độ gửi dữ liệu).
+
+<div id="cambien">
+</div>
+
+
+
 ### 3. Cảm biến 
+
 
 <span style="display:block;text-align:center">![delete device](/docs/assets/images/web-interface/device/Sensor-device.png)
  
@@ -109,6 +119,8 @@ Khi click vào  <span class="icon-left svg-filter-info">![Ok](/docs/assets/image
     - **Hiển thị bản đồ trên map** : Bật / tắt để hiển thị / không hiển thị tên cảm biến trên bản đồ. 
 
 Click **Thêm** để lưu cảm biến. 
+
+
 ### 4. Camera 
 <span style="display:block;text-align:center">![delete device](/docs/assets/images/web-interface/device/add-camera-device.png)
 
@@ -118,6 +130,7 @@ Khi click vào  <span class="icon-left svg-filter-info">![Ok](/docs/assets/image
 - **Mô tả** : Có thể nhập thêm thông tin về camera,...
 
 Click **Thêm** để lưu camera.
+
 
 ### 5. Mở rộng
 <span style="display:block;text-align:center">![delete device](/docs/assets/images/web-interface/device/expand-device.png)
@@ -131,6 +144,7 @@ Click **Thêm** để lưu camera.
     <span style="display:block;text-align:center">![delete device](/docs/assets/images/web-interface/device/device-configuration.png)
 
 ### 6. Cảnh báo
+
 
 <span style="display:block;text-align:center">![delete device](/docs/assets/images/web-interface/device/warning-device.png)
 

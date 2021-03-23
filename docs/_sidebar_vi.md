@@ -15,9 +15,9 @@
 
   - **Bản đồ**
 
-    - [Giao diện chính ](vi/modules/web-interface/tracking/Interface-main/)
-    - [Giám sát thiết bị chung  ](vi/modules/web-interface/tracking/general-device-monitoring/)
-    - [Giám sát chi tiết thiết bị  ](vi/modules/web-interface/tracking/detailed-monitoring/)
+    - [Bố cục ](vi/modules/web-interface/tracking/Interface-main/)
+    - [Giám sát tổng quát   ](vi/modules/web-interface/tracking/general-device-monitoring/)
+    - [Giám sát chi tiết](vi/modules/web-interface/tracking/detailed-monitoring/)
 
   - **Thông báo**
 
