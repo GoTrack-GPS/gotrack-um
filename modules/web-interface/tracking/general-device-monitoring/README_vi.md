@@ -36,9 +36,7 @@ Chọn vào thiết bị cần xem, hệ thống hiển thị vị trí xe trên
 <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/monitoring-device.png)
 
 ### Cấu hình hiển thị
- Bạn có thể tham khảo [tại đây](vi/modules/web-interface/tracking/Interface-main/#cauhinh)
-
-<div id="cauhinh">
+ Bạn có thể tham khảo [tại đây](vi/modules/web-interface/tracking/Interface-main/#cauhinh)<div id="cauhinh">
 
 
 

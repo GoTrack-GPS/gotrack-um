@@ -1,7 +1,9 @@
 # Giám sát chi tiết thiết bị trên bản đồ
-### 1. Yêu thích
+### 1. Yêu thích / Bỏ yêu thích 
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/Favourite.png)
+* **Yêu thích**
+
+    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/Favourite.png)
 
 * **Bỏ yêu thích**
 
@@ -88,7 +90,7 @@
 
     <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/notification-3.png)
 
-### 5. Chi tiết 
+### 5. Sửa thiết bị 
 
 - Bước 1 : Click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-v.svg)  **>**  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/file-alt.svg) **Chi tiết** ở hộp danh sách thiết bị
 hoặc <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/file-alt.svg) ở hộp thông tin chi tiết thiết bị.

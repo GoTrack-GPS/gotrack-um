@@ -68,9 +68,9 @@ Giám sát trực tuyến: Vị trí, lộ trình, hướng di chuyển, trạng
 
 <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/settings.svg) Cài đặt bản đồ
 
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/minus-circle.svg) Phóng to bản đồ
+<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus-circle.svg) Phóng to bản đồ
 
- <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus-circle.svg) Thu nhỏ bản đồ
+ <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/minus-circle.svg) Thu nhỏ bản đồ
 
  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/location.svg) Vị trí hiện tại của bạn
 
@@ -78,7 +78,7 @@ Giám sát trực tuyến: Vị trí, lộ trình, hướng di chuyển, trạng
 
  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/normal-screen.svg) Thu nhỏ vùng hiển thị bản đồ
 
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/direction-arrow-fit.svg) Thu gọn vùng hiển thị của thiết bị đó.
+<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/direction-arrow-fit.svg) Thu gọn vùng hiển thị các  thiết bị có trong tài khoản đó.
 
 <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/pentagon.svg) Quản lý vùng cảnh báo trên bản đồ.
 
@@ -89,19 +89,19 @@ Giám sát trực tuyến: Vị trí, lộ trình, hướng di chuyển, trạng
  ### Tiện ích 
 <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/map-widget.png)
 
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/info-circle.svg) Thông tin về màu thể hiện trạng thái xe. Click  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/info-circle.svg) 1 lần để hiển thị trên bản đồ, 1 lần nữa để ẩn thông tin màu.
-
+<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/info-circle.svg) Thông tin về màu thể hiện trạng thái xe. 
 
 <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg)  Tìm địa chỉ trên bản đồ.
 
 <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/ruler.svg)  Đo khoảng cách các điểm mà mình chọn trên bản đồ.
 
-<span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/directions.svg)  Tìm đường đi bằng cách nhập điểm đi, điểm đến hoặc bấm trên bản đồ.
+<span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/directions.svg)  Tìm đường đi.
 
 <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/full-screen.svg) Mở rộng vùng hiển thị bản đồ
 
  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/normal-screen.svg) Thu nhỏ vùng hiển thị bản đồ
 <div id="cauhinh">
+</div>
 
  ### Cấu hình hiển thị
 
@@ -167,6 +167,9 @@ Ví dụ : Tắt hiển thị biểu tượng
 Ví dụ : Tắt biểu tượng 
 
 <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/Example-device-4.png)
+
+
+<div id="mau">
 </div>
 
 ### Quy ước màu trạng thái

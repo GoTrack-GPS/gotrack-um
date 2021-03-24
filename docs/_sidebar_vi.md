@@ -18,6 +18,8 @@
     - [Bố cục ](vi/modules/web-interface/tracking/Interface-main/)
     - [Giám sát tổng quát   ](vi/modules/web-interface/tracking/general-device-monitoring/)
     - [Giám sát chi tiết](vi/modules/web-interface/tracking/detailed-monitoring/)
+    - [Công cụ mở rộng](vi/modules/web-interface/tracking/map-tools/)
+    - [Tiện ích bản đồ](vi/modules/web-interface/tracking/map-widget/)
 
   - **Thông báo**
 
