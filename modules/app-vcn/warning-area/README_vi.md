@@ -29,8 +29,6 @@ Click **Lưu** để hoàn thành tháo tác
 
 ### Sửa vùng cảnh báo
 
-
-
 - **Bước 1** : Vào mục Tài khoản > <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/pentagon.svg) Vùng cảnh báo.
 
 - **Bước 2** : Click vào tên vùng cảnh báo đã tạo.
