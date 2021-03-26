@@ -7,7 +7,7 @@ Vì thế, **GoTrack** đã tạo ra một phần mền GPS để giám sát xe 
 
 **Giao diện phầm mềm định vị GPS của GoTrack** :
 
-Giao diện phần mềm đa dạng: Giao diện trên nền tảng Máy Tính, giao diện trên nền tảng Mobile.
+Giao diện phần mềm đa dạng: Giao diện trên nền tảng Máy Tính, giao diện trên nền tảng app-vcn.
 
 **Phần mềm định vị GPS GoTrack có rất nhiều chức năng khiến người dùng khó mà chối từ**:
 - Giám sát trực tuyến: Vị trí, hướng di chuyển, trạng thái, tốc độ xe với thời gian thực (realtime).

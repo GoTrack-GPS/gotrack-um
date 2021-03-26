@@ -21,11 +21,11 @@
   
 ### Phóng to, thu nhỏ bản đồ 
 
-- Khi click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus-circle.svg) sẽ phóng to bản đồ lên theo vị trí tâm bản đồ / vị trí bạn muốn phóng to lên.
+- Khi click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus-circle.svg) sẽ phóng to theo vị trí tâm bản đồ / vị trí bạn muốn phóng to lên.
 
     <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/zoom-in.png)
 
-- Khi click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/minus-circle.svg) sẽ thu nhỏ bản đồ lên theo vị trí tâm bản đồ / vị trí bạn muốn thu nhỏ lại.
+- Khi click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/minus-circle.svg) sẽ thu nhỏ theo vị trí tâm bản đồ / vị trí bạn muốn thu nhỏ lại.
 
     <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/zoom-out.png)
 
@@ -58,7 +58,7 @@ Sau khi đã mở rộng vùng hiển thị, người dùng có thể click <spa
 
     <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/zoom-out-3.png)
 
-- Bước 2 : Vị trí của các  thiết bị có trong tài khoản đó sẽ hiển thị hết trên bản đồ.
+- Bước 2 : Xem toàn cảnh các thiết bị có trong tài khoản đó ở tầm nhìn phù hợp nhất.
 
     <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/zoom-out-4.png)
 
