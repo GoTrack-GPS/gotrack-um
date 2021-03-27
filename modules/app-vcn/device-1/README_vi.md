@@ -22,9 +22,13 @@ Có thể tìm kiếm theo các tiêu chí sau :
 <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/device-3.jpg)
 
 ### Theo dõi thiết bị
+
  Click vào tên thiết bị sẽ chuyển sang màn hình giám sát chi tiết của thiết bị đó
 
 <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/detail.jpg)
+
+<div id = "edit-device">
+</div>
 
 ### Sửa thiết bị
 
@@ -34,6 +38,7 @@ Có thể tìm kiếm theo các tiêu chí sau :
 - Bước 2 : Sau khi sửa các thông tin xong thì nhấn **Lưu** để hoàn thành thao tác.
 
 ###  Gửi lệnh
+
 #### Gửi lệnh
 <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/send-orders-2.jpg)
 

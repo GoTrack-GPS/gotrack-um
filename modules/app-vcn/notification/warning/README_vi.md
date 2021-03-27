@@ -16,6 +16,7 @@
     - Bật / tắt **nhận thông báo cả ngày**.
     - Cài đặt **thời gian bắt đầu nhận, thời gian kết thúc nhận** . ( Chỉ hiển thị khi tắt chế độ **nhận thông báo cả ngày**).
     - Click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) để thêm email.
+    Bạn có thể thêm 1 hoặc nhiều email để gửi cảnh bảo về.
 
 Sau khi cài đặt xong. Bấm **Lưu** để hoàn thành thao tác.
 

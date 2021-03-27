@@ -1,5 +1,6 @@
 # Vùng cảnh báo
 
+Tạo ra những cảnh báo khi xe đang đi ra / vào vùng.
 <div id="warning-area"> 
 </div>
 

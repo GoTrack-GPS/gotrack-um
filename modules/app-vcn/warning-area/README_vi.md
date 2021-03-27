@@ -1,9 +1,11 @@
 # Vùng cảnh báo
+ 
+ > Có thể bật bản đồ ở chế độ vệ tinh để tạo vùng chính xác hơn.
 
+ Tạo ra những cảnh báo khi xe đang đi ra / vào vùng.
+  
 <div id="warning-area"> 
 </div>
-
-> Có thể bật bản đồ ở chế độ vệ tinh để tạo vùng chính xác hơn.
 
 ### Tạo mới vùng cảnh báo 
 

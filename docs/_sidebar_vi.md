@@ -47,6 +47,8 @@
   - **Thiết bị**
     - [Quản lý thiết bị](vi/modules/app-vcn/device-1/)
     - [Gửi lệnh](vi/modules/app-vcn/send-order-1/)
+    - [Lịch sử lệnh](vi/modules/app-vcn/history-send-orders/)
+    
   - **Thông báo**
     - [Cảnh báo](vi/modules/app-vcn/notification/warning/)
    
