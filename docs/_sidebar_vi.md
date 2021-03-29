@@ -12,6 +12,9 @@
     - [Sửa thiết bị ](vi/modules/web-interface/devices/edit-device/)
     - [Xóa thiết bị ](vi/modules/web-interface/devices/delete-device/)
     - [Quản lý thiết bị](vi/modules/web-interface/devices/equipment-management/)
+    - [Quản lý gửi lệnh ](vi/modules/web-interface/devices/send-the-device-command/)
+
+
 
   - **Bản đồ**
 
@@ -21,7 +24,9 @@
     - [Công cụ mở rộng](vi/modules/web-interface/tracking/map-tools/)
     - [Tiện ích bản đồ](vi/modules/web-interface/tracking/map-widget/)
 
-  - **Thông báo**
+- [Quản lý vùng](vi/modules/web-interface/tracking/manage-region/)
+  - **Thông báo** 
+    - [Thông báo](vi/modules/web-interface/notification/)
 
   - **Báo cáo**
 
@@ -34,19 +39,19 @@
 
 - **App Giám sát xe VCN**
   - **Tài khoản**
-    - [Đăng nhập](vi/modules/app-vcn/login-1/)
+    - [Đăng nhập](vi/modules/app-vcn/login/)
     - [Quên mật khẩu](vi/modules/app-vcn/forget-password-1/)
-    - [Quản lý tài khoản](vi/modules/app-vcn/account-management-1/)
+    - [Quản lý tài khoản](vi/modules/app-vcn/account-management/)
 
   - **Bản đồ**
-    - [Giám sát tổng quát ](vi/modules/app-vcn/general-device-monitoring-1/)
-    - [Giám sát chi tiết](vi/modules/app-vcn/detailed-monitoring-1/)
+    - [Giám sát tổng quát ](vi/modules/app-vcn/general-device-monitoring/)
+    - [Giám sát chi tiết](vi/modules/app-vcn/detailed-monitoring/)
     - [Vùng cảnh báo](vi/modules/app-vcn/warning-area/)
     - [Điểm đánh dấu](vi/modules/app-vcn/poi/)
   
   - **Thiết bị**
-    - [Quản lý thiết bị](vi/modules/app-vcn/device-1/)
-    - [Gửi lệnh](vi/modules/app-vcn/send-order-1/)
+    - [Quản lý thiết bị](vi/modules/app-vcn/device/)
+    - [Gửi lệnh](vi/modules/app-vcn/send-order/)
     - [Lịch sử lệnh](vi/modules/app-vcn/history-send-orders/)
     
   - **Thông báo**
