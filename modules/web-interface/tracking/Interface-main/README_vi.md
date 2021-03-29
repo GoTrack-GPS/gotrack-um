@@ -181,7 +181,7 @@ Ví dụ : Tắt biểu tượng
 
 * Khi icon xe hiển thị   <span class="icon-left svg-filter-circleyellow">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) : Xe đang dừng nhưng vẫn nổ máy.
 
-* Khi icon xe hiển thị   <span class="icon-left svg-filter-circletim">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) : GPS kém.
+* Khi icon xe hiển thị   <span class="icon-left svg-filter-circlepurple">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) : GPS kém.
 
 * Khi icon xe hiển thị   <span class="icon-left svg-filter-circleden">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) : GPRS kém.
 

@@ -40,7 +40,7 @@ Ví dụ: Chọn ngày **Hôm nay > Nhấn OK**. trên màn hình lúc này cậ
 
  <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/infomation-2.jpg)
  
- Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](vi/modules/app-vcn/device-1/#edit-device) <div id="edit-device"> 
+ Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](vi/modules/app-vcn/device/#edit-device) <div id="edit-device"> 
 
 ### 4. Thêm 
 
@@ -49,8 +49,8 @@ Ví dụ: Chọn ngày **Hôm nay > Nhấn OK**. trên màn hình lúc này cậ
 <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/send-orders.jpg)
 
 Để tìm hiểu thêm chi tiết, bạn tham khảo tại đây
-* [Danh sách gửi lệnh](vi/modules/app-vcn/send-order-1/#send-order-1) <div id="send-order-1"> 
-* [Lịch sử gửi lệnh](vi/modules/app-vcn/send-order-1/#history) <div id="history"> 
+* [Danh sách gửi lệnh](vi/modules/app-vcn/send-order/#send-order) <div id="send-order"> 
+* [Lịch sử gửi lệnh](vi/modules/app-vcn/history-send-orders/#history) <div id="history"> 
 
 ### Tính năng mở rộng 
 
@@ -80,7 +80,7 @@ Ví dụ: Chọn ngày **Hôm nay > Nhấn OK**. trên màn hình lúc này cậ
 
 * **Cách 2** : Vào **Gửi lệnh**.
 
-    Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](vi/modules/app-vcn/device-1/#lock) <div id="lock"> 
+    Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](vi/modules/app-vcn/device/#lock) <div id="lock"> 
 
 #### 2. Mở máy từ xa
 * **Cách 1**: 
@@ -91,7 +91,7 @@ Ví dụ: Chọn ngày **Hôm nay > Nhấn OK**. trên màn hình lúc này cậ
 
 * **Cách 2** : Vào **Gửi lệnh**.
 
-    Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](vi/modules/app-vcn/device-1/#unlock) <div id="unlock"> 
+    Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](vi/modules/app-vcn/device/#unlock) <div id="unlock"> 
 
 
 

@@ -52,6 +52,7 @@
 - Bước 4: Click vào **Gửi** để cài đặt trạng thái cho thiết bị.
 
 ### 4. Gửi lệnh thiết bị
+
 Để gửi lệnh thiết bị, thực hiện các bước sau: 
 
 <span style="display:block;text-align:center">![Manage device ](/docs/assets/images/web-interface/device/send-the-device-command.png)
@@ -61,6 +62,8 @@
 - Bước 2: Chọn **Gửi lệnh**.
 - Bước 3: Một hộp thoại xuất hiện. **Tên thiết bị, Loại thiết bị** đã tạo. Chọn loại lệnh cần yêu cầu thực hiện.
 - Bước 4: Click vào **Gửi** để gửi lệnh thiết bị.
+
+Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](vi/modules/web-interface/devices/send-the-device-command/#command)  <div id="command"> 
 
 ### 5. Gia hạn thiết bị
 Để gia hạn thiết bị, thực hiện các bước sau: 

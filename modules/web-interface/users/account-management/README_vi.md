@@ -125,3 +125,59 @@ Có 2 loại:
 - Xuất excel <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel.svg).
 
 - Xuất pdf  <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf.svg).
+
+<span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/users/delete-account-2.png)
+
+### 7. Nhật ký hoạt động 
+Để xem nhật ký hoạt động, người dùng vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-user.svg) **> Nhật ký hoạt động**. Hiển thị danh sách như hình dưới đây
+
+<span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/users/activity-diary.jpg) 
+
+#### Tìm kiếm 
+- **Bước 1** : Tìm kiếm theo các tiêu chí sau :
+    * **Ngày, giờ** : Click vào <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-calendar.svg) chọn theo lựa chọn có sẵn hoặc tùy chọn). Nhấn **Đồng ý** . 
+
+        <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/users/date.jpg)
+
+    * **Đối tượng** : CLick vào ô đối tượng để chọn các đối tượng muốn tìm kiếm
+
+        <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/users/object.jpg)
+
+    * **Loại chức năng** : CLick vào ô loại chức năng để chọn các chức năng  muốn tìm kiếm
+
+        <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/users/type-of-function.jpg)
+
+    * **Tài khoản con** : Tick vào ô <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square.svg) để xem hoạt động của các tài khoản người dùng khác (nếu có).
+- **Bước 2** : Nhấn **Tìm kiếm**.
+    **Đặt lại** : Đặt lại về chế độ mặc định ban đầu.
+
+#### Chi tiết
+
+Click vào <span class="icon-left svg-filter-circlepurple">![Ok](/docs/assets/images/web-interface/icon/SVG/info-circle.svg) để xem chi tiết từng hoạt động.
+
+<span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/users/info.jpg)
+
+
+     
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 

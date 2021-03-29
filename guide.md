@@ -95,7 +95,14 @@ https://gist.github.com/rxaviers/7360908
     width: 18px;
     height: 18px;
 }
+.icon-left1 img {
+    margin-left: 200px;
+    margin-right: 4px;
+    margin-bottom: -2px;
+    width: 150px;
+    height: 50px;
 
+}
 /* get filter values: https://codepen.io/sosuke/pen/Pjoqqp */
 .svg-filter-search img {
     filter: invert(48%) sepia(6%) saturate(1044%) hue-rotate(193deg) brightness(96%) contrast(85%);
@@ -135,12 +142,26 @@ python -m http.server 3000
 py -m http.server 3000
 ```
 - trỏ tới 1 đoạn trong trang 
+```
 ``` 
+----
 Bạn có thể tham khảo [tại đây](vi/modules/web-interface/tracking/Interface-main/#cauhinh)
-
+```
+```
 <div id="cauhinh">
-
-
+```
+* Link chữ tới trang web
+```
+ <a href="https://bitly.com.vn/cenayw" target="_blank">IOS</a> và <a href="https://bitly.com.vn/sg61yb" target="_blank">Android </a>
+```
+```
+* 2 ảnh có link cùng hàng
+```
+```
+<span class="icon-left1 ">[<img src="/docs/assets/images/web-interface/app-vcn/images.png">](https://bitly.com.vn/cenayw)
+```
+```
+<span class="icon-left2">[<img src="/docs/assets/images/web-interface/app-vcn/google-play-download-android-app.png" >](https://bitly.com.vn/sg61yb) 
 
 
  

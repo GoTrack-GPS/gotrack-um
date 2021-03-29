@@ -73,11 +73,11 @@ Sau khi đã mở rộng vùng hiển thị, người dùng có thể click <spa
 
     <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg) Bật / tắt hiển thị vùng trên bản đồ.
 
-    <span class="icon-left svg-filter-circletim">![Ok](/docs/assets/images/web-interface/icon/SVG/accuracy.svg) Trỏ đến vị trí của vùng đó trên bản đồ.
+    <span class="icon-left svg-filter-circlepurple">![Ok](/docs/assets/images/web-interface/icon/SVG/accuracy.svg) Trỏ đến vị trí của vùng đó trên bản đồ.
 
 * **Sửa vùng**
 
-    - Bước 1 : Click vào <span class="icon-left svg-filter-circletim">![Ok](/docs/assets/images/web-interface/icon/SVG/edit.svg) để sửa vùng.
+    - Bước 1 : Click vào <span class="icon-left svg-filter-circlepurple">![Ok](/docs/assets/images/web-interface/icon/SVG/edit.svg) để sửa vùng.
 
     - Bước 2 : Hộp thoại xuất hiện như hình dưới đây :
      <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/edit-region.png)
@@ -104,7 +104,7 @@ Sau khi đã mở rộng vùng hiển thị, người dùng có thể click <spa
 
 * **Xóa vùng** 
 
-    - Bước 1 :  Click vào <span class="icon-left svg-filter-circletim">![Ok](/docs/assets/images/web-interface/icon/SVG/trash-alt.svg) để xóa vùng.
+    - Bước 1 :  Click vào <span class="icon-left svg-filter-circlepurple">![Ok](/docs/assets/images/web-interface/icon/SVG/trash-alt.svg) để xóa vùng.
     - Bước 2 : Hộp thoại xuất hiện như hình dưới đây :
 
         <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/delete-region.png)
@@ -112,6 +112,21 @@ Sau khi đã mở rộng vùng hiển thị, người dùng có thể click <spa
     - Bước 3 : Click **Xác nhận** để hoàn thành thao tác.
 
 
+
+ Vào **Quản lý > Cấu hình > Vùng địa lý**. Hiện ra màn hình **Quản lý vùng** như hình dưới đây : 
+
+<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/manage-region-1.png)
+
+* Tìm kiếm 
+Tìm kiếm theo tên vùng.
+* Tạo mới vùng 
+    * Bước 1 :  Click vào **Tạo mới Quản lý vùng** 
+    * Bước 2 : Hộp thoại Thêm vùng xuất hiện như hình dưới đây :
+    Click vào<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/circle.svg) để tạo vùng hình tròn: Thu phóng **(** <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **/** <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/minus.svg)  **)** bản đồ để tạo bán kính, kéo bản đồ để chọn tâm. 
+
+         Click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/pentagon.svg) để tạo vùng hình đa giác : Chạm vào màn  hình để chọn các điểm tạo nên vùng. Ít nhất là 3 điểm.
+
+    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/add-region-3.png)
 
 ### Điểm đánh dấu 
 
@@ -123,10 +138,10 @@ Sau khi đã mở rộng vùng hiển thị, người dùng có thể click <spa
 
     <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg) Bật / tắt hiển thị điểm đánh dấu trên bản đồ.
 
-    <span class="icon-left svg-filter-circletim">![Ok](/docs/assets/images/web-interface/icon/SVG/accuracy.svg) Trỏ đến vị trí của điểm đánh dấu đó trên bản đồ.
+    <span class="icon-left svg-filter-circlepurple">![Ok](/docs/assets/images/web-interface/icon/SVG/accuracy.svg) Trỏ đến vị trí của điểm đánh dấu đó trên bản đồ.
 
 * **Sửa điểm đánh dấu**
-    - Bước 1 : Click vào <span class="icon-left svg-filter-circletim">![Ok](/docs/assets/images/web-interface/icon/SVG/edit.svg) để sửa điểm đánh dấu.
+    - Bước 1 : Click vào <span class="icon-left svg-filter-circlepurple">![Ok](/docs/assets/images/web-interface/icon/SVG/edit.svg) để sửa điểm đánh dấu.
     - Bước 2 : Hộp thoại xuất hiện như hình dưới đây :
      <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/edit-poi.png)
 
@@ -144,7 +159,7 @@ Sau khi đã mở rộng vùng hiển thị, người dùng có thể click <spa
 
 * **Xóa điểm đánh dấu** 
 
-    - Bước 1 :  Click vào <span class="icon-left svg-filter-circletim">![Ok](/docs/assets/images/web-interface/icon/SVG/trash-alt.svg) để xóa điểm đánh dấu.
+    - Bước 1 :  Click vào <span class="icon-left svg-filter-circlepurple">![Ok](/docs/assets/images/web-interface/icon/SVG/trash-alt.svg) để xóa điểm đánh dấu.
     - Bước 2 : Hộp thoại xuất hiện như hình dưới đây :
 
         <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/delete-poi.png)
@@ -195,6 +210,27 @@ Sau khi đã mở rộng vùng hiển thị, người dùng có thể click <spa
          
 
 Click **Thêm** để hoàn thành thao tác.
+
+
+
+
+
+
+
+ 
+
+
+   
+    
+
+
+ 
+
+
+
+
+
+
 
 
 

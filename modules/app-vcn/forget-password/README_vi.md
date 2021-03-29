@@ -1,7 +1,7 @@
 
 # Quên mật khẩu
 
-> Để lấy được mật khẩu trong email thì bạn phải có mật khẩu email trong hồ sơ. Cách cài thêm email bạn tham khảo [tại đây](vi/modules/app-vcn/account-management-1/#email) <div id="email"> 
+> Để lấy được mật khẩu trong email thì bạn phải có mật khẩu email trong hồ sơ. Cách cài thêm email bạn tham khảo [tại đây](vi/modules/app-vcn/account-management/#email) <div id="email"> 
 
 
 Trong trường hợp người dùng quên mật khẩu, có thể dễ dàng khôi phục mật khẩu với tùy chọn **Quên mật khẩu** trên trang đăng nhập. 

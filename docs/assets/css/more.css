@@ -7,6 +7,23 @@
     width: 18px;
     height: 18px;
 }
+.icon-left1 img {
+    margin-left: 200px;
+    margin-right: 4px;
+    margin-bottom: -2px;
+    width: 150px;
+    height: 50px;
+
+}
+
+.icon-left2 img {
+    margin-left:60px;
+    margin-right: 4px;
+    margin-bottom: -2px;
+    width: 150px;
+    height: 50px;
+
+}
 
 
 
@@ -64,7 +81,7 @@ filter: invert(22%) sepia(78%) saturate(7494%) hue-rotate(356deg) brightness(118
 .svg-filter-circleyellow img {
 filter: invert(72%) sepia(45%) saturate(4834%) hue-rotate(360deg) brightness(104%) contrast(104%);
 }
-.svg-filter-circletim img {
+.svg-filter-circlepurple img {
 filter: invert(24%) sepia(23%) saturate(3454%) hue-rotate(253deg) brightness(88%) contrast(88%);
 }
 .svg-filter-circleden img {
@@ -85,9 +102,10 @@ filter: invert(41%) sepia(22%) saturate(3604%) hue-rotate(212deg) brightness(91%
 .svg-filter-white img {
     filter: invert(100%) sepia(0%) saturate(7500%) hue-rotate(187deg) brightness(98%) contrast(106%);
     }
-    
-
-/*  */
+.svg-filter-pink img {
+    filter: invert(32%) sepia(74%) saturate(2588%) hue-rotate(322deg) brightness(106%) contrast(98%);
+}
+    /*  */
 
 
 

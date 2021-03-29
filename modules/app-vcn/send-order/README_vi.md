@@ -38,7 +38,7 @@
  
         * Click vào **Tự động khóa sau 150 giây**
 
-        <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/turn-on-the-device-1.jpg)
+        <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/turn-on-the-device.jpg)
 
         * Hoặc click vào **Tự động khóa sau 3 giờ** 
 
@@ -46,4 +46,4 @@
 
 > Nếu không muốn sử dụng tính năng tự động tắt núm trên Smart key  thì có thể tắt chức năng này qua điện thoại hoặc máy tính.
 
-Người dùng có thể tham khảo cách tắt máy / mở máy khác [tại đây](vi/modules/app-vcn/detailed-monitoring-1/#other) <div id="other"> 
+Người dùng có thể tham khảo cách tắt máy / mở máy khác [tại đây](vi/modules/app-vcn/detailed-monitoring/#other) <div id="other"> 

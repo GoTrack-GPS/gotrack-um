@@ -32,7 +32,7 @@ Có thể tìm kiếm theo các tiêu chí sau :
 
 ### Sửa thiết bị
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/edit-device-1.jpg)
+<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/edit-device.jpg)
 
 - Bước 1 : Vào mục **Thông tin > Sửa**.
 - Bước 2 : Sau khi sửa các thông tin xong thì nhấn **Lưu** để hoàn thành thao tác.
@@ -71,7 +71,7 @@ Có thể tìm kiếm theo các tiêu chí sau :
 
 > Nếu không muốn sử dụng tính năng tự động tắt núm trên Smart key  thì có thể tắt chức năng này qua điện thoại hoặc máy tính.
 
-Cách tắt máy / mở máy [khác](vi/modules/app-vcn/detailed-monitoring-1/#other) <div id="other"> 
+Cách tắt máy / mở máy [khác](vi/modules/app-vcn/detailed-monitoring/#other) <div id="other"> 
 
 #### Lịch sử lệnh : 
 Muốn xem lại các lệnh bạn đã gửi, thực hiện như sau 
