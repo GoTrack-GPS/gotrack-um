@@ -1,8 +1,13 @@
 # Thông báo
 
-Click vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-alarm.svg) để xem thông báo. Nhấn **Xem tất cả** để hiển thị danh sách thông báo. Màn hình hiển thị như hình dưới đây :
+* **Cách 1** : Click vào **Quản lý > Cảnh báo - Lập lịch > Thông báo** 
 
-<span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/notification.jpg)
+    <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/notification-1.jpg)
+
+* **Cách 2** : Click vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-alarm.svg) để xem thông báo. Nhấn **Xem tất cả** để hiển thị danh sách thông báo. 
+Màn hình hiển thị như hình dưới đây :
+
+    <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/notification.jpg)
 
 ### Tìm kiếm
 - **Bước 1** : Tìm kiếm theo các tiêu chí sau :
@@ -27,7 +32,6 @@ Màn hình sẽ hiển thị chi tiết của thông báo và vị trí gặp c�
 * Cách 2 : Click vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-alarm.svg) . **Nhấp vào từng thông báo ở hộp thông báo nhỏ**
 
     <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/info-1.jpg)
-
 
 ### Cài đặt thông báo 
 

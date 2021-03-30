@@ -6,13 +6,13 @@
 
 ### Tìm kiếm 
 * Tìm kiếm theo tên vùng.
+
 ### Tạo mới vùng 
+
+<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/add-region-3.png)
+
 * Bước 1 :  Click vào **Tạo mới Quản lý vùng** 
-* Bước 2 : Hộp thoại Thêm vùng xuất hiện như hình dưới đây :
-
-
-    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/add-region-3.png)
-
+* Bước 2 : Hộp thoại Thêm vùng xuất hiện như hình trên :
 
     <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/polygon.svg)  để tạo vùng hình đa giác : Chạm vào màn  hình để chọn các điểm tạo nên vùng. Ít nhất là 3 điểm.
 
@@ -28,7 +28,7 @@
 
     **Màu, độ mờ** : Chọn màu , đồ mờ tùy chọn, muốn hiển thị trên bản đồ
 
-    Click **Thêm** để hoàn thành thao tác.
+Click **Thêm** để hoàn thành thao tác.
 
 ### Sửa vùng 
 
@@ -38,8 +38,11 @@
      <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/edit-region-3.png)
 
     **Tên** : Sửa tên vùng đã tạo..
+
     **Nhóm** : Chọn lại nhóm vùng 
+
     **Mô tả** : Mô tả vùng đó có gì đặc biệt,...
+    
     **Màu, độ mờ** : Chọn màu , đồ mờ tùy chọn, muốn hiển thị trên bản đồ.
  
 Click **Lưu thay đổi** để hoàn thành thao tác.

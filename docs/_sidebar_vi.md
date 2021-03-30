@@ -26,7 +26,9 @@
 
 - [Quản lý vùng](vi/modules/web-interface/tracking/manage-region/)
   - **Thông báo** 
-    - [Thông báo](vi/modules/web-interface/notification/)
+    - [Quản lý thông báo](vi/modules/web-interface/notification/)
+    - [Quản lý cảnh báo](vi/modules/web-interface/notification/warning/)
+    - [Lập lịch báo cáo](vi/modules/web-interface/notification/Schedule-a-report/)
 
   - **Báo cáo**
 
