@@ -13,6 +13,8 @@
     - [Xóa thiết bị ](vi/modules/web-interface/devices/delete-device/)
     - [Quản lý thiết bị](vi/modules/web-interface/devices/equipment-management/)
     - [Quản lý gửi lệnh ](vi/modules/web-interface/devices/send-the-device-command/)
+    - [Quản lý nhóm thiết bị](vi/modules/web-interface/devices/equipment-group/)
+    - [Quản lý lái xe](vi/modules/web-interface/devices/driver/)
 
 
 
@@ -23,12 +25,13 @@
     - [Giám sát chi tiết](vi/modules/web-interface/tracking/detailed-monitoring/)
     - [Công cụ mở rộng](vi/modules/web-interface/tracking/map-tools/)
     - [Tiện ích bản đồ](vi/modules/web-interface/tracking/map-widget/)
-
-- [Quản lý vùng](vi/modules/web-interface/tracking/manage-region/)
+    - [Quản lý vùng](vi/modules/web-interface/tracking/manage-region/)
+    - [Quản lý điểm đánh dấu](vi/modules/web-interface/tracking/manage-poi/) 
   - **Thông báo** 
     - [Quản lý thông báo](vi/modules/web-interface/notification/)
     - [Quản lý cảnh báo](vi/modules/web-interface/notification/warning/)
-    - [Lập lịch báo cáo](vi/modules/web-interface/notification/Schedule-a-report/)
+    - [Quản lý lập lịch báo cáo](vi/modules/web-interface/notification/Schedule-a-report/)
+    - [Quản lý nhắc nhở](vi/modules/web-interface/notification/remind/)
 
   - **Báo cáo**
 
@@ -42,7 +45,7 @@
 - **App Giám sát xe VCN**
   - **Tài khoản**
     - [Đăng nhập](vi/modules/app-vcn/login/)
-    - [Quên mật khẩu](vi/modules/app-vcn/forget-password-1/)
+    - [Quên mật khẩu](vi/modules/app-vcn/forget-password/)
     - [Quản lý tài khoản](vi/modules/app-vcn/account-management/)
 
   - **Bản đồ**
@@ -63,7 +66,7 @@
 - **Câu hỏi thường gặp**
 
 - **Lịch sử phiên bản**
-
+  - [Lịch sử cập nhật](vi/modules/web-interface/version-history/)
 <!-- 
 [**Giới thiệu** ](vi/modules/get-started/)
 

@@ -31,6 +31,7 @@ Khi click vào icon **Sửa** của thiết bị đó, sẽ xuất hiện hộp 
 
             <span style="display:block;text-align:center">![search device ](/docs/assets/images/web-interface/device/Add-a-device-group-2.png)
         
+        Tham khảo thêm chi tiết về Nhóm thiết bị [tại đây](vi/modules/web-interface/devices/equipment-group/#equipment-group)
     - **Loại SIM**: Chọn loại SIM tương ứng với nhà mạng của số điện thoại.
 - ***Dịch vụ*** :   
     - **Hạn dịch vụ** : Hạn sử dụng dịch vụ.
@@ -62,7 +63,7 @@ Khi click vào icon **Sửa** của thiết bị đó, sẽ xuất hiện hộp 
         - **Tài khoản** : Tên tài khoản muốn thêm người lái xe.
         - **Tên** : Tên người lái xe lắp thiết bị.
         - **Số điện thoại** : Số điện thoại người lái xe.
-        - **Giấy phép lái xe** : Số giấy phép lái xe.
+        - **Giấy phép lái xe** : Hạng giấy phép lái xe.
         - **Ngày cấp phép** : Ngày cấp giấy phép lái xe.
         - **Ngày hết hạn** : Ngày hết hạn sử dụng giấy phép lái xe.
         - **Mã** : Mã giấy phép lái xe.
@@ -73,6 +74,9 @@ Khi click vào icon **Sửa** của thiết bị đó, sẽ xuất hiện hộp 
         Click vào **Thêm** để lưu người lái xe.
     Ngoài ra, có thể thêm người lái xe bằng cách như hình dưới đây :
     <span style="display:block;text-align:center">![search device ](/docs/assets/images/web-interface/device/add-a-driver-2.png)
+
+     Tham khảo thêm chi tiết [tại đây](vi/modules/web-interface/devices/driver/#driver)
+
 - ***Nhiên liệu*** :
     - **Định mức tiêu hao (lít/100km)** : Đặt giới hạn tiêu hao nhiên liệu của xe cho bao nhiêu lít/100km.
 - ***Tính năng nâng cao*** :

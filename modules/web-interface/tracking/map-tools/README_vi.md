@@ -5,7 +5,7 @@
 ### Cài đặt bản đồ 
 <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/setting-map.png)
 
-- Bước 1 : Vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/settings.svg).
+- Bước 1 : Vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg).
 - Bước 2 : Hộp thoại xuất hiện. Cài dặt, bật / tắt thông tin theo ý muốn.
     - **Loại bản đồ** : Chọn giao diện bản đồ sao cho dễ nhìn.
     - **Hiển thị cụm** : Nếu một khu nào đó có nhiều thiết bị ở cạnh nhau thì sẽ gộp lại thành 1 cụm hình vòng tròn.
@@ -112,21 +112,7 @@ Sau khi đã mở rộng vùng hiển thị, người dùng có thể click <spa
     - Bước 3 : Click **Xác nhận** để hoàn thành thao tác.
 
 
-
- Vào **Quản lý > Cấu hình > Vùng địa lý**. Hiện ra màn hình **Quản lý vùng** như hình dưới đây : 
-
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/manage-region-1.png)
-
-* Tìm kiếm 
-Tìm kiếm theo tên vùng.
-* Tạo mới vùng 
-    * Bước 1 :  Click vào **Tạo mới Quản lý vùng** 
-    * Bước 2 : Hộp thoại Thêm vùng xuất hiện như hình dưới đây :
-    Click vào<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/circle.svg) để tạo vùng hình tròn: Thu phóng **(** <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **/** <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/minus.svg)  **)** bản đồ để tạo bán kính, kéo bản đồ để chọn tâm. 
-
-         Click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/pentagon.svg) để tạo vùng hình đa giác : Chạm vào màn  hình để chọn các điểm tạo nên vùng. Ít nhất là 3 điểm.
-
-    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/add-region-3.png)
+Ngoài ra, có thể tham khảo cách khác [tại đây](vi/modules/web-interface/tracking/manage-region/#manage-region)
 
 ### Điểm đánh dấu 
 
@@ -165,6 +151,9 @@ Tìm kiếm theo tên vùng.
         <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/delete-poi.png)
 
     - Bước 3 : Click **Xác nhận** để hoàn thành thao tác.
+
+Ngoài ra, có thể tham khảo cách khác [tại đây](vi/modules/web-interface/tracking/manage-poi/#manage-poi)
+
 ### Tạo mới điểm đánh dấu
 
 - Bước 1 : Click vào  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus-square.svg) **>** <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/place-marker-2.svg) **Tạo mới điểm đánh dấu**.

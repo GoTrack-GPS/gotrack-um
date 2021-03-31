@@ -23,8 +23,7 @@ Dưới đây là giao diện trang chủ (Tổng quan) của phần mềm.
 - **Vùng 1**: Menu dọc được sử dụng để truy cập nhanh các công cụ và cài đặt được sử dụng thường xuyên.
     * Click 1 lần vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/bars.svg) để mở rộng menu dọc. (Click 1 lần nữa vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/times.svg)để thu gọn menu dọc). 
 - **Vùng 2** : Vùng hiển thị dữ liệu tổng quát.
-- **Vùng 3** : Cấu hình hiể thị.
+- **Vùng 3** : Cấu hình hiển thị.
     * Bật / Tắt  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg)thông tin cần hiển thị ở vùng dữ liệu.
     * Click 1 lần vào <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-down.svg) để mở rộng cấu hình hiển thị. (Click 1 lần nữa vào <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-up.svg)để thu gọn cấu hình hiển thị). 
-Click 1 lần vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/bars.svg) để mở rộng menu dọc. (Click 1 lần nữa vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/times.svg)để thu gọn menu dọc). 
 

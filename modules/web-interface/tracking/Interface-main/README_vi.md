@@ -66,7 +66,7 @@ Giám sát trực tuyến: Vị trí, lộ trình, hướng di chuyển, trạng
 ### Công cụ mở rộng
 <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/map-tool.png)
 
-<span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/settings.svg) Cài đặt bản đồ
+<span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) Cài đặt bản đồ
 
 <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus-circle.svg) Phóng to bản đồ
 
@@ -105,8 +105,8 @@ Giám sát trực tuyến: Vị trí, lộ trình, hướng di chuyển, trạng
 
  ### Cấu hình hiển thị
 
-* **Cách 1** : Vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/settings.svg) ở vùng 1 (Hộp danh sách thiết bị)
-* **Cách 2** : Vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/settings.svg) ở vùng 2 ( Hộp thông tin chi tiết thiết bị)
+* **Cách 1** : Vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) ở vùng 1 (Hộp danh sách thiết bị)
+* **Cách 2** : Vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) ở vùng 2 ( Hộp thông tin chi tiết thiết bị)
 
 <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/list-and-device-information-1.png)
 
@@ -114,7 +114,7 @@ Giám sát trực tuyến: Vị trí, lộ trình, hướng di chuyển, trạng
 
 <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/list-device-map-1.png)
 
-- Bước 1 : Vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/settings.svg) **> Danh sách thiết bị**
+- Bước 1 : Vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) **> Danh sách thiết bị**
 - Bước 2 :Hộp thông tin xuất hiện. Có thể bật / tắt thông tin mà bạn muốn / không muốn hiển thị. Lúc đó người dùng có thể xem trước kết quả ngay tại vùng 4 đó luôn. 
 - Bước 3 : Click **Lưu** để hoàn thành thao tác. 
 - Bước 4 : Sau khi lưu thành công thông tin sẽ được hiển thị ở vùng  4 ( Hộp danh sách thiết bị thuộc 1 tài khoản đã chọn trước đó).
@@ -128,7 +128,7 @@ Ví dụ : Tắt hiển thị biểu tượng
 
 <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/list-device-map.png)
 
-- Bước 1 : Vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/settings.svg) **> Hộp thông tin thiết bị**
+- Bước 1 : Vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) **> Hộp thông tin thiết bị**
 - Bước 2 :Có thể bật / tắt thông tin mà bạn muốn / không muốn hiển thị. 
 - Bước 3 : Click **Lưu** để hoàn thành thao tác. 
 - Bước 4 : Sau khi lưu thành công thông tin sẽ được hiển thị ở vùng  4 ( Hộp thông tin chi tiết của thiết bị đó ).
@@ -144,7 +144,7 @@ Ví dụ : Tắt hiển thị biểu tượng
  - Bước 1 : Click vào icon biểu tượng xe để xem chi tiết thiết bị xe đó.
 
    
- Bước 2 : Hiển thị ra màn hình chi tiết. Click vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/settings.svg) **> Theo dõi** 
+ Bước 2 : Hiển thị ra màn hình chi tiết. Click vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) **> Theo dõi** 
 
     Có thể bật / tắt thông tin mà bạn muốn / không muốn hiển thị. 
 - Bước 3 : Click **Lưu** để hoàn thành thao tác. 
@@ -159,7 +159,7 @@ Ví dụ : Tắt hiển thị biểu tượng
 
 - Bước 1 : Click vào icon biểu tượng xe để xem chi tiết thiết bị xe đó.
 
-- Bước 2 : Hiển thị ra màn hình chi tiết. Click vào **Lộ trình > Tổng hợp >** <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/settings.svg) **> Xem lại**
+- Bước 2 : Hiển thị ra màn hình chi tiết. Click vào **Lộ trình > Tổng hợp >** <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) **> Xem lại**
     Có thể bật / tắt thông tin mà bạn muốn / không muốn hiển thị. 
 - Bước 3 : Click **Lưu** để hoàn thành thao tác. 
 - Bước 4 : Sau khi lưu thành công thông tin sẽ được hiển thị ở tab **Lộ trình > Tổng hợp** ( Màn hình chi tiết của thiết bị đó ).

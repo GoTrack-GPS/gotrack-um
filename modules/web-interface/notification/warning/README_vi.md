@@ -36,7 +36,7 @@ Khi vi phạm quy tắc cảnh báo sẽ nổ ra cảnh báo cho người dùng.
     * **Loại cảnh báo** : Chọn loại cảnh báo mà bạn cần gửi cảnh báo về.
     * Cài đặt thông số cho mỗi cảnh báo tương ứng.
 * **Thiết bị** 
-    - **Luôn chọn tất cả thiết bị** : Bật / Tắt áp dụng cảnh báo đã chọncho    tất cả các thiết bị trong tài khoản đó.
+    - **Luôn chọn tất cả thiết bị** : Bật / Tắt áp dụng cảnh báo đã chọn cho  tất cả các thiết bị trong tài khoản đó.
 * **Vùng địa lý** 
 Có thể chọn 1 trong 3 lựa chọn sau :
     - Bỏ qua.
@@ -56,11 +56,11 @@ Có thể chọn 1 trong 3 lựa chọn sau :
         - **Hoạt động trong khoảng** :  Cài đặt ngày nhận, thời gian  nhận thông báo . 
     - Tick vào ô <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square.svg) để cài đặt bật / tắt **Nhận thông báo về mobile app. Thông báo khẩn cấp**
 
-Sau khi cài đặt xong. Bấm **Thêm** để hoàn thành thao tác.
+Sau khi tạo xong. Bấm **Thêm** để hoàn thành thao tác.
 
 ### Sửa cảnh báo
 
-* Bước 1 : Click vào  <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/edit.svg) để sửa cảnh báo. 
+* Bước 1 : Click vào  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/edit.svg) để sửa cảnh báo. 
 * Bước 2 : Xuất hiện hộp thoại như sau :
 
 <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/eidit-warning.jpg)
@@ -72,4 +72,9 @@ Sau khi sửa xong. Nhấn **Lưu thay đổi** để hoàn thành thao tác.
 ### Mở / Khóa cảnh báo
 
 <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/lock-warning.jpg)
+
+
+<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-lock.svg) **Khóa cảnh báo** : Khi người dùng hiện tại chưa muốn dùng đến cảnh báo này, sau này sử dụng lại, muốn ẩn cảnh báo đó đi thì khóa lại. Trong quá trình di chuyển, nếu có vi phạm cảnh báo đó thì sẽ không thông báo về nữa.
+
+<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-unlock-52.png) **Mở khóa cảnh báo** : Sau khi người dùng đã khóa lại. Nếu muốn sử dụng lại cảnh báo thì mở khóa để cảnh báo này hoạt động trở lại. Trong quá trình di chuyển, nếu có vi phạm cảnh báo đó thì sẽ thông báo.
 

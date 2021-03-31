@@ -82,6 +82,24 @@ Có 2 loại:
 - Tải xuống (/xlsx) : Chỉ  có dữ liệu của thiết bị bạn chọn.
 - Tải xuống tất cả (/xlsx) : Có tất cả dữ liệu thiết bị mà tài khoản đó có.
 
+### 7. Theo dõi nhiều xe 
+
+Để theo dõi nhiều xe, vào  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-maintenance.svg) > **Theo dõi nhiều xe**
+ Nhập tên thiết bị để tìm kiếm nhanh thiết bị bạn muốn tìm.
+
+ <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/track-vehicle.jpg) 
+
+ * Click 1 hoặc nhiều vào tên thiết bị đã tạo để theo dõi vị trí của thiết bị đó.
+
+    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/track-vehicle-2.jpg)
+
+    <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/times.svg)  Đóng vùng.
+
+    <span class="icon-left svg-filter-company">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-circle-left.svg) Thu gọn hộp theo dõi chi tiết
+
+    <span class="icon-left svg-filter-company">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-circle-right.svg) Mở rộng hộp theo dõi chi tiết
+
+
 
 
 

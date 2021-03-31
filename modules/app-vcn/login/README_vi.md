@@ -29,12 +29,12 @@ Sau đó click vào **Đăng nhập** để hoàn thành thao tác.
 
 Sau khi quét thành công sẽ đăng nhập vào tài khoản đã đăng ký theo mã thiết bị đó.
 
-
+> Áp dụng cho đăng nhập lần đầu tiên và chưa đổi mật khẩu kể từ lúc quét mã QR.
 
 ### Cách 3 : Nhớ tài khoản đăng nhập
 
 <span class="icon-left3">![Ok](/docs/assets/images/web-interface/app-vcn/move-user-login.jpg) Lưu các tài khoản người dùng đã từng đăng nhập thành công.
- * Sau khi đăng nhập thủ công lần 1 thành công thì click vào <span class="icon-left3">![Ok](/docs/assets/images/web-interface/app-vcn/move-user-login.jpg)  để chọn tài khoản muốn đăng nhập nhanh vào app.
+ * Sau khi đăng nhập lần đầu tiên thành công thì click vào <span class="icon-left3">![Ok](/docs/assets/images/web-interface/app-vcn/move-user-login.jpg)  để chọn tài khoản muốn đăng nhập nhanh vào app.
 
 <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/qr-code-done.jpg) 
 

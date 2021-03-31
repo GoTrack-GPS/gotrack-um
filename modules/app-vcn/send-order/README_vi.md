@@ -16,21 +16,26 @@
     - Bước 1 : Vào mục **Thêm > Gửi lệnh**.
     - Bước 2 : Click vào **Khôi phục tắt máy** để gửi lệnh.
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/turn-off-the-device.jpg)
+    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/turn-off-the-device.jpg)
+
 
 * Nếu chủ động tắt núm thì khi cho xe khởi động lại **KHÔNG CẦN** vào app để **Khôi phục tắt máy**.
 
 <div id = "unlock">
 </div>
 
-* Nếu núm bị hỏng / muốn khóa xe ngay từ xa. Muốn **tự động tắt máy** thì bạn vào app thực hiện như sau:
+* Nếu muốn tắt thiết bị từ xa để bảo vệ acquy mà không cần tắt núm thì dùng lệnh sau:
+    * Click vào  **Tắt máy từ xa**.
+
+        <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/send-orders-7.jpg)
+
+
+
+
+* Nếu núm bị hỏng / muốn khóa xe ngay từ xa. Muốn **tự động khóa** thì bạn vào app thực hiện như sau:
 
     - Bước 1 : Vào mục **Thêm > Gửi lệnh**.
     - Bước 2 : Click vào 1 trong các lệnh sau :
-
-        * Click vào  **Tắt máy từ xa**.
-
-        <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/send-orders-7.jpg)
 
         * CLick vào **Tự động khóa** để tùy chỉnh thời gian tự động khóa. Chọn số giây muốn tự động tắt máy. Nhấn **Gửi**
     
