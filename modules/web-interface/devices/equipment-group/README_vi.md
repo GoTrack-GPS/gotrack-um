@@ -5,7 +5,7 @@
 
  Vào **Quản lý > Cấu hình > Nhóm thiết bị**. Hiện ra màn hình **Quản lý nhóm thiết bị** như hình dưới đây : 
 
- <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/equipment-group.jpg)
+ <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/device/equipment-group.png)
 
  ### Tìm kiếm 
 

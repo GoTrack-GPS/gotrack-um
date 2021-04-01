@@ -78,11 +78,14 @@
     <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/send-orders-2.png)
 
 ### 4. Thông báo
-- Bước 1 : Click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-v.svg)  **>**  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/bell.svg) **Thông báo** ở hộp danh sách thiết bị
+
+* **Cách 1** 
+
+    - Bước 1 : Click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-v.svg)  **>**  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/bell.svg) **Thông báo** ở hộp danh sách thiết bị
 
     <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/notification-1.png)
 
- - Bước 2 : Màn hình thông báo như hình dưới đây. Click vào từng thông báo, biểu tượng tâm bản đồ <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG//plus1.svg) sẽ hiển thị vị trí mà nó đã cảnh báo về.
+    - Bước 2 : Màn hình thông báo như hình dưới đây. Click vào từng thông báo, biểu tượng tâm bản đồ <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG//plus1.svg) sẽ hiển thị vị trí mà nó đã cảnh báo về.
 
     <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/notification-2.png)
 
@@ -90,7 +93,16 @@
 
     <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/notification-3.png)
 
-### 5. Sửa thiết bị 
+* **Cách 2** 
+
+    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/notification.png)
+
+    * Bước 1 : Cick vào **biểu tượng xe** xem chi tiết .
+    * Bước 2 : Hiển thị màn hình chi tiết xe. Nhấn sang tab **Thông báo** 
+    * Bước 3 : Màn hình tab **Thông báo** xuất hiện. 
+
+
+### 5. Sửa thiết bị   
 
 - Bước 1 : Click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-v.svg)  **>**  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/file-alt.svg) **Chi tiết** ở hộp danh sách thiết bị
 hoặc <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/file-alt.svg) ở hộp thông tin chi tiết thiết bị.

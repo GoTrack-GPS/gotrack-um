@@ -2,7 +2,7 @@
 
 Vào mục **Bản đồ** , màn hình hiển thị như hình dưới đây :
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/home-1.jpg) 
+<span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-vcn/home-1.jpg) 
 
 <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-refresh.svg) Làm mới trang bản đồ về chế độ mặc định. 
 
@@ -15,12 +15,12 @@ Vào mục **Bản đồ** , màn hình hiển thị như hình dưới đây :
 #### 3. Tên hiển thị
  Click vào **T** để bật / tắt tên hiển thị đi kèm với biểu tượng xe
 
- <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/name.jpg) 
+ <span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-vcn/name.jpg) 
 
 #### 4. Hiển thị điểm đánh dấu
 Bật / tắt hiển thị điểm đánh dấu trên bản đồ. Người dùng muốn nhìn thấy thì phải kéo đến vị trí đó mới thấy rõ.
 
- <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/poi-2.jpg) 
+ <span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-vcn/poi-2.jpg) 
  
  Ngoài ra, có thể thêm điểm đánh dấu chi tiết hơn [tại đây](vi/modules/app-vcn/poi/#poi) <div id="poi"> 
 
@@ -29,7 +29,7 @@ Bật / tắt hiển thị điểm đánh dấu trên bản đồ. Người dùn
 * Click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/direction-arrow-fit.svg) để thu gọn vùng hiển thị.
 * Xem toàn cảnh các thiết bị có trong tài khoản đó ở tầm nhìn phù hợp nhất. 
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/location.jpg)
+<span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-vcn/location.jpg)
 
 #### 6. Vị trí của bạn
 
@@ -37,7 +37,7 @@ Bật / tắt hiển thị điểm đánh dấu trên bản đồ. Người dùn
 
 Click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-hunt-50.png) sẽ trỏ đến vị trí của bạn hiện tại.
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/location-1.jpg)
+<span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-vcn/location-1.jpg)
 
 #### 7. Phóng to
  

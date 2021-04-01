@@ -8,7 +8,7 @@
     height: 18px;
 }
 .icon-left1 img {
-    margin-left: 200px;
+    margin-left:100px;
     margin-right: 4px;
     margin-bottom: -2px;
     width: 150px;
@@ -34,6 +34,51 @@
 
 }
 
+.icon-left4 img {
+    margin-left:100px;
+    margin-right: 4px;
+    margin-bottom: -2px;
+    width: 225x;
+    height: 485px;
+
+}
+
+.icon-left5 img {
+    margin-left:5px;
+    margin-right: 4px;
+    margin-bottom: -2px;
+    width: 479x;
+    height: 466px;
+
+}
+
+
+.icon-left6 img {
+    margin-left:5px;
+    margin-right: 4px;
+    margin-bottom: -2px;
+    width: 479x;
+    height: 368px;
+
+}
+
+.icon-left7 img {
+    margin-left:100px;
+    margin-right: 4px;
+    margin-bottom: -2px;
+    width: 370x;
+    height: 640px;
+
+}
+
+.icon-left8 img {
+    margin-left:5px;
+    margin-right: 4px;
+    margin-bottom: -2px;
+    width: 553px;
+    height: 150px;
+
+}
 
 
 

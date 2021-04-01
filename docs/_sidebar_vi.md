@@ -6,7 +6,6 @@
     - [Quản lý tài khoản](vi/modules/web-interface/users/account-management/)
 
   - **Thiết bị GPS**
-
     - [Tìm kiếm thiết bị](vi/modules/web-interface/devices/search-device/)
     - [Thêm thiết bị](vi/modules/web-interface/devices/add-device/)
     - [Sửa thiết bị ](vi/modules/web-interface/devices/edit-device/)
@@ -16,10 +15,7 @@
     - [Quản lý nhóm thiết bị](vi/modules/web-interface/devices/equipment-group/)
     - [Quản lý lái xe](vi/modules/web-interface/devices/driver/)
 
-
-
   - **Bản đồ**
-
     - [Bố cục ](vi/modules/web-interface/tracking/Interface-main/)
     - [Giám sát tổng quát   ](vi/modules/web-interface/tracking/general-device-monitoring/)
     - [Giám sát chi tiết](vi/modules/web-interface/tracking/detailed-monitoring/)
@@ -27,6 +23,7 @@
     - [Tiện ích bản đồ](vi/modules/web-interface/tracking/map-widget/)
     - [Quản lý vùng](vi/modules/web-interface/tracking/manage-region/)
     - [Quản lý điểm đánh dấu](vi/modules/web-interface/tracking/manage-poi/) 
+
   - **Thông báo** 
     - [Quản lý thông báo](vi/modules/web-interface/notification/)
     - [Quản lý cảnh báo](vi/modules/web-interface/notification/warning/)
@@ -34,6 +31,7 @@
     - [Quản lý nhắc nhở](vi/modules/web-interface/notification/remind/)
 
   - **Báo cáo**
+    - [Báo cáo chung](vi/modules/web-interface/reports/general-report/temperature/)
 
   - **Ứng dụng Mobile**
 
@@ -43,24 +41,28 @@
     - [Account](vi/modules/mobile-apps/account/)
 
 - **App Giám sát xe VCN**
-  - **Tài khoản**
+  - **Đăng nhập hệ thống**
     - [Đăng nhập](vi/modules/app-vcn/login/)
     - [Quên mật khẩu](vi/modules/app-vcn/forget-password/)
-    - [Quản lý tài khoản](vi/modules/app-vcn/account-management/)
 
   - **Bản đồ**
     - [Giám sát tổng quát ](vi/modules/app-vcn/general-device-monitoring/)
     - [Giám sát chi tiết](vi/modules/app-vcn/detailed-monitoring/)
-    - [Vùng cảnh báo](vi/modules/app-vcn/warning-area/)
-    - [Điểm đánh dấu](vi/modules/app-vcn/poi/)
+  
   
   - **Thiết bị**
     - [Quản lý thiết bị](vi/modules/app-vcn/device/)
     - [Gửi lệnh](vi/modules/app-vcn/send-order/)
     - [Lịch sử lệnh](vi/modules/app-vcn/history-send-orders/)
     
-  - **Thông báo**
+  - **Cảnh báo**
     - [Cảnh báo](vi/modules/app-vcn/notification/warning/)
+
+  - **Đăng nhập hệ thống**
+    - [Quản lý tài khoản](vi/modules/app-vcn/account-management/)
+    - [Điểm đánh dấu](vi/modules/app-vcn/poi/)
+    - [Vùng cảnh báo](vi/modules/app-vcn/warning-area/)   
+
    
   
 - **Câu hỏi thường gặp**

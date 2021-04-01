@@ -19,6 +19,11 @@
     - **Tốc độ** : Tốc độ xe khi đang chạy.
     - **Hướng di chuyển** : Hình mũi tên thể hiện hướng di chuyển của xe khi đang chạy.
   
+    <span class="icon-left6" style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/speed.png)
+
+
+
+
 ### Phóng to, thu nhỏ bản đồ 
 
 - Khi click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus-circle.svg) sẽ phóng to theo vị trí tâm bản đồ / vị trí bạn muốn phóng to lên.

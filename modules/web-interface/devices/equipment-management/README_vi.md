@@ -1,7 +1,7 @@
 # Quản lý thiết bị  
 Để thực hiện các chức năng của quản lý thiết bị, người dùng vào **Quản lý > Thiết bị** 
 
-  <span style="display:block;text-align:center">![search device ](/docs/assets/images/web-interface/device/search-device-2.png) 
+  <span class="icon-left4">![search device ](/docs/assets/images/web-interface/device/search-device-2.png) 
 ### 1. Chuyển/Bán thiết bị
 Để chuyển/gán thiết bị sang cho tài khoản khác,có 2 cách
 * **Cách 1** : 
@@ -85,7 +85,8 @@ Có 2 loại:
 ### 7. Theo dõi nhiều xe 
 
 Để theo dõi nhiều xe, vào  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-maintenance.svg) > **Theo dõi nhiều xe**
- Nhập tên thiết bị để tìm kiếm nhanh thiết bị bạn muốn tìm.
+ 
+* Nhập tên thiết bị để tìm kiếm nhanh thiết bị bạn muốn tìm.
 
  <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/track-vehicle.jpg) 
 

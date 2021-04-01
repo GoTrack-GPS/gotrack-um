@@ -1,7 +1,7 @@
 # Tìm kiếm thiết bị
 Để bắt đầu thực hiện chức năng **Tìm kiếm**, người dùng vào **Quản lý > Thiết bị** 
 
-  <span style="display:block;text-align:center">![search device ](/docs/assets/images/web-interface/device/search-device-2.png) 
+  <span class="icon-left4">![search device ](/docs/assets/images/web-interface/device/search-device-2.png) 
 
  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/info-circle.svg) Hiển thị thông tin thiết bị, thực hiện như hình dưới đây :
 
@@ -17,7 +17,7 @@
   3. Tìm kiếm theo **Mã máy / Biển số** : Người dùng có thể nhập cả tên hoặc một vài ký tự có trong mã máy / biển số đã tạo.
   4. Tìm kiếm theo **Tài khoản con** : Bạn có thể tick  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg)
 
-  - Khi click vào **.Tìm kiếm nâng cao** sẽ hiện thị thêm các tiêu chí như hình dưới đây:
+  - Khi click vào **Tìm kiếm nâng cao** sẽ hiện thị thêm các tiêu chí như hình dưới đây:
 
     <span style="display:block;text-align:center">![search device ](/docs/assets/images/web-interface/device/advanced-search.png)
 

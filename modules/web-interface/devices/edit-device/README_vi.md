@@ -1,7 +1,7 @@
 # Sửa thiết bị:
 Để bắt đầu thực hiện chức năng **Sửa**, người dùng Người dùng vào **Quản lý > Thiết bị** 
 
-  <span style="display:block;text-align:center">![search device ](/docs/assets/images/web-interface/device/search-device-2.png) 
+  <span class="icon-left4">![search device ](/docs/assets/images/web-interface/device/search-device-2.png) 
 
   
 Khi click vào icon **Sửa** của thiết bị đó, sẽ xuất hiện hộp thoại như sau: 
@@ -145,7 +145,8 @@ Click **Thêm** để lưu camera.
     - **Lọc tốc độ tối thiểu (km/h)** : Lọc độ nhiễu chính xác nhất. Để xácđịnh được xe đang dừng/ đi.
     - **Múi giờ**: Chọn múi giờ địa phương.
     Ngoài ra, có thể cấu hình thiết bị bằng cách như hình dưới đây :
-    <span style="display:block;text-align:center">![delete device](/docs/assets/images/web-interface/device/device-configuration.png)
+
+        <span style="display:block;text-align:center">![delete device](/docs/assets/images/web-interface/device/device-configuration.png)
 
 ### 6. Cảnh báo
 

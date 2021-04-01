@@ -11,7 +11,7 @@
 
 - **Bước 1** : Vào mục Tài khoản > <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/pentagon.svg) Vùng cảnh báo.
 
-    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/create-warning-area-3.jpg)
+    <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-vcn/create-warning-area-3.jpg)
 
 - **Bước 2** : Click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) để tạo mới vùng cảnh báo.
 
@@ -35,11 +35,11 @@ Click **Lưu** để hoàn thành tháo tác
 
 - **Bước 2** : Click vào tên vùng cảnh báo đã tạo.
 
-    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/edit-warning-area-2.jpg)
+    <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-vcn/edit-warning-area-2.jpg)
 
 - **Bước 3** : Sửa vùng cảnh báo, di chuyển đến nơi bạn muốn cảnh cáo
    
-    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/edit-warning-area--3.jpg)
+    <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-vcn/edit-warning-area--3.jpg)
 
     * Click **Lưu** để lưu tạm vùng mới chọn đó.
 
