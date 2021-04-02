@@ -13,11 +13,17 @@ Trong trường hợp người dùng quên mật khẩu, có thể dễ dàng kh
 
 Click vào **Đặt lại mật khẩu**. Sau đó vào kiểm tra mail.
 ### Bước 2: Xác nhận email
-Người dùng vào mail trong ứng dụng **Gmail** trên điện thoại của bạn, vào mục **Chính**, tìm mail của phần mềm gửi về, click vào link **Đặt lại mật khẩu** để đổi mật khẩu.
 
-<span class="icon-left7">![Interface Web](/docs/assets/images/web-interface/app-vcn/email-1.jpg) 
+1. Người dùng vào mail trong ứng dụng **Gmail** trên điện thoại của bạn.
+Nếu bạn vào email của mình mà không thấy email của phần mềm hiển thị ở mục **Chính / Hộp thư đến** thì vào **Thư rác** trong ứng dụng **Gmail** trên điện thoại của bạn.
+    * Click vào email của phần mềm. Nhấn vào ô **Có vẻ an toàn** . 
 
-> Nếu bạn vào email của mình mà không thấy email của phần mềm hiển thị ở mục **Chính** thì vào **Thư rác** xem có ở đó không nhé. Nếu có trong **Thư rác** thì click vào email của phần mềm và chuyển sang **Chính** trong ứng dụng **Gmail** trên điện thoại của bạn.
+2. .Vào  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-v.svg) bên phải trên cùng góc màn hình chọn **Báo cáo không phải Spam**
+
+3. Vào mục **Chính / Hộp thư đến**, tìm mail của phần mềm gửi về, click vào link **Đặt lại mật khẩu** để đổi mật khẩu.
+
+<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/reset-password-1.jpg) 
+
 
 ### Bước 3: Cài lại mật khẩu
 Cài lại mật khẩu và click vào **Gửi đi** để vào trang chủ hệ thống.

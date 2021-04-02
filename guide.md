@@ -150,8 +150,11 @@ Bạn có thể tham khảo [tại đây](vi/modules/web-interface/tracking/Inte
 ```
 <div id="cauhinh">
 ```
+```
 * Link chữ tới trang web
 ```
+```
+
  <a href="https://bitly.com.vn/cenayw" target="_blank">IOS</a> và <a href="https://bitly.com.vn/sg61yb" target="_blank">Android </a>
 ```
 ```
@@ -162,6 +165,8 @@ Bạn có thể tham khảo [tại đây](vi/modules/web-interface/tracking/Inte
 ```
 ```
 <span class="icon-left2">[<img src="/docs/assets/images/web-interface/app-vcn/google-play-download-android-app.png" >](https://bitly.com.vn/sg61yb) 
+
+
 
 
  
