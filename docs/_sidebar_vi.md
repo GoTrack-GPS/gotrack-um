@@ -32,8 +32,9 @@
 
   - **Báo cáo**
     - [Báo cáo chung](vi/modules/web-interface/reports/general-report/temperature/)
+    - [Bộ giao thông vận tải](vi/modules/web-interface/reports/the-transportation/)
 
-  - **Ứng dụng Mobile**
+  - **App Android, IOS**
 
     - [Map Tracking](vi/modules/mobile-apps/map/)
     - [Devices](vi/modules/mobile-apps/devices/)

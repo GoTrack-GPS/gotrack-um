@@ -3,16 +3,18 @@ Khám phá, học hỏi và hiểu những điều cơ bản - những bước �
 
 **CÔNG TY CỔ PHẦN ỨNG DỤNG VÀ PHÁT TRIỂN CÔNG NGHỆ TOÀN CẦU SMC (GoTrack)** là công ty chuyên cung cấp giải pháp và thiết bị để giám sát phương tiện/ hàng hoá và con người cho cá nhân và doanh nghiệp, mang lại giá trị lớn trong khâu quản lý và giám sát, giúp tiết kiệm thời gian và tiền bạc, nhân lực với thời đại của ứng dụng công nghệ 4.0.
 
-Vì thế, **GoTrack** đã tạo ra một phần mền GPS để giám sát xe với nhiều tính năng ưu việt. Bạn hoàn toàn có thể theo dõi vị trí xe đang ở đâu, phòng trường hợp khẩn cấp, bạn hoàn toàn có thể nắm rõ tình hình xe trong tầm kiểm soát của mình.
+Vì thế, **GoTrack** đã tạo ra một phần mềm GPS để giám sát xe với nhiều tính năng ưu việt. Bạn hoàn toàn có thể theo dõi vị trí xe đang ở đâu, phòng trường hợp khẩn cấp, bạn hoàn toàn có thể nắm rõ tình hình xe trong tầm kiểm soát của mình.
 
-**Giao diện phầm mềm định vị GPS của GoTrack** :
+**Giao diện phần mềm định vị GPS của GoTrack** :
 
-Giao diện phần mềm đa dạng: Giao diện trên nền tảng Máy Tính, giao diện trên nền tảng app-vcn.
+Giao diện phần mềm đa dạng: Giao diện trên nền tảng Máy Tính, giao diện trên nền tảng mobile.
 
 **Phần mềm định vị GPS GoTrack có rất nhiều chức năng khiến người dùng khó mà chối từ**:
+- Có thể theo dõi nhiều người trên một bản đồ duy nhất.
 - Giám sát trực tuyến: Vị trí, hướng di chuyển, trạng thái, tốc độ xe với thời gian thực (realtime).
 - Lưu trữ và Xem lại lộ trình di chuyển: Trong một tháng gần nhất hoặc tùy chọn.
 - Quản lý tài khoản và thông số cài đặt: Quản lý về người dùng, mật khẩu, tài khoản cấp con, cài đặt vùng giám sát, tốc độ tối đa, lái xe, định mức nhiên liệu tiêu hao, điểm giám sát, ....
+- Bảo vệ quyền riêng tư của bạn và đảm bảo chỉ bạn mới có thể lấy được dữ liệu vị trí.
 - Cảnh báo và thông báo về máy tính và điện thoại.
 - Hệ thống báo cáo: Báo cáo tổng hợp, báo cáo chi tiết, báo cáo lộ trình, báo cáo thời gian máy nổ, báo cáo hình ảnh camera, báo cáo nhiên liệu tiêu hao, ...
 -  Và rất nhiều tính năng mở rộng khác theo yêu cầu của khách hàng.

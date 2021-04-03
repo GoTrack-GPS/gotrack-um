@@ -6,9 +6,9 @@
 
 <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/color-mode-2.png) 
 
-- Màu  của xe tương ứng với các trạng thái ở chú thích <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/info-circle.svg).
+- Màu  của xe tương ứng với các trạng thái ở chú thích <span class="icon-left svg-filter-circlepurple">![Ok](/docs/assets/images/web-interface/icon/SVG/info.svg).
 
- Click  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/info-circle.svg) 1 lần để hiển thị trên bản đồ, 1 lần nữa để ẩn thông tin màu.
+ Click  <span class="icon-left svg-filter-circlepurple">![Ok](/docs/assets/images/web-interface/icon/SVG/info.svg) 1 lần để hiển thị trên bản đồ, 1 lần nữa để ẩn thông tin màu.
 
 - Ví dụ : Khi thấy biểu tượng xe ở hộp danh sách thiết bị và nhãn  hiển thị ở trên bản đồ màu đỏ <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) thì có nghĩa là xe đó đang dừng.
 
