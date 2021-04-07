@@ -46,9 +46,13 @@ Khi click vào icon **Sửa** của thiết bị đó, sẽ xuất hiện hộp 
     - **Ngày bán** : Cài đặt ngày bán thiết bị sang tài khoản khác (nếu có).
     - Ngày cập nhật : Hệ thống tự động cập nhật ngày bán thiết bị khi có thay đổi .
 
+
+<div id="advanced">
+</div>
+
 ### 2. Nâng cao 
   
-<span style="display:block;text-align:center">![search device ](/docs/assets/images/web-interface/device/advanced-device.png)  
+<span class="icon-left9">![search device ](/docs/assets/images/web-interface/device/advanced-device.png)  
 
 - ***Thông tin xe*** : 
     - **Biển số** : Biến số xe mà đã lắp thiết bị định vị.      
@@ -80,7 +84,7 @@ Khi click vào icon **Sửa** của thiết bị đó, sẽ xuất hiện hộp 
 - ***Nhiên liệu*** :
     - **Định mức tiêu hao (lít/100km)** : Đặt giới hạn tiêu hao nhiên liệu của xe cho bao nhiêu lít/100km.
 - ***Tính năng nâng cao*** :
-    - **Trạm thu phí** : Có thể bật / tắt. Khi bật lên khi xe qua các trạm thuphí sẽ cảnh báo và tương ứng với loại hình vận tải thì sẽ tính được xe mấtbao nhiêu phí khi đi qua.
+    - **Trạm thu phí** : Có thể bật / tắt. Khi bật lên khi xe qua các trạm thu phí sẽ cảnh báo và tương ứng với loại hình vận tải thì sẽ tính được xe mấtbao nhiêu phí khi đi qua.
     - **Loại hình vận tải** : Chọn 1 trong 5 loại hình vận tải.(Chỉ áp dụng ở Việt Nam)
     <span style="display:block;text-align:center">![delete device](/docs/assets/images/web-interface/device/Price-list.png)
 

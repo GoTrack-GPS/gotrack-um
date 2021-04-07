@@ -33,6 +33,7 @@
   - **Báo cáo**
     - [Báo cáo chung](vi/modules/web-interface/reports/general-report/temperature/)
     - [Bộ giao thông vận tải](vi/modules/web-interface/reports/the-transportation/)
+    - [Nhiên liệu](vi/modules/web-interface/reports/fuel/chart/)
 
   - **App Android, IOS**
 
