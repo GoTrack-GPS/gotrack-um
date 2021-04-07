@@ -23,5 +23,5 @@ Hiện ra màn hình **Biểu đồ** như hình dưới đây :
 
 #### Xuất báo cáo
 
-Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF.
+Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng PDF.
 
