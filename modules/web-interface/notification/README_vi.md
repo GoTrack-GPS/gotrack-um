@@ -39,6 +39,10 @@ Màn hình sẽ hiển thị chi tiết của thông báo và vị trí gặp c�
 
 
 - Bước 1 : Click vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-alarm.svg) > <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) để cấu hình thông báo
+
+<div id="notification">
+<div>
+
 - Bước 2 : Xuất hiện màn hình cấu hình thông báo :
     - **Email thông báo** : Nhập email vào ô đó để thêm email.
     Bạn có thể thêm 1 hoặc nhiều email để gửi cảnh báo về.

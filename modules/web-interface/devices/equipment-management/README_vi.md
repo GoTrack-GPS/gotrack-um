@@ -1,5 +1,5 @@
-# Quản lý thiết bị  
-Để thực hiện các chức năng của quản lý thiết bị, người dùng vào **Quản lý > Thiết bị** 
+# Các chức năng khác  
+Để thực hiện các chức năng khác của thiết bị, người dùng vào **Quản lý > Thiết bị** 
 
   <span class="icon-left4">![search device ](/docs/assets/images/web-interface/device/search-device-2.png) 
 ### 1. Chuyển/Bán thiết bị
