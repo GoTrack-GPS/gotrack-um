@@ -30,7 +30,7 @@ Click Manage > Accounts to perform all account management functions.
 
 Users contact service providers, agents to create a new account. Only the service provider, agent, or parent account can create a new account.
 
-Choose "**Create new user**" tab , the screen will display as follows:
+Choose "**<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) Create new user**" tab , the screen will display as follows:
 
 <span style="display:block;text-align:center">![active device ](/docs/assets/images/web-english/users/add-users.png)
 
@@ -89,15 +89,18 @@ For more details, please refer [here](vi/modules/web-interface/notification/#not
 
 Click on <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-user.svg) in the bottom left corner of the system. Next click on **Edit**.
 
-<span style="display:block;text-align:center">![active device ](/docs/assets/images/web-english/users/edit-user-3.png)
+<span class="icon-left4">![active device ](/docs/assets/images/web-english/users/edit-user-3.png)
 
-### 4. Reset password
+### 4. Change password
 
 * Option 1: Click on :point_right:   <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) that account. Select **Reset Password**.
 
     <span style="display:block;text-align:center">![active device ](/docs/assets/images/web-english/users/reset-password.png)
 
-* Option 2 : Click on <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-user.svg) in the bottom left corner of the system. Next click on **Reset password**.
+* Option 2 : Click on <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-user.svg) in the bottom left corner of the system. Next click on **Change password**.
+
+<span class="icon-left4">![active device ](/docs/assets/images/web-english/users/change-password.png)
+
 
 A dialog box appears as shown below:
 
@@ -150,7 +153,7 @@ To view the activity log, the user goes to <span class="icon-left svg-filter-tic
 
     <span style="display:block;text-align:center">![active device ](/docs/assets/images/web-english/users/activity-type.png)
 
-    * **Child account** : Tick the box <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square.svg) to see the activity of other sub-accounts.
+    * **Child account** : Tick the box <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square.svg) to see the activity of other Child Account.
 
 * Step 2: Click **Search**. 
 

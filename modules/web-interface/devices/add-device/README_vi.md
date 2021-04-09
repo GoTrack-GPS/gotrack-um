@@ -1,9 +1,8 @@
 # Thêm thiết bị
-> Lưu ý: Chỉ là tài khoản của nhà phân phối/kỹ thuật/đại lý/ mới tạo được thiết bị
 
 Để bắt đầu **Thêm** và cấu hình thiết bị, trong thanh điều hướng ở trên cùng người dùng chọn **Quản lý > Thiết bị**  
 
- <span class="icon-left4">![search device ](/docs/assets/images/web-interface/device/search-device-2.png) 
+<span class="icon-left4">![Manage device ](/docs/assets/images/web-interface/device/manage-device-1.png)
 
 
 Khi click vào  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Thêm thiết bị** màn hình sẽ hiển thị như sau:

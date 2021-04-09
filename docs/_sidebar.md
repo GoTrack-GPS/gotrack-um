@@ -7,10 +7,14 @@
                - [Account Management](modules/web-interface/users/account-management/)
           - **GPS device** 
                - [Search for the device](modules/web-interface/devices/search-device/)
-               <!-- - [Thêm thiết bị](vi/modules/web-interface/devices/add-device/)
-               - [Sửa thiết bị ](vi/modules/web-interface/devices/edit-device/)
-               - [Xóa thiết bị ](vi/modules/web-interface/devices/delete-device/)
-               - [Các chức năng khác](vi/modules/web-interface/devices/equipment-management/)
+               - [Add decvice ](modules/web-interface/devices/add-device/)
+               - [Edit decvice ](modules/web-interface/devices/edit-device/)
+               - [Delete decvice ](modules/web-interface/devices/delete-device/)
+               - [Other functions](modules/web-interface/devices/equipment-management/)
+               <!-- - 
+              
+               
+               
                - [Quản lý gửi lệnh ](vi/modules/web-interface/devices/send-the-device-command/)
                - [Quản lý nhóm thiết bị](vi/modules/web-interface/devices/equipment-group/)
                - [Quản lý lái xe](vi/modules/web-interface/devices/driver/)
