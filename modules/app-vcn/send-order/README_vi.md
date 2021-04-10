@@ -39,7 +39,7 @@
 
         * CLick vào **Tự động khóa** để tùy chỉnh thời gian tự động khóa. **Nhập số giây muốn tự động tắt máy**. Nhấn **Gửi**
     
-        <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/turn-on-the-device--7.jpg)
+        <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/app-vcn/turn-on-the-device--7.jpg)
  
         * Click vào **Tự động khóa sau 150 giây**
 

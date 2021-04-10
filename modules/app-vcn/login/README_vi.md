@@ -28,7 +28,7 @@ Sau đó đăng nhập.
 
 * Bước 3 : Đưa mã vạch / mã QR trên thiết bị lên, hướng camera vào vị trí mã cần quét để đăng nhập.
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/qr-code.jpg) 
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/app-vcn/qr-code.jpg) 
 
 Sau khi quét thành công sẽ đăng nhập vào tài khoản đã đăng ký theo mã thiết bị đó.
 
@@ -42,7 +42,7 @@ Sau khi quét thành công sẽ đăng nhập vào tài khoản đã đăng ký 
 
 * Bước 2 : Chọn tài khoản muốn đăng nhập nhanh vào app.
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/qr-code-done.jpg) 
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/app-vcn/qr-code-done.jpg) 
 
 > Sau khi đăng nhập thành công lần đầu tiên, để sử dụng được những tính năng liên quan đến vị trí, bạn hãy thực hiện như hình dưới đây :
 Chọn **CHỈ CHO PHÉP KHI DÙNG ỨNG DỤNG** để **Cho phép Giám sát xe VCN truy cập vào vị trí của thiết bị**

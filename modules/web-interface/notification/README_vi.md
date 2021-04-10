@@ -2,22 +2,22 @@
 
 * **Cách 1** : Click vào **Quản lý > Cảnh báo - Lập lịch > Thông báo** 
 
-    <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/notification-1.jpg)
+    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/notification-1.jpg)
 
 * **Cách 2** : Click vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-alarm.svg) để xem thông báo. Nhấn **Xem tất cả** để hiển thị danh sách thông báo. 
 Màn hình hiển thị như hình dưới đây :
 
-    <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/notification.jpg)
+    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/notification.jpg)
 
 ### Tìm kiếm
 - **Bước 1** : Tìm kiếm theo các tiêu chí sau :
     * **Tên thiết bị** : Nhập 1 hoặc nhiều ký tự có trong tên thiết bị mà bạn muốn tìm kiếm.
     * **Loại cảnh báo** : Chọn 1 trong các loại cảnh báo có trong ô đó để tìm kiếm dễ hơn.
-     <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/alert-type.jpg)
+     <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/alert-type.jpg)
     
      * **Ngày, giờ** : Click vào <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-calendar.svg) chọn theo lựa chọn có sẵn hoặc tùy chọn). Nhấn **Đồng ý** . 
 
-        <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/date.jpg)
+        <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/date.jpg)
 - **Bước 2** : Nhấn **Tìm kiếm**.
 
     **Đặt lại** : Đặt lại về chế độ mặc định ban đầu.
@@ -27,15 +27,15 @@ Màn hình hiển thị như hình dưới đây :
 * Cách 1 : Click vào <span class="icon-left svg-filter-circlepurpleple">![Ok](/docs/assets/images/web-interface/icon/SVG/info-circle.svg) để xem chi tiết từng thông báo.
 Màn hình sẽ hiển thị chi tiết của thông báo và vị trí gặp cảnh báo
 
-    <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/info.jpg)
+    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/info.jpg)
 
 * Cách 2 : Click vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-alarm.svg) . **Nhấp vào từng thông báo ở hộp thông báo nhỏ**
 
-    <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/info-1.jpg)
+    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/info-1.jpg)
 
 ### Cài đặt thông báo 
 
-<span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/setting.jpg)
+<span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/setting.jpg)
 
 
 - Bước 1 : Click vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-alarm.svg) > <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) để cấu hình thông báo
@@ -66,7 +66,7 @@ Sau khi cài đặt xong. Bấm **Lưu** để hoàn thành thao tác.
 
 Click vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-alarm.svg) để xem thông báo. Nhấn <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-double-tick.svg) **Đánh dấu tất cả đã đọc** 
 
-<span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/infomation-1.jpg)
+<span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/infomation-1.jpg)
 
 
 

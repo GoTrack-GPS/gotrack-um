@@ -5,14 +5,14 @@ Khi vi phạm quy tắc cảnh báo sẽ nổ ra cảnh báo cho người dùng.
 
 Đầu tiên, bạn nhấn vào **Quản lý > Cảnh báo - Lập lịch > Quy tắc cảnh báo**
 
-<span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/warning.jpg) 
+<span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/warning.jpg) 
 
 ### Tìm kiếm 
 
 - Bước 1 : Tìm kiếm theo các tiêu chí sau :
     * **Tên thiết bị** : Nhập 1 hoặc nhiều ký tự có trong tên thiết bị mà bạn muốn tìm kiếm.
     * **Loại cảnh báo** : Chọn 1 trong các loại cảnh báo có trong ô đó để tìm kiếm dễ hơn.
-     <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/search-warning.jpg)
+     <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/search-warning.jpg)
 
 - Bước 2 : Nhấn **Tìm kiếm**.
 
@@ -23,11 +23,11 @@ Khi vi phạm quy tắc cảnh báo sẽ nổ ra cảnh báo cho người dùng.
 - Bước 1 : Nhấn vào **Tạo mới cảnh báo**.
 - Bước 2 : Xuất hiện hộp thoại như màn hình dưới đây :
 
-    <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/add-warning-1.jpg)
+    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/add-warning-1.jpg)
 
-    <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/add-warning.jpg)
+    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/add-warning.jpg)
 
-  <span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/add-warning-2.jpg)
+  <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/add-warning-2.jpg)
 * ***Cơ bản*** 
     * **Tên cảnh báo** : Nhập tên cảnh báo.
     * **Mô tả** : cảnh báo này cụ thể như nào,...
@@ -63,7 +63,7 @@ Sau khi tạo xong. Bấm **Thêm** để hoàn thành thao tác.
 * Bước 1 : Click vào  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/edit.svg) để sửa cảnh báo. 
 * Bước 2 : Xuất hiện hộp thoại như sau :
 
-<span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/eidit-warning.jpg)
+<span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/eidit-warning.jpg)
 
 Sau khi sửa xong. Nhấn **Lưu thay đổi** để hoàn thành thao tác.
 
@@ -71,7 +71,7 @@ Sau khi sửa xong. Nhấn **Lưu thay đổi** để hoàn thành thao tác.
 
 ### Mở / Khóa cảnh báo
 
-<span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/lock-warning.jpg)
+<span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/lock-warning.jpg)
 
 
 <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-lock.svg) **Khóa cảnh báo** : Khi người dùng hiện tại chưa muốn dùng đến cảnh báo này, sau này sử dụng lại, muốn ẩn cảnh báo đó đi thì khóa lại. Trong quá trình di chuyển, nếu có vi phạm cảnh báo đó thì sẽ không thông báo về nữa.

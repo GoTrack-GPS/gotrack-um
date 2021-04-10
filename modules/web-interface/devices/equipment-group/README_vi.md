@@ -5,17 +5,17 @@
 
  Vào **Quản lý > Cấu hình > Nhóm thiết bị**. Hiện ra màn hình **Quản lý nhóm thiết bị** như hình dưới đây : 
 
- <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/device/equipment-group.png)
+ <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/device/equipment-group.png)
 
  ### Tìm kiếm 
 
 * Tìm kiếm theo **tên nhóm thiết bị**
 
- <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/search-equipment-group.jpg)
+ <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/search-equipment-group.jpg)
 
 ### Tạo nhóm thiết bị
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/add-equipment-group.jpg)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/add-equipment-group.jpg)
 
 * Bước 1 : Click vào **Tạo nhóm thiết bị** 
 * Bước 2 : Hộp thoại xuất hiện như hình trên :
@@ -26,7 +26,7 @@ Nhấn **Thêm** để hoàn thành thao tác.
 
 ### Sửa nhóm thiết bị 
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/edit-equipment-group.jpg)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/edit-equipment-group.jpg)
 
 - Bước 1 : Click vào **Sửa** .
 - Bước 2 : Hộp thoại xuất hiện như hình trên :
@@ -37,7 +37,7 @@ Nhấn **Lưu thay đổi** để hoàn thành thao tác.
 
 ### Xóa nhóm thiết bị 
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/delete-equipment-group.jpg)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/delete-equipment-group.jpg)
 
 Click vào xóa nhóm thiết bị . Nhấn **OK** nếu bạn đồng ý xóa. 
 

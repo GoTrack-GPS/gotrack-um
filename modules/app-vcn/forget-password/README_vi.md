@@ -22,7 +22,7 @@ Nếu bạn vào email của mình mà không thấy email của phần mềm hi
 
 3. Vào mục **Chính / Hộp thư đến**, tìm mail của phần mềm gửi về, click vào link **Đặt lại mật khẩu** để đổi mật khẩu.
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/reset-password-1.jpg) 
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/app-vcn/reset-password-1.jpg) 
 
 
 ### Bước 3: Cài lại mật khẩu

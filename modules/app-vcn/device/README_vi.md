@@ -10,7 +10,7 @@ Vào mục **Thiết bị**, sẽ hiển thị ra danh sách thiết bị của 
 - Offline : Thiết bị không hoạt động, hết hạn sử dụng dịch vụ.
 
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/list-device.jpg) 
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/app-vcn/list-device.jpg) 
 
 ### Tìm kiếm thiết bị
 
@@ -77,7 +77,7 @@ Cách tắt máy / mở máy [khác](vi/modules/app-vcn/detailed-monitoring/#oth
 Muốn xem lại các lệnh bạn đã gửi, thực hiện như sau 
 
   
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/send-orders-5.jpg)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/app-vcn/send-orders-5.jpg)
 
 * Bước 1:  Vào mục **Thêm > Lịch sử lệnh**.
 * Bước 2 : Click vào lệnh đã gửi để xem chi tiết.

@@ -6,7 +6,7 @@ Nếu người dùng muốn xem **Báo cáo nhiệt độ** :
 * Vào **Báo cáo >  Báo cáo > Nhiệt độ**.
 Hiện ra màn hình **Báo cáo nhiệt độ** như hình dưới đây :
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/temperature.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/temperature.png)
 
 ### Báo cáo nhiệt độ 
 
@@ -20,12 +20,12 @@ Hiện ra màn hình **Báo cáo nhiệt độ** như hình dưới đây :
 
 * Bước 2 : Nhấn **Tìm kiếm** 
     Nếu nhấn **Đặt lại** sẽ trở về mặc định ban đầu.
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/search-temperature.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/search-temperature.png)
 
 #### Xuất báo cáo
  Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng PDF
 
- <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/export-report.png)
+ <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/export-report.png)
 
  ### Báo cáo Tổng hợp ( thiết bị )
 
@@ -33,7 +33,7 @@ Hiện ra màn hình **Báo cáo nhiệt độ** như hình dưới đây :
 * Vào **Báo cáo >  Báo cáo > Tổng hợp ( thiết bị )**.
 Hiện ra màn hình **Báo cáo Tổng hợp ( thiết bị )** như hình dưới đây :
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/general-equipment.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/general-equipment.png)
 
 #### Tìm kiếm 
 
@@ -46,13 +46,13 @@ Hiện ra màn hình **Báo cáo Tổng hợp ( thiết bị )** như hình dư�
 * Bước 2 : Nhấn **Tìm kiếm** 
     Nếu nhấn **Đặt lại** sẽ trở về mặc định ban đầu.
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/search-general-equipment.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/search-general-equipment.png)
 
 #### Xuất báo cáo
 
 Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) , <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/export-report-device.png) 
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/export-report-device.png) 
 
 
 ### Báo cáo Tổng hợp theo ngày
@@ -61,7 +61,7 @@ Nếu người dùng muốn xem báo cáo **Tổng hợp theo ngày** :
 * Vào **Báo cáo >  Báo cáo > Tổng hợp theo ngày**.
 Hiện ra màn hình **Báo cáo Tổng hợp theo ngày** như hình dưới đây :
  
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/sum-up-by-date.png) 
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/sum-up-by-date.png) 
 
 #### Tìm kiếm 
 
@@ -73,7 +73,7 @@ Hiện ra màn hình **Báo cáo Tổng hợp theo ngày** như hình dưới đ
 * Bước 2 : Nhấn **Tìm kiếm** 
     Nếu nhấn **Đặt lại** sẽ trở về mặc định ban đầu.
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/export-report-date.png) 
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/export-report-date.png) 
 
 #### Xuất báo cáo
 
@@ -85,7 +85,7 @@ Nếu người dùng muốn xem báo cáo **Tổng hợp theo ngày** :
 * Vào **Báo cáo >  Báo cáo > Tổng hợp theo ngày**.
 Hiện ra màn hình **Báo cáo Tổng hợp theo ngày** như hình dưới đây :
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/general-in-out-of-the-area.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/general-in-out-of-the-area.png)
 
 #### Tìm kiếm 
 
@@ -99,7 +99,7 @@ Hiện ra màn hình **Báo cáo Tổng hợp theo ngày** như hình dưới đ
 * Bước 2 : Nhấn **Tìm kiếm** 
     Nếu nhấn **Đặt lại** sẽ trở về mặc định ban đầu.
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/search-general-in-out-of-the-area.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/search-general-in-out-of-the-area.png)
 
 ### Chi tiết ra vào vùng 
 
@@ -107,17 +107,17 @@ Hiện ra màn hình **Báo cáo Tổng hợp theo ngày** như hình dưới đ
 
     * Bước 1 : Click vào **Chi tiết ra vào vùng** 
 
-    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/general-in-out-of-the-area-1.png)
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/general-in-out-of-the-area-1.png)
 
     * Bước 2 : Hiển thị màn hình **Chi tiết ra vào vùng** như hình dưới đây 
 
-    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/search-general-in-out-of-the-area-2.png)
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/search-general-in-out-of-the-area-2.png)
 
 * Cách 2 : 
 
     * Click vào <span class="icon-left svg-filter-circlepurple">![Ok](/docs/assets/images/web-interface/icon/SVG/info-circle.svg)  để xem vị trí, hướng đi của thiết bị khi đi qua vùng cảnh báo.
 
-    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/search-general-in-out-of-the-area-2.png)
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/search-general-in-out-of-the-area-2.png)
 
 
 

@@ -6,7 +6,7 @@ To start performing the **Edit** function, users go to **Manage > Devices**
 
 When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-edit.svg) **Edit**  of that device, a dialog box will appear as follows:
 
-<span style="display:block;text-align:center">![active device ](/docs/assets/images/web-english/device/basic-edit.png)
+<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/basic-edit.png)
 
 ### 1. Basic
 * **Device Information** 
@@ -25,7 +25,7 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
 
     * **Device group**: A group of devices that share something in one account.
 
-        <span style="display:block;text-align:center">![active device ](/docs/assets/images/web-english/device/add-device-group.png)
+        <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/add-device-group.png)
 
         * Step 1: Click :heavy_plus_sign: to add the device group.
 
@@ -35,9 +35,9 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
 
         Besides, you can create more device groups by doing the following:
 
-        <span style="display:block;text-align:center">![active device ](/docs/assets/images/web-english/device/add-device-group-2.png)
+        <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/add-device-group-2.png)
 
-        See more details about the **Device Group** [here](vi/modules/web-interface/devices/equipment-group/#equipment-group)
+        See more details about the **Device Group** [here](modules/web-interface/devices/equipment-group/#equipment-group)
 
     * **SIM type**: Select a SIM type corresponding to the carrier of the phone number.
 * ***Services*** 
@@ -100,7 +100,7 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
 
     Alternatively, you can add drivers by doing the following:
 
-    <span style="display:block;text-align:center">![active device ](/docs/assets/images/web-english/device/add-driver-2.png)
+    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/add-driver-2.png)
 
     See more details about the **Device Group** [here](vi/modules/web-interface/devices/equipment-group/#equipment-group)
   
@@ -122,11 +122,11 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
 
 ### 3. Sensor
 
-<span style="display:block;text-align:center">![active device ](/docs/assets/images/web-english/device/sensor.png)
+<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/sensor.png)
 
 Choose "<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **Add sensor**" tab , the screen will display as follows:
  
-<span style="display:block;text-align:center">![active device ](/docs/assets/images/web-english/device/add-sensor.png)
+<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/add-sensor.png)
 
 * ***Basic***
     * **Sensor name**: Name your sensor for easy memory and visualization.
@@ -148,19 +148,37 @@ Choose "<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-in
 
 ### 4. Camera 
 
-Choose "<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **Add camera**" tab , the screen will display as follows:
+* **For camera type: Basic**
 
-<span style="display:block;text-align:center">![active device ](/docs/assets/images/web-english/device/add-camera-2.png)
+    Choose "<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **Add camera**" tab , the screen will display as follows:
 
-* **Name**: Enter the name of the camera you want to install.
-* **Camera type**: Select the type of camera you want to mount.
-    * For **MDVR** camera type, the technical staff will configure the MDVR Id address, host, port for the device.
-* **Camera Id**: Enter the code of the camera.
-* **Description**: Can enter more information about the camera, ...
+    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/add-camera-2.png)
+
+    * **Name**: Enter the name of the camera you want to install.
+    * **Camera type**: Select Basic  only captures pictures.
+    * **Camera Id**: Enter the code of the camera.
+    * **Description**: Can enter more information about the camera, ...
+
+* **For camera type: MDVR**
+
+    Choose "<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **Add camera**" tab , the screen will display as follows:
+
+    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/add-camera-3.png)
+
+    * **Name**: Enter the name of the camera you want to install.
+    * **Camera type**: **MDVR** in addition to taking pictures also has a video recording feature.
+    * **MDVR Id**: Enter the code of the camera.
+    * **Host**: The IP address that accesses the camera server
+    * **Port**: The port connects to the camera recorder
+    * **Channel**: Optional Camera channel
+    * **Stream**: Output stream option. Main data stream with high definition for storage and playback. And the extra data stream is used for viewing over the network -  with limited transmission speed.
+    * **Description**: Can enter more information about the camera, ...
+
+    Click **Add** to save the camera.
+
 
 ### 5. Extension
-
-<span style="display:block;text-align:center">![active device ](/docs/assets/images/web-english/device/extension-device.png)
+<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/extension-device.png)
 
 * **Confi**
 
@@ -174,14 +192,14 @@ Choose "<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-in
 
     Besides, the device can be configured by the following figure:
 
-    <span style="display:block;text-align:center">![active device ](/docs/assets/images/web-english/device/extension-device-2.png)
+    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/extension-device-2.png)
 
 ### 6. Alert
 
-<span style="display:block;text-align:center">![active device ](/docs/assets/images/web-english/device/alert.png)
+<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/alert.png)
 
 * Tick <span class="icon-left svg-filter-white">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg) to enable/disable device alerts that you want to send alerts on. 
 
 * Besides, the device can be configured by the following figure:
 
-    <span style="display:block;text-align:center">![active device ](/docs/assets/images/web-english/device/alert-device-2.png)
+    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/alert-device-2.png)

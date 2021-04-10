@@ -1,6 +1,6 @@
 # Login 
 
-<span style="display:block;text-align:center">![active device ](/docs/assets/images/web-english/users/login.png) 
+<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/users/login.png) 
 
 **1.** The user clicking on it can change the system language.
 

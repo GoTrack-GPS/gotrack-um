@@ -7,7 +7,7 @@ To start performing the **Search** function, users go to **Manage > Devices**
 <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/info-circle.svg) Display device information, do as shown below:
 
 
-<span style="display:block;text-align:center">![active device ](/docs/assets/images/web-english/device/search-device.png)
+<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/search-device.png)
 
 
 
@@ -17,7 +17,7 @@ To start performing the **Search** function, users go to **Manage > Devices**
 <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg) Search: You can search by the following criteria:
 
 
-<span style="display:block;text-align:center">![active device ](/docs/assets/images/web-english/device/search-device-1.png)
+<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/search-device-1.png)
 
 
 1. Search by **IMEI** : The user can enter both a name or a few characters in the created IMEI.
@@ -26,7 +26,7 @@ To start performing the **Search** function, users go to **Manage > Devices**
 4. Search by **Child Account**: Tick the box <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square.svg) to see the device of another Child Account.
 5. When clicking on **Advanced search** will display more criteria as shown below:
 
-    <span style="display:block;text-align:center">![active device ](/docs/assets/images/web-english/device/advanced-search-device-1.png)
+    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/advanced-search-device-1.png)
 
     * Can be searched by:
         * **Device Type / SIM Number / SIM Type**: Device Type / Phone Number / Sim type registered when adding a device before.

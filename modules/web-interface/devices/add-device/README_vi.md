@@ -5,9 +5,9 @@
 <span class="icon-left4">![Manage device ](/docs/assets/images/web-interface/device/manage-device-1.png)
 
 
-Khi click vào  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Thêm thiết bị** màn hình sẽ hiển thị như sau:
+Khi click vào  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Thêm thiết bị** màn hình sẽ hiển thị như sau:
 
-<span style="display:block;text-align:center">![add device ](/docs/assets/images/web-interface/device/add-device.png)
+<span style="display:block;text-align:left">![add device ](/docs/assets/images/web-interface/device/add-device.png)
  
 - Hộp thoại xuất hiện gồm:
   - **Tải mẫu**: Click vào sẽ tải về file có dữ liệu ví dụ mẫu trong đó. Người dùng có thể thay thế dữ liệu.

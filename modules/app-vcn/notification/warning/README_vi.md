@@ -7,7 +7,7 @@
 
 ### Cài đặt cảnh báo 
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/setting-warning-3.jpg)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/app-vcn/setting-warning-3.jpg)
 
 - Bước 1 : Vào mục **Cảnh báo >**  <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg). 
 - Bước 2 : Xuất hiện màn hình cài đặt cảnh báo :

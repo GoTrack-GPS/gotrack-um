@@ -10,7 +10,7 @@ To move/sell a device to another account, there are 2 options :
 
 * **Option 1** :
 
-    <span style="display:block;text-align:center">![active device ](/docs/assets/images/web-english/device/move-device-1.png)
+    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/move-device-1.png)
 
     * Step 1: Tick the device to move/sell.
     * Step 2: Choose **Move/Sell.**
@@ -19,7 +19,7 @@ To move/sell a device to another account, there are 2 options :
  
 * **Option 2** :
 
-    <span style="display:block;text-align:center">![active device ](/docs/assets/images/web-english/device/move-device-2.png)
+    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/move-device-2.png)
 
     * Step 1: Click More
 
@@ -39,7 +39,7 @@ To move/sell a device to another account, there are 2 options :
 * Automatic activation: The device is automatically activated after 8 hours after its creation and installation.
 * Manual activation:
 
-    <span style="display:block;text-align:center">![active device ](/docs/assets/images/web-english/device/active-device.png)
+    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/active-device.png)
 
     * Step 1: Select the device you want to active/disable.
 
@@ -53,7 +53,7 @@ To move/sell a device to another account, there are 2 options :
 
 To install the status for device, performance the following step:
 
-<span style="display:block;text-align:center">![active device ](/docs/assets/images/web-english/device/status-device.png)
+<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/status-device.png)
 
 
 * Step 1: Tick the device that needs a status setting.
@@ -63,9 +63,9 @@ Click **Submit** to set the status of the device.
 
 ### 4. Send command
 
-To send device command, thực hiện các bước sau:
+To send device command, do the following:
 
-<span style="display:block;text-align:center">![active device ](/docs/assets/images/web-english/device/send-command.png)
+<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/send-command.png)
 
 * Step 1: Tick the device to send the order.
 * Step 2: Select **Send command**.
@@ -74,16 +74,26 @@ To send device command, thực hiện các bước sau:
  Click **Submit** to send the device command.
 
 
-For more details, please refer [here](vi/modules/web-interface/devices/send-the-device-command/#command)  <div id="command"> 
+For more details, please refer [here](modules/web-interface/devices/send-the-device-command/#command)  <div id="command"> 
 
-### Renewal device
+### 5. Renewal device
 
 To renew the device, do the following:
 
-<span style="display:block;text-align:center">![active device ](/docs/assets/images/web-english/device/renewal-device.png)
+<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/renewal-device.png)
 
-Step 1: Tick the device to be renewed.
-Step 2: Select **Renewal**.
-Step 3: A dialog box appears. Choose a card/service renewal package with 2 types of five cards and lifetime cards. The **IMEI** is the number of that device. Enter any **description**, which can be the purpose, desire, ... when using the service.
+* Step 1: Tick the device to be renewed.
+
+* Step 2: Select **Renewal**.
+
+* Step 3: A dialog box appears. Choose a card/service renewal package with 2 types of five cards and lifetime cards. The **IMEI** is the number of that device. Enter any **description**, which can be the purpose, desire, ... when using the service.
+
 
  Click **Submit** to renew the device.
+
+### 6. Export Data
+
+* 2 types:
+
+    * **Download (.xlsx)**: Only the data of the device you choose.
+    * **Download all (.xlsx)**: There's all the device data that that account has.

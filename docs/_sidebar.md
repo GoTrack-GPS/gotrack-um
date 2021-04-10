@@ -1,21 +1,20 @@
 
 - **Get Started**
      - **Web interface**
-          - **User account** 
+          - **Account** 
                - [Login](modules/web-interface/users/login/)
                - [Forgot password](modules/web-interface/users/forget-password/)
                - [Account Management](modules/web-interface/users/account-management/)
-          - **GPS device** 
+          - **Device** 
                - [Search for the device](modules/web-interface/devices/search-device/)
-               - [Add decvice ](modules/web-interface/devices/add-device/)
-               - [Edit decvice ](modules/web-interface/devices/edit-device/)
-               - [Delete decvice ](modules/web-interface/devices/delete-device/)
+               - [Add device ](modules/web-interface/devices/add-device/)
+               - [Edit device ](modules/web-interface/devices/edit-device/)
+               - [Delete device ](modules/web-interface/devices/delete-device/)
                - [Other functions](modules/web-interface/devices/equipment-management/)
+               - [Management send command ](modules/web-interface/devices/send-the-device-command/)
+               - [Device group management](modules/web-interface/devices/equipment-group/)
+               
                <!-- - 
-              
-               
-               
-               - [Quản lý gửi lệnh ](vi/modules/web-interface/devices/send-the-device-command/)
                - [Quản lý nhóm thiết bị](vi/modules/web-interface/devices/equipment-group/)
                - [Quản lý lái xe](vi/modules/web-interface/devices/driver/)
 
@@ -23,6 +22,7 @@
                - [Devices and Setting](modules/web-interface/devices/)
                - [Tracking](modules/web-interface/tracking/)
                - [Reports](modules/web-interface/reports/) -->
+
      - [**Mobile Apps**](modules/mobile-apps/)
           - [Map Tracking](modules/mobile-apps/map/)
           - [Devices](modules/mobile-apps/devices/)

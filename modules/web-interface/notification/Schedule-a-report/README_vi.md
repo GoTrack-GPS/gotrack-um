@@ -4,16 +4,16 @@
 
 Đầu tiên, bạn nhấn vào **Quản lý > Cảnh báo - Lập lịch >  Lập lịch báo cáo**
 
-<span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/Schedule-a-report.jpg) 
+<span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/Schedule-a-report.jpg) 
 
 ### Tìm kiếm 
 **Tên** : Nhập 1 hoặc nhiều ký tự có trong tên lập lịch báo cáo mà bạn muốn tìm kiếm.
 
-<span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/search-report-scheduling.jpg)
+<span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/search-report-scheduling.jpg)
 
 ### Tạo mới lập lịch báo cáo
 
-<span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/add-report-scheduling.jpg) 
+<span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/add-report-scheduling.jpg) 
 
 - Bước 1 : Click vào **Tạo mới Lập lịch báo cáo** 
 - Bước 2 : Xuất hiện hộp thoại như hình trên.

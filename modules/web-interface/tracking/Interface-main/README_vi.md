@@ -1,6 +1,6 @@
 # Giao diện chính tổng quát
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/Workspace-overview.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/Workspace-overview.png)
 
 **1**. Menu chính
 
@@ -22,7 +22,7 @@
 
 ### Menu chính
  Chọn vào **Bản đồ** trên menu. Giao diện hiển thị như hình dưới đây :
-<span style="display:block;text-align:center">![active device ](/docs/assets/images/web-interface/map/search-map.png)
+<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-interface/map/search-map.png)
 
 Để hiểu thêm về phần Menu, người dùng tìm hiểu thêm [tại đây](/vi/modules/get-started/) 
 
@@ -43,14 +43,14 @@
 
 
 ### Danh sách thiết bị 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/list-device-map-2.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/list-device-map-2.png)
 
 - Bước 1 : Chọn tài khoản muốn xem danh sách thiết bị.
 - Bước 2 : Sau khi hiển thị danh sách có thể chọn chi tiết từng thiết bị, xem lịch sử, lộ trình di chuyển, sửa thông tin, cấu hình danh sách thiết bị và thực hiện các thap tác khác
 
 ### Bản đồ
 Giám sát trực tuyến: Vị trí, lộ trình, hướng di chuyển, trạng thái, tốc độ xe với thời gian thực (realtime).
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/symbols-on-the-map.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/symbols-on-the-map.png)
 
 **Các ký hiệu trên bản đồ** :
 1. Biểu tượng loại xe gắn với tên thiết bị cho biết vị trí xe hiện tại của bạn.
@@ -58,13 +58,13 @@ Giám sát trực tuyến: Vị trí, lộ trình, hướng di chuyển, trạng
 2. Trung tâm bản đồ
 
 ### Thông tin chi tiết thiết bị 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/box-infomation-device.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/box-infomation-device.png)
 
 - Bước 1 : Chọn thiết bị .
 - Bước 2 : Thông tin chi tiết sẽ hiển thị ra ở hộp **Thông tin thiết bị**, có thể cấu hình hộp thông tin, sửa thông tin, xem lịch sử, lộ trình di chuyển và thực hiện các thao tác khác.
 
 ### Công cụ mở rộng
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/map-tool.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/map-tool.png)
 
 <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) Cài đặt bản đồ
 
@@ -87,7 +87,7 @@ Giám sát trực tuyến: Vị trí, lộ trình, hướng di chuyển, trạng
 <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus-square.svg) Tạo mới điểm đánh dấu, tạo mới vùng cảnh báo.
  
  ### Tiện ích 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/map-widget.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/map-widget.png)
 
 <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/info-circle.svg) Thông tin về màu thể hiện trạng thái xe. 
 
@@ -108,11 +108,11 @@ Giám sát trực tuyến: Vị trí, lộ trình, hướng di chuyển, trạng
 * **Cách 1** : Vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) ở vùng 1 (Hộp danh sách thiết bị)
 * **Cách 2** : Vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) ở vùng 2 ( Hộp thông tin chi tiết thiết bị)
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/list-and-device-information-1.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/list-and-device-information-1.png)
 
 * ***Danh sách thiết bị***
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/list-device-map-1.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/list-device-map-1.png)
 
 - Bước 1 : Vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) **> Danh sách thiết bị**
 - Bước 2 :Hộp thông tin xuất hiện. Có thể bật / tắt thông tin mà bạn muốn / không muốn hiển thị. Lúc đó người dùng có thể xem trước kết quả ngay tại vùng 4 đó luôn. 
@@ -120,13 +120,13 @@ Giám sát trực tuyến: Vị trí, lộ trình, hướng di chuyển, trạng
 - Bước 4 : Sau khi lưu thành công thông tin sẽ được hiển thị ở vùng  4 ( Hộp danh sách thiết bị thuộc 1 tài khoản đã chọn trước đó).
     
 Ví dụ : Tắt hiển thị biểu tượng
-    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/Example-device.png)
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/Example-device.png)
 
 * ***Hộp thông tin thiết bị***
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/device-information-box.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/device-information-box.png)
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/list-device-map.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/list-device-map.png)
 
 - Bước 1 : Vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) **> Hộp thông tin thiết bị**
 - Bước 2 :Có thể bật / tắt thông tin mà bạn muốn / không muốn hiển thị. 
@@ -134,12 +134,12 @@ Ví dụ : Tắt hiển thị biểu tượng
 - Bước 4 : Sau khi lưu thành công thông tin sẽ được hiển thị ở vùng  4 ( Hộp thông tin chi tiết của thiết bị đó ).
 
     Ví dụ : Tắt hiển thị địa chỉ
-    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/Example-device-2.png)
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/Example-device-2.png)
 * ***Theo dõi***
-   <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/follow-1.png)
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/follow-2.png)
+   <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/follow-1.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/follow-2.png)
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/follow-3.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/follow-3.png)
 
  - Bước 1 : Click vào icon biểu tượng xe để xem chi tiết thiết bị xe đó.
 
@@ -151,11 +151,11 @@ Ví dụ : Tắt hiển thị biểu tượng
 - Bước 4 : Sau khi lưu thành công thông tin sẽ được hiển thị ở tab **Hiện tại** ( Màn hình chi tiết của thiết bị đó ).
 
     Ví dụ : Tắt biểu tượng 
-    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/Example-device-3.png)
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/Example-device-3.png)
 * ***Xem lại***
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/follow-1.png)
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/review.png) 
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/follow-1.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/review.png) 
 
 - Bước 1 : Click vào icon biểu tượng xe để xem chi tiết thiết bị xe đó.
 
@@ -166,14 +166,14 @@ Ví dụ : Tắt hiển thị biểu tượng
 
 Ví dụ : Tắt biểu tượng 
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/Example-device-4.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/Example-device-4.png)
 
 
 <div id="mau">
 </div>
 
 ### Quy ước màu trạng thái
- <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/color-mode.png)
+ <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/color-mode.png)
 
 * Khi icon xe hiển thị   <span class="icon-left svg-filter-circlegreen">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) : Xe đang ở trạng thái tắt máy
 

@@ -15,7 +15,7 @@
 
 - **Bước 2** : Click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) để tạo mới vùng cảnh báo.
 
-    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/create-warning-area-4.jpg)
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/app-vcn/create-warning-area-4.jpg)
 
     * Click vào<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/circle.svg) để tạo vùng hình tròn: Thu phóng **(** <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **/** <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/minus.svg)  **)** bản đồ để tạo bán kính, kéo bản đồ để chọn tâm. 
 

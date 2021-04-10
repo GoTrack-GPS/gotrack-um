@@ -5,14 +5,14 @@
 
  Vào **Quản lý > Cấu hình > Vùng địa lý**. Hiện ra màn hình **Quản lý vùng** như hình dưới đây : 
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/manage-region-1.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/manage-region-1.png)
 
 ### Tìm kiếm 
 * Tìm kiếm theo tên vùng.
 
 ### Tạo mới vùng 
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/add-region-3.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/add-region-3.png)
 
 * Bước 1 :  Click vào **Tạo mới Quản lý vùng** 
 * Bước 2 : Hộp thoại Thêm vùng xuất hiện như hình trên :
@@ -38,7 +38,7 @@ Click **Thêm** để hoàn thành thao tác.
 - Bước 1 : Click vào **Sửa** từng vùng.
 
 - Bước 2 : Hộp thoại xuất hiện như hình dưới đây :
-     <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/edit-region-3.png)
+     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/edit-region-3.png)
 
     **Tên** : Sửa tên vùng đã tạo..
 
@@ -54,11 +54,11 @@ Click **Lưu thay đổi** để hoàn thành thao tác.
 Để theo dõi nhiều vùng, vào  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-maintenance.svg) > **Theo dõi theo vùng**
  Nhập tên vùng để tìm kiếm nhanh vùng bạn muốn tìm.
 
- <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/track-area.jpg)
+ <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/track-area.jpg)
 
 * Click vào 1 hoặc nhiều vào tên vùng đã tạo để theo dõi vị trí của vùng đó.
 
-    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/track-area-1.jpg)
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/track-area-1.jpg)
 
     <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/times.svg)  Đóng vùng.
 
@@ -67,17 +67,17 @@ Click **Lưu thay đổi** để hoàn thành thao tác.
 ### Nhóm vùng địa lý
 
 Để xem nhóm vùng địa lý, người dùng vào **Quản lý > Cấu hình > Nhóm vùng địa lý** . Màn hình hiển thị như hình dưới đây :
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/regional-groups.jpg)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/regional-groups.jpg)
 
 
  #### Tìm kiếm 
  Tìm kiếm theo **tên nhóm vùng**
 
- <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/search-regional-groups.jpg)
+ <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/search-regional-groups.jpg)
 
 #### Tạo nhóm vùng 
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/add-regional-groups.jpg)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/add-regional-groups.jpg)
 
 * Bước 1 : CLick vào **Tạo nhóm vùng**.
 * Bước 2 : Xuất hiện hộp thoại như hình trên :
@@ -88,7 +88,7 @@ Click **Lưu thay đổi** để hoàn thành thao tác.
     
 #### Sửa nhóm vùng địa lý
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/edit-regional-groups.jpg)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/edit-regional-groups.jpg)
 
 - Bước 1 : Click vào Sửa.
 - Bước 2 : Xuất hiện hộp thoại như hình trên :
@@ -98,7 +98,7 @@ Click **Lưu thay đổi** để hoàn thành thao tác.
  Nhấn **Lưu thay đổi** để hoàn thành thao tác.
 #### Xóa nhóm vùng địa lý
  
- <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/delete-regional-groups.jpg)
+ <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/delete-regional-groups.jpg)
 
 * Click vào xóa.
 * Xuất hiện hộp thoại như hình trên :

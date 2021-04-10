@@ -21,7 +21,7 @@ Giao diện phần mềm đa dạng: Giao diện trên nền tảng Máy Tính, 
 
 Dưới đây là giao diện trang chủ (Tổng quan) của phần mềm.
 
-<span style="display:block;text-align:center">![active device ](/docs/assets/images/web-interface/Home-page.png)
+<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-interface/Home-page.png)
 - **Vùng 1**: Menu được sử dụng để truy cập nhanh các công cụ và cài đặt được sử dụng thường xuyên.
 - **Vùng 2** : Vùng hiển thị dữ liệu tổng quát.
 - **Vùng 3** : Bật / Tắt  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg)thông tin cần hiển thị ở vùng dữ liệu.

@@ -9,7 +9,7 @@ Khi click vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/imag
 </div>
 
 
-<span style="display:block;text-align:center">![search device ](/docs/assets/images/web-interface/device/edit-device-basic-1.png)
+<span style="display:block;text-align:left">![search device ](/docs/assets/images/web-interface/device/edit-device-basic-1.png)
 
 ### 1. Cơ bản 
 
@@ -22,7 +22,7 @@ Khi click vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/imag
     - **Loại thiết bị**: Chọn tên loại thiết bị tương ứng đúng với thiết bị mình đang sử dụng.
     - **Nhóm thiết bị**: Là nhóm các thiết bị có chung một điểm nào đó với nhau trong một tài khoản.
         
-        <span style="display:block;text-align:center">![search device ](/docs/assets/images/web-interface/device/Add-a-device-group.png)
+        <span style="display:block;text-align:left">![search device ](/docs/assets/images/web-interface/device/Add-a-device-group.png)
     
         
         - Bước 1: Click  :heavy_plus_sign: để thêm nhóm  thiết bị.
@@ -31,7 +31,7 @@ Khi click vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/imag
 
             Ngoài ra, có thể tạo thêm nhóm thiết bị bằng cách như hình dưới đây: 
 
-            <span style="display:block;text-align:center">![search device ](/docs/assets/images/web-interface/device/Add-a-device-group-2.png)
+            <span style="display:block;text-align:left">![search device ](/docs/assets/images/web-interface/device/Add-a-device-group-2.png)
         
         Tham khảo thêm chi tiết về Nhóm thiết bị [tại đây](vi/modules/web-interface/devices/equipment-group/#equipment-group)
     - **Loại SIM**: Chọn loại SIM tương ứng với nhà mạng của số điện thoại.
@@ -64,7 +64,7 @@ Khi click vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/imag
     - **Số máy** : Số máy xe của bạn. (Dành cho xe máy).
     - **Lái xe**: Tên người lái xe của xe/phương tiện đã lắp thiết bị định vị.
         Nếu chưa có thì click vào **:heavy_plus_sign:**
-    <span style="display:block;text-align:center">![search device ](/docs/assets/images/web-interface/device/add-a-driver.png)
+    <span style="display:block;text-align:left">![search device ](/docs/assets/images/web-interface/device/add-a-driver.png)
 
         - **Tài khoản** : Tên tài khoản muốn thêm người lái xe.
         - **Tên** : Tên người lái xe lắp thiết bị.
@@ -80,7 +80,7 @@ Khi click vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/imag
         Click vào **Thêm** để lưu người lái xe.
 
     Ngoài ra, có thể thêm người lái xe bằng cách như hình dưới đây :
-    <span style="display:block;text-align:center">![search device ](/docs/assets/images/web-interface/device/add-a-driver-2.png)
+    <span style="display:block;text-align:left">![search device ](/docs/assets/images/web-interface/device/add-a-driver-2.png)
 
      Tham khảo thêm chi tiết [tại đây](vi/modules/web-interface/devices/driver/#driver)
 
@@ -104,11 +104,11 @@ Khi click vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/imag
 ### 3. Cảm biến 
 
 
-<span style="display:block;text-align:center">![delete device](/docs/assets/images/web-interface/device/Sensor-device.png)
+<span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/Sensor-device.png)
  
 Khi click vào  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Thêm cảm biến** , sẽ xuất hiện hộp thoại như sau: 
 
-<span style="display:block;text-align:center">![delete device](/docs/assets/images/web-interface/device/advanced-sensor-device.png)
+<span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/advanced-sensor-device.png)
 
 - ***Cơ bản*** 
     - **Tên cảm biến** : Đặt tên cảm biến cho dễ nhớ, dễ nhìn. 
@@ -133,20 +133,36 @@ Click **Thêm** để lưu cảm biến.
 
 
 ### 4. Camera 
-<span style="display:block;text-align:center">![delete device](/docs/assets/images/web-interface/device/add-camera-device.png)
 
-Khi click vào  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Thêm camera** xuất  hiện hộp thoại như hình trên: 
-- **Tên** : Nhập tên camera bạn muốn lắp đặt.
-- **Loại camera** : Chọn loại camera mà bạn muốn lắp.
-    * Đối với loại camera MDVR thì bên nhân viên kỹ thuật sẽ cấu hình địa chỉ MDVR Id, host, cổng cho thiết bị.
-- **Camera Id** : Nhập mã số của camera.
-- **Mô tả** : Có thể nhập thêm thông tin về camera,...
+* **Đối với loại camera : Basic**
+    <span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/add-camera-device-1.png)
 
-Click **Thêm** để lưu camera.
+    * Khi click vào  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Thêm camera** xuất  hiện hộp thoại như hình trên: 
+        - **Tên** : Nhập tên camera bạn muốn lắp đặt.
+        - **Loại camera** : Basic ( thường )  chỉ chụp ảnh.
+        - **Camera Id** : Nhập mã  của camera.
+        - **Mô tả** : Có thể nhập thêm thông tin về camera,...
 
+* **Đối với loại camera : MDVR**
+
+    <span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/add-camera-device-2.png)
+
+    * Khi click vào  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Thêm camera** xuất  hiện hộp thoại như hình trên: 
+        - **Tên** : Nhập tên camera bạn muốn lắp đặt.
+        - **Loại camera** : MDVR ngoài chụp ảnh ra còn có thêm tính năng quay video.
+        - **MDVR Id** : Nhập mã của camera.
+        - **Host** : Địa chỉ IP truy cập server camera
+        - **Cổng** : Cổng kết nối đến đầu ghi hình camera
+        - **Kênh** : Tùy chọn Kênh camera 
+        - **Luồng** : Tùy chọn luồng dữ liệu đầu ra. Luồng dữ liệu **chính** với độ nét cao để phục vụ lưu trữ, xem lại. Còn luồng dữ liệu **phụ** dùng để xem qua mạng – với tốc độ đường truyền hạn chế.
+        - **Mô tả** : Có thể nhập thêm thông tin về camera,...
+
+        Click **Thêm** để lưu camera.
+
+> Bên nhân viên kỹ thuật sẽ cấu hình địa chỉ  MDVR Id, host, cổng cho thiết bị.
 
 ### 5. Mở rộng
-<span style="display:block;text-align:center">![delete device](/docs/assets/images/web-interface/device/expand-device.png)
+<span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/expand-device.png)
 
 - ***Cấu hình*** 
     - **Thời gian chờ GPRS (phút)** : Cấu hình thời gian không sử dụng thiết bịnhỏ  hơn số đó là thiết bị vẫn đang hoạt động.
@@ -156,18 +172,18 @@ Click **Thêm** để lưu camera.
 
     Ngoài ra, có thể cấu hình thiết bị bằng cách như hình dưới đây :
 
-        <span style="display:block;text-align:center">![delete device](/docs/assets/images/web-interface/device/device-configuration.png)
+    <span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/device-configuration.png)
 
 ### 6. Cảnh báo
 
 
-<span style="display:block;text-align:center">![delete device](/docs/assets/images/web-interface/device/warning-device.png)
+<span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/warning-device.png)
 
 Tick <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg) để bật/tắt các cảnh báo thiết bị mà bạn muốn gửi cảnh báo về.
 
 Ngoài ra, có thể cấu hình thông báo thiết bị bằng cách như hình dưới đây :
 
-<span style="display:block;text-align:center">![delete device](/docs/assets/images/web-interface/device/device-notification-configuration.png)
+<span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/device-notification-configuration.png)
 
 Sau khi sửa xong các thông tin, click **Lưu thay đổi** để hoàn thành thao tác.
 

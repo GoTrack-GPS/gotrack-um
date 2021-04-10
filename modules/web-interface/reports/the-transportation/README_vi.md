@@ -12,7 +12,7 @@ Nếu người dùng muốn xem **Báo cáo TT73-Hành trình xe chạy** :
 * Vào **Báo cáo >  Bộ giao thông vận tải > TT73-Hành trình xe chạy**.
 Hiện ra màn hình **TT73-Hành trình xe chạy** như hình dưới đây :
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/the-transportation.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/the-transportation.png)
 
 #### Tìm kiếm 
 
@@ -23,13 +23,13 @@ Hiện ra màn hình **TT73-Hành trình xe chạy** như hình dưới đây :
 * Bước 2 : Nhấn **Tìm kiếm** 
     Nếu nhấn **Đặt lại** sẽ trở về mặc định ban đầu.
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/search-the-transportation.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/search-the-transportation.png)
 
 #### Xuất báo cáo
 
 Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) , <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/export-the-transportation.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/export-the-transportation.png)
 
 ### TT73-Tốc độ từng giây 
 
@@ -37,7 +37,7 @@ Nếu người dùng muốn xem **Báo cáo TT73-Tốc độ từng giây** :
 * Vào **Báo cáo >  Bộ giao thông vận tải > TT73-Tốc độ từng giây**.
 Hiện ra màn hình **TT73-Tốc độ từng giây** như hình dưới đây :
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/speed-per-second.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/speed-per-second.png)
 
 #### Tìm kiếm 
 
@@ -48,7 +48,7 @@ Hiện ra màn hình **TT73-Tốc độ từng giây** như hình dưới đây 
 * Bước 2 : Nhấn **Tìm kiếm** 
     Nếu nhấn **Đặt lại** sẽ trở về mặc định ban đầu.
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/search-speed-per-second.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/search-speed-per-second.png)
 
 
 #### Xuất báo cáo
@@ -61,7 +61,7 @@ Nếu người dùng muốn xem **Báo cáo TT73-Quá tốc độ giới hạn**
 * Vào **Báo cáo >  Bộ giao thông vận tải > TT73-Quá tốc độ giới hạn**.
 Hiện ra màn hình **TT73-Quá tốc độ giới hạn** như hình dưới đây :
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/speed-limit.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/speed-limit.png)
 
 #### Tìm kiếm 
 
@@ -72,7 +72,7 @@ Hiện ra màn hình **TT73-Quá tốc độ giới hạn** như hình dưới �
 * Bước 2 : Nhấn **Tìm kiếm** 
     Nếu nhấn **Đặt lại** sẽ trở về mặc định ban đầu.
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/search-speed-limit.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/search-speed-limit.png)
 
 #### Xuất báo cáo
 
@@ -86,7 +86,7 @@ Nếu người dùng muốn xem **Báo cáo TT73-Thời gian lái xe liên tục
 * Vào **Báo cáo >  Bộ giao thông vận tải > TT73-Thời gian lái xe liên tục (SV)**.
 Hiện ra màn hình **TT73-Thời gian lái xe liên tục (SV)** như hình dưới đây :
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/continuous-driving-time.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/continuous-driving-time.png)
 
 #### Tìm kiếm 
 
@@ -100,7 +100,7 @@ Hiện ra màn hình **TT73-Thời gian lái xe liên tục (SV)** như hình d�
 * Bước 2 : Nhấn **Tìm kiếm** 
     Nếu nhấn **Đặt lại** sẽ trở về mặc định ban đầu.
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/search-continuous-driving-time.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/search-continuous-driving-time.png)
 
 #### Xuất báo cáo
 
@@ -113,7 +113,7 @@ Nếu người dùng muốn xem **Báo cáo TT73-Thời gian lái xe liên tục
 * Vào **Báo cáo >  Bộ giao thông vận tải > TT73-Thời gian lái xe liên tục**.
 Hiện ra màn hình **TT73-Thời gian lái xe liên tục** như hình dưới đây :
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/continuous-driving-time-1.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/continuous-driving-time-1.png)
 
 
 
@@ -129,7 +129,7 @@ Hiện ra màn hình **TT73-Thời gian lái xe liên tục** như hình dưới
 * Bước 2 : Nhấn **Tìm kiếm** 
     Nếu nhấn **Đặt lại** sẽ trở về mặc định ban đầu.
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/search-continuous-driving-time-1.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/search-continuous-driving-time-1.png)
 
 #### Xuất báo cáo
 
@@ -143,7 +143,7 @@ Nếu người dùng muốn xem **Báo cáo TT73-Dừng đỗ** :
 * Vào **Báo cáo >  Bộ giao thông vận tải > TT73-Dừng đỗ**.
 Hiện ra màn hình **TT73-Dừng đỗ** như hình dưới đây :
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/stop.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/stop.png)
 
 #### Tìm kiếm 
 
@@ -156,7 +156,7 @@ Hiện ra màn hình **TT73-Dừng đỗ** như hình dưới đây :
 * Bước 2 : Nhấn **Tìm kiếm** 
     Nếu nhấn **Đặt lại** sẽ trở về mặc định ban đầu.
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/search-stop.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/search-stop.png)
 
 #### Xuất báo cáo
 
@@ -169,7 +169,7 @@ Nếu người dùng muốn xem **Báo cáo TT73-Tổng hợp theo xe** :
 * Vào **Báo cáo >  Bộ giao thông vận tải > TT73-Tổng hợp theo xe**.
 Hiện ra màn hình **TT73-Tổng hợp theo xe** như hình dưới đây :
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/synthesized-by-vehicle.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/synthesized-by-vehicle.png)
 
 #### Tìm kiếm 
 
@@ -182,7 +182,7 @@ Hiện ra màn hình **TT73-Tổng hợp theo xe** như hình dưới đây :
 * Bước 2 : Nhấn **Tìm kiếm** 
     Nếu nhấn **Đặt lại** sẽ trở về mặc định ban đầu.
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/reports/search-synthesized-by-vehicle.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/search-synthesized-by-vehicle.png)
 
 #### Xuất báo cáo
 

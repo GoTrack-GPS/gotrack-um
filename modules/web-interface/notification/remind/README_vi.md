@@ -3,10 +3,10 @@
 
 Đầu tiên, bạn nhấn vào **Quản lý > Cảnh báo - Lập lịch > Quy tắc cảnh báo**
 
-<span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/remind.jpg) 
+<span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/remind.jpg) 
 
 ### Tìm kiếm 
-<span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/search-remind.jpg)
+<span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/search-remind.jpg)
 
 - Có thể tìm kiếm theo 2 tiêu chí :
     * **Tên** : Tên nhắc nhở.
@@ -16,9 +16,9 @@
 * Bước 1 : Click vào **Tạo mới nhắc nhở**.
 * Bước 2 : Xuất hiện hộp thoại như hình dưới đây : 
 
-<span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/add-remind-1.jpg)
+<span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/add-remind-1.jpg)
 
-<span style="display:block;text-align:center">![Interface manage acount](/docs/assets/images/web-interface/notification/add-remind-2.jpg)
+<span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/add-remind-2.jpg)
 
 
 * ***Loại nhắc nhở*** : Chọn loại nhắc nhở cài đặt thông số ở phần thiết bị tương ứng.

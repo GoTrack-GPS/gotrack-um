@@ -20,7 +20,7 @@ Giao diện phần mềm đa dạng: Giao diện trên nền tảng Máy Tính, 
 
 Dưới đây là giao diện trang chủ (Tổng quan) của phần mềm.
 
-<span style="display:block;text-align:center">![active device ](/docs/assets/images/web-interface/Home-page.png)
+<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-interface/Home-page.png)
 - **Vùng 1**: Menu dọc được sử dụng để truy cập nhanh các công cụ và cài đặt được sử dụng thường xuyên.
     * Click 1 lần vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/bars.svg) để mở rộng menu dọc. (Click 1 lần nữa vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/times.svg)để thu gọn menu dọc). 
 - **Vùng 2** : Vùng hiển thị dữ liệu tổng quát.

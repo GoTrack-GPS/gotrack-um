@@ -7,7 +7,7 @@
 Để chuyển/gán thiết bị sang cho tài khoản khác, có 2 cách
 * **Cách 1** : 
 
-    <span style="display:block;text-align:center">![Manage device ](/docs/assets/images/web-interface/device/move-device.png)
+    <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/device/move-device.png)
 
     - Bước 1: Tick vào thiết bị cần chuyển/bán.
     - Bước 2: Chọn **Chuyển/Bán**.
@@ -15,7 +15,7 @@
     - Bước 4: Click vào **Gửi** để chuyển/bán thiết bị.
 * **Cách 2**
 
-    <span style="display:block;text-align:center">![Manage device ](/docs/assets/images/web-interface/device/equipment-sale.png)
+    <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/device/equipment-sale.png)
     
 
     - Bước 1 : Click vào **Thêm**
@@ -32,7 +32,7 @@
 - **Kích hoạt tự động**: Thiết bị được tự động kích hoạt sau 8h kể từ khi tạo và lắp xong thiết bị.
 - **Kích hoạt thủ công**:
      
-    <span style="display:block;text-align:center">![active device ](/docs/assets/images/web-interface/device/active-device.png)
+    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-interface/device/active-device.png)
 
     - Bước 1: Chọn thiết bị mà bạn muốn kích hoạt / vô hiệu hóa.
     - Bước 2. Chọn **:point_right: Kích hoạt** / **vô hiệu hóa**. **IMEI** là mã số của thiết bị đó.
@@ -46,7 +46,7 @@
 
 Để cài đặt trạng thái cho thiết bị, thực hiện các bước sau: 
 
-<span style="display:block;text-align:center">![Manage device ](/docs/assets/images/web-interface/device/device-status.png)
+<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/device/device-status.png)
 
 
 - Bước 1: Tick vào thiết bị cần cài đặt trạng thái.
@@ -58,7 +58,7 @@
 
 Để gửi lệnh thiết bị, thực hiện các bước sau: 
 
-<span style="display:block;text-align:center">![Manage device ](/docs/assets/images/web-interface/device/send-the-device-command.png)
+<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/device/send-the-device-command.png)
 
 
 - Bước 1: Tick vào thiết bị cần gửi lệnh.
@@ -71,7 +71,7 @@
 ### 5. Gia hạn thiết bị
 Để gia hạn thiết bị, thực hiện các bước sau: 
 
-<span style="display:block;text-align:center">![Manage device ](/docs/assets/images/web-interface/device/device-extension.png)
+<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/device/device-extension.png)
 
 
 - Bước 1: Tick vào thiết bị cần gia hạn.
@@ -81,27 +81,10 @@
 - Bước 4: Click vào **Gửi** để gia hạn thiết bị.
 
 ### 6. Xuất dữ liệu
-Có 2 loại:
-- Tải xuống (/xlsx) : Chỉ  có dữ liệu của thiết bị bạn chọn.
-- Tải xuống tất cả (/xlsx) : Có tất cả dữ liệu thiết bị mà tài khoản đó có.
+* Có 2 loại:
+    - **Tải xuống (.xlsx)** : Chỉ  có dữ liệu của thiết bị bạn chọn.
+    - **Tải xuống tất cả (.xlsx)** : Có tất cả dữ liệu thiết bị mà tài khoản đó có.
 
-### 7. Theo dõi nhiều xe 
-
-Để theo dõi nhiều xe, vào  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-maintenance.svg) > **Theo dõi nhiều xe**
- 
-* Nhập tên thiết bị để tìm kiếm nhanh thiết bị bạn muốn tìm.
-
- <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/track-vehicle.jpg) 
-
- * Click 1 hoặc nhiều vào tên thiết bị đã tạo để theo dõi vị trí của thiết bị đó.
-
-    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/track-vehicle-2.jpg)
-
-    <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/times.svg)  Đóng vùng.
-
-    <span class="icon-left svg-filter-company">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-circle-left.svg) Thu gọn hộp theo dõi chi tiết
-
-    <span class="icon-left svg-filter-company">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-circle-right.svg) Mở rộng hộp theo dõi chi tiết
 
 
 

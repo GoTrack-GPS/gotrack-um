@@ -1,10 +1,10 @@
 # Tiện ích bản đồ
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/map-widget-2.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/map-widget-2.png)
 
 ### Màu xe
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/color-mode-2.png) 
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/color-mode-2.png) 
 
 - Màu  của xe tương ứng với các trạng thái ở chú thích <span class="icon-left svg-filter-circlepurple">![Ok](/docs/assets/images/web-interface/icon/SVG/info.svg).
 
@@ -26,11 +26,11 @@ Click vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/we
 - Bước 2 : Bấm vào màn hình để đo khoảng cách nơi bạn cần đến. 
 - Bước 3 : Kết quả hiển thị như hình dưới đây :
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/measurin-distance.png) 
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/measurin-distance.png) 
 
 ### Tìm đường
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/find-the-way.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/find-the-way.png)
 
 - Bước 1 : <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/directions.svg)
 - Bước 2 : 
@@ -40,7 +40,7 @@ Click vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/we
 - Bước 3 : Click vào **Tìm trên Google Maps**.
 Ví dụ: Kết quả như hình dưới đây :
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/find-the-way-2.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/find-the-way-2.png)
 
 
 ### Phóng to / Thu nhỏ vùng hiển thị
