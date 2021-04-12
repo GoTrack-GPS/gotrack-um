@@ -36,3 +36,5 @@ To start performing the **Search** function, users go to **Manage > Devices**
 * Select **Search** will display the information to search.
 
     **Reset**: Will delete the characters you have just entered to search and display again under the original default mode.
+
+In addition, other ways to search can be found [here](modules/get-started/#searchdevice) <div id="searchdevice"> 

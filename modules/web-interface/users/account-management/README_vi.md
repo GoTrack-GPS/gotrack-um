@@ -25,6 +25,8 @@ Click vào **Quản lý > Tài khoản** để thực thực các chức năng t
 - Chọn **Tìm kiếm** sẽ hiển thị ra thông tin cần tìm.
 - **Đặt lại** : Sẽ xóa đi các ký tự bạn vừa nhập để tìm kiếm và hiển thị lại theo chế độ mặc định ban đầu.
 
+Ngoài ra, có thể tham khảo cách tìm kiếm khác [tại đây](vi/modules/get-started/#searchuser)  <div id="searchuser"> 
+
 ### 2. Thêm tài khoản
 Người dùng liên hệ với nhà cung cấp dịch vụ, đại lý để tạo tài khoản mới. Chỉ nhà cung cấp dịch vụ, đại lý, tài khoản cha mới  được tạo tài khoản mới.
 

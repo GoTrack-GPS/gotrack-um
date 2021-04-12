@@ -1,5 +1,6 @@
 # Edit decvice 
 
+
 To start performing the **Edit** function, users go to **Manage > Devices**
 
 <span class="icon-left4">![active device ](/docs/assets/images/web-english/device/manage-device.png)
@@ -102,7 +103,7 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
 
     <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/add-driver-2.png)
 
-    See more details about the **Device Group** [here](vi/modules/web-interface/devices/equipment-group/#equipment-group)
+    See more details about the **Driver** [here](modules/web-interface/devices/driver/#driver)
   
 * ***Fuel***
 

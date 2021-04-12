@@ -39,7 +39,7 @@ Click vào **Thêm** để lưu người lái xe.
 
 <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/device/edit-driver.png)
 
-- Bước 1 : Click vào **Sửa**.
+- Bước 1 : Click vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-edit.svg) **Sửa**.
 - Bước 2 : Sửa các ô muốn sửa.
 
 

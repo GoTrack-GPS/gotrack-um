@@ -25,6 +25,9 @@ Only an owner has the full access to the main account. An owner can create addit
 * Select **Search** will display the information to search.
 * **Reset**: Will delete the characters you have just entered to search and display again under the original default mode. 
 
+
+
+
 ### 2. Add new user
 
 Users contact service providers, agents to create a new account. Only the service provider, agent, or parent account can create a new account.

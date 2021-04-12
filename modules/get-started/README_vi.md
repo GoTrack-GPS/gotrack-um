@@ -20,11 +20,58 @@ Giao diện phần mềm đa dạng: Giao diện trên nền tảng Máy Tính, 
 
 Dưới đây là giao diện trang chủ (Tổng quan) của phần mềm.
 
+<div id="menu">
+</div>
+
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-interface/Home-page.png)
+
+* **Menu** được sử dụng để truy cập nhanh các công cụ và cài đặt được sử dụng thường xuyên.
+
 - **Vùng 1**: Menu dọc được sử dụng để truy cập nhanh các công cụ và cài đặt được sử dụng thường xuyên.
     * Click 1 lần vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/bars.svg) để mở rộng menu dọc. (Click 1 lần nữa vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/times.svg)để thu gọn menu dọc). 
+
 - **Vùng 2** : Vùng hiển thị dữ liệu tổng quát.
+
 - **Vùng 3** : Cấu hình hiển thị.
     * Bật / Tắt  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg)thông tin cần hiển thị ở vùng dữ liệu.
     * Click 1 lần vào <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-down.svg) để mở rộng cấu hình hiển thị. (Click 1 lần nữa vào <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-up.svg)để thu gọn cấu hình hiển thị). 
+
+### <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg) Tìm kiếm nâng cao
+
+<div id="searchdevice">
+</div>
+
+* **Tìm kiếm thiết bị**
+
+    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-interface/search-device.png)
+
+    * Bước 1 :Click vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg)  **Tìm kiếm** trên **menu**.
+
+    * Bước 2 : Chọn tab **Thiết bị** 
+        * **IMEI / Tên thiết bị / Biển số** : Người dùng có thể nhập cả tên hoặc một vài ký tự có trong IMEI / Tên thiết bị / Biển số đã tạo.
+        * **Số SIM** : Nhập số điện thoại.
+
+    * Bước 3 : Nhấn **Tìm kiếm**.
+
+<div id="searchuser">
+</div>
+
+* **Tìm kiếm tài khoản** 
+    
+    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-interface/search-user.png)
+
+    * Bước 1 :Click vào  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg) **Tìm kiếm** trên **menu**.
+
+    * Bước 2 : Chọn tab **Tài khoản** 
+
+        * **Tên tài khoản / người dùng** : Nhập cả tên tài khoản / người dùng đã đăng ký  hoặc một vài ký tự có trong tên tài khoản / người dùng. 
+
+        * **Email** : Người dùng có thể nhập cả tên Email đã đăng ký hoặc một vài ký tự có trong Email của mình.
+        
+    * Bước 3 : Nhấn **Tìm kiếm**.
+    
+
+
+
+
 

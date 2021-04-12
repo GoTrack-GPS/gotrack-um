@@ -10,11 +10,28 @@
 
  Click  <span class="icon-left svg-filter-circlepurple">![Ok](/docs/assets/images/web-interface/icon/SVG/info.svg) 1 lần để hiển thị trên bản đồ, 1 lần nữa để ẩn thông tin màu.
 
-- Ví dụ : Khi thấy biểu tượng xe ở hộp danh sách thiết bị và nhãn  hiển thị ở trên bản đồ màu đỏ <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) thì có nghĩa là xe đó đang dừng.
+<div id="mau">
+</div>
 
-Tương tự với các màu khác cũng vậy.
+### Quy ước màu trạng thái
+ 
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/color-mode.png)
 
-Bạn có thể tham khảo [tại đây](vi/modules/web-interface/tracking/Interface-main/#mau) <div id="mau">
+* Khi icon xe hiển thị   <span class="icon-left svg-filter-circlegreen">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) : Xe đang ở trạng thái tắt máy
+
+* Khi icon xe hiển thị   <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) : Xe đang dừng.
+
+* Khi icon xe hiển thị   <span class="icon-left svg-filter-circleyellow">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) : Xe đang dừng nhưng vẫn nổ máy.
+
+* Khi icon xe hiển thị   <span class="icon-left svg-filter-circlepurple">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) : GPS kém.
+
+* Khi icon xe hiển thị   <span class="icon-left svg-filter-circleden">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) : GPRS kém.
+
+* Khi icon xe hiển thị   <span class="icon-left svg-filter-circlexam">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) : Truyền lịch sử.
+
+* Khi icon xe hiển thị   <span class="icon-left svg-filter-circlenau">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) : Hết hạn sử dụng dịch vụ.
+
+* Khi icon xe hiển thị   <span class="icon-left svg-filter-circlexamtro">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) : Chưa kích hoạt thiết bị.
 
 ### Tìm kiếm
 Click vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg)  để tìm địa chỉ trên bản đồ.

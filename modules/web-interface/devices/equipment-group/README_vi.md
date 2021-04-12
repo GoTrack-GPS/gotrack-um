@@ -28,7 +28,7 @@ Nhấn **Thêm** để hoàn thành thao tác.
 
 <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/edit-equipment-group.jpg)
 
-- Bước 1 : Click vào **Sửa** .
+- Bước 1 : Click vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-edit.svg) **Sửa** .
 - Bước 2 : Hộp thoại xuất hiện như hình trên :
     * **Tên** : Sửa lại tên nhóm thiết bị.
     * **Thiết bị** : Chọn thêm / bớt thiết bị có điểm chung nào đó để gộp nhóm.

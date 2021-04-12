@@ -30,3 +30,4 @@
   - **Đặt lại**  : Sẽ xóa đi các ký tự bạn vừa nhập để tìm kiếm và hiển thị lại theo chế độ mặc định ban đầu.
 
 
+Ngoài ra, có thể tham khảo cách tìm kiếm khác [tại đây](vi/modules/get-started/#searchdevice)  <div id="searchdevice"> 
