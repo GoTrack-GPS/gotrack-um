@@ -43,6 +43,9 @@ Chọn vào thiết bị cần xem, hệ thống hiển thị vị trí xe trên
 
 <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/list-and-device-information-1.png)
 
+<div id="config">
+</div>
+
 * **Danh sách thiết bị**
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/list-device-map-1.png)

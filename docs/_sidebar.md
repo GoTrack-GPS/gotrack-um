@@ -18,10 +18,10 @@
                - [Workspace overview ](modules/web-interface/tracking/Interface-main/)
                - [General supervision](modules/web-interface/tracking/general-device-monitoring/)
                - [Detailed monitoring](modules/web-interface/tracking/detailed-monitoring/)
+               - [Extensive tools](modules/web-interface/tracking/map-tools/)
 
                
 <!--              
-               - [Bố cục ](vi/modules/web-interface/tracking/Interface-main/)
       - [Công cụ mở rộng](vi/modules/web-interface/tracking/map-tools/)
       - [Tiện ích bản đồ](vi/modules/web-interface/tracking/map-widget/)
       - [Quản lý vùng](vi/modules/web-interface/tracking/manage-region/)

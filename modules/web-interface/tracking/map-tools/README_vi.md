@@ -11,6 +11,7 @@
     - **Hiển thị cụm** : Nếu một khu nào đó có nhiều thiết bị ở cạnh nhau thì sẽ gộp lại thành 1 cụm hình vòng tròn.
     - **Tâm bản đồ** : Xác định vị trí tâm của bản đồ.
     - **Theo dõi** : Theo dõi tất cả các thiết bị của tài khoản đó.
+    - **Hiển thị thông tin khi di chuột**
     - **Kiểu hiển thị** : 
         - Nhãn : Cả biểu tượng xe và tên thiết bị sẽ nằm trong cùng 1 nhãn / 1 dòng.
         - Nhãn + Biểu tượng : Tên thiết bị và biểu tượng xe sẽ ỏe khác dòng. Ngay trên biểu tượng xe.
@@ -28,11 +29,7 @@
 
 - Khi click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus-circle.svg) sẽ phóng to theo vị trí tâm bản đồ / vị trí bạn muốn phóng to lên.
 
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/zoom-in.png)
-
 - Khi click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/minus-circle.svg) sẽ thu nhỏ theo vị trí tâm bản đồ / vị trí bạn muốn thu nhỏ lại.
-
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/zoom-out.png)
 
 - Hoặc người dùng có thể dùng con lăn của chuột để phóng to / thu nhỏ, kéo đến vị trí mình muốn tìm trên bản đồ.
 
@@ -185,6 +182,11 @@ Ngoài ra, có thể tham khảo cách khác [tại đây](vi/modules/web-interf
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/add-region-2.png)
 
+    
+
+- Bước 2 : Hộp thoại xuất hiện như hình dưới đây :
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/add-region.png)
+
     **Tên** : Nhập tên vùng muốn tạo.
 
     **Nhóm** : Chọn nhóm vùng 
@@ -192,10 +194,7 @@ Ngoài ra, có thể tham khảo cách khác [tại đây](vi/modules/web-interf
     **Mô tả** : Mô tả vùng đó có gì đặc biệt,...
 
     **Màu, độ mờ** : Chọn màu , đồ mờ tùy chọn, muốn hiển thị trên bản đồ
-
-- Bước 2 : Hộp thoại xuất hiện như hình dưới đây :
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/add-region.png)
-
+    
     <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/polygon.svg) Thêm điểm nối tiếp nhau để tạo  thành 1 vùng
 
     <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/square-full.svg) Thêm điểm sửa từng điểm theo vị trí mình muốn tạo vùng

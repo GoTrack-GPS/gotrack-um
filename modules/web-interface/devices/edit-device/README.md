@@ -1,5 +1,7 @@
 # Edit decvice 
 
+<div id="suathietbi">
+</div>
 
 To start performing the **Edit** function, users go to **Manage > Devices**
 
@@ -120,6 +122,9 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
     * **Send data**: Can be enabled/disabled.
     * **Province**: Select a province to send data. (Selected only when sending mode is enabled).
     * **Transport type QCVN**: Choose one of the types of transport that is correct for the vehicle/vehicle in which you install the equipment. (Selectable only when sending mode is enabled).
+
+<div id="cambien">
+</div>
 
 ### 3. Sensor
 

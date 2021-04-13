@@ -27,9 +27,10 @@
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/route-3.png)
 
-    - Bước 1 : Chọn biển số xe cần xem.
+    - Bước 1 : Chọn tên thiết bị cần xem.
     - Bước 2: Chọn ngày, giờ xem lộ trình. Ấn **OK**
     - Bước 3 : Trên màn hình lúc này cập nhật lên lộ trình xe chạy trong khoảng thời gian đó như hình trên.
+
 * **Theo từng đối tượng** 
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/route-4.png) 
@@ -60,8 +61,8 @@
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/report-route.png)
 
     Có thể tải xuống báo cáo tất cả các thiết bị của tài khoản đó :
-    - Dạng Excel.
-    - Dạng PDF.
+    - <span class="icon-left svg-filter-circlegreen">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) Dạng Excel.
+    *  <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) Dạng PDF.
 
 ### 3. Gửi lệnh
 - Bước 1:  
@@ -126,8 +127,10 @@ hoặc <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-int
    Hiển thị :
    - Vị trí của xe.
    - Thông tin của thiết đó, hôm nay đi được bao nhiêu quãng đường, lái xe, các điểm dừng.
-   Khi click vào  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/route.svg), <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/stop-circle.svg) hoặc <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/car-alt.svg) <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/long-arrow-alt-right.svg) tab Lộ trình.
+   Khi click vào  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/route.svg), <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/stop-circle.svg) hoặc <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/car-alt.svg) chuyển sang tab Lộ trình.
+
     Xem lịch sử lộ trình xe [tại đây](vi/modules/web-interface/tracking/detailed-monitoring/#route)<div id="route">
+
    - Cảm biến : Các bước thêm cảm biến tham khảo [tại đây](vi/modules/web-interface/devices/edit-device/#cambien) <div id="cambien">
     - Dữ liệu khác
 
@@ -139,14 +142,19 @@ hoặc <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-int
 
  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/track-vehicle.jpg) 
 
- * Click 1 hoặc nhiều vào tên thiết bị đã tạo để theo dõi vị trí của thiết bị đó.
+ * <span class="icon-left svg-filter-company">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square.svg) Tick 1 hoặc nhiều vào  tên thiết bị đã tạo để theo dõi vị trí của thiết bị đó.
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/track-vehicle-2.jpg)
 
-    <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/times.svg)  Đóng vùng.
+    <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/times.svg)  Đóng vùng.
 
     <span class="icon-left svg-filter-company">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-circle-left.svg) Thu gọn hộp theo dõi chi tiết
 
     <span class="icon-left svg-filter-company">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-circle-right.svg) Mở rộng hộp theo dõi chi tiết
 
+* Cấu hình theo dõi nhiều xe
+ 
+ Click <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) . 
+ Tham khảo chi tiết [tại đây](/vi/modules/web-interface/tracking/general-device-monitoring/#config) <div id="config"> 
+    
 

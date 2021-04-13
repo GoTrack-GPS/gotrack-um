@@ -47,6 +47,9 @@
 
 <span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/setting-box-device.png)
 
+<div id="config">
+</div>
+
 * **List device**
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/setting-box-list-device.png)
