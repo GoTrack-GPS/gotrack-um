@@ -71,7 +71,7 @@ Step 2: Appearance dialog box as follows:
 
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/notifications/edit-alert.png)
 
-* Step 2 : After finishing fixing. Click **Save changes** to complete the operation.
+After finishing fixing. Click **Save changes** to complete the operation.
 
 ### Delete elert
 
