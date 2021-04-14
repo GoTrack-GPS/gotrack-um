@@ -66,6 +66,7 @@ First, click on **Manage > Alerts - Schedule > Alert Rules**
 ### Edit elert
 
 Step 1: Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/edit.svg) to edit the alert.
+
 Step 2: Appearance dialog box as follows:
 
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/notifications/edit-alert.png)
