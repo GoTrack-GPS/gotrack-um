@@ -1,4 +1,4 @@
-# Thông báo
+#  Quản lý thông báo
 
 * **Cách 1** : Click vào **Quản lý > Cảnh báo - Lập lịch > Thông báo** 
 

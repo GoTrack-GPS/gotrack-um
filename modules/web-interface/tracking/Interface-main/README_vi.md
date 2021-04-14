@@ -14,7 +14,7 @@
 
 **6**. Công cụ mở rộng
 
-**7**. Tiện ích 
+**7**. Tiện ích bản đồ
 
 
 ### Menu chính
@@ -84,7 +84,7 @@ Giám sát trực tuyến: Vị trí, lộ trình, hướng di chuyển, trạng
 
 <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus-square.svg) Tạo mới điểm đánh dấu, tạo mới vùng cảnh báo.
  
- ### Tiện ích 
+ ### Tiện ích bản đồ
 <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/map-widget.png)
 
 <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/info-circle.svg) Thông tin về màu thể hiện trạng thái xe. 

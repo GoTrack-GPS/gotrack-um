@@ -50,7 +50,7 @@ Hiện ra màn hình **Báo cáo Tổng hợp ( thiết bị )** như hình dư�
 
 #### Xuất báo cáo
 
-Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) , <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF
+Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) , <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF
 
 <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/export-report-device.png) 
 
@@ -77,7 +77,7 @@ Hiện ra màn hình **Báo cáo Tổng hợp theo ngày** như hình dưới đ
 
 #### Xuất báo cáo
 
-Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) , <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF
+Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) , <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF
 
 ### Tổng hợp ra vào vùng 
 

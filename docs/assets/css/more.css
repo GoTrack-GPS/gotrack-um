@@ -138,6 +138,9 @@ filter: invert(100%) sepia(0%) saturate(7499%) hue-rotate(332deg) brightness(96%
 .svg-filter-circlegreen img {
 filter: invert(45%) sepia(94%) saturate(355%) hue-rotate(82deg) brightness(100%) contrast(92%);
 }
+.svg-filter-circlegreen2 img {
+    filter: invert(28%) sepia(74%) saturate(469%) hue-rotate(94deg) brightness(100%) contrast(85%);
+    }
 .svg-filter-circlered img {
 filter: invert(22%) sepia(78%) saturate(7494%) hue-rotate(356deg) brightness(118%) contrast(121%);
 }
@@ -172,6 +175,8 @@ filter: invert(41%) sepia(22%) saturate(3604%) hue-rotate(212deg) brightness(91%
 .svg-filter-blue img {
 filter: invert(44%) sepia(65%) saturate(4474%) hue-rotate(221deg) brightness(92%) contrast(86%);
 }
+
+
       /*  */
 
 

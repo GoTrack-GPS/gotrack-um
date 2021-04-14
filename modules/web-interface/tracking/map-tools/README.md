@@ -4,7 +4,7 @@
 
 ### Setting map
 
-<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/setting-map.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/map/setting-map.png)
 
 * Step 1 : Click <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg).
 
@@ -47,6 +47,9 @@
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/map/location-1.png)
 
 ### Full screen / Normall screen 
+
+<div id="zoom">
+</div>
 
 * Step 1 :  Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/full-screen.svg) to full screen the map
 
@@ -91,9 +94,9 @@
 
         <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/map/edit-geofence.png)
 
-        * **Name** : Edit the created domain name.
+        * **Name** : Edit the created geofence name.
     
-        * **Group** : Reselect the zone group
+        * **Group** : Reselect the geofence group
 
         * **Description** : Describe what's special about that area, ...
     
@@ -193,6 +196,29 @@ Click **Add** to complete the operation.
 - Step 1 : Click  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus-square.svg) **>** <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/polygon.svg) **Create new geofence**.
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/map/create-geofence.png)
+
+* Step 2: The dialog box appears as shown below: 
+
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/map/add-geofence.png)
+
+    * **Name** : Enter a warning geofence name
+    
+    * **Group** : Select the geofence group
+
+    * **Description** : Describe what's special about that area, ...
+
+    * **Color, opacity**: Select color, optional opacity, want to show on the map.
+
+     <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/polygon.svg) Add consecutive points to form  geofence.
+
+    <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/square-full.svg) Add points, edit each point according to the position you want to create geofence.
+
+        
+    <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) Add a point to create a circular geofence.
+
+    * Click **Add** to complete the operation.
+
+
 
 
 

@@ -1,5 +1,5 @@
 
-#  Quy tắc cảnh báo
+#  Quản lý cảnh báo
 
 Khi vi phạm quy tắc cảnh báo sẽ nổ ra cảnh báo cho người dùng.
 
@@ -10,7 +10,7 @@ Khi vi phạm quy tắc cảnh báo sẽ nổ ra cảnh báo cho người dùng.
 ### Tìm kiếm 
 
 - Bước 1 : Tìm kiếm theo các tiêu chí sau :
-    * **Tên thiết bị** : Nhập 1 hoặc nhiều ký tự có trong tên thiết bị mà bạn muốn tìm kiếm.
+    * **Tên thiết bị** : Nhập 1 hoặc nhiều ký tự có trong cảnh báo mà bạn muốn tìm kiếm.
     * **Loại cảnh báo** : Chọn 1 trong các loại cảnh báo có trong ô đó để tìm kiếm dễ hơn.
      <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/search-warning.jpg)
 
@@ -35,15 +35,15 @@ Khi vi phạm quy tắc cảnh báo sẽ nổ ra cảnh báo cho người dùng.
 * ***Loại cảnh báo*** 
     * **Loại cảnh báo** : Chọn loại cảnh báo mà bạn cần gửi cảnh báo về.
     * Cài đặt thông số cho mỗi cảnh báo tương ứng.
-* **Thiết bị** 
+* ***Thiết bị*** 
     - **Luôn chọn tất cả thiết bị** : Bật / Tắt áp dụng cảnh báo đã chọn cho  tất cả các thiết bị trong tài khoản đó.
-* **Vùng địa lý** 
+* ***Vùng địa lý*** 
 Có thể chọn 1 trong 3 lựa chọn sau :
     - Bỏ qua.
     - Ngoài vùng
     - Trong vùng
 
-* Cài đặt thông báo 
+* ***Cài đặt thông báo*** 
 
     - **Sms thông báo** : Nhập  số điện thoại vào ô đó để thêm số điện thoại.
     Bạn có thể thêm 1 hoặc nhiều số điện thoại để gửi cảnh báo về.

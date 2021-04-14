@@ -6,10 +6,10 @@
       - [Quản lý tài khoản](vi/modules/web-interface/users/account-management/)
 
     - **Thiết bị GPS**
-      - [Tìm kiếm thiết bị](vi/modules/web-interface/devices/search-device/)
-      - [Thêm thiết bị](vi/modules/web-interface/devices/add-device/)
-      - [Sửa thiết bị ](vi/modules/web-interface/devices/edit-device/)
-      - [Xóa thiết bị ](vi/modules/web-interface/devices/delete-device/)
+      - [Tìm kiếm ](vi/modules/web-interface/devices/search-device/)
+      - [Thêm ](vi/modules/web-interface/devices/add-device/)
+      - [Sửa  ](vi/modules/web-interface/devices/edit-device/)
+      - [Xóa  ](vi/modules/web-interface/devices/delete-device/)
       - [Các chức năng khác](vi/modules/web-interface/devices/equipment-management/)
       - [Quản lý gửi lệnh ](vi/modules/web-interface/devices/send-the-device-command/)
       - [Quản lý nhóm thiết bị](vi/modules/web-interface/devices/equipment-group/)

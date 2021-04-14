@@ -27,7 +27,7 @@ Hiện ra màn hình **TT73-Hành trình xe chạy** như hình dưới đây :
 
 #### Xuất báo cáo
 
-Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) , <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF
+Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) , <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF
 
 <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/export-the-transportation.png)
 
@@ -53,7 +53,7 @@ Hiện ra màn hình **TT73-Tốc độ từng giây** như hình dưới đây 
 
 #### Xuất báo cáo
 
-Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) , <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF
+Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) , <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF
 
 ### TT73-Quá tốc độ giới hạn 
 
@@ -76,7 +76,7 @@ Hiện ra màn hình **TT73-Quá tốc độ giới hạn** như hình dưới �
 
 #### Xuất báo cáo
 
-Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) , <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF
+Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) , <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF
 
 
 ### TT73-Thời gian lái xe liên tục (SV)
@@ -104,7 +104,7 @@ Hiện ra màn hình **TT73-Thời gian lái xe liên tục (SV)** như hình d�
 
 #### Xuất báo cáo
 
-Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) , <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF
+Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) , <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF
 
 ### TT73-Thời gian lái xe liên tục 
 
@@ -133,7 +133,7 @@ Hiện ra màn hình **TT73-Thời gian lái xe liên tục** như hình dưới
 
 #### Xuất báo cáo
 
-Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) , <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF
+Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) , <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF
 
 
 ### TT73-Dừng đỗ
@@ -160,7 +160,7 @@ Hiện ra màn hình **TT73-Dừng đỗ** như hình dưới đây :
 
 #### Xuất báo cáo
 
-Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) , <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF
+Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) , <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF
 
 ### TT73-Tổng hợp theo xe
 
@@ -186,7 +186,7 @@ Hiện ra màn hình **TT73-Tổng hợp theo xe** như hình dưới đây :
 
 #### Xuất báo cáo
 
-Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) , <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF
+Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) , <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF
 
 
 

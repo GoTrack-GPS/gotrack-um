@@ -1,31 +1,36 @@
 
 - **Get Started**
      - **Web interface**
-          - **Account** 
+          - **Accounts** 
                - [Login](modules/web-interface/users/login/)
                - [Forgot password](modules/web-interface/users/forget-password/)
                - [Account Management](modules/web-interface/users/account-management/)
-          - **Device** 
-               - [Search device](modules/web-interface/devices/search-device/)
-               - [Add device ](modules/web-interface/devices/add-device/)
-               - [Edit device ](modules/web-interface/devices/edit-device/)
-               - [Delete device ](modules/web-interface/devices/delete-device/)
+          - **Devices** 
+               - [Search ](modules/web-interface/devices/search-device/)
+               - [Add ](modules/web-interface/devices/add-device/)
+               - [Edit  ](modules/web-interface/devices/edit-device/)
+               - [Delete  ](modules/web-interface/devices/delete-device/)
                - [Other functions](modules/web-interface/devices/equipment-management/)
-               - [Management send command ](modules/web-interface/devices/send-the-device-command/)
-               - [Device group management](modules/web-interface/devices/equipment-group/)
-               - [Driver management](modules/web-interface/devices/driver/)
+               - [Command ](modules/web-interface/devices/send-the-device-command/)
+               - [Group device](modules/web-interface/devices/equipment-group/)
+               - [Driver](modules/web-interface/devices/driver/)
           - **Map Tracking**
-               - [Workspace overview ](modules/web-interface/tracking/Interface-main/)
+               - [Workspace overview](modules/web-interface/tracking/Interface-main/)
                - [General supervision](modules/web-interface/tracking/general-device-monitoring/)
                - [Detailed monitoring](modules/web-interface/tracking/detailed-monitoring/)
                - [Extensive tools](modules/web-interface/tracking/map-tools/)
-
-               
-<!--              
-      - [Công cụ mở rộng](vi/modules/web-interface/tracking/map-tools/)
-      - [Tiện ích bản đồ](vi/modules/web-interface/tracking/map-widget/)
-      - [Quản lý vùng](vi/modules/web-interface/tracking/manage-region/)
-      - [Quản lý điểm đánh dấu](vi/modules/web-interface/tracking/manage-poi/)
+               - [Utility maps](modules/web-interface/tracking/map-widget/)
+               - [Geofences](modules/web-interface/tracking/manage-region/)
+               - [Landmarks](modules/web-interface/tracking/manage-poi/)
+          - **Notification** 
+               - [Manage notifications](modules/web-interface/notification/)
+               - [Alert management](modules/web-interface/notification/warning/)
+<!--            
+    
+      
+      - [Quản lý cảnh báo](vi/modules/web-interface/notification/warning/)
+      - [Quản lý lập lịch báo cáo](vi/modules/web-interface/notification/Schedule-a-report/)
+      - [Quản lý nhắc nhở](vi/modules/web-interface/notification/remind/)
                - [User Account](modules/web-interface/users/)
                - [Devices and Setting](modules/web-interface/devices/)
                - [Tracking](modules/web-interface/tracking/)

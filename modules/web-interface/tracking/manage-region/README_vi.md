@@ -35,7 +35,7 @@ Click **Thêm** để hoàn thành thao tác.
 
 ### Sửa vùng 
 
-- Bước 1 : Click vào **Sửa** từng vùng.
+- Bước 1 : Click vào on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-edit.svg) **Sửa** từng vùng.
 
 - Bước 2 : Hộp thoại xuất hiện như hình dưới đây :
      <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/edit-region-3.png)
@@ -60,7 +60,7 @@ Click **Lưu thay đổi** để hoàn thành thao tác.
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/track-area-1.jpg)
 
-    <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/times.svg)  Đóng vùng.
+    <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/times.svg)  Đóng vùng.
 
     <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/direction-arrow-fit.svg) ở góc trên cùng bên phải  từng vùng : **Làm mới** , đặt bản đồ về chế độ mặc định ban đầu.
 
@@ -86,21 +86,23 @@ Click **Lưu thay đổi** để hoàn thành thao tác.
 
     Nhấn **Thêm** để hoàn thành thao tác.
     
+
 #### Sửa nhóm vùng địa lý
 
 <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/edit-regional-groups.jpg)
 
-- Bước 1 : Click vào Sửa.
+- Bước 1 : Click vào on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-edit.svg) **Sửa**.
 - Bước 2 : Xuất hiện hộp thoại như hình trên :
     * **Tên** : Sửa lại tên nhóm vùng.
     * **Vùng địa lý** : Chọn thêm / bớt các vùng gần nhau để gộp nhóm.
 
  Nhấn **Lưu thay đổi** để hoàn thành thao tác.
+
 #### Xóa nhóm vùng địa lý
  
  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/delete-regional-groups.jpg)
 
-* Click vào xóa.
+* Click vào **Xóa**.
 * Xuất hiện hộp thoại như hình trên :
     - **OK** : Đồng ý xóa nhóm vùng đó.
     - **Hủy** : Hủy thao tác xóa.

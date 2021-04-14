@@ -14,7 +14,7 @@
 
 6. Extensive tools
 
-7. Utilities
+7. Utility maps
 
 ### Main menu
 
@@ -89,7 +89,7 @@ Online monitoring: Location, route, the direction of movement, status, vehicle s
 
 <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus-square.svg)Create new POI, create new geofence. 
  
- ### Utilities
+ ### Utility maps
 
 <span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/utilities.png)
 
@@ -103,11 +103,7 @@ Online monitoring: Location, route, the direction of movement, status, vehicle s
 
 <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/full-screen.svg) Full screen.
 
- <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/normal-screen.svg) Normall screen.
-
-
-<div id="cauhinh">
-</div>
+<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/normal-screen.svg) Normall screen.
 
 
 

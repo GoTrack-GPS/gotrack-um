@@ -21,9 +21,19 @@
 
 ### Sửa điểm đánh dấu 
 
-### Khóa điểm đánh dấu 
-
 ### Xóa điểm đánh dấu
+
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/delete-poi.png)
+
+* Click vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) **>  Xóa**.
+* Xuất hiện hộp thoại như hình trên :
+    - **OK** : Đồng ý xóa điểm đánh dấu đó.
+    - **Hủy** : Hủy thao tác xóa.
+
+### Khóa điểm đánh dấu 
+* Khi click vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) **> Khóa** sẽ không gửi cảnh báo khi xe đi qua điểm này.
+
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/lock-poi.png)
 
 
 ### Theo dõi theo điểm
