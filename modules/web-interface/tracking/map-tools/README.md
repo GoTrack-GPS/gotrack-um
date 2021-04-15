@@ -32,6 +32,8 @@
 
     * **Direction**: The arrow shows the direction of movement of the vehicle while it is running.
 
+    <span class="icon-left4">![Interface Web](/docs/assets/images/web-english/map/speed-vehicle.png)
+
 ### Zoom in, zoom out of the map
 
 * When clicked <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus-circle.svg) , it will zoom in according to the center of the map/location you want to zoom in on.

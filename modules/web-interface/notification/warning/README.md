@@ -1,4 +1,4 @@
-# Alert management
+# Alert rules
 
 When violating the rule an alert will pop up to alert the user.
 
@@ -18,7 +18,7 @@ First, click on **Manage > Alerts - Schedule > Alert Rules**
 
     **Reset**: Reset to factory default.
 
-### Create new alert
+### Create new alert rule
 
 * Step 1: Choose **Create new alert** tab.
 
@@ -76,3 +76,12 @@ After finishing fixing. Click **Save changes** to complete the operation.
 ### Delete elert
 
 ### Lock/Unlock alert
+
+<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/notifications/lock-alert.png)
+
+<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/notifications/unlock-alert.png)
+
+<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-lock.svg) **Lock**: When the current user does not want to use this warning, re-use it later, if you want to hide the warning, then lock it. During the migration, if there is a violation of that warning, it will no longer be notified.
+
+<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-unlock-52.png) **Unlock**: After the user has locked it. If you want to use the alarm again, unlock it for it to work again. During the move, if there is a violation of that warning, it will notify.
+

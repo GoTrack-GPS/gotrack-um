@@ -20,16 +20,27 @@
                - [Detailed monitoring](modules/web-interface/tracking/detailed-monitoring/)
                - [Extensive tools](modules/web-interface/tracking/map-tools/)
                - [Utility maps](modules/web-interface/tracking/map-widget/)
-               - [Geofences](modules/web-interface/tracking/manage-region/)
-               - [Landmarks](modules/web-interface/tracking/manage-poi/)
+
+          - **Configuration**
+               - [Group device](modules/web-interface/configuration/device-group/)
+               - [Driver](modules/web-interface/configuration/driver/)
+               - [Geofences](modules/web-interface/configuration/manage-region/)
+               - [Group geofences](vi/modules/web-interface/configuration/group-geofence/)
+               - [Landmarks](modules/web-interface/configuration/manage-poi/) 
           - **Notification** 
                - [Manage notifications](modules/web-interface/notification/)
-               - [Alert management](modules/web-interface/notification/warning/)
+               - [Alert rules](modules/web-interface/notification/warning/)
+               - [Scheduled report](modules/web-interface/notification/Schedule-a-report/)
+               - [Task remind](modules/web-interface/notification/remind/)
+
+          - **Reports**
+               - [1. General report](modules/web-interface/reports/general-report/)
+               - [2. Ministry of Transport](modules/web-interface/reports/the-transportation/)
+               - [3. Nhiên liệu](modules/web-interface/reports/fuel/)
+
+          - **FAQ**
+               - [Build App](modules/web-interface/faq/build-app/)
 <!--            
-    
-      
-      - [Quản lý cảnh báo](vi/modules/web-interface/notification/warning/)
-      - [Quản lý lập lịch báo cáo](vi/modules/web-interface/notification/Schedule-a-report/)
       - [Quản lý nhắc nhở](vi/modules/web-interface/notification/remind/)
                - [User Account](modules/web-interface/users/)
                - [Devices and Setting](modules/web-interface/devices/)

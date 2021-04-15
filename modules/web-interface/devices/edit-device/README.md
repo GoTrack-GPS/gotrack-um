@@ -40,7 +40,7 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
 
         <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/add-device-group-2.png)
 
-        See more details about the **Device Group** [here](modules/web-interface/devices/equipment-group/#equipment-group)
+        See more details about the **Device Group** [here](modules/web-interface/configuration/device-group/#device-group) <div id="device-group" >
 
     * **SIM type**: Select a SIM type corresponding to the carrier of the phone number.
 * ***Services*** 
@@ -62,6 +62,9 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
 
 ### 2. Advanced
 
+<div id="advanced">
+</div>
+
 <span class="icon-left4">![active device ](/docs/assets/images/web-english/device/advanced-edit-device.png)
 
 * ***Vehicle information***
@@ -75,6 +78,7 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
     * **Frame number**: Vehicle identification number. A series of sequences and characters were chiseled on the chassis.
 
     * **Engine number**: The engine number of your vehicle.
+
     * **Driver**: The name of the driver of the vehicle/vehicle with the positioning device installed. If not, click on **:heavy_plus_sign:**
 
         <span class="icon-left4">![active device ](/docs/assets/images/web-english/device/add-driver.png)
@@ -99,17 +103,18 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
 
         * **Description** : Describe more necessary information, ...
 
-    Click **Add** to save the driver.
+        Click **Add** to save the driver.
 
-    Alternatively, you can add drivers by doing the following:
+        Alternatively, you can add drivers by doing the following:
 
-    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/add-driver-2.png)
+        <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/add-driver-2.png)
 
-    See more details about the **Driver** [here](modules/web-interface/devices/driver/#driver)
+        See more details about the **Driver** [here](modules/web-interface/configuration/driver/#driver) 
   
 * ***Fuel***
 
     * Consumption norm (liter / 100km): Set a vehicle fuel consumption limit for how many liters / 100km.
+
 * ***Advanced features***
 
     * **Toll station**: Can be switched on / off. When turning on when the vehicle passes through toll booths, a warning will be made and how much will it cost the vehicle to pass through, corresponding to the type of transport.

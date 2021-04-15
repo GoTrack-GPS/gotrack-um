@@ -6,8 +6,7 @@
 
 * **Option 2** : Click <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-alarm.svg) to see the notifications. Click View all to display a list of notifications. The screen displays as shown below:
 
-
-    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/notifications/manage-notifications-2.png)
+<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/notifications/manage-notifications-2.png)
 
 ### Search
 
@@ -26,15 +25,15 @@
 
 ### Notice details
 
-* Option 1 : Click <span class="icon-left svg-filter-circlepurpleple">![Ok](/docs/assets/images/web-interface/icon/SVG/info-circle.svg)  to see the details of each notice. The screen will show details of the message and the location where the alarm was encountered.
+* **Option 1** : Click <span class="icon-left svg-filter-circlepurpleple">![Ok](/docs/assets/images/web-interface/icon/SVG/info-circle.svg)  to see the details of each notice. The screen will show details of the message and the location where the alarm was encountered.
 
     <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/notifications/detail-notifications.png)
 
-* Option 2 : Click <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-alarm.svg). Click on each message in the small message box
-
+* **Option 2** : Click <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-alarm.svg). Click on each message in the small message box.
+    
     <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/notifications/detail-notifications-2.png)
 
-### Configure notifications
+### Notification settings
 
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/notifications/setting-notifications.png)
 

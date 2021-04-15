@@ -1,6 +1,6 @@
 # Device group management
 
-<div id="equipment-group" >
+<div id="device-group" >
 </div>
 
 Go to **Manage > Configuration > Device group**. The **Device Group** management screen appears as shown below:

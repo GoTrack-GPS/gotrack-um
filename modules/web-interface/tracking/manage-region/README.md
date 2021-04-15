@@ -8,7 +8,7 @@ Go to **Manage > Configuration > Geofence**. Display **Manage geofence** screen 
 
 * Search by geofence name.
 
-### Create new geofence
+### Add geofence
 
 
 <span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/add-geofence-1.png)
@@ -68,7 +68,7 @@ Go to **Manage > Configuration > Geofence**. Display **Manage geofence** screen 
     <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/direction-arrow-fit.svg)  in the top right corner of each region: **Refresh** , set the map to factory default.
 
 
-### Group geographic 
+### Geofence group 
 
 * To view the Group geographic, users go to **Manage > Configuration > Group geographic**. The screen displays as shown below:
 
@@ -78,7 +78,7 @@ Go to **Manage > Configuration > Geofence**. Display **Manage geofence** screen 
 
 * Search by group geographic name.
 
-#### Create group geofence
+#### Add group geofence
 
 <span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/add-group-geographic.png)
 

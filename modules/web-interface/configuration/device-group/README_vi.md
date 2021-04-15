@@ -1,6 +1,6 @@
 # Quản lý nhóm thiết bị
 
-<div id="equipment-group" >
+<div id="device-group" >
 </div>
 
  Vào **Quản lý > Cấu hình > Nhóm thiết bị**. Hiện ra màn hình **Quản lý nhóm thiết bị** như hình dưới đây : 

@@ -33,7 +33,8 @@ Khi click vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/imag
 
             <span style="display:block;text-align:left">![search device ](/docs/assets/images/web-interface/device/Add-a-device-group-2.png)
         
-        Tham khảo thêm chi tiết về Nhóm thiết bị [tại đây](vi/modules/web-interface/devices/equipment-group/#equipment-group)
+    Tham khảo thêm chi tiết [tại đây](vi/modules/web-interface/configuration/device-group/#device-group) <div id="device-group" >
+
     - **Loại SIM**: Chọn loại SIM tương ứng với nhà mạng của số điện thoại.
 - ***Dịch vụ***  
     - **Hạn dịch vụ** : Hạn sử dụng dịch vụ.
@@ -82,7 +83,7 @@ Khi click vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/imag
     Ngoài ra, có thể thêm người lái xe bằng cách như hình dưới đây :
     <span style="display:block;text-align:left">![search device ](/docs/assets/images/web-interface/device/add-a-driver-2.png)
 
-     Tham khảo thêm chi tiết [tại đây](vi/modules/web-interface/devices/driver/#driver)
+     Tham khảo thêm chi tiết [tại đây](vi/modules/web-interface/configuration/driver/#driver) 
 
 - ***Nhiên liệu*** 
     - **Định mức tiêu hao (lít/100km)** : Đặt giới hạn tiêu hao nhiên liệu của xe cho bao nhiêu lít/100km.

@@ -1,5 +1,5 @@
 
-#  Quản lý cảnh báo
+#  Quy tắc cảnh báo
 
 Khi vi phạm quy tắc cảnh báo sẽ nổ ra cảnh báo cho người dùng.
 
@@ -18,7 +18,7 @@ Khi vi phạm quy tắc cảnh báo sẽ nổ ra cảnh báo cho người dùng.
 
     **Đặt lại** : Đặt lại về chế độ mặc định ban đầu.
 
-### Tạo mới cảnh báo
+### Tạo mới quy tắc cảnh báo
 
 - Bước 1 : Nhấn vào **Tạo mới cảnh báo**.
 - Bước 2 : Xuất hiện hộp thoại như màn hình dưới đây :
