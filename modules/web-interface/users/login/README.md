@@ -6,6 +6,6 @@
 
 **2.** Login 
 
-* Account : Please enter a valid email address.
+* Account : Please enter your registered username.
 
 * Password : Come up with a strong password.

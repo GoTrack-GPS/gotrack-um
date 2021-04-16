@@ -2,13 +2,13 @@
 # 1. Báo cáo chung
 > Chỉ có những xe lắp cảm biến nhiệt độ mới có dữ liệu.
 
+### Báo cáo nhiệt độ 
+
 Nếu người dùng muốn xem **Báo cáo nhiệt độ** :  
 * Vào **Báo cáo >  Báo cáo > Nhiệt độ**.
 Hiện ra màn hình **Báo cáo nhiệt độ** như hình dưới đây :
 
-<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/temperature.png)
-
-### Báo cáo nhiệt độ 
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/temperature.png)
 
 #### Tìm kiếm 
 
@@ -151,6 +151,28 @@ Hiện ra màn hình **Chi tiết ra vào vùng** như hình dưới đây :
 * Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) , <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF
 
 ### Dữ liệu lịch sử
+
+Nếu người dùng muốn xem báo cáo **Dữ liệu lịch sử** :  
+
+* Vào **Báo cáo >  Báo cáo > Dữ liệu lịch sử**.
+Hiện ra màn hình **Dữ liệu lịch sử** như hình dưới đây :
+
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/data-log.png)
+
+#### Tìm kiếm
+
+* Bước 1 : Tìm kiếm theo các tiêu chí sau :
+
+    * **Thời gian** : Chọn thời gian có sẵn hoặc tùy chọn.
+    * **Chọn thiết bị** : Chọn 1  thiết bị muốn xem lộ trình.
+    
+* Bước 2 : Nhấn **Tìm kiếm** .
+    Nếu nhấn **Đặt lại** sẽ trở về mặc định ban đầu.
+
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/search-data-log.png)
+#### Xuất báo cáo
+
+* Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) để xuất báo cáo dạng Excel.
 
 ### Lộ trình
 

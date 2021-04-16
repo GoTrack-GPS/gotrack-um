@@ -35,12 +35,26 @@
       - [1. Báo cáo chung](vi/modules/web-interface/reports/general-report/)
       - [2. Bộ giao thông vận tải](vi/modules/web-interface/reports/the-transportation/)
       - [3. Nhiên liệu](vi/modules/web-interface/reports/fuel/)
-
-  - **App Android, IOS**
-      - [Map Tracking](vi/modules/mobile-apps/map/)
-      - [Devices](vi/modules/mobile-apps/devices/)
-      - [Notifications](vi/modules/mobile-apps/notifications/)
-      - [Account](vi/modules/mobile-apps/account/)
+  - **App GoTrack365**
+    - **Đăng nhập ứng dụng**
+      - [Đăng nhập](vi/modules/app-gotrack365/login/)
+      - [Quên mật khẩu](vi/modules/app-gotrack365/forget-password/)
+    - **Bản đồ**
+      - [Giám sát tổng quát ](vi/modules/app-gotrack365/general-device-monitoring/)
+      - [Giám sát chi tiết](vi/modules/app-gotrack365/detailed-monitoring/)
+    - **Thiết bị**
+      - [Quản lý thiết bị](vi/modules/app-gotrack365/device/)
+      - [Gửi lệnh](vi/modules/app-gotrack365/send-order/)
+      - [Lịch sử lệnh](vi/modules/app-gotrack365/history-send-orders/)
+    - **Cảnh báo**
+      - [Cảnh báo](vi/modules/app-gotrack365/notification/warning/)
+    - **Tài khoản**
+      - [Quản lý tài khoản](vi/modules/app-gotrack365/account-management/)
+      - [Điểm đánh dấu](vi/modules/app-gotrack365/poi/)
+    <!-- 
+      
+      - [Vùng cảnh báo](vi/modules/app-gotrack365/warning-area/)  -->
+ 
   - **Câu hỏi thường gặp**
     - [Xây dựng ứng dụng](vi/modules/web-interface/faq/build-app/)
 
