@@ -12,8 +12,7 @@
                - [Delete  ](modules/web-interface/devices/delete-device/)
                - [Other functions](modules/web-interface/devices/equipment-management/)
                - [Command ](modules/web-interface/devices/send-the-device-command/)
-               - [Group device](modules/web-interface/devices/equipment-group/)
-               - [Driver](modules/web-interface/devices/driver/)
+
           - **Map Tracking**
                - [Workspace overview](modules/web-interface/tracking/Interface-main/)
                - [General supervision](modules/web-interface/tracking/general-device-monitoring/)
@@ -25,7 +24,7 @@
                - [Group device](modules/web-interface/configuration/device-group/)
                - [Driver](modules/web-interface/configuration/driver/)
                - [Geofences](modules/web-interface/configuration/manage-region/)
-               - [Group geofences](vi/modules/web-interface/configuration/group-geofence/)
+               - [Group geofences](modules/web-interface/configuration/group-geofence/)
                - [Landmarks](modules/web-interface/configuration/manage-poi/) 
           - **Notification** 
                - [Manage notifications](modules/web-interface/notification/)

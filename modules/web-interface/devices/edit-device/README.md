@@ -209,7 +209,7 @@ Choose "<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-in
 
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/alert.png)
 
-* Tick <span class="icon-left svg-filter-white">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg) to enable/disable device alerts that you want to send alerts on. 
+* Tick  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg) to enable/disable device alerts that you want to send alerts on. 
 
 * Besides, the device can be configured by the following figure:
 

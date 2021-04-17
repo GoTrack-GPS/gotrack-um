@@ -21,7 +21,7 @@
  Chọn vào **Bản đồ** trên menu. Giao diện hiển thị như hình dưới đây :
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-interface/map/search-map.png)
 
-Để hiểu thêm về phần Menu, người dùng tìm hiểu thêm [tại đây](/vi/modules/get-started/) 
+Để hiểu thêm về phần Menu, người dùng tìm hiểu thêm [tại đây](/vi/modules/get-started/#menu) <div id="menu">
 
 
 ### Cây tài khoản
