@@ -49,7 +49,7 @@ Ví dụ: Chọn ngày **Hôm nay > Nhấn OK**. trên màn hình lúc này cậ
 <span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/send-orders.jpg)
 
 Để tìm hiểu thêm chi tiết, bạn tham khảo tại đây
-* [Danh sách gửi lệnh](vi/modules/app-gotrack365/send-order/#send-order) <div id="send-order"> 
+* [Danh sách lệnh](vi/modules/app-gotrack365/send-order/#send-order) <div id="send-order"> 
 * [Lịch sử gửi lệnh](vi/modules/app-gotrack365/history-send-orders/#history) <div id="history"> 
 
 ### Tính năng mở rộng 
@@ -80,7 +80,7 @@ Ví dụ: Chọn ngày **Hôm nay > Nhấn OK**. trên màn hình lúc này cậ
 
 * **Cách 2** : Vào **Gửi lệnh**.
 
-    Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](vi/modules/app-gotrack365/device/#lock) <div id="lock"> 
+    Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](vi/modules/app-gotrack365/send-order/#lock) <div id="lock"> 
 
 #### 2. Khôi phục tắt máy
 * **Cách 1**: 
@@ -91,7 +91,7 @@ Ví dụ: Chọn ngày **Hôm nay > Nhấn OK**. trên màn hình lúc này cậ
 
 * **Cách 2** : Vào **Gửi lệnh**.
 
-    Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](vi/modules/app-gotrack365/device/#unlock) <div id="unlock"> 
+    Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](vi/modules/app-gotrack365/send-order/#unlock) <div id="unlock"> 
 
 
 

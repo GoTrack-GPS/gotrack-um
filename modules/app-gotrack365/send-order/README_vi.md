@@ -1,4 +1,3 @@
-# Gửi lệnh 
 
 ### Danh sách lệnh
 
@@ -7,12 +6,14 @@
 - Bước 1 : Vào mục **Thêm > Gửi lệnh**.
 - Bước 2 : Click vào từng lệnh cần thực hiện.
 
-<div id = "lock">
-</div>
+
 
 ### Tắt máy từ xa / Khôi phục tắt máy
 
 **Tính năng chống quên tắt Núm vặn cho xe máy Smart key Honda :**
+
+<div id = "unlock">
+</div>
 
 #### Khôi phục tắt máy
 
@@ -25,7 +26,7 @@
 
 * Nếu chủ động tắt núm thì khi cho xe khởi động lại **KHÔNG CẦN** vào app để **Khôi phục tắt máy**.
 
-<div id = "unlock">
+<div id = "lock">
 </div>
 
 #### Tắt máy từ xa
@@ -38,9 +39,6 @@
 <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/send-command-2-365.jpg)
 
 > Nếu không muốn sử dụng tính năng tự động tắt núm trên Smart key  thì có thể tắt chức năng này qua điện thoại hoặc máy tính.
-
-Cách tắt máy / mở máy [khác](vi/modules/app-gotrack365/detailed-monitoring/#other) <div id="other"> 
-
 
 #### Tự động khóa máy
 * Nếu núm bị hỏng / muốn khóa xe ngay từ xa. Muốn **tự động khóa** thì bạn vào app thực hiện như sau:

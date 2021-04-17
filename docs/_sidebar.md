@@ -38,40 +38,8 @@
                - [2. Fuel](modules/web-interface/reports/fuel/)
      - **FAQ**
           - [Build App](modules/web-interface/faq/build-app/)
-     <!-- - **App Giám sát xe VCN**
-          - **Đăng nhập hệ thống**
-               - [Đăng nhập](vi/modules/app-gotrack365/login/)
-               - [Quên mật khẩu](vi/modules/app-gotrack365/forget-password/)
-
-          - **Bản đồ**
-               - [Giám sát tổng quát ](vi/modules/app-gotrack365/general-device-monitoring/)
-               - [Giám sát chi tiết](vi/modules/app-gotrack365/detailed-monitoring/)
-
-
-          - **Thiết bị**
-               - [Quản lý thiết bị](vi/modules/app-gotrack365/device/)
-               - [Gửi lệnh](vi/modules/app-gotrack365/send-order/)
-               - [Lịch sử lệnh](vi/modules/app-gotrack365/history-send-orders/)
-
-          - **Cảnh báo**
-               - [Cảnh báo](vi/modules/app-gotrack365/notification/warning/)
-
-          - **Tài khoản**
-               - [Quản lý tài khoản](vi/modules/app-gotrack365/account-management/)
-               - [Điểm đánh dấu](vi/modules/app-gotrack365/poi/)
-               - [Vùng cảnh báo](vi/modules/app-gotrack365/warning-area/)    -->
-
-          
-<!--            
-      - [Quản lý nhắc nhở](vi/modules/web-interface/notification/remind/)
-               - [User Account](modules/web-interface/users/)
-               - [Devices and Setting](modules/web-interface/devices/)
-               - [Tracking](modules/web-interface/tracking/)
-               - [Reports](modules/web-interface/reports/) 
-     - [**Mobile Apps**](modules/mobile-apps/)
-          - [Map Tracking](modules/mobile-apps/map/)
-          - [Devices](modules/mobile-apps/devices/)
-          - [Notifications](modules/mobile-apps/notifications/)
-          - [Account](modules/mobile-apps/account/)
+     - **Version history**
+          - [Update history](modules/web-interface/version-history/)
+<!-- - 
      - [**FAQ**](modules/faq/)
-     - [**CHANGELOG**](CHANGELOG) -->
+     - [**CHANGELOG**](CHANGELOG) --> 
