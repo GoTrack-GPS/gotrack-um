@@ -1,9 +1,11 @@
 # Đăng nhập
 
-* Đầu tiên, bấm để tải ngay ứng dụng **Giam sat xe VCN** cho <a href="https://bitly.com.vn/1fqe82" target="_blank">IOS</a> và <a href="https://bitly.com.vn/gn2re2" target="_blank">Android </a>
+* Đầu tiên, bấm để tải ngay ứng dụng **GoTrack365** cho <a href="https://apple.co/3sugMZi" target="_blank">IOS</a> và <a href="https://bit.ly/3gl5Bjb" target="_blank">Android </a>
 
-<span class="icon-left1 ">[<img src="/docs/assets/images/web-interface/app-gotrack365/images.png">](https://bitly.com.vn/1fqe82)
-<span class="icon-left2">[<img src="/docs/assets/images/web-interface/app-gotrack365/google-play-download-android-app.png" >](https://bitly.com.vn/gn2re2) 
+
+<span class="icon-left1 ">[<img src="/docs/assets/images/web-interface/app-gotrack365/images.png">](https://apple.co/3sugMZi)
+<span class="icon-left2">[<img src="/docs/assets/images/web-interface/app-gotrack365/google-play-download-android-app.png" >](https://bit.ly/3gl5Bjb) 
+
 
 
 Sau đó đăng nhập. 
@@ -16,7 +18,7 @@ Sau đó đăng nhập.
 
 * Bước 2 : Click vào **Đăng nhập** để hoàn thành thao tác. 
 
-* Bước 3 : Chọn **CHỈ CHO PHÉP KHI DÙNG ỨNG DỤNG** để **Cho phép Giám sát xe VCN truy cập vào vị trí của thiết bị**. Sử dụng được những tính năng liên quan đến vị trí.
+* Bước 3 : Chọn **CHỈ CHO PHÉP KHI DÙNG ỨNG DỤNG** để **Cho phép GoTrack365 truy cập vào vị trí của thiết bị này?**. Sử dụng được những tính năng liên quan đến vị trí.
 
 
 * Người dùng có thể dựa vào ID thiết bị để **đăng nhập** mặc định theo cách sau.:

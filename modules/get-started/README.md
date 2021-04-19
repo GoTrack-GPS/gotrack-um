@@ -1,4 +1,4 @@
-# HomePage  
+# Welcome to the GoTrack GPS platform  
 
 **SMC GLOBAL TECHNOLOGY DEVELOPMENT AND APPLICATIONS JOINT STOCK COMPANY ( GoTrack)** is a company specializing in providing solutions and equipment to monitor vehicles/goods and people for individuals and businesses, bringing great value in management and monitoring, helping to save time and money. , human resources with the era of technology application 4.0.
 

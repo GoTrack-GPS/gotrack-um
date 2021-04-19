@@ -5,6 +5,12 @@
 
 <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/warning-2.jpg)
 
+### Update cảnh báo
+
+Kéo xuống để làm mới dữ liệu
+
+<span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/refreh-alert.jpg)
+
 ### Cài đặt cảnh báo 
 
 <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/setting-warning-3.jpg)

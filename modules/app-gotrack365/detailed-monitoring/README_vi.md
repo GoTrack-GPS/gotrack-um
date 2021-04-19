@@ -40,7 +40,7 @@ Ví dụ: Chọn ngày **Hôm nay > Nhấn OK**. trên màn hình lúc này cậ
 
  <span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/infomation-365.jpg)
  
- Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](vi/modules/app-gotrack365/device/#edit-device) <div id="edit-device"> 
+ Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](/modules/app-gotrack365/device/#edit-device) <div id="edit-device"> 
 
 ### 4. Thêm 
 
@@ -49,41 +49,41 @@ Ví dụ: Chọn ngày **Hôm nay > Nhấn OK**. trên màn hình lúc này cậ
 <span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/send-orders.jpg)
 
 Để tìm hiểu thêm chi tiết, bạn tham khảo tại đây
-* [Danh sách lệnh](vi/modules/app-gotrack365/send-order/#send-order) <div id="send-order"> 
-* [Lịch sử gửi lệnh](vi/modules/app-gotrack365/history-send-orders/#history) <div id="history"> 
+* [Danh sách lệnh](/modules/app-gotrack365/send-order/#send-order) <div id="send-order"> 
+* [Lịch sử gửi lệnh](/modules/app-gotrack365/history-send-orders/#history) <div id="history"> 
 
 ### Tính năng mở rộng 
 
 <span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/home-3.jpg)
 
-**1**. Tắt máy từ xa
+    1. Tắt máy từ xa
 
-**2**. Khôi phục tắt máy
+    2. Khôi phục tắt máy
 
-**3**. Tạo vùng nhanh
+    3. Tạo vùng nhanh
 
-**4**. Google Maps 3D
+    4. Google Maps 3D
 
-**5**. Tìm đường 
+    5. Tìm đường 
 
 <div id="other" >
 </div>
 
 ####  1. Tắt máy từ xa
-* **Cách 1**: 
-    * Click vào <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-lock.svg) . Hộp thoại xuất hiện như hình dưới đây . Chọn **OK**  .. 
+* **Cách 1**
+    * Click vào <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-lock.svg) . Hộp thoại xuất hiện như hình dưới đây . Chọn **OK**  .
     * Sau khi gửi lệnh thành công. Màn hình thông tin của thiết bị => **Thiết bị : Phòng vệ bật**
 
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/tat-may-tu-xa.jpg)
 
-    * Sử dụng tính năng này để bảo vệ phương tiện của bạn. Xe sẽ không thể mở được khóa cho đến khi bạn khôi phục tắt máy
+    * Sử dụng tính năng này để bảo vệ phương tiện của bạn. Xe sẽ không thể nổ máy được khóa cho đến khi bạn khôi phục tắt máy.
 
 * **Cách 2** : Vào **Gửi lệnh**.
 
-    Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](vi/modules/app-gotrack365/send-order/#lock) <div id="lock"> 
+    Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](/modules/app-gotrack365/send-order/#lock) <div id="lock"> 
 
 #### 2. Khôi phục tắt máy
-* **Cách 1**: 
+* **Cách 1**
     * Click vào <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-unlock-52.png) . Hộp thoại xuất hiện như hình dưới đây . Chọn **OK**  .. 
     * Sau khi gửi lệnh thành công. Màn hình thông tin của thiết bị => **Thiết bị : Phòng vệ tắt**
 
@@ -91,7 +91,7 @@ Ví dụ: Chọn ngày **Hôm nay > Nhấn OK**. trên màn hình lúc này cậ
 
 * **Cách 2** : Vào **Gửi lệnh**.
 
-    Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](vi/modules/app-gotrack365/send-order/#unlock) <div id="unlock"> 
+    Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](/modules/app-gotrack365/send-order/#unlock) <div id="unlock"> 
 
 
 
@@ -101,7 +101,7 @@ Ví dụ: Chọn ngày **Hôm nay > Nhấn OK**. trên màn hình lúc này cậ
  
     <span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/create-region.jpg)
 
-Ngoài ra, có thể tạo vùng chi tiết hơn [tại đây](vi/modules/app-gotrack365/warning-area/#warning-area) <div id="warning-area"> 
+Ngoài ra, có thể tạo vùng chi tiết hơn [tại đây](/modules/app-gotrack365/warning-area/#warning-area) <div id="warning-area"> 
 
 #### 4. Google Maps 3D
 

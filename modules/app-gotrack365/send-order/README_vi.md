@@ -60,6 +60,6 @@
 
 > Nếu không muốn sử dụng tính năng tự động tắt núm trên Smart key  thì có thể tắt chức năng này qua điện thoại hoặc máy tính.
 
-Người dùng có thể tham khảo cách tắt máy / mở máy khác [tại đây](vi/modules/app-gotrack365/detailed-monitoring/#other) <div id="other"> 
+Người dùng có thể tham khảo cách tắt máy / mở máy khác [tại đây](/modules/app-gotrack365/detailed-monitoring/#other) <div id="other"> 
 
 Hoặc có thể xem **video hướng dẫn**  <a href="https://bitly.com.vn/l259ox" target="_blank">tại đây</a>

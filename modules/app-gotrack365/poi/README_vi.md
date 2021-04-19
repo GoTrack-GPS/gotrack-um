@@ -28,8 +28,6 @@ Click **Lưu** để hoàn thành tháo tác
 
 ### Sửa điểm đánh dấu 
 
-
-
 - **Bước 1** : Vào mục **Tài khoản > <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-flag-2.svg) POI**.
 
 - **Bước 2** : Click vào tên điểm đánh dấu đã tạo.
@@ -46,6 +44,18 @@ Click **Lưu** để hoàn thành tháo tác
 Click **Lưu** để hoàn thành thao tác
 
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/edit-poi-4.jpg)
+
+### Xóa điểm đánh dấu
+
+* **Android** 
+Để xóa điểm đánh dấu, nhấn giữ điểm muốn xóa. Lát sau sẽ hiển thị hộp thoại như hình dưới đây: 
+    * Nhấn **OK** nếu muốn xóa.
+
+    <span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/delete-poi.jpg)
+
+* **IOS**
+Để xóa điểm đánh dấu, trượt sang trái điểm muốn xóa .
+
 
 
 

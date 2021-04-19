@@ -1,4 +1,4 @@
-# Trang chủ 
+# Chào mừng bạn đến với nền tảng GoTrack GPS 
 
 **CÔNG TY CỔ PHẦN ỨNG DỤNG VÀ PHÁT TRIỂN CÔNG NGHỆ TOÀN CẦU SMC (GoTrack)** là công ty chuyên cung cấp giải pháp và thiết bị để giám sát phương tiện/ hàng hoá và con người cho cá nhân và doanh nghiệp, mang lại giá trị lớn trong khâu quản lý và giám sát, giúp tiết kiệm thời gian và tiền bạc, nhân lực với thời đại của ứng dụng công nghệ 4.0.
 
