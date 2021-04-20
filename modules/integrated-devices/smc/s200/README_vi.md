@@ -1,6 +1,6 @@
 # S200
 
-<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/s200-1.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/s200-1.png)
 
 ### 1. Thông tin sản phẩm
 
@@ -19,15 +19,15 @@
 #### 1.2. Hình ảnh tổng quan
 
 
-<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/Drawing3-nao-hop.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/Drawing3-nao-hop.png)
 
 Hình 1. Tổng quát các thành phần cấu tạo thân thiết bị
 
-<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/Drawing3-led.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/Drawing3-led.png)
 
 Hình 2. Chi tiết mặt cạnh trước
 
-<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/Drawing3-duoi.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/Drawing3-duoi.png)
 
 Hình 3. Tổng quan từ góc nhìn mặt đáy
 
@@ -37,25 +37,25 @@ Hình 3. Tổng quan từ góc nhìn mặt đáy
 
 ### 2. Đặc tả kỹ thuật
 
-<span style="display:block">![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/dac-ta-kt-1.png)
+<span style="display:block">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/dac-ta-kt-1.png)
 
 
-<span style="display:block">![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/dac-ta-kt-2.png)
+<span style="display:block">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/dac-ta-kt-2.png)
 
-<span style="display:block">![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/dac-ta-kt-3.png)
+<span style="display:block">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/dac-ta-kt-3.png)
 
-<span style="display:block">![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/dac-ta-kt-4.png)
+<span style="display:block">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/dac-ta-kt-4.png)
 
 Bảng 1. Đặc tả thông số kỹ thuật 
 
 ### 3. Cổng tín hiệu, và Led chỉ thị
 
-<span style="display:block">![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/mo-ta-led-chi-thi.png)
+<span style="display:block">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/mo-ta-led-chi-thi.png)
 
 Bảng 2. Mô tả led chỉ thị
 
 
-<span style="display:block">![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/Drawing3-chop.png)
+<span style="display:block">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/Drawing3-chop.png)
 
 Hình 4. Mô tả kiểu chớp sáng
 
