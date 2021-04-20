@@ -37,7 +37,7 @@ Click <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-int
 
 * Step 1: Click <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/ruler.svg).
 
-* Step 2: Tap the screen to measure the distance where you need to go.
+* Step 2: Touch the screen to measure the distance where you need to go.
 
 * Step 3: The results are shown as shown below:
 

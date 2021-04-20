@@ -35,25 +35,30 @@
           - **Reports**
                - [1. General report](modules/web-interface/reports/general-report/)
                - [2. Fuel](modules/web-interface/reports/fuel/)
+
      - **App GoTrack365**
           - **Sign in to the application**
+
                - [Login](modules/app-gotrack365/login/)
                - [Forgot password](modules/app-gotrack365/forget-password/)
+
           - **Map**
                - [General supervision](modules/app-gotrack365/general-device-monitoring/)
                - [Detailed monitoring](modules/app-gotrack365/detailed-monitoring/)
+
           - **Device**
                - [Device Management](modules/app-gotrack365/device/)
-               <!-- 
-               - [Camera hành trình](modules/app-gotrack365/camera/)
-               - [Gửi lệnh](modules/app-gotrack365/send-order/)
-               - [Lịch sử lệnh](modules/app-gotrack365/history-send-orders/)
-          - **Cảnh báo**
-               - [Cảnh báo](modules/app-gotrack365/notification/warning/)
-          - **Tài khoản**
-               - [Quản lý tài khoản](modules/app-gotrack365/account-management/)
-               - [Điểm đánh dấu](modules/app-gotrack365/poi/)
-               - [Vùng cảnh báo](modules/app-gotrack365/warning-area/)           -->
+               - [Camera journey](modules/app-gotrack365/camera/)
+               - [Send command](modules/app-gotrack365/send-order/)
+               - [Command History](modules/app-gotrack365/history-send-orders/)
+
+          - **Notifications**
+               - [Notifications](modules/app-gotrack365/notification/warning/)
+
+          - **Account**
+               - [Account management](modules/app-gotrack365/account-management/)
+               - [POI](modules/app-gotrack365/poi/)
+               - [Geofence](modules/app-gotrack365/warning-area/)
      - **FAQ**
           - [Build App](modules/web-interface/faq/build-app/)
      - **Version history**

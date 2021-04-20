@@ -15,7 +15,9 @@ Tạo điểm đánh dấu trên bản đồ để tiện trên việc giám sá
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/create-poi-3.jpg)
 
 
-* **Bước 3** : Click **Lưu** để lưu tạm điểm mới chọn đó.
+* **Bước 3** : Chạm vào màn  hình, di chuyển, phóng to, thu nhỏ đến điểm cần đánh dấu cảnh báo.
+
+    Click **Lưu** để lưu tạm điểm mới chọn đó.
 
     Click **Đặt lại** để tạo lại từ đầu.
 
@@ -24,8 +26,7 @@ Click **Lưu** để hoàn thành tháo tác
 
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/create-poi-4.jpg)
 
-    Chạm vào màn  hình, thu phóng và di chuyển để chọn điểm muốn đánh dấu.
-
+    
 ### Sửa điểm đánh dấu 
 
 - **Bước 1** : Vào mục **Tài khoản > <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-flag-2.svg) POI**.
@@ -36,7 +37,7 @@ Click **Lưu** để hoàn thành tháo tác
 
 - **Bước 3** : **Sửa điểm đánh dấu**, thu phóng, di chuyển đến nơi bạn muốn đánh dấu
    
-    * Click **Lưu** để lưu tạm vùng mới chọn đó.
+    * Click **Lưu** để lưu tạm điểm mới chọn đó.
 
         Click **Đặt lại** để tạo lại từ đầu.
 

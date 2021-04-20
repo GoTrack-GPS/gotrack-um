@@ -22,7 +22,7 @@
     - Bước 1 : Vào mục **Thêm > Gửi lệnh**.
     - Bước 2 : Click vào **Khôi phục tắt máy** để gửi lệnh.
 
-<span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/turn-off-the-device.jpg)
+    <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/turn-off-the-device.jpg)
 
 * Nếu chủ động tắt núm thì khi cho xe khởi động lại **KHÔNG CẦN** vào app để **Khôi phục tắt máy**.
 
@@ -36,9 +36,7 @@
 - Bước 1 : Vào mục **Thêm > Gửi lệnh**.
 - Bước 2 : Click vào **Tắt máy từ xa** để gửi lệnh.
 
-<span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/send-command-2-365.jpg)
-
-> Nếu không muốn sử dụng tính năng tự động tắt núm trên Smart key  thì có thể tắt chức năng này qua điện thoại hoặc máy tính.
+    <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/send-command-2-365.jpg)
 
 #### Tự động khóa máy
 * Nếu núm bị hỏng / muốn khóa xe ngay từ xa. Muốn **tự động khóa** thì bạn vào app thực hiện như sau:

@@ -1,6 +1,6 @@
 #  Device detailed monitoring
 
-* Step 1: To view detailed information and current vehicle location: Go to **Map > Tap on vehicle icon**. 
+* Step 1: To view detailed information and current vehicle location: Go to **Map > Touch on vehicle icon**. 
 
 * Step 2: To track the vehicle moving online: Click on the information box floating right on the vehicle's icon.
 
@@ -17,6 +17,8 @@ Tracking Screen includes
     * The current time is accessing the software.
     * Cool off / on status of the device.
     * Device's electric lock status.
+
+
 
 ### 2. Playback
 
@@ -69,6 +71,9 @@ For more details, please refer [here]
     4. Google Maps 3D
 
     5. Find your way
+
+<div id="other" >
+</div>
 
 #### 1. Turn off engine power
 

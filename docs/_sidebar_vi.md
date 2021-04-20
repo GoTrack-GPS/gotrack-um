@@ -54,9 +54,11 @@
       - [Điểm đánh dấu](vi/modules/app-gotrack365/poi/)
       - [Vùng cảnh báo](vi/modules/app-gotrack365/warning-area/) 
 
-  
-  - **Câu hỏi thường gặp**
-    - [Xây dựng ứng dụng](vi/modules/web-interface/faq/build-app/)
+- **Thiết bị tích hợp**
+  - **GoTrack**
+    - [S200](vi/modules/integrated-devices/gotrack/s200/)
+- **Câu hỏi thường gặp**
+  - [Xây dựng ứng dụng](vi/modules/web-interface/faq/build-app/)
 
-  - **Lịch sử phiên bản**
-    - [Lịch sử cập nhật](vi/modules/web-interface/version-history/)
+- **Lịch sử phiên bản**
+  - [Lịch sử cập nhật](vi/modules/web-interface/version-history/)
