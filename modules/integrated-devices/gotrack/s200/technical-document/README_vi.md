@@ -1,6 +1,6 @@
 # S200
 
-<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/s200.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/s200.png)
 
 ### 1. Thông tin sản phẩm
 
@@ -19,15 +19,15 @@
 
 #### 1.2. Hình ảnh tổng quan
 
-<span class="icon-left6" >![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/Drawing3-nao-hop.png)
+<span class="icon-left6" >![Interface Web](/docs/assets/images/integrated-devices/smc/s200/Drawing3-nao-hop.png)
 
 Hình 1. Tổng quát các thành phần cấu tạo thân thiết bị
 
-<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/Drawing3-led.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/Drawing3-led.png)
 
 Hình 2. Chi tiết mặt cạnh trước
 
-<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/Drawing3-duoi.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/Drawing3-duoi.png)
 
 Hình 3. Tổng quan từ góc nhìn mặt đáy
 
@@ -541,7 +541,7 @@ Bảng 1. Đặc tả thông số kỹ thuật
 </table>       
 Bảng 2. Mô tả led chỉ thị
 
-<span style="display:block">![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/Drawing3-chop.png)
+<span style="display:block">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/Drawing3-chop.png)
 
 Hình 4. Mô tả kiểu chớp sáng
 
@@ -670,19 +670,19 @@ Hình 4. Mô tả kiểu chớp sáng
 
 > Lưu ý: chú thích tên tín hiệu có ghi lên mặt dưới của thân vỏ thiết bị
 
-<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/Drawing3-cong.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/Drawing3-cong.png)
 
 Hình 5. Minh họa màu dây tại cổng kết nối
 
 #### 3.4. Cài đặt sim
 
-<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/Drawing3-nano.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/Drawing3-nano.png)
 
 Hình 6. Vị trí và hướng cài Nano SIM card
 
 #### 3..5. Sơ đồ kết nối với ngoại vi
 
-<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/Drawing3.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/Drawing3.png)
 
 Hình 7. Minh họa một vài kết nối ngoại
 
@@ -711,6 +711,6 @@ Dây nguồn nên được kết nối tới phần kim loại cố định trê
 Thiết bị S200 được thiết kế với các anten bên trong hoàn toàn. Để thu tín hiệu tốt nhất nên lắp đặt thiết bị tại vị trí sao cho phần logo “Gotrack” của mặt trên thiết bị hướng thẳng lên bầu trời.
 S200 cũng có thể được lắp đặt ngay dưới tấm panel nhựa của taplo.
 
-<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/setting.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/setting.png)
 
 Hình 8. Khu vực tốt nhất để lắp đặt thiết bị
