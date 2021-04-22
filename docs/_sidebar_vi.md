@@ -56,7 +56,9 @@
 
 - **Thiết bị tích hợp**
   - **GoTrack**
-    - [S200](vi/modules/integrated-devices/gotrack/s200/)
+    - **S200**
+      - [Tài liệu kỹ thuật](vi/modules/integrated-devices/gotrack/s200/technical-document/)
+      - [Lệnh SMS](vi/modules/integrated-devices/gotrack/s200/sms-command/)
 - **Câu hỏi thường gặp**
   - [Xây dựng ứng dụng](vi/modules/web-interface/faq/build-app/)
 

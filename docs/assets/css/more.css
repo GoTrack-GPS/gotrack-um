@@ -177,12 +177,28 @@ filter: invert(44%) sepia(65%) saturate(4474%) hue-rotate(221deg) brightness(92%
 }
 
 
+
+
       /*  */
 
 
+.color-primary { 
+background-color: dodgerblue;
+color: white;
+}
 
+  
+/* table, tr, td {
+    border-color : 1 px solid #ddd;
+    border-collapse: collapse;
+} */
 
-
+/* table, tr, td {  
+    border-color: 1px #ddd;  
+    border-collapse: collapse;  
+}   */
+th, td {  
+    padding: 10px;  
 
 
 
