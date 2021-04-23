@@ -59,6 +59,14 @@
                - [Account management](modules/app-gotrack365/account-management/)
                - [POI](modules/app-gotrack365/poi/)
                - [Geofence](modules/app-gotrack365/warning-area/)
+     - **Integrated devices**
+          - **GoTrack**
+               - **S200**
+                  - [Technical document](modules/integrated-devices/smc/s200/technical-document/)
+                  - [SMS command](modules/integrated-devices/smc/s200/sms-command/)
+                - **S400**
+                  - [Technical document](modules/integrated-devices/smc/s400/technical-document/)
+                  - [SMS command](modules/integrated-devices/smc/s400/sms-command/)
      - **FAQ**
           - [Build App](modules/web-interface/faq/build-app/)
      - **Version history**

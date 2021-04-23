@@ -183,8 +183,8 @@ filter: invert(44%) sepia(65%) saturate(4474%) hue-rotate(221deg) brightness(92%
 
 
 .color-primary { 
-background-color: dodgerblue;
-color: white;
+background-color: dodgerblue !important;
+color: white !important;
 }
 
   

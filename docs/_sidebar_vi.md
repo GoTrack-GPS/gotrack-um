@@ -57,10 +57,13 @@
 - **Thiết bị tích hợp**
   - **GoTrack**
     - **S200**
-      - [Tài liệu kỹ thuật](vi/modules/integrated-devices/gotrack/s200/technical-document/)
-      - [Lệnh SMS](vi/modules/integrated-devices/gotrack/s200/sms-command/)
+      - [Tài liệu kỹ thuật](vi/modules/integrated-devices/smc/s200/technical-document/)
+      - [Lệnh SMS](vi/modules/integrated-devices/smc/s200/sms-command/)
+    - **S400**
+      - [Tài liệu kỹ thuật](vi/modules/integrated-devices/smc/s400/technical-document/)
+      - [Lệnh SMS](vi/modules/integrated-devices/smc/s400/sms-command/)
 - **Câu hỏi thường gặp**
   - [Xây dựng ứng dụng](vi/modules/web-interface/faq/build-app/)
-
+  - [Thiết bị S200/S400](vi/modules/web-interface/faq/build-app/)
 - **Lịch sử phiên bản**
   - [Lịch sử cập nhật](vi/modules/web-interface/version-history/)

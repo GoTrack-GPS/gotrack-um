@@ -1,6 +1,6 @@
 # S200
 
-<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/s200.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/s200.png)
 
 ### 1. Thông tin sản phẩm
 
@@ -19,17 +19,17 @@
 
 #### 1.2. Hình ảnh tổng quan
 
-<span class="icon-left6" >![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/Drawing3-nao-hop.png)
+<span class="icon-left6" >![Interface Web](/docs/assets/images/integrated-devices/smc/s200/s200-cau-tao-than.png)
 
-Hình 1. Tổng quát các thành phần cấu tạo thân thiết bị
+<center>Hình 1. Tổng quát các thành phần cấu tạo thân thiết bị</center>
 
-<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/Drawing3-led.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/s200-canh-truoc.png)
 
-Hình 2. Chi tiết mặt cạnh trước
+<center>Hình 2. Chi tiết mặt cạnh trước</center>
 
-<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/Drawing3-duoi.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/s200-day.png)
 
-Hình 3. Tổng quan từ góc nhìn mặt đáy
+<center>Hình 3. Tổng quan từ góc nhìn mặt đáy</center>
 
 #### 1.3. Chứng chỉ
 
@@ -49,7 +49,7 @@ Hình 3. Tổng quan từ góc nhìn mặt đáy
     </tr>
     <tr>
         <td>Lưu trữ</td>
-        <td>0÷60oC3</td>
+        <td>0÷60°C</td>
     </tr>
     <tr>
             <td colspan="2">Độ ẩm</td>
@@ -76,11 +76,11 @@ Hình 3. Tổng quan từ góc nhìn mặt đáy
             <td rowspan="3"> @12VDC  </td>
         </tr>
         <tr>
-            <td>Lưu trữ</td>
+            <td>Idle</td>
             <td>22÷24mA</td>
         </tr>
         <tr>
-            <td>Idle</td>
+            <td>GPS sleep</td>
             <td>10÷12mA</td>
         </tr>
         <tr>
@@ -104,17 +104,19 @@ Hình 3. Tổng quan từ góc nhìn mặt đáy
             <td>Mặc định</td>  
         </tr>
         <tr>
-            <td colspan="2" rowspan="2">Digital output</td>
+            <td colspan="2" >Digital output</td>
             <td>Dòng tải lớn nhất: 50mA <br>
                 Điện áp lớn nhất: 24VDC </td>
-           <td rowspan="3"> </td>
+           <td > </td>
         </tr>
         <tr>
+            <td colspan="2" >Digital input</td>
             <td>0-36VDC <br>
                 Ngưỡng logic: 4V</td>
+            <td > </td>
         </tr>
-    <tr class="color-primary" >
-        <td colspan="4"> <b>Đặc tả vật lý </b></td> 
+        <tr class="color-primary" >
+            <td colspan="4"> <b>Đặc tả vật lý </b></td> 
         </tr>
         <tr>
             <td colspan="2" >Kích thước</td>
@@ -264,7 +266,7 @@ Hình 3. Tổng quan từ góc nhìn mặt đáy
             <td rowspan="10">CPU </td>
             <td>Core</td>
             <td>Arm® 32-bit Cortex®-M0+ 60 MHz</td>
-            <td></td>
+            <td>HT32F52367</td>
         </tr>
         <tr>
             <td>Low-power</td>
@@ -312,7 +314,8 @@ Hình 3. Tổng quan từ góc nhìn mặt đáy
         </tr>
         <tr>
             <td colspan="2">Cảm biến gia tốc </td>
-            <td>3 trục gia tốc tuyến tính </td>
+            <td>3 trục gia tốc tuyến tính <br>
+            Dải đo 2÷16g độ phân giải cao 16bits</td>
             <td rowspan="3" ></td>
         </tr>
         <tr>
@@ -390,7 +393,7 @@ Hình 3. Tổng quan từ góc nhìn mặt đáy
         <td colspan="4" > <b>Tính năng</b></td> 
         </tr>
         <tr>
-            <td colspan="2" rowspan="9">Đèn Led</td>
+            <td colspan="2" rowspan="9">Cơ bản</td>
             <td>Bắt tay xác nhận 2 chiều</td>
             <td ></td>
         </tr>
@@ -435,10 +438,6 @@ Hình 3. Tổng quan từ góc nhìn mặt đáy
             <td>NTP, vệ tinh GPS</td>
             <td ></td>
         </tr>
-        <td colspan="2">Lưu trữ và truyền lại dữ liệu</td>
-            <td>30 ngày</td>
-            <td ></td>
-        </tr>
     <td colspan="2" rowspan="6">Nâng cao</td>
             <td>Cảnh báo có đáp ứng đầu ra tại Out0</td>
             <td ></td>
@@ -465,7 +464,7 @@ Hình 3. Tổng quan từ góc nhìn mặt đáy
         </tr>
 </table>
 
-Bảng 1. Đặc tả thông số kỹ thuật
+<center>Bảng 1. Đặc tả thông số kỹ thuật</center>
 
 ### 3. Cổng tín hiệu, và Led chỉ thị
 
@@ -495,7 +494,7 @@ Bảng 1. Đặc tả thông số kỹ thuật
             <td> Đầu đọc thẻ gặp sự cố  </td>
         </tr>
         <td rowspan="4"><b>GNSS</b></td>
-        <td ><b>Sáng ổn định không chớp</b></td>
+        <td >Sáng ổn định không chớp</td>
         <td >Đang dò sóng</td>
         </tr>
         <tr>
@@ -539,11 +538,11 @@ Bảng 1. Đặc tả thông số kỹ thuật
             <td >Đang truy cập bộ nhớ</td>
         </tr>
 </table>       
-Bảng 2. Mô tả led chỉ thị
+<center>Bảng 2. Mô tả led chỉ thị</center>
 
-<span style="display:block">![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/Drawing3-chop.png)
+<span style="display:block">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/Drawing3-chop.png)
 
-Hình 4. Mô tả kiểu chớp sáng
+<center>Hình 4. Mô tả kiểu chớp sáng</center>
 
 (\*) Chớp sáng **nhanh**: trong 1 chu kỳ nháy, thời gian **sáng** là **ngắn** hơn thời gian tắt.
 
@@ -633,7 +632,7 @@ Hình 4. Mô tả kiểu chớp sáng
     <tr >
         <td ><b>GND</b></td>
         <td ><b>Đen</b></td>
-        <td ><b>KKết nối với Mass</b></td>
+        <td ><b>Kết nối với Mass</b></td>
     </tr> 
     <tr >
         <td rowspan="6"><b>Cổng B </b></td>
@@ -666,25 +665,25 @@ Hình 4. Mô tả kiểu chớp sáng
         <td >Kết nối với Mass</td>
     </tr>
 </table>
- Bảng 3. Mô tả dây tín hiệu
+ <center>Bảng 3. Mô tả dây tín hiệu</center>
 
 > Lưu ý: chú thích tên tín hiệu có ghi lên mặt dưới của thân vỏ thiết bị
 
-<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/Drawing3-cong.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/Drawing3-cong.png)
 
-Hình 5. Minh họa màu dây tại cổng kết nối
+<center>Hình 5. Minh họa màu dây tại cổng kết nối</center>
 
 #### 3.4. Cài đặt sim
 
-<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/Drawing3-nano.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/Drawing3-nano.png)
 
-Hình 6. Vị trí và hướng cài Nano SIM card
+<center>Hình 6. Vị trí và hướng cài Nano SIM card</center>
 
-#### 3..5. Sơ đồ kết nối với ngoại vi
+#### 3.5. Sơ đồ kết nối với ngoại vi
 
-<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/Drawing3.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/Drawing3.png)
 
-Hình 7. Minh họa một vài kết nối ngoại
+<center>Hình 7. Minh họa một vài kết nối ngoại</center>
 
 ### 4. Những lưu ý khi lắp đặt thiết bị
 
@@ -694,23 +693,23 @@ Hình 7. Minh họa một vài kết nối ngoại
 - Nếu buộc phải đi dây ở bên ngoài nơi mà có thể tiếp xúc trực tiếp với mội trường tự nhiên hoặc môi trường có nhiệt, ẩm …, cần bổ sung thêm các ống cách ly để kháng lại các yếu tố này.
 - Tháo bỏ các dây kết nối máy tính sau khi cấu hình xong.
 
-#### 4.1. Kết nối nguồn điện
+#### 4.2. Kết nối nguồn điện
 
-Sau khi kết nối với nguồn ngoài xong, nên đo đạc lại nguồn điện một lần nữa để đảm bảo không bị sụt áp. Và các hoạt động như đề nổ, điều hòa, đèn chiếu sáng … hoạt động bình thường.
+* Sau khi kết nối với nguồn ngoài xong, nên đo đạc lại nguồn điện một lần nữa để đảm bảo không bị sụt áp. Và các hoạt động như đề nổ, điều hòa, đèn chiếu sáng … hoạt động bình thường.
 
 #### 4.3. Kết nối khóa điện
 
-Hãy kiểm tra lại điện áp khi khóa điện On hoặc OFF phải có giá trị điện áp phù hợp tương ứng.
+* Hãy kiểm tra lại điện áp khi khóa điện On hoặc OFF phải có giá trị điện áp phù hợp tương ứng.
 
 #### 4.4. Kết nối dây mass
 
-Dây nguồn nên được kết nối tới phần kim loại cố định trên khung sườn kim loại của xe.
+* Dây nguồn nên được kết nối tới phần kim loại cố định trên khung sườn kim loại của xe.
 
 #### 4.5. Vị trí lắp đặt
 
-Thiết bị S200 được thiết kế với các anten bên trong hoàn toàn. Để thu tín hiệu tốt nhất nên lắp đặt thiết bị tại vị trí sao cho phần logo “Gotrack” của mặt trên thiết bị hướng thẳng lên bầu trời.
-S200 cũng có thể được lắp đặt ngay dưới tấm panel nhựa của taplo.
+* Thiết bị S200 được thiết kế với các anten bên trong hoàn toàn. Để thu tín hiệu tốt nhất nên lắp đặt thiết bị tại vị trí sao cho phần logo “GoTrack” của mặt trên thiết bị hướng thẳng lên bầu trời.
+* S200 cũng có thể được lắp đặt ngay dưới tấm panel nhựa của taplo.
 
-<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/gotrack/s200/setting.png)
+    <span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/setting.png)
 
-Hình 8. Khu vực tốt nhất để lắp đặt thiết bị
+<center>Hình 8. Khu vực tốt nhất để lắp đặt thiết bị</center>

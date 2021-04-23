@@ -1,14 +1,14 @@
-# S200
+# S400
 
 <span class="icon-left6">![Interface Web](/docs/assets/Images/integrated-devices/smc/s200/s200.png)
 
 ### 1. Product information
-* S200 is a cruise monitoring device using global satellite positioning system and 2G communication system capable of locating and transmitting position and status to the server via GPRS data network.
+* S400 is a journey monitoring device using global satellite positioning system and 4G LTE communication system capable of locating and transmitting position and status to the server via 4G data network.
 
-* With optimal design for easy installation, installation and maintenance with low energy consumption as well as competitive price. Therefore, the S200 is perfectly compatible with many applications in the management and operation of road vehicles.
+With optimal design for easy installation, installation and maintenance with low energy consumption as well as competitive price. Therefore, the S400 is perfectly compatible with many applications in road traffic management and operation.
 #### 1.1. Pack
-* The S200 product set is offered to customers including:
-    * 01- Device S200
+* The S400 product set is offered to customers including:
+    * 01- Device S400
     * 01-Signal cable set (2x3 type)
     * 01-stamp decal seal after inserting sim
     * 01-user manual
@@ -17,21 +17,21 @@
 
 #### 1.2. General Image
 
-<span class="icon-left6" >![Interface Web](/docs/assets/Images/integrated-devices/smc/s200/el-s200-all.png)
+<span class="icon-left6" >![Interface Web](/docs/assets/Images/integrated-devices/smc/s200/el-s400-all.png)
 
 <center>Image 1. General structural components of the device</center>
 
-<span class="icon-left6">![Interface Web](/docs/assets/Images/integrated-devices/smc/s200/el-s200-nano.png)
+<span class="icon-left6">![Interface Web](/docs/assets/Images/integrated-devices/smc/s200/el-s400-nano.png)
 
 <center>Image 2. Front side detail</center>
 
-<span class="icon-left6">![Interface Web](/docs/assets/Images/integrated-devices/smc/s200/el-s200-bottom-box.png)
+<span class="icon-left6">![Interface Web](/docs/assets/Images/integrated-devices/smc/s200/el-s400-bottom-box.png)
 
 <center>Image 3. Overview from bottom view</center>
 
 #### 1.3. Certificate
 
-S200 is in accordance with QCVN 12: 2015 / BTTTT, QCVN 86: 2019 / BTTTT, QCVN 55: 2011 / BTTTT, QCVN 96: 2015 / BTTTT.
+S400 is in accordance with QCVN 117: 2018 / BTTTT, QCVN 86: 2019 / BTTTT, QCVN 55: 2011 / BTTTT, QCVN 96: 2015 / BTTTT.
 
 ### 2. Technical specification
 
@@ -148,9 +148,9 @@ S200 is in accordance with QCVN 12: 2015 / BTTTT, QCVN 86: 2019 / BTTTT, QCVN 55
         <td colspan="4"> <b>Wireless and satellite connectivity</b></td> 
         </tr>
         <tr>
-            <td rowspan="6">2G/GPRS</td>
+            <td rowspan="6">4G-LTE</td>
             <td>Modem</td>
-            <td>SIMCOM SIM868</td>
+            <td>SIMCOM A7670E</td>
             <td></td>
         </tr>
         <tr>
@@ -160,14 +160,16 @@ S200 is in accordance with QCVN 12: 2015 / BTTTT, QCVN 86: 2019 / BTTTT, QCVN 55
         </tr>
         <tr>
             <td>Frequency band</td>
-            <td>Quad-band: GSM 850 MHz, EGSM  <br>
-                900MHz, DCS <br>
-                1800MHz and PCS 1900MHz</td>
+            <td>TDD-LTE B38/B40  <br>
+                FDD-LTE B1/B3/B5/B7/B8/B20 <br>
+                GSM/GPRS/EDGE 900/1800 MHz</td>
             <td></td>
         </tr>
          <tr>
             <td>Data transfer</td>
-            <td>GPRS: Uplink/Downlink up to 85.6Kbps</td>
+            <td>LTE CAT1: 10(DL)/5(UL) <br>
+            GPRS/EDGE: 236.8(DL)/236.8(UL)
+            </td>
             <td></td>
         </tr>
          <tr>
@@ -183,17 +185,17 @@ S200 is in accordance with QCVN 12: 2015 / BTTTT, QCVN 86: 2019 / BTTTT, QCVN 55
         <tr>
             <td rowspan="6">GNSS</td>
             <td>Module</td>
-            <td>Inside Sim868</td>
+            <td>SIMCOM SIM68M</td>
             <td></td>
         </tr>
         <tr>
             <td>Chipset</td>
-            <td>MT2503D</td>
+            <td>MT3333</td>
             <td></td>
         </tr>
         <tr>
             <td>Systems</td>
-            <td>GPS+Glonass</td>
+            <td>GPS+Glonass+Galileo</td>
             <td></td>
         </tr>
          <tr>
@@ -349,7 +351,7 @@ S200 is in accordance with QCVN 12: 2015 / BTTTT, QCVN 86: 2019 / BTTTT, QCVN 55
         </tr>
         <tr>
             <td rowspan="4">Port B </td>
-            <td  rowspan="2">2 x  Digital input</td>
+            <td  rowspan="2">2 x Digital input</td>
             <td >1 high positive level signal</td>
             <td>ENGINE</td>
         </tr>
@@ -365,9 +367,7 @@ S200 is in accordance with QCVN 12: 2015 / BTTTT, QCVN 86: 2019 / BTTTT, QCVN 55
         <tr>
             <td >1 x RS232</td>
             <td >1 port RS232/RS485</td>
-            <td>TX2,RX2 <br>
-                RS485 option <br>
-                RS232 default </td>
+            <td> RS232 default </td>
         </tr>
         <tr>
             <td colspan="2">01 x COM/MicroUSB (optional) </td>
@@ -699,8 +699,8 @@ S200 is in accordance with QCVN 12: 2015 / BTTTT, QCVN 86: 2019 / BTTTT, QCVN 55
 * The power cord should be connected to the fixed metal part of the vehicle's metal chassis.
 
 #### 4.5. Installation location
-* The S200 is designed with completely internal antennas. For best reception, install the device in a position so that the “GoTrack” logo part of the top of the device is facing the sky. 
-* The S200 can also be installed directly under the taplo's plastic panel.
+* The S400 is designed with completely internal antennas. For best reception, install the device in a position so that the “GoTrack” logo part of the top of the device is facing the sky. 
+* The S400 can also be installed directly under the taplo's plastic panel.
 
     <span class="icon-left6">![Interface Web](/docs/assets/Images/integrated-devices/smc/s200/setting.png)
 

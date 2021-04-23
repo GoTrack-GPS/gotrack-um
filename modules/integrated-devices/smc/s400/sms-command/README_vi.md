@@ -7,7 +7,7 @@ Một vài lưu ý:
 
 -	Khách hàng/Đại lý nên cho nhà sản xuất biết thông tin về các số điện thoại sẽ là số trung tâm cho riêng mình, để nhà sản xuất thực hiện việc cấu hình này trước lúc bàn giao tới Khách hàng/Đại lý.
 
--	Xin Quý Khách hãy liên hệ bộ phận hỗ trợ kỹ thuật để nhận được giải đáp và hướng dẫn tốt nhất.
+-	***Xin Quý Khách hãy liên hệ bộ phận hỗ trợ kỹ thuật để nhận được giải đáp và hướng dẫn tốt nhất***.
 
 ### 1. Thiết lập và kiểm tra thông số cơ bản
 
@@ -42,8 +42,8 @@ Một vài lưu ý:
 </table>
 
 > Lưu ý: đối với lệnh thiết lập cho thông số này để thực hiện được thành công cần như sau:
-Thiết bị chưa bị khóa cấu hình (để kiểm tra, xem mục 6.2.10 ).
-Nếu cấu hình đã bị khóa, số điện thoại thực hiện thiết lập phải là số điện thoại trung tâm. (để kiểm tra/thiết lập, xem mục 6.1.9).
+Thiết bị chưa bị khóa cấu hình (để kiểm tra, xem mục 2.10 ).
+Nếu cấu hình đã bị khóa, số điện thoại thực hiện thiết lập phải là số điện thoại trung tâm. (để kiểm tra/thiết lập, xem mục 1.9).
 Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết bị đang kết nối.
 
 #### 1.2. Thông số APN
@@ -118,14 +118,14 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
     </tr> 
     <tr >
         <td >Tim, < thời gian truyền khi chạy >,< khi dừng > # </td>
-        <td >Apnex#</td>  
+        <td >Tim#</td>  
     </tr> 
      <tr >
         <td colspan="3"></td>
     </tr> 
      <tr >
         <td >Ví dụ</td>
-        <td >ATim,10,900#</td>
+        <td >Tim,10,900#</td>
         <td >Tim#</td>  
     </tr> 
     <tr >
@@ -157,8 +157,8 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
     </tr> 
      <tr >
         <td >Ví dụ</td>
-        <td >Múi giờ: 9:30 -> “HH.hh” = 9 + 30/60 = 9.5
-Tzone,9.5#</td>
+        <td >Múi giờ: 9:30 -> “HH.hh” = 9 + 30/60 = 9.5 <br>
+            Tzone,9.5#</td>
         <td >Tzone #</td>  
     </tr> 
     <tr >
@@ -322,9 +322,9 @@ Tzone,9.5#</td>
     </tr> 
     <tr >
         <td >- đối với cổng RS232_0 <br> 
-                Rs232para,0,<sample time>,<trigger value>#
+                Rs232para,0, < sample time >, < trigger value ># <br> 
             - đối với cổng RS232_1 <br>
-                Rs232para,1,<sample time>,<trigger value># <br>
+                Rs232para,1, < sample time >, < trigger value ># <br>
             <b> sample time </b> : Thời gian đọc cảm biến, đơn vị s, mặc định 10s<br>
             <b> trigger value </b>: giá trị sai khác giữa 2 lần gần nhất để tạo ra 1 sự kiện cập nhật giá trị cảm biến, mặc định là 5
         </td>  
@@ -338,7 +338,7 @@ Tzone,9.5#</td>
     </tr> 
      <tr >
         <td >Ví dụ</td>
-        <td >Rs232para,0,20,10#
+        <td >Rs232para,0,20,10# <br> 
              <i>(thiết lập tần suất lấy mẫu/đọc cảm biến: 20s và cập nhật giá trị cảm biến khi sai khác từ 10 đơn vị trở lên) </i>
 </td>
         <td >Rs232para,0#</td>  
@@ -390,9 +390,9 @@ Tzone,9.5#</td>
 
 - Ngoài ra, thiết bị còn hỗ trợ tạo ra một xung vuông có Ton, Toff, số chu kỳ điều chỉnh được hoặc một trigger (xung 1 chu kỳ):
 
-  * **Xung** : outputpulse,0,<Ton>,<Toff>,<số chu kỳ>#
-  * **Trigger**: outputtrigger,0,<Ton>#
-  
+  * **Xung** : outputpulse,0, < Ton >, < Toff >, < số chu kỳ >#
+  * **Trigger**: outputtrigger,0, < Ton >#
+
 ##### 1.11.	Thiết lập số điện thoại trung tâm 
 
 <table>
@@ -510,14 +510,14 @@ Tzone,9.5#</td>
 <table>
     <tr >
         <td>Lệnh</td>
-        <td >View, vehicleinfo#</td>
+        <td ><b>View, vehicleinfo#<b></td>
     </tr> 
     <tr >
         <td>Nội dung phản hồi</td>
         <td >
         <b>vehi</b> , < Biển số xe >, < quãng đường: Km >, < tốc độ >, < ngưỡng xác lập chuyển động >, < số lần quá tốc >, < thời gian duy trì trạng thái hiện tại >, < tổng thời gian dừng >,< lọc vận tốc: 0/A or E không dùng/lọc theo tín hiệu ACC hoặc Engine >. <br>
         <b>driv</b> , < ID thẻ >, < tên lái xe >, < GPLX >, < bắt đầu hành trình >, < kết thúc hành trình >,< tg lái xe liên tục >, < tổng thời gian lái xe > <br>
-        <b>devi</b>, < tên thiết bị > , < imei > , < hw-rev >, < Manuf-time >,< install-time > .
+        <b>devi</b>, < tên thiết bị > , < imei > , < hw-rev >, < Manuf-time >,< install-time > .<br>
         <b>pwr</b>, < điện áp nguồn ngoài > , < điện áp nguồn dự phòng >
         </td>
     </tr> 
@@ -539,13 +539,13 @@ Tzone,9.5#</td>
 <table>
     <tr >
         <td>Lệnh</td>
-        <td >View,View, overview#</td>
+        <td ><b>View, overview#</b></td>
     </tr> 
     <tr >
         <td>Nội dung phản hồi</td>
         <td >
         <b>< device name ></b>, < imei >, < phiên bản fw >, < 0/1: thiết bị chưa khóa/đã khóa >, < số ngày thiết bị đã hoạt động >, < thời điểm khởi độngDDMMYYhhmmss >, < Nhiệt độ chip xử lý ><br>
-        <b>nw</b>, < 0/1: chưa có/đã có GPRS >, < độ mạnh sóng, lớn nhất: 31 >
+        <b>nw</b>, < 0/1: chưa có/đã có GPRS >, < độ mạnh sóng, lớn nhất: 31 > <br>
         <b>gps</b>, < 0/4/6: trạng thái OK/ERROR/đang ngủ >, < 0/1: không/có chốt vị trí >, < số vệ tinh ><br>
         <b>sv</b>, < server ip >, < server port >, < 0/1: chưa/đã kết nối ><br>
         <b>pw</b>, < chế độ: 0:normal/1:sleeping >, < điện áp nguồn ngoài >, < điện áp nguồn dự phòng > , < chế độ sạc >, < trạng thái sạc ><br>
@@ -566,12 +566,12 @@ Tzone,9.5#</td>
     </tr> 
 </table>
 
-#### 1.3. Kiểm tra trạng thái ngoại vi
+#### 2.3. Kiểm tra trạng thái ngoại vi
 
 <table>
     <tr >
         <td>Lệnh</td>
-        <td >View,comm#</td>
+        <td ><b>View,comm#</b></td>
     </tr> 
     <tr >
         <td>Nội dung phản hồi</td>
@@ -590,14 +590,14 @@ Tzone,9.5#</td>
         <b>SOS</b>, < state >,3,+, < mức tích cực> <br>
         <b>DO</b>,  < state >, < mức tích cực >  <br>
         <i>state </i>: <br>
-        -	7: bị tắt/Không sử dụng <br>
-        -	6: bị reset <br>
-        -	5: dừng tạm thời <br>
-        -	4: không kết nối được với bộ xử lý <br>
-        -	3: lỗi gói tin <br>
-        -	2: lỗi checksum <br>
-        -	1: đang ngủ <br>
-        -	0: Tốt <br>
+        &emsp;&emsp;&emsp;&emsp;-	7: bị tắt/Không sử dụng <br>
+        &emsp;&emsp;&emsp;&emsp;-	6: bị reset <br>
+        &emsp;&emsp;&emsp;&emsp;-	5: dừng tạm thời <br>
+        &emsp;&emsp;&emsp;&emsp;-	4: không kết nối được với bộ xử lý <br>
+        &emsp;&emsp;&emsp;&emsp;-	3: lỗi gói tin <br>
+        &emsp;&emsp;&emsp;&emsp;-	2: lỗi checksum <br>
+        &emsp;&emsp;&emsp;&emsp;-	1: đang ngủ <br>
+        &emsp;&emsp;&emsp;&emsp;-	0: Tốt <br>
         <i>Mức tích cực </i>: 0-Tắt/Đóng, 1-Bật/Mở <br>
         <i>Trạng thái led </i> : 0-Tắt, 1-Sáng không chớp, 2-Lóe sáng nhanh (Chớp nhanh), 3-Lóe sáng lâu (chớp chậm).
         </td>
@@ -628,7 +628,7 @@ Tzone,9.5#</td>
 <table>
     <tr >
         <td>Lệnh</td>
-        <td >View,network#</td>
+        <td ><b>View,network#</b></td>
     </tr> 
     <tr >
         <td>Ví dụ</td>
@@ -648,7 +648,7 @@ Tzone,9.5#</td>
 <table>
     <tr >
         <td>Lệnh</td>
-        <td >View,serverconn#</td>
+        <td ><b>View,serverconn#</b></td>
     </tr> 
     <tr >
         <td>Ví dụ</td>
@@ -669,7 +669,7 @@ Tzone,9.5#</td>
 <table>
     <tr >
         <td>Lệnh</td>
-        <td >View, idatameter# <br>
+        <td ><b>View, idatameter# </b><br>
         (Lưu lượng được tính từ 00h)
         </td>
     </tr> 
@@ -693,20 +693,32 @@ Tzone,9.5#</td>
 <table>
     <tr >
         <td>Lệnh</td>
-        <td >View, diskinfo# </td>
+        <td ><b>View, diskinfo# </b></td>
     </tr> 
     <tr >
         <td>Nội dung phản hồi</td>
         <td >view,diskinfo, <br>
         <b>disk</b>, < 0: tốt >, < dung lượng KB còn trống/tổng > <br>
         <b>dat</b>, < tên file dữ liệu >, < dung lượng KB >, < 1: đã bật chế độ log > <br>
-        <b>bak</b>, < thông tin truyền log: số byte đã truyền/tổn số >, < dung lượng Byte của file  <br>
+        <b>bak</b>, < thông tin truyền log: số byte đã truyền/tổn số >, < dung lượng Byte của file  > <br>
         <b> > TCP-Stream</b>
          < Số bản tin của FIFO >, < dung lượng BYTE và địa chỉ của FIFO > <br>
-        Q_NO_PROTEC
+        Q_NO_PROTEC <br>
         < số bản tin đã truyền/tổng số bản tin trong FIFO>:<số BYTE còn lại của FIFO >
+        @OK#
     </td>
     </tr> 
+    <tr >
+        <td>Ví dụ</td>
+        <td >view,diskinfo, <b>disk </b>,0,2800.0/7640.0
+            <b>dat </b>,201204.TXT,95065,0x1
+            <b>bak</b>,0/0,0
+            <b>>TCP-Stream</b>
+            120Msg,4096B@0x200032f8
+            Q_NO_PROTEC
+            0/0:4096
+            @OK#
+    </td>
     <tr >
         <td colspan="2" > 
             * Log (hay còn gọi là dữ liệu lịch sử) bị đọng sẽ thể hiện ở bak và < số bản tin đã truyền/tổng số bản tin trong FIFO >. Thực hiện kiểm tra khi không thấy thiết bị cập nhật dữ liệu mới <br>
@@ -720,7 +732,7 @@ Tzone,9.5#</td>
 <table>
     <tr >
         <td>Lệnh</td>
-        <td >View, powerinfo#</td>
+        <td ><b>View, powerinfo#</b></td>
     </tr> 
     <tr >
         <td>Ví dụ</td>
@@ -738,12 +750,12 @@ Tzone,9.5#</td>
 <table>
     <tr >
         <td>Lệnh</td>
-        <td >lockerstat#</td>
+        <td ><b>View,map#</b></td>
     </tr> 
     <tr >
         <td>Ví dụ</td>
         <td > 
-            View,map,http://maps.google.com/maps?q=N%2020%2059.618626%20E%20105%2047.236412
+            View,map,http://maps.google.com/maps?q=N%2020%2059.618626%20E%20105%2047.236412 <br>
             @OK#     
         </td>
     </tr> 
@@ -754,7 +766,7 @@ Tzone,9.5#</td>
 <table>
     <tr >
         <td>Lệnh</td>
-        <td colspan="2" >View,map#</td>
+        <td colspan="2" ><b>lockerstat#</b></td>
     </tr> 
     <tr >
         <td rowspan="2">Ví dụ</td>
@@ -780,6 +792,7 @@ Tzone,9.5#</td>
 #### 3.3. Truyền bản tin tức thì
 
 * Pack, < packet-name: location/status/sensor/heartbeat >#
+* VD: Pack,location#
 
 #### 3.4. Lấy số điện thoại trên thiết bị
 
