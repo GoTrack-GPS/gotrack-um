@@ -1,6 +1,6 @@
 # S400
 
-<span class="icon-left6">![Interface Web](/docs/assets/Images/integrated-devices/smc/s200/s200.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/s200.png)
 
 ### 1. Product information
 * S400 is a journey monitoring device using global satellite positioning system and 4G LTE communication system capable of locating and transmitting position and status to the server via 4G data network.
@@ -17,15 +17,15 @@ With optimal design for easy installation, installation and maintenance with low
 
 #### 1.2. General Image
 
-<span class="icon-left6" >![Interface Web](/docs/assets/Images/integrated-devices/smc/s200/el-s400-all.png)
+<span class="icon-left6" >![Interface Web](/docs/assets/images/integrated-devices/smc/s200/el-s400-all.png)
 
 <center>Image 1. General structural components of the device</center>
 
-<span class="icon-left6">![Interface Web](/docs/assets/Images/integrated-devices/smc/s200/el-s400-nano.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/el-s400-nano.png)
 
 <center>Image 2. Front side detail</center>
 
-<span class="icon-left6">![Interface Web](/docs/assets/Images/integrated-devices/smc/s200/el-s400-bottom-box.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/el-s400-bottom-box.png)
 
 <center>Image 3. Overview from bottom view</center>
 
@@ -537,7 +537,7 @@ S400 is in accordance with QCVN 117: 2018 / BTTTT, QCVN 86: 2019 / BTTTT, QCVN 5
 </table>       
 <center>Table 2. Description of LED indicator</center>
 
-<span style="display:block">![Interface Web](/docs/assets/Images/integrated-devices/smc/s200/flashes.png)
+<span style="display:block">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/flashes.png)
 
 <center>Image 4. Description of flash pattern</center>
 
@@ -666,19 +666,19 @@ S400 is in accordance with QCVN 117: 2018 / BTTTT, QCVN 86: 2019 / BTTTT, QCVN 5
 
 > Note: the name of the signal is written on the underside of the case of the device
 
-<span class="icon-left6">![Interface Web](/docs/assets/Images/integrated-devices/smc/s200/el-s200-gate.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/el-s200-gate.png)
 
 <center>Image 5. Illustration of wire color at connection port</center>
 
 #### 3.4. Install sim
 
-<span class="icon-left6">![Interface Web](/docs/assets/Images/integrated-devices/smc/s200/nano.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/nano.png)
 
 <center>Image 6. Location and direction of installing Nano SIM card</center>
 
 #### 3.5. Diagram connected with peripheral
 
-<span class="icon-left6">![Interface Web](/docs/assets/Images/integrated-devices/smc/s200/Drawing3.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/Drawing3.png)
 
 <center>Image 7. A few outbound connections are illustrated</center>
 
@@ -702,6 +702,6 @@ S400 is in accordance with QCVN 117: 2018 / BTTTT, QCVN 86: 2019 / BTTTT, QCVN 5
 * The S400 is designed with completely internal antennas. For best reception, install the device in a position so that the “GoTrack” logo part of the top of the device is facing the sky. 
 * The S400 can also be installed directly under the taplo's plastic panel.
 
-    <span class="icon-left6">![Interface Web](/docs/assets/Images/integrated-devices/smc/s200/setting.png)
+    <span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/setting.png)
 
 <center>Image 8. Best area for equipment installation</center>
