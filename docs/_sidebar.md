@@ -64,7 +64,7 @@
                - **S200**
                   - [Technical document](modules/integrated-devices/smc/s200/technical-document/)
                   - [SMS command](modules/integrated-devices/smc/s200/sms-command/)
-                - **S400**
+               - **S400**
                   - [Technical document](modules/integrated-devices/smc/s400/technical-document/)
                   - [SMS command](modules/integrated-devices/smc/s400/sms-command/)
      - **FAQ**
