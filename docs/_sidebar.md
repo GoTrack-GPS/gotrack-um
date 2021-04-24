@@ -63,14 +63,17 @@
           - **GoTrack**
                - **S200**
                   - [Technical document](modules/integrated-devices/smc/s200/technical-document/)
-                  - [SMS command](modules/integrated-devices/smc/s200/sms-command/)
+                  - [SMS commands](modules/integrated-devices/smc/s200/sms-command/)
                - **S400**
                   - [Technical document](modules/integrated-devices/smc/s400/technical-document/)
-                  - [SMS command](modules/integrated-devices/smc/s400/sms-command/)
+                  - [SMS commands](modules/integrated-devices/smc/s400/sms-command/)
+
+     - [**Contact**](modules/web-interface/contact/)
      - **FAQ**
           - [Build App](modules/web-interface/faq/build-app/)
      - **Version history**
           - [Update history](modules/web-interface/version-history/)
+     
 <!-- - 
      - [**FAQ**](modules/faq/)
      - [**CHANGELOG**](CHANGELOG) --> 

@@ -1,37 +1,43 @@
 # S200
 
-<span class="icon-left6">![Interface Web](/docs/assets/Images/integrated-devices/smc/s200/s200.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/s200.png)
 
 ### 1. Product information
 * S200 is a cruise monitoring device using global satellite positioning system and 2G communication system capable of locating and transmitting position and status to the server via GPRS data network.
 
 * With optimal design for easy installation, installation and maintenance with low energy consumption as well as competitive price. Therefore, the S200 is perfectly compatible with many applications in the management and operation of road vehicles.
+
+
 #### 1.1. Pack
 * The S200 product set is offered to customers including:
     * 01- Device S200
-    * 01-Signal cable set (2x3 type)
-    * 01-stamp decal seal after inserting sim
-    * 01-user manual
-    * 01-Simcard (optional)
-    * 02-Driver's card (optional).
+    * 01- Signal cable set (2x3 type)
+    * 01- Stamp decal seal after inserting sim
+    * 01- User manual
+    * 01- Simcard (optional)
+    * 02- Driver's card (optional).
 
 #### 1.2. General Image
 
-<span class="icon-left6" >![Interface Web](/docs/assets/Images/integrated-devices/smc/s200/el-s200-all.png)
+<span class="icon-left6" >![Interface Web](/docs/assets/images/integrated-devices/smc/s200/el-s200-all.png)
 
 <center>Image 1. General structural components of the device</center>
 
-<span class="icon-left6">![Interface Web](/docs/assets/Images/integrated-devices/smc/s200/el-s200-nano.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/el-s200-nano.png)
 
 <center>Image 2. Front side detail</center>
 
-<span class="icon-left6">![Interface Web](/docs/assets/Images/integrated-devices/smc/s200/el-s200-bottom-box.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/el-s200-bottom-box.png)
 
 <center>Image 3. Overview from bottom view</center>
 
 #### 1.3. Certificate
 
-S200 is in accordance with QCVN 12: 2015 / BTTTT, QCVN 86: 2019 / BTTTT, QCVN 55: 2011 / BTTTT, QCVN 96: 2015 / BTTTT.
+* S200 is in accordance :
+    * QCVN 12: 2015 / BTTTT
+    * QCVN 86: 2019 / BTTTT
+    * QCVN 55: 2011 / BTTTT
+    * QCVN 96: 2015 / BTTTT
 
 ### 2. Technical specification
 
@@ -441,7 +447,7 @@ S200 is in accordance with QCVN 12: 2015 / BTTTT, QCVN 86: 2019 / BTTTT, QCVN 55
             <td ></td>
         </tr>
         <tr>
-            <td>Parallel connection of 2 oil sensors</td>
+            <td>Parallel connection of 2 fuel sensors</td>
             <td ></td>
         </tr>
         <tr>
@@ -537,7 +543,7 @@ S200 is in accordance with QCVN 12: 2015 / BTTTT, QCVN 86: 2019 / BTTTT, QCVN 55
 </table>       
 <center>Table 2. Description of LED indicator</center>
 
-<span style="display:block">![Interface Web](/docs/assets/Images/integrated-devices/smc/s200/flashes.png)
+<span style="display:block">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/flashes.png)
 
 <center>Image 4. Description of flash pattern</center>
 
@@ -597,7 +603,7 @@ S200 is in accordance with QCVN 12: 2015 / BTTTT, QCVN 86: 2019 / BTTTT, QCVN 55
 <table>
     <tr class="color-primary" >
         <td> <b><center>Port</center></b></td>
-        <td ><b><center>The battery</center></b></td>
+        <td ><b><center>Signal</center></b></td>
          <td ><b><center>Color</center></b></td>
         <td ><b><center>Descriptions</center></b></td>
         </tr>
@@ -666,19 +672,19 @@ S200 is in accordance with QCVN 12: 2015 / BTTTT, QCVN 86: 2019 / BTTTT, QCVN 55
 
 > Note: the name of the signal is written on the underside of the case of the device
 
-<span class="icon-left6">![Interface Web](/docs/assets/Images/integrated-devices/smc/s200/el-s200-gate.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/el-s200-gate.png)
 
 <center>Image 5. Illustration of wire color at connection port</center>
 
 #### 3.4. Install sim
 
-<span class="icon-left6">![Interface Web](/docs/assets/Images/integrated-devices/smc/s200/nano.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/nano.png)
 
 <center>Image 6. Location and direction of installing Nano SIM card</center>
 
-#### 3.5. Diagram connected with peripheral
+#### 3.5. Diagram connected with peripherals
 
-<span class="icon-left6">![Interface Web](/docs/assets/Images/integrated-devices/smc/s200/Drawing3.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/Drawing3.png)
 
 <center>Image 7. A few outbound connections are illustrated</center>
 
@@ -689,6 +695,7 @@ S200 is in accordance with QCVN 12: 2015 / BTTTT, QCVN 86: 2019 / BTTTT, QCVN 55
 * Signal wires should be neatly tied and fixed to other fixed sections nearby. Try to avoid sources of heat or moving objects
 * If the wiring is forced to be outside where it can be directly exposed to natural environments or environments with heat, humidity, etc., it is necessary to add isolation pipes to resist these factors.
 * Remove the wires connecting the computer after the configuration is complete.
+
 #### 4.2. Connect the power supply
 * After connecting to the external source, it is advisable to measure the power supply again to ensure there is no voltage drop. And activities such as explosion, air conditioner, lights… work normally.
 
@@ -702,6 +709,6 @@ S200 is in accordance with QCVN 12: 2015 / BTTTT, QCVN 86: 2019 / BTTTT, QCVN 55
 * The S200 is designed with completely internal antennas. For best reception, install the device in a position so that the “GoTrack” logo part of the top of the device is facing the sky. 
 * The S200 can also be installed directly under the taplo's plastic panel.
 
-    <span class="icon-left6">![Interface Web](/docs/assets/Images/integrated-devices/smc/s200/setting.png)
+    <span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/setting.png)
 
 <center>Image 8. Best area for equipment installation</center>

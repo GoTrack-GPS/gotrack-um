@@ -1,236 +1,245 @@
 # Basic test and configuration guide
 A few notes:
 
-The device supports reading / configuring through 3 different channels: TCP / IP, COM-Terminal, SMS (structure and code are the same).
+* The device supports reading / configuring through 3 different channels: TCP / IP, COM-Terminal, SMS (structure and code are the same).
 
-Important parameters such as IP / Port, ID, central phone will be protected (hereinafter referred to as locked device) after the device has been running continuously for 10 days, after this time the change of information. The above protected messages will be restricted and only made via central phone numbers or over the TCP / IP configuration channel to which the device is connected. (A message "No Permission @ ER #" will be returned when we change the parameters that are being protected from restricted channels).
+* Important parameters such as IP / Port, ID, central phone will be protected (hereinafter referred to as locked device) after the device has been running continuously for 10 days, after this time the change of information. The above protected messages will be restricted and only made via central phone numbers or over the TCP / IP configuration channel to which the device is connected. (A message "No Permission @ ER #" will be returned when we change the parameters that are being protected from restricted channels).
 
-Customer / Reseller should inform manufacturer about phone numbers that will be their own central number, so that the manufacturer can do this configuration before handing over to Customer / Reseller.
+* Customer / Reseller should inform manufacturer about phone numbers that will be their own central number, so that the manufacturer can do this configuration before handing over to Customer / Reseller.
 
-Please contact technical support for answers and best guidance.
+* ***Please [contact](modules/web-interface/contact/) technical support for answers and best guidance***.
+
+* **The first letter is not case sensitive. The remaining letters after it are lowercase**.
 
 ### 1. Set up and check basic parameters
 #### 1.1. IP / Port parameter
 
+
+
 <table>
+  <tr >
+        <td colspan="3">* For the setting to take effect, please send command <b>reset#</b></td>
+    </tr> 
     <tr >
         <td rowspan="2"><b>Structure</b></td>
-        <td >Establish</td>
-        <td >Read</td>  
+        <td ></td>
+        <td class="text-bold" >Read</td>  
     </tr> 
     <tr >
-        <td >Server,data,< ip/domain >,< port number >#</td>
-        <td >Server,data#</td>  
+        <td >server,data,< ip/domain >,< port number >#</td>
+        <td class="text-bold" >server,data#</td>  
     </tr> 
      <tr >
-        <td colspan="3"></td>
+        <td colspan="3">Example</td>
     </tr> 
      <tr >
-        <td ><b>Example</b></td>
-        <td >Server,data,125.212.235.145,13030#</td>
-        <td >Server,data#</td>  
+        <td ><b>Send </b></td>
+        <td >server,data,125.212.235.145,13030#</td>
+        <td class="text-bold">server,data#</td>  
     </tr> 
     <tr >
-        <td ><b>Feedback</b></td>
-        <td >Server,data,125.212.235.145,13030#@OK#</td>
-        <td >Server,data,125.212.235.145,13030@OK#</td>  
-    </tr> 
-     <tr >
-        <td colspan="3">* Updated after restarted by web <b>reset#</b></td>
+        <td ><b>Get</b></td>
+        <td >server,data,125.212.235.145,13030#@OK#</td>
+        <td >server,data,125.212.235.145,
+        13030@OK#</td>  
     </tr> 
 </table>
+     
+
 
 > Note: for the command set for this parameter to be successful, it should be as follows:
 The device has not been configured locked (for checking, see item 2.10).
 If the profile is locked, the phone number to be set up must be the central number. (For checking / setting, see section 1.9).
 Perform the setup by sending commands from the server to which the device is connected.
 
-#### 1.2. APN specifications
-
+#### 1.2. APN parameters
 <table>
     <tr >
+        <td colspan="3">* For the setting to take effect, please send command <b>reset#</b></td>
+    </tr> 
+    <tr >
         <td rowspan="2">Structure</td>
-        <td >Establish</td>
-        <td >Read</td>  
+        <td >Write </td>
+        <td class="text-bold">Read</td>  
     </tr> 
     <tr >
         <td >Apn,< apn name needed to set > # </td>
-        <td >apn #</td>  
+        <td class="text-bold">apn #</td>  
     </tr> 
      <tr >
-        <td colspan="3"></td>
+        <td colspan="3">Example </td>
     </tr> 
      <tr >
-        <td >Example</td>
+        <td >Send</td>
         <td >apn,apn-name#</td>
-        <td >apn #</td>  
+        <td class="text-bold">apn #</td>  
     </tr> 
     <tr >
-        <td >Feedback</td>
+        <td >Get </td>
         <td >apn,apn-name#@OK#</td>
         <td >apn,apn-name@OK#</td>  
     </tr> 
-     <tr >
-        <td colspan="3">* Updated after restart by command <b>reset#</b></td>
-    </tr> 
 </table>
-
 
 #### 1.3. Parameter APN-ROAMING
 
 
 <table>
     <tr >
-        <td rowspan="2">Structure</td>
-        <td >Establish</td>
-        <td >Read</td>  
+        <td colspan="3"> * For the setting to take effect, please send command  <b>reset#</b></td>
     </tr> 
     <tr >
-        <td >Apnex, < name apn when roaming needs setting ># </td>
-        <td >Apnex#</td>  
-    </tr> 
-     <tr >
-        <td colspan="3"></td>
-    </tr> 
-     <tr >
-        <td >Example</td>
-        <td >Apnex,e-connect#</td>
-        <td >Apnex#</td>  
+        <td rowspan="2">Structure  </td>
+        <td >Write </td>
+        <td class="text-bold">Read</td>  
     </tr> 
     <tr >
-        <td >Feedback</td>
-        <td >Apnex,e-connect#@OK#</td>
-        <td >Apnex,e-connect@OK#</td>  
+        <td >apnex, < name apn when roaming needs setting ># </td>
+        <td class="text-bold" >apnex#</td>  
     </tr> 
      <tr >
-        <td colspan="3">* Updated after restart by command <b>reset#</b></td>
+        <td colspan="3">Example </td>
     </tr> 
+     <tr >
+        <td >Send  </td>
+        <td >apnex,e-connect#</td>
+        <td class="text-bold">apnex#</td>  
+    </tr> 
+    <tr >
+        <td >Get</td>
+        <td >apnex,e-connect#@OK#</td>
+        <td >apnex,e-connect@OK#</td>  
+    </tr>
 </table>
 
 #### 1.4. Information transmission time
 
 <table>
-    <tr >
-        <td rowspan="2">Structure</td>
-        <td >Establish</td>
-        <td >Read</td>  
-    </tr> 
-    <tr >
-        <td >Tim, < transmission time at run >, < on stop> # </td>
-        <td >Tim#</td>  
-    </tr> 
      <tr >
-        <td colspan="3"></td>
-    </tr> 
-     <tr >
-        <td >Example</td>
-        <td >Tim#,10,900#</td>
-        <td >Tim#</td>  
+        <td colspan="3"> * Default is 30,900 <br>
+                         * Updated after feedback OK and save after sending the command<b>reset#</b></td>
     </tr> 
     <tr >
-        <td >Feedback</td>
-        <td >Tim,10,900#@OK#</td>
-        <td >Tim,30,900@OK#</td>  
+        <td rowspan="2">Structure  </td>
+        <td >Write </td>
+        <td class="text-bold">Read</td>  
+    </tr> 
+    <tr >
+        <td >tim, < transmission time at run>, < on stop > # </td>
+        <td class="text-bold">tim#</td>  
     </tr> 
      <tr >
-        <td colspan="3"> * Default là 30,900 <br>
-                         * Updated after responding OK and saved after restart by command  <b>reset#</b></td>
+        <td colspan="3">Example </td>
     </tr> 
+     <tr >
+        <td >Send  </td>
+        <td >tim#,10,900#</td>
+        <td class="text-bold">tim#</td>  
+    </tr> 
+    <tr >
+        <td >Get</td>
+        <td >tim,10,900#@OK#</td>
+        <td >tim,30,900@OK#</td>  
+    </tr> 
+    
 </table>
 
 #### 1.5. Timezone parameters
 
 <table>
-    <tr >
-        <td rowspan="2">Structure</td>
-        <td >Establish</td>
-        <td >Read</td>  
+ <tr >
+        <td colspan="3"> * Default is +7.0 <br>
+                         * Updated after feedback OK and save after sending the command<b>reset#</b></td>
     </tr> 
     <tr >
-        <td >Tzone, < time zone format ±HH.hh > # </td>
-        <td >tzone#</td>  
-    </tr> 
-     <tr >
-        <td colspan="3"></td>
-    </tr> 
-     <tr >
-        <td >Example</td>
-        <td >Time zone: 9:30 -> “HH.hh” = 9 + 30/60 = 9.5 <br>
-            Tzone,9.5#</td>
-        <td >Tzone #</td>  
+        <td rowspan="2">Structure  </td>
+        <td >Write </td>
+        <td class="text-bold" >Read</td>  
     </tr> 
     <tr >
-        <td >Feedback</td>
-        <td >Tzone,9.5#@OK#</td>
-        <td >Tzone,9.5@OK#</td>  
+        <td >tzone, < time zone format ±HH.hh > # </td>
+        <td class="text-bold" >tzone#</td>  
     </tr> 
      <tr >
-        <td colspan="3"> * Default là +7.0 <br>
-                         * Updated after responding OK and saved after restart by command  <b>reset#</b></td>
+        <td colspan="3">Example </td>
     </tr> 
+     <tr >
+        <td >Send  </td>
+        <td >timezone : 9:30 -> “HH.hh” = 9 + 30/60 = 9.5 <br>
+            tzone,9.5#</td>
+        <td class="text-bold" >tzone #</td>  
+    </tr> 
+    <tr >
+        <td >Get</td>
+        <td >tzone,9.5#@OK#</td>
+        <td >tzone,9.5@OK#</td>  
+    </tr> 
+    
 </table>
 
 #### 1.6. Speed parameters limit
 
 <table>
     <tr >
-        <td rowspan="2">Structure</td>
-        <td >Establish</td>
-        <td >Read</td>  
+        <td colspan="3"> * Default is 120 <br>
+                         * Updated after feedback OK and save after sending the command<b>reset# </b>
+        </td>
+    </tr> 
+    <tr >
+        <td rowspan="2">Structure  </td>
+        <td >Write </td>
+        <td class="text-bold" >Read</td>  
     </tr> 
     <tr >
         <td >speedth, < speed limit value > # </td>
-        <td >speedth#</td>  
+        <td class="text-bold" >speedth#</td>  
     </tr> 
      <tr >
-        <td colspan="3"></td>
+        <td colspan="3">Example </td>
     </tr> 
      <tr >
-        <td >Example</td>
+        <td > Send  </td>
         <td >speedth,120#</td>
-        <td >speedth#</td>  
+        <td class="text-bold" >speedth#</td>  
     </tr> 
     <tr >
-        <td >Feedback</td>
+        <td >Get</td>
         <td >speedth,120#@OK#</td>
         <td >speedth,120#@OK#</td>  
     </tr> 
-     <tr >
-        <td colspan="3"> * Default là 120 <br>
-                         * Updated after responding OK and saved after restart by command   <b>reset# </b>
-        </td>
-    </tr> 
+     
 </table>
 
 #### 1.7. Buzzer buzzer setting
 
 <table>
-    <tr >
-        <td rowspan="2">Structure</td>
-        <td >Establish</td>
-        <td >Read</td>  
-    </tr> 
-    <tr >
-        <td >Buzzer, < 0/1: disable/enable > #</td>
-        <td >Buzzer#</td>  
-    </tr> 
-     <tr >
-        <td colspan="3"></td>
-    </tr> 
-     <tr >
-        <td >Example</td>
-        <td >Buzzer,1#</td>
-        <td >Buzzer#</td>  
-    </tr> 
-    <tr >
-        <td >Feedback</td>
-        <td >Buzzer,1#@OK#</td>
-        <td >Buzzer,1#@OK#</td>  
-    </tr> 
-     <tr >
-        <td colspan="3"> * Default to turn on <br>
-                         * Updated after responding OK and saved after restart by command<b>reset#</b>
+    <td colspan="3"> * Default is on <br>
+                    * Updated after feedback OK (for turning off) and save after sending the command  <b>reset#</b>
         </td>
+    <tr >
+        <td rowspan="2">Structure  </td>
+        <td >Write </td>
+        <td  class="text-bold" >Read</td>  
+    </tr> 
+    <tr >
+        <td >buzzer, < 0/1: disable/enable > #</td>
+        <td  class="text-bold" >buzzer#</td>  
+    </tr> 
+     <tr >
+        <td colspan="3">Example </td>
+    </tr> 
+     <tr >
+        <td >Send  </td>
+        <td >buzzer,1#</td>
+        <td  class="text-bold" >buzzer#</td>  
+    </tr> 
+    <tr >
+        <td >Get</td>
+        <td >buzzer,1#@OK#</td>
+        <td >buzzer,1#@OK#</td>  
+    </tr> 
+     <tr >
+        
     </tr> 
 </table>
 
@@ -238,36 +247,37 @@ Perform the setup by sending commands from the server to which the device is con
 
 <table>
     <tr >
-        <td rowspan="2">Structure</td>
-        <td >Establish</td>
-        <td >Read</td>  
+        <td colspan="3"> * The default is AIR with ALT0 and SOS with ALT1 <br>
+                         * Updated after feedback OK and save after sending the command<b>reset#</b>
+        </td>
     </tr> 
     <tr >
-        <td >- For the ALT0 port <br> Altio,0, < ACC/AIR/SOS/DOO/BEN >,< positive level 0/1 > # <br>
-            - For the ALT1 port <br> Altio,1, < ACC/AIR/SOS/DOO/BEN >,< positive level 0/1 > # </td>
-        <td >Altio,0# <br>
+        <td rowspan="2">Structure  </td>
+        <td >Write </td>
+        <td  class="text-bold" >Read</td>  
+    </tr> 
+    <tr >
+        <td >- for port ALT0 <br> altio, 0, < acc/air/sos/doo/ben >, < active level 0/1 > # <br>
+            - for port ALT1 <br> altio,1, < acc/air/sos/doo/ben >,< active level 0/1 > # </td>
+        <td  class="text-bold" >altio,0# <br>
             <br>
-            Altio,1#
+            altio,1#
         </td>  
     </tr> 
      <tr >
-        <td colspan="3"></td>
+        <td colspan="3">Example </td>
     </tr> 
      <tr >
-        <td >Example</td>
-        <td >Altio,0,AIR,1#</td>
-        <td >Altio,0 #</td>  
+        <td >Send  </td>
+        <td >altio,0,air,1#</td>
+        <td  class="text-bold" >altio,0 #</td>  
     </tr> 
     <tr >
-        <td >Feedback</td>
-        <td >Altio,0,AIR,1#@OK#</td>
-        <td >Altio,0,AIR,1#@OK#</td>  
+        <td >Get</td>
+        <td >altio,0,air,1#@OK#</td>
+        <td >altio,0,air,1#@OK#</td>  
     </tr> 
-     <tr >
-        <td colspan="3"> * The default is AIR with ALT0 and SOS with ALT1 <br>
-                         * Updated after responding OK and saved after restart by command  <b>reset#</b>
-        </td>
-    </tr> 
+     
 </table>
 
 #### 1.9.	RS232 communication port setup (sensor connection)
@@ -276,227 +286,233 @@ Perform the setup by sending commands from the server to which the device is con
 
 <table>
     <tr >
-        <td rowspan="2">Structure</td>
-        <td >Establish</td>
-        <td >Read</td>  
-    </tr> 
-    <tr >
-        <td >- For the RS232_0 port  <br> Rs232,0, < sensor id >,< baudrate > # <br>
-             - For the RS232_1 port <br> Rs232,1,< sensor id > ,< baudrate > # <br>
-             -  sensor id:<br> 0/1/2 Turn off rs232 / FLS-Omnicom oil sensor / Soji oil sensor
-        </td>  
-        <td >Rs232,0# <br>
-            <br>  <br> 
-            Rs232,1#
-        </td>  
-    </tr> 
-     <tr >
-        <td colspan="3"></td>
-    </tr> 
-     <tr >
-        <td >Example</td>
-        <td >Rs232,0,2,9600# (thiết lập cho cảm biến dầu Soji)</td>
-        <td >Rs232,0#</td>  
-    </tr> 
-    <tr >
-        <td >Feedback</td>
-        <td >ARs232,0,2,9600#@OK#</td>
-        <td >Rs232,0,2,9600#@OK#</td>  
-    </tr> 
-    <tr >
-        <td colspan="3"> * Default is turn off <br>
-                         * Updated after responding OK and saved after restart by command <b>reset#</b>
+        <td colspan="3"> * Default is off <br>
+                         * Updated and saved after resend command   <b>reset#</b>
         </td>
     </tr> 
+    <tr >
+        <td rowspan="2">Structure  </td>
+        <td >Write </td>
+        <td class="text-bold" >Read</td>  
+    </tr> 
+    <tr >
+        <td >- for port RS232_0 <br> rs232,0, < sensor id >,< baudrate > # <br>
+             - for port RS232_1 <br> rs232,1,< sensor id > ,< baudrate > # <br>
+             -  sensor id:<br> 0/1/2 turns off rs232 / FLS-Omnicom fuel sensor/ Soji fuel sensor
+        </td>  
+        <td class="text-bold" >rs232,0# <br>
+            <br>  <br> 
+            rs232,1#
+        </td>  
+    </tr> 
+     <tr >
+        <td colspan="3">Example </td>
+    </tr> 
+     <tr >
+        <td >Send   </td>
+        <td >rs232,0,2,9600# (set up for Soji fuel sensor)</td>
+        <td class="text-bold" >rs232,0#</td>  
+    </tr> 
+    <tr >
+        <td >Get</td>
+        <td >rs232,0,2,9600#@OK#</td>
+        <td >rs232,0,2,9600#@OK#</td>  
+    </tr> 
+    
 </table>
 
 ##### 1.9.2. Operation parameter setting
 
 <table>
     <tr >
-        <td rowspan="2">Structure</td>
-        <td >Establish</td>
-        <td >Read</td>  
-    </tr> 
-    <tr >
-       <td >- For the RS232_0 port <br> 
-                Rs232para,0, < sample time >, < trigger value ># <br> 
-            - For the RS232_1 port <br>
-                Rs232para,1, < sample time >, < trigger value ># <br>
-            <b> sample time </b> : Sensor reading time, unit s, default 10s<br>
-            <b> trigger value </b>: difference value between 2 last times to generate 1 sensor value update event, default is 5
-        </td>  
-        <td >Rs232para,0# <br>
-            <br>  <br> 
-            Rs232para,1#
-        </td>  
-    </tr> 
-     <tr >
-        <td colspan="3"></td>
-    </tr> 
-     <tr >
-        <td >Example</td>
-        <td >Rs232para,0,20,10# <br> 
-             <i>(set sensor sampling / reading frequency: 20s and update sensor value when difference is 10 or more units) </i>
-</td>
-        <td >Rs232para,0#</td>  
-    </tr> 
-    <tr >
-        <td >Feedback</td>
-        <td >Rs232para,0,20,10#@OK#</td>
-        <td >Rs232para,0,20,10#@OK#</td>  
-    </tr> 
-    <tr >
-        <td colspan="3"> * Default is 10s and 5 units <br>
-                         * Updated after responding OK and saved after restart by command<b>reset# </b> <br>
-                         * To view sensor value sent to view command view, comm# <br>
+        <td colspan="3"> * The default is 10 seconds and 5 units <br>
+                          * Updated after feedback OK and save after sending the command <b> reset # </b> <br>
+                          * To view Send sensor value to view command view, comm # <br>
         </td>
     </tr> 
+    <tr >
+        <td rowspan="2">Structure  </td>
+        <td >Write </td>
+        <td class="text-bold" >Read</td>  
+    </tr> 
+    <tr >
+       <td >- for port RS232_0 <br> 
+                rs232para,0, < sample time >, < trigger value ># <br> 
+            - for port RS232_1 <br>
+                rs232para,1, < sample time >, < trigger value ># <br>
+            <b> sample time </b> : Sensor Read time, unit s, default 10s <br>
+            <b> trigger value </b>: difference value between 2 last times to generate 1 sensor value update event, default is 5
+        </td>  
+        <td class="text-bold" >rs232para,0# <br>
+            <br>  <br> 
+                            rs232para,1#
+        </td>  
+    </tr> 
+     <tr >
+        <td colspan="3">Example </td>
+    </tr> 
+     <tr >
+        <td >Send   </td>
+        <td >rs232para,0,20,10# <br> 
+             <i>(set sensor sampling frequency / Read sensor: 20s and update sensor value when difference is 10 or more units) </i>
+        </td>
+        <td class="text-bold" >rs232para,0#</td>  
+    </tr> 
+    <tr >
+        <td >Get</td>
+        <td >rs232para,0,20,10#@OK#</td>
+        <td >rs232para,0,20,10#@OK#</td>  
+    </tr> 
+    
 </table>
 
 ##### 1.10.	Turn on / off digital output (Out0)
 
 <table>
     <tr >
-        <td rowspan="2">Structure</td>
-        <td >Establish</td>
-        <td >Read</td>  
-    </tr> 
-    <tr >
-        <td >Outputturn,0, < 0/1: tắt / bật > </td>  
-        <td >Output,0#</td>  
-    </tr> 
-     <tr >
-        <td colspan="3"></td>
-    </tr> 
-     <tr >
-        <td >Example</td>
-        <td >Outputturn,0,1#</td>
-        <td >Outputturn,0#</td>  
-    </tr> 
-    <tr >
-        <td >Feedback</td>
-        <td >Outputturn,0,1#@OK#</td>
-        <td >Outputturn,0,1#@OK#</td>  
-    </tr> 
-    <tr >
         <td colspan="3"> * Default output is in the non-active state. <br>
-                         * Instant updated and saved
+                          * Instant updated and saved
         </td>
     </tr> 
+    <tr >
+        <td rowspan="2">Structure  </td>
+        <td >Write </td>
+        <td  class="text-bold">Read</td>  
+    </tr> 
+    <tr >
+        <td >outputturn,0, < 0/1: off / on > </td>  
+        <td  class="text-bold">output,0#</td>  
+    </tr> 
+     <tr >
+        <td colspan="3">Example </td>
+    </tr> 
+     <tr >
+        <td >Send   </td>
+        <td >outputturn,0,1#</td>
+        <td  class="text-bold">output,0#</td>  
+    </tr> 
+    <tr >
+        <td >Get</td>
+        <td >outputturn,0,1#@OK#</td>
+        <td >output,0,1#@OK#</td>  
+    </tr> 
+    
 </table>
 
 - In addition, the device also supports generating a square pulse with Ton, Toff, adjustable cycles or a trigger (1 cycle pulse):
 
-   * **Pulse**: outputpulse, 0, < Ton >, < Toff >, < number of cycles > #
-   * **Trigger**: outputtrigger, 0, < Ton > #
+   * **Pulse**: outputpulse, 0, < ton >, < toff >, < number of cycles > #
+   * **Trigger**: outputtrigger, 0, < ton > #
 
 ##### 1.11.	Set up center phone number
 
 <table>
-    <tr >
-        <td rowspan="2">Structure</td>
-        <td >Establish</td>
-        <td >Read</td>  
+     <tr >
+        <td colspan="3"> * Updated after feedback OK and save after sending the command <b>reset# </b>
+        </td>
     </tr> 
     <tr >
-        <td >Centralphone,< n >,< phone number > # <br>
+        <td rowspan="2">Structure  </td>
+        <td >Write </td>
+        <td class="text-bold" >Read</td>  
+    </tr> 
+    <tr >
+        <td >centralphone,< n >,< phone number > # <br>
             n: 0,1,2 (Support install 3 center numbers)
         </td>  
-        <td >Centralphone,0# <br>
-             Or <br>
-             Centralphone,1# <br>
-             Or <br>
-             Centralphone,2# <br>
+        <td class="text-bold" >centralphone,0# <br>
+             Hoặc <br>
+             centralphone,1# <br>
+             Hoặc <br>
+             centralphone,2# <br>
         </td>   
     </tr> 
      <tr >
-        <td colspan="3"></td>
+        <td colspan="3">Example </td>
     </tr> 
      <tr >
-        <td >Example</td>
-        <td >Centralphone,0,0986026929#</td>
-        <td >Centralphone,0#</td>  
+        <td >Send  </td>
+        <td >centralphone,0,0986026929#</td>
+        <td class="text-bold" >centralphone,0#</td>  
     </tr> 
     <tr >
-        <td >Feedback</td>
-        <td >Centralphone,0,0986026929#@OK#</td>
-        <td >Centralphone,0,0986026929#@OK#</td>  
+        <td >Get</td>
+        <td >centralphone,0,0986026929#@OK#</td>
+        <td >centralphone,0,0986026929#@OK#</td>  
     </tr> 
-    <tr >
-        <td colspan="3"> * Updated after responding OK and saved after restart by command <b>reset# </b>
-        </td>
-    </tr> 
+   
 </table>
 
 ##### 1.12.	Set up a restart schedule
 
 <table>
     <tr >
-        <td rowspan="2">Structure</td>
-        <td >Establish</td>
-        <td >Readc</td>  
+        <td colspan="3"> * This function is disabled by default <br>
+                         * Updated after feedback OK and save after sending the command <b>reset# </b>
+        </td>
+    </tr> 
+    <tr >
+        <td rowspan="2">Structure  </td>
+        <td >Write </td>
+        <td class="text-bold" >Read</td>  
     </tr> 
     <tr >
         <td >rebootsch, < n > ,< a > # <br>
             Perform schedule to reboot the device after “n” days at the right time at “a” time
              n = 0: this scheduling mode is disabled
         </td>  
-        <td >rebootsch#</td>   
+        <td class="text-bold" >rebootsch#</td>   
     </tr> 
      <tr >
-        <td colspan="3"></td>
+        <td colspan="3">Example </td>
     </tr> 
      <tr >
-        <td >Example</td>
+        <td >Send   </td>
         <td >rebootsch,1,0#</td>
-        <td >rebootsch#</td>  
+        <td class="text-bold" >rebootsch#</td>  
     </tr> 
     <tr >
-        <td >Feedback</td>
+        <td >Get</td>
         <td >rebootsch,1,0#@OK#</td>
         <td >rebootsch,1,0#@OK#</td>  
     </tr> 
-    <tr >
-        <td colspan="3"> * This function is disabled by default <br>
-                         * Updated after responding OK and saved after restart by command <b>reset# </b>
-        </td>
-    </tr> 
+    
 </table>
 
 ##### 1.13. Vibration sensor setting
 
 <table>
     <tr >
-        <td rowspan="2">Structure</td>
-        <td >Establish</td>
-        <td >Read</td>  
-    </tr> 
-    <tr >
-        <td >motion,< 0/1: off / on>, <sensitivity index is a value less than 1>#</td>  
-        <td >motion#</td>   
-    </tr> 
-     <tr >
-        <td colspan="3"></td>
-    </tr> 
-     <tr >
-        <td >Example</td>
-        <td >Motion,1,0.05#</td>
-        <td >motion#</td>  
-    </tr> 
-    <tr >
-        <td >Feedback</td>
-        <td >Motion,1,0.05#@OK#</td>
-        <td >Motion,1,0.05#@OK#>  
-    </tr> 
-    <tr >
         <td colspan="3"> * Default is on and the sensitivity is 0.05 <br>
-                         * Updated after responding OK and saved after restart by command<b>reset# </b>
+                         * Updated after feedback OK and save after sending the command <b>reset# </b>
         </td>
+    </tr>
+    <tr >
+        <td rowspan="2">Structure  </td>
+        <td >Write </td>
+        <td class="text-bold" >Read</td>  
     </tr> 
+    <tr >
+        <td >motion,< 0/1: off / on>, < sensitivity index is a value less than 1 >#</td>  
+        <td class="text-bold" >motion#</td>   
+    </tr> 
+     <tr >
+        <td colspan="3">Example </td>
+    </tr> 
+     <tr >
+        <td >Send   </td>
+        <td >motion,1,0.05#</td>
+        <td class="text-bold" >motion#</td>  
+    </tr> 
+    <tr >
+        <td >Get</td>
+        <td >motion,1,0.05#@OK#</td>
+        <td >motion,1,0.05#@OK#>  
+    </tr> 
+     
 </table>
 
--	Note: the smaller the sensitivity parameter value, the more sensitive it is to detect vibration and movement. Please take care while changing this parameter.
+>	Note: the smaller the sensitivity parameter value, the more sensitive it is to detect vibration and movement. Please take care while changing this parameter.
 
 ##### 1.14. Setting the power consumption balance (low voltage)
 
@@ -565,7 +581,7 @@ Perform the setup by sending commands from the server to which the device is con
     </tr> 
 </table>
 
-#### 2.3. Check peripheral status
+#### 2.3. Check peripherals status
 
 <table>
     <tr >
@@ -750,7 +766,7 @@ Perform the setup by sending commands from the server to which the device is con
 <table>
     <tr >
         <td>Commands</td>
-        <td >View,map#</td>
+        <td ><b>View,map#</b></td>
     </tr> 
     <tr >
         <td>Example</td>

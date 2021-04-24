@@ -199,7 +199,10 @@ color: white !important;
 }   */
 th, td {  
     padding: 10px;  
+}
 
-
+.text-bold {
+    font-weight: bold;
+}
 
 

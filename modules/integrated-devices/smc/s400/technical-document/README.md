@@ -6,14 +6,16 @@
 * S400 is a journey monitoring device using global satellite positioning system and 4G LTE communication system capable of locating and transmitting position and status to the server via 4G data network.
 
 With optimal design for easy installation, installation and maintenance with low energy consumption as well as competitive price. Therefore, the S400 is perfectly compatible with many applications in road traffic management and operation.
+
+
 #### 1.1. Pack
 * The S400 product set is offered to customers including:
     * 01- Device S400
-    * 01-Signal cable set (2x3 type)
-    * 01-stamp decal seal after inserting sim
-    * 01-user manual
-    * 01-Simcard (optional)
-    * 02-Driver's card (optional).
+    * 01- Signal cable set (2x3 type)
+    * 01- Stamp decal seal after inserting sim
+    * 01- User manual
+    * 01- Simcard (optional)
+    * 02- Driver's card (optional).
 
 #### 1.2. General Image
 
@@ -31,7 +33,11 @@ With optimal design for easy installation, installation and maintenance with low
 
 #### 1.3. Certificate
 
-S400 is in accordance with QCVN 117: 2018 / BTTTT, QCVN 86: 2019 / BTTTT, QCVN 55: 2011 / BTTTT, QCVN 96: 2015 / BTTTT.
+* S400 is in accordance :
+    * QCVN 117: 2018 / BTTTT
+    * QCVN 86: 2019 / BTTTT
+    * QCVN 55: 2011 / BTTTT
+    * QCVN 96: 2015 / BTTTT
 
 ### 2. Technical specification
 
@@ -441,7 +447,7 @@ S400 is in accordance with QCVN 117: 2018 / BTTTT, QCVN 86: 2019 / BTTTT, QCVN 5
             <td ></td>
         </tr>
         <tr>
-            <td>Parallel connection of 2 oil sensors</td>
+            <td>Parallel connection of 2 fuel sensors</td>
             <td ></td>
         </tr>
         <tr>
@@ -597,7 +603,7 @@ S400 is in accordance with QCVN 117: 2018 / BTTTT, QCVN 86: 2019 / BTTTT, QCVN 5
 <table>
     <tr class="color-primary" >
         <td> <b><center>Port</center></b></td>
-        <td ><b><center>The battery</center></b></td>
+        <td ><b><center>Signal</center></b></td>
          <td ><b><center>Color</center></b></td>
         <td ><b><center>Descriptions</center></b></td>
         </tr>
@@ -676,7 +682,7 @@ S400 is in accordance with QCVN 117: 2018 / BTTTT, QCVN 86: 2019 / BTTTT, QCVN 5
 
 <center>Image 6. Location and direction of installing Nano SIM card</center>
 
-#### 3.5. Diagram connected with peripheral
+#### 3.5. Diagram connected with peripherals
 
 <span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/Drawing3.png)
 
@@ -689,6 +695,7 @@ S400 is in accordance with QCVN 117: 2018 / BTTTT, QCVN 86: 2019 / BTTTT, QCVN 5
 * Signal wires should be neatly tied and fixed to other fixed sections nearby. Try to avoid sources of heat or moving objects
 * If the wiring is forced to be outside where it can be directly exposed to natural environments or environments with heat, humidity, etc., it is necessary to add isolation pipes to resist these factors.
 * Remove the wires connecting the computer after the configuration is complete.
+
 #### 4.2. Connect the power supply
 * After connecting to the external source, it is advisable to measure the power supply again to ensure there is no voltage drop. And activities such as explosion, air conditioner, lights… work normally.
 

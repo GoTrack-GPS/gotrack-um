@@ -13,11 +13,11 @@
 
 - Bộ sản phẩm S400 được cung cấp tới khách hàng bao gồm:
   - 01- Thiết bị S400
-  - 01-Bộ cáp tín hiệu (loại 2x3)
-  - 01-tem decal dán niêm phong sau khi lắp sim
-  - 01-sách hướng dẫn sử dụng
-  - 01-Simcard (tùy chọn)
-  - 02-Thẻ lái xe (tùy chọn).
+  - 01- Bộ cáp tín hiệu (loại 2x3)
+  - 01- Tem decal dán niêm phong sau khi lắp sim
+  - 01- Sách hướng dẫn sử dụng
+  - 01- Simcard (tùy chọn)
+  - 02- Thẻ lái xe (tùy chọn).
 
 #### 1.2. Hình ảnh tổng quan
 
@@ -35,7 +35,11 @@
 
 #### 1.3. Chứng chỉ
 
-- S400 phù hợp QCVN 117:2018/BTTTT, QCVN 86:2019/BTTTT, QCVN 55:2011/BTTTT, QCVN 96:2015/BTTTT
+- S400 phù hợp :
+  - QCVN 117:2018/BTTTT
+  - QCVN 86:2019/BTTTT
+  - QCVN 55:2011/BTTTT
+  - QCVN 96:2015/BTTTT
 
 ### 2. Đặc tả kỹ thuật
 

@@ -7,39 +7,48 @@ Một vài lưu ý:
 
 -	Khách hàng/Đại lý nên cho nhà sản xuất biết thông tin về các số điện thoại sẽ là số trung tâm cho riêng mình, để nhà sản xuất thực hiện việc cấu hình này trước lúc bàn giao tới Khách hàng/Đại lý.
 
--	***Xin Quý Khách hãy liên hệ bộ phận hỗ trợ kỹ thuật để nhận được giải đáp và hướng dẫn tốt nhất***.
+-	***Xin Quý Khách hãy [liên hệ](vi/modules/web-interface/contact/) bộ phận hỗ trợ kỹ thuật để nhận được giải đáp và hướng dẫn tốt nhất***.
+
+- **Chữ cái đầu không phân biệt chữ hoa/chữ thường. Các chữ cái còn lại sau nó viết thường**. 
 
 ### 1. Thiết lập và kiểm tra thông số cơ bản
 
+<div id="ip">
+</div>
+
 #### 1.1. Thông số IP/Port
 
+
+
 <table>
+  <tr >
+        <td colspan="3"> * Để cài đặt có hiệu lực, vui lòng gửi lệnh  <b>reset#</b></td>
+    </tr> 
     <tr >
         <td rowspan="2"><b>Cấu trúc</b></td>
-        <td >Thiết lập</td>
-        <td >Đọc</td>  
+        <td >Ghi</td>
+        <td class="text-bold" >Đọc</td>  
     </tr> 
     <tr >
-        <td >Server,data,< ip/domain >,< port number >#</td>
-        <td >Server,data#</td>  
+        <td >server,data,< ip/domain >,< port number >#</td>
+        <td class="text-bold" >server,data#</td>  
     </tr> 
      <tr >
-        <td colspan="3"></td>
+        <td colspan="3">Ví dụ</td>
     </tr> 
      <tr >
-        <td ><b>Ví dụ</b></td>
-        <td >Server,data,125.212.235.145,13030#</td>
-        <td >Server,data#</td>  
+        <td ><b>Gửi</b></td>
+        <td >server,data,125.212.235.145,13030#</td>
+        <td class="text-bold">server,data#</td>  
     </tr> 
     <tr >
-        <td ><b>Phản hồi</b></td>
-        <td >Server,data,125.212.235.145,13030#@OK#</td>
-        <td >Server,data,125.212.235.145,13030@OK#</td>  
-    </tr> 
-     <tr >
-        <td colspan="3">*Được cập nhật sau khi khởi động lại bởi lệnh <b>reset#</b></td>
+        <td ><b>Nhận</b></td>
+        <td >server,data,125.212.235.145,13030#@OK#</td>
+        <td >server,data,125.212.235.145,13030@OK#</td>  
     </tr> 
 </table>
+
+
 
 > Lưu ý: đối với lệnh thiết lập cho thông số này để thực hiện được thành công cần như sau:
 Thiết bị chưa bị khóa cấu hình (để kiểm tra, xem mục 2.10 ).
@@ -50,189 +59,198 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 
 <table>
     <tr >
+        <td colspan="3"> * Để cài đặt có hiệu lực, vui lòng gửi lệnh  <b>reset#</b></td>
+    </tr> 
+    <tr >
         <td rowspan="2">Cấu trúc</td>
-        <td >Thiết lập</td>
-        <td >Đọc</td>  
+        <td >Ghi</td>
+        <td class="text-bold">Đọc</td>  
     </tr> 
     <tr >
-        <td >Apn,< tên apn cần thiết lập > # </td>
-        <td >apn #</td>  
+        <td >apn,< tên apn cần thiết lập > # </td>
+        <td class="text-bold">apn #</td>  
     </tr> 
      <tr >
-        <td colspan="3"></td>
+        <td colspan="3">Ví dụ</td>
     </tr> 
      <tr >
-        <td >Ví dụ</td>
+        <td >Gửi</td>
         <td >apn,apn-name#</td>
-        <td >apn #</td>  
+        <td class="text-bold">apn #</td>  
     </tr> 
     <tr >
-        <td >Phản hồi</td>
+        <td >Nhận</td>
         <td >apn,apn-name#@OK#</td>
         <td >apn,apn-name@OK#</td>  
     </tr> 
-     <tr >
-        <td colspan="3">*Được cập nhật sau khi khởi động lại bởi lệnh <b>reset#</b></td>
-    </tr> 
 </table>
 
+<div id="apn-roaming">
+</div>
 
 #### 1.3. Thông số APN-ROAMING
 
 
 <table>
     <tr >
+        <td colspan="3"> * Để cài đặt có hiệu lực, vui lòng gửi lệnh  <b>reset#</b></td>
+    </tr> 
+    <tr >
         <td rowspan="2">Cấu trúc</td>
-        <td >Thiết lập</td>
-        <td >Đọc</td>  
+        <td >Ghi</td>
+        <td class="text-bold">Đọc</td>  
     </tr> 
     <tr >
-        <td >Apnex, < tên apn khi chuyển vùng cần thiết lập ># </td>
-        <td >Apnex#</td>  
+        <td >apnex, < tên apn khi chuyển vùng cần thiết lập ># </td>
+        <td class="text-bold" >apnex#</td>  
     </tr> 
      <tr >
-        <td colspan="3"></td>
+        <td colspan="3">Ví dụ</td>
     </tr> 
      <tr >
-        <td >Ví dụ</td>
-        <td >Apnex,e-connect#</td>
-        <td >Apnex#</td>  
+        <td >Gửi</td>
+        <td >apnex,e-connect#</td>
+        <td class="text-bold">apnex#</td>  
     </tr> 
     <tr >
-        <td >Phản hồi</td>
-        <td >Apnex,e-connect#@OK#</td>
-        <td >Apnex,e-connect@OK#</td>  
-    </tr> 
-     <tr >
-        <td colspan="3">*Được cập nhật sau khi khởi động lại bởi lệnh <b>reset#</b></td>
-    </tr> 
+        <td >Nhận</td>
+        <td >apnex,e-connect#@OK#</td>
+        <td >apnex,e-connect@OK#</td>  
+    </tr>
 </table>
 
-#### 1.4. Thông số thời gian truyền tin
+#### 1.4. Tần suất truyền tin
 
 <table>
-    <tr >
-        <td rowspan="2">Cấu trúc</td>
-        <td >Thiết lập</td>
-        <td >Đọc</td>  
-    </tr> 
-    <tr >
-        <td >Tim, < thời gian truyền khi chạy >,< khi dừng > # </td>
-        <td >Tim#</td>  
-    </tr> 
-     <tr >
-        <td colspan="3"></td>
-    </tr> 
-     <tr >
-        <td >Ví dụ</td>
-        <td >Tim#,10,900#</td>
-        <td >Tim#</td>  
-    </tr> 
-    <tr >
-        <td >Phản hồi</td>
-        <td >Tim,10,900#@OK#</td>
-        <td >Tim,30,900@OK#</td>  
-    </tr> 
      <tr >
         <td colspan="3"> * Mặc định là 30,900 <br>
-                         * Được cập nhật sau khi phản hồi OK và lưu sau khi khởi động lại bởi lệnh  <b>reset#</b></td>
+                         * Được cập nhật sau khi phản hồi OK và lưu sau khi gửi lại lệnh  <b>reset#</b></td>
     </tr> 
+    <tr >
+        <td rowspan="2">Cấu trúc</td>
+        <td >Ghi</td>
+        <td class="text-bold">Đọc</td>  
+    </tr> 
+    <tr >
+        <td >tim, < thời gian truyền khi chạy >,< khi dừng > # </td>
+        <td class="text-bold">tim#</td>  
+    </tr> 
+     <tr >
+        <td colspan="3">Ví dụ</td>
+    </tr> 
+     <tr >
+        <td >Gửi</td>
+        <td >tim#,10,900#</td>
+        <td class="text-bold">tim#</td>  
+    </tr> 
+    <tr >
+        <td >Nhận</td>
+        <td >tim,10,900#@OK#</td>
+        <td >tim,30,900@OK#</td>  
+    </tr> 
+    
 </table>
 
 
 #### 1.5. Thông số timezone
 
 <table>
+ <tr >
+        <td colspan="3"> * Mặc định là +7.0 <br>
+                         * Được cập nhật sau khi phản hồi OK và lưu sau khi gửi lại lệnh  <b>reset#</b></td>
+    </tr> 
     <tr >
         <td rowspan="2">Cấu trúc</td>
-        <td >Thiết lập</td>
-        <td >Đọc</td>  
+        <td >Ghi</td>
+        <td class="text-bold" >Đọc</td>  
     </tr> 
     <tr >
-        <td >Tzone, < múi giờ định dạng ±HH.hh > # </td>
-        <td >tzone#</td>  
+        <td >tzone, < múi giờ định dạng ±HH.hh > # </td>
+        <td class="text-bold" >tzone#</td>  
     </tr> 
      <tr >
-        <td colspan="3"></td>
+        <td colspan="3">Ví dụ</td>
     </tr> 
      <tr >
-        <td >Ví dụ</td>
+        <td >Gửi</td>
         <td >Múi giờ: 9:30 -> “HH.hh” = 9 + 30/60 = 9.5 <br>
-            Tzone,9.5#</td>
-        <td >Tzone #</td>  
+            tzone,9.5#</td>
+        <td class="text-bold" >tzone #</td>  
     </tr> 
     <tr >
-        <td >Phản hồi</td>
-        <td >Tzone,9.5#@OK#</td>
-        <td >Tzone,9.5@OK#</td>  
+        <td >Nhận</td>
+        <td >tzone,9.5#@OK#</td>
+        <td >tzone,9.5@OK#</td>  
     </tr> 
-     <tr >
-        <td colspan="3"> * Mặc định là +7.0 <br>
-                         * Được cập nhật sau khi phản hồi OK và lưu sau khi khởi động lại bởi lệnh  <b>reset#</b></td>
-    </tr> 
+    
 </table>
 
 #### 1.6. Thông số vận tốc giới hạn
 
 <table>
     <tr >
+        <td colspan="3"> * Mặc định là 120 <br>
+                         * Được cập nhật sau khi phản hồi OK và lưu sau khi gửi lại lệnh  <b>reset# </b>
+        </td>
+    </tr> 
+    <tr >
         <td rowspan="2">Cấu trúc</td>
-        <td >Thiết lập</td>
-        <td >Đọc</td>  
+        <td >Ghi</td>
+        <td class="text-bold" >Đọc</td>  
     </tr> 
     <tr >
         <td >speedth, < giá trị tốc độ giới hạn > # </td>
-        <td >speedth#</td>  
+        <td class="text-bold" >speedth#</td>  
     </tr> 
      <tr >
-        <td colspan="3"></td>
+        <td colspan="3">Ví dụ</td>
     </tr> 
      <tr >
-        <td >Ví dụ</td>
+        <td > Gửi</td>
         <td >speedth,120#</td>
-        <td >speedth#</td>  
+        <td class="text-bold" >speedth#</td>  
     </tr> 
     <tr >
-        <td >Phản hồi</td>
+        <td >Nhận</td>
         <td >speedth,120#@OK#</td>
         <td >speedth,120#@OK#</td>  
     </tr> 
-     <tr >
-        <td colspan="3"> * Mặc định là 120 <br>
-                         * Được cập nhật sau khi phản hồi OK và lưu sau khi khởi động lại bởi lệnh  <b>reset# </b>
-        </td>
-    </tr> 
+     
 </table>
+
+<div id="bip">
+</div>
 
 #### 1.7. Thiết lập còi Buzzer
 
 <table>
+    <td colspan="3"> * Mặc định là bật <br>
+                         * Được cập nhật sau khi phản hồi OK (đối với việc tắt)  và lưu sau khi gửi lại lệnh  <b>reset#</b>
+        </td>
     <tr >
         <td rowspan="2">Cấu trúc</td>
-        <td >Thiết lập</td>
-        <td >Đọc</td>  
+        <td >Ghi</td>
+        <td  class="text-bold" >Đọc</td>  
     </tr> 
     <tr >
-        <td >Buzzer, < 0/1: disable/enable > #</td>
-        <td >Buzzer#</td>  
+        <td >buzzer, < 0/1: disable/enable > #</td>
+        <td  class="text-bold" >buzzer#</td>  
     </tr> 
      <tr >
-        <td colspan="3"></td>
+        <td colspan="3">Ví dụ</td>
     </tr> 
      <tr >
-        <td >Ví dụ</td>
-        <td >Buzzer,1#</td>
-        <td >Buzzer#</td>  
+        <td >Gửi</td>
+        <td >buzzer,1#</td>
+        <td  class="text-bold" >buzzer#</td>  
     </tr> 
     <tr >
-        <td >Phản hồi</td>
-        <td >Buzzer,1#@OK#</td>
-        <td >Buzzer,1#@OK#</td>  
+        <td >Nhận</td>
+        <td >buzzer,1#@OK#</td>
+        <td >buzzer,1#@OK#</td>  
     </tr> 
      <tr >
-        <td colspan="3"> * Mặc định là bật <br>
-                         * Được cập nhật sau khi phản hồi OK và lưu sau khi khởi động lại bởi lệnh  <b>reset#</b>
-        </td>
+        
     </tr> 
 </table>
 
@@ -240,36 +258,37 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 
 <table>
     <tr >
-        <td rowspan="2">Cấu trúc</td>
-        <td >Thiết lập</td>
-        <td >Đọc</td>  
+        <td colspan="3"> * Mặc định là AIR với ALT0 và SOS với ALT1 <br>
+                         * Được cập nhật sau khi phản hồi OK và lưu sau khi gửi lại lệnh  <b>reset#</b>
+        </td>
     </tr> 
     <tr >
-        <td >- đối với cổng ALT0 <br> Altio,0, < ACC/AIR/SOS/DOO/BEN >,< mức tích cực 0/1 > # <br>
-            - đối với cổng ALT1 <br> Altio,1, < ACC/AIR/SOS/DOO/BEN >,< mức tích cực 0/1 > # </td>
-        <td >Altio,0# <br>
+        <td rowspan="2">Cấu trúc</td>
+        <td >Ghi</td>
+        <td  class="text-bold" >Đọc</td>  
+    </tr> 
+    <tr >
+        <td >- đối với cổng ALT0 <br> altio,0, < acc/air/sos/doo/ben >,< mức tích cực 0/1 > # <br>
+            - đối với cổng ALT1 <br> altio,1, < acc/air/sos/doo/ben >,< mức tích cực 0/1 > # </td>
+        <td  class="text-bold" >altio,0# <br>
             <br>
-            Altio,1#
+            altio,1#
         </td>  
     </tr> 
      <tr >
-        <td colspan="3"></td>
+        <td colspan="3">Ví dụ</td>
     </tr> 
      <tr >
-        <td >Ví dụ</td>
-        <td >Altio,0,AIR,1#</td>
-        <td >Altio,0 #</td>  
+        <td >Gửi</td>
+        <td >altio,0,air,1#</td>
+        <td  class="text-bold" >altio,0 #</td>  
     </tr> 
     <tr >
-        <td >Phản hồi</td>
-        <td >Altio,0,AIR,1#@OK#</td>
-        <td >Altio,0,AIR,1#@OK#</td>  
+        <td >Nhận</td>
+        <td >altio,0,air,1#@OK#</td>
+        <td >altio,0,air,1#@OK#</td>  
     </tr> 
-     <tr >
-        <td colspan="3"> * Mặc định là AIR với ALT0 và SOS với ALT1 <br>
-                         * Được cập nhật sau khi phản hồi OK và lưu sau khi khởi động lại bởi lệnh  <b>reset#</b>
-        </td>
-    </tr> 
+     
 </table>
 
 #### 1.9.	Thiết lập cổng truyền thông RS232 (kết nối cảm biến)
@@ -278,227 +297,236 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 
 <table>
     <tr >
-        <td rowspan="2">Cấu trúc</td>
-        <td >Thiết lập</td>
-        <td >Đọc</td>  
-    </tr> 
-    <tr >
-        <td >- đối với cổng RS232_0 <br> Rs232,0, < sensor id >,< baudrate > # <br>
-             - đối với cổng RS232_1 <br> Rs232,1,< sensor id > ,< baudrate > # <br>
-             -  sensor id:<br> 0/1/2 tắt rs232/cảm biến dầu FLS-Omnicom/ cảm biến dầu Soji
-        </td>  
-        <td >Rs232,0# <br>
-            <br>  <br> 
-            Rs232,1#
-        </td>  
-    </tr> 
-     <tr >
-        <td colspan="3"></td>
-    </tr> 
-     <tr >
-        <td >Ví dụ</td>
-        <td >Rs232,0,2,9600# (thiết lập cho cảm biến dầu Soji)</td>
-        <td >Rs232,0#</td>  
-    </tr> 
-    <tr >
-        <td >Phản hồi</td>
-        <td >ARs232,0,2,9600#@OK#</td>
-        <td >Rs232,0,2,9600#@OK#</td>  
-    </tr> 
-    <tr >
         <td colspan="3"> * Mặc định là tắt <br>
-                         * Được cập nhật và lưu sau khi khởi động lại bởi lệnh   <b>reset#</b>
+                         * Được cập nhật và lưu sau khi gửi lại lệnh   <b>reset#</b>
         </td>
     </tr> 
+    <tr >
+        <td rowspan="2">Cấu trúc</td>
+        <td >Ghi</td>
+        <td class="text-bold" >Đọc</td>  
+    </tr> 
+    <tr >
+        <td >- đối với cổng RS232_0 <br> rs232,0, < sensor id >,< baudrate > # <br>
+             - đối với cổng RS232_1 <br> rs232,1,< sensor id > ,< baudrate > # <br>
+             -  sensor id:<br> 0/1/2 tắt rs232/cảm biến dầu FLS-Omnicom/ cảm biến dầu Soji
+        </td>  
+        <td class="text-bold" >rs232,0# <br>
+            <br>  <br> 
+            rs232,1#
+        </td>  
+    </tr> 
+     <tr >
+        <td colspan="3">Ví dụ</td>
+    </tr> 
+     <tr >
+        <td >Gửi </td>
+        <td >rs232,0,2,9600# (thiết lập cho cảm biến dầu Soji)</td>
+        <td class="text-bold" >rs232,0#</td>  
+    </tr> 
+    <tr >
+        <td >Nhận</td>
+        <td >rs232,0,2,9600#@OK#</td>
+        <td >rs232,0,2,9600#@OK#</td>  
+    </tr> 
+    
 </table>
 
 ##### 1.9.2. Thiết lập tham số hoạt động
 
 <table>
     <tr >
-        <td rowspan="2">Cấu trúc</td>
-        <td >Thiết lập</td>
-        <td >Đọc</td>  
-    </tr> 
-    <tr >
-       <td >- đối với cổng RS232_0 <br> 
-                Rs232para,0, < sample time >, < trigger value ># <br> 
-            - đối với cổng RS232_1 <br>
-                Rs232para,1, < sample time >, < trigger value ># <br>
-            <b> sample time </b> : Thời gian đọc cảm biến, đơn vị s, mặc định 10s<br>
-            <b> trigger value </b>: giá trị sai khác giữa 2 lần gần nhất để tạo ra 1 sự kiện cập nhật giá trị cảm biến, mặc định là 5
-        </td>  
-        <td >Rs232para,0# <br>
-            <br>  <br> 
-            Rs232para,1#
-        </td>  
-    </tr> 
-     <tr >
-        <td colspan="3"></td>
-    </tr> 
-     <tr >
-        <td >Ví dụ</td>
-        <td >Rs232para,0,20,10# <br> 
-             <i>(thiết lập tần suất lấy mẫu/đọc cảm biến: 20s và cập nhật giá trị cảm biến khi sai khác từ 10 đơn vị trở lên) </i>
-</td>
-        <td >Rs232para,0#</td>  
-    </tr> 
-    <tr >
-        <td >Phản hồi</td>
-        <td >Rs232para,0,20,10#@OK#</td>
-        <td >Rs232para,0,20,10#@OK#</td>  
-    </tr> 
-    <tr >
         <td colspan="3"> * Mặc định là 10s và 5 đơn vị <br>
-                         * Được cập nhật sau khi phản hồi OK và lưu sau khi khởi động lại bởi lệnh   <b>reset# </b> <br>
+                         * Được cập nhật sau khi phản hồi OK và lưu sau khi gửi lại lệnh   <b>reset# </b> <br>
                          * Để xem giá trị cảm biến gửi về xem lệnh view,comm# <br>
         </td>
     </tr> 
+    <tr >
+        <td rowspan="2">Cấu trúc</td>
+        <td >Ghi</td>
+        <td class="text-bold" >Đọc</td>  
+    </tr> 
+    <tr >
+       <td >- đối với cổng RS232_0 <br> 
+                rs232para,0, < sample time >, < trigger value ># <br> 
+            - đối với cổng RS232_1 <br>
+                rs232para,1, < sample time >, < trigger value ># <br>
+            <b> sample time </b> : Thời gian đọc cảm biến, đơn vị s, mặc định 10s<br>
+            <b> trigger value </b>: giá trị sai khác giữa 2 lần gần nhất để tạo ra 1 sự kiện cập nhật giá trị cảm biến, mặc định là 5
+        </td>  
+        <td class="text-bold" >rs232para,0# <br>
+            <br>  <br> 
+                            rs232para,1#
+        </td>  
+    </tr> 
+     <tr >
+        <td colspan="3">Ví dụ</td>
+    </tr> 
+     <tr >
+        <td >Gửi </td>
+        <td >rs232para,0,20,10# <br> 
+             <i>(thiết lập tần suất lấy mẫu/đọc cảm biến: 20s và cập nhật giá trị cảm biến khi sai khác từ 10 đơn vị trở lên) </i>
+        </td>
+        <td class="text-bold" >rs232para,0#</td>  
+    </tr> 
+    <tr >
+        <td >Nhận</td>
+        <td >rs232para,0,20,10#@OK#</td>
+        <td >rs232para,0,20,10#@OK#</td>  
+    </tr> 
+    
 </table>
 
 ##### 1.10.	Bật/tắt tín hiệu ra số (Out0)
 
 <table>
     <tr >
-        <td rowspan="2">Cấu trúc</td>
-        <td >Thiết lập</td>
-        <td >Đọc</td>  
-    </tr> 
-    <tr >
-        <td >Outputturn,0, < 0/1: tắt / bật > </td>  
-        <td >Output,0#</td>  
-    </tr> 
-     <tr >
-        <td colspan="3"></td>
-    </tr> 
-     <tr >
-        <td >Ví dụ</td>
-        <td >Outputturn,0,1#</td>
-        <td >Outputturn,0#</td>  
-    </tr> 
-    <tr >
-        <td >Phản hồi</td>
-        <td >Outputturn,0,1#@OK#</td>
-        <td >Outputturn,0,1#@OK#</td>  
-    </tr> 
-    <tr >
         <td colspan="3"> * Mặc định đầu ra ở trạng thái không tích cực. <br>
                          * Được cập nhật và lưu tức thì
         </td>
     </tr> 
+    <tr >
+        <td rowspan="2">Cấu trúc</td>
+        <td >Ghi</td>
+        <td  class="text-bold">Đọc</td>  
+    </tr> 
+    <tr >
+        <td >outputturn,0, < 0/1: tắt / bật > </td>  
+        <td  class="text-bold">output,0#</td>  
+    </tr> 
+     <tr >
+        <td colspan="3">Ví dụ</td>
+    </tr> 
+     <tr >
+        <td >Gửi </td>
+        <td >outputturn,0,1#</td>
+        <td  class="text-bold">output,0#</td>  
+    </tr> 
+    <tr >
+        <td >Nhận</td>
+        <td >outputturn,0,1#@OK#</td>
+        <td >output,0,1#@OK#</td>  
+    </tr> 
+    
 </table>
 
 - Ngoài ra, thiết bị còn hỗ trợ tạo ra một xung vuông có Ton, Toff, số chu kỳ điều chỉnh được hoặc một trigger (xung 1 chu kỳ):
 
-  * **Xung** : outputpulse,0, < Ton >, < Toff >, < số chu kỳ >#
-  * **Trigger**: outputtrigger,0, < Ton >#
+  * **Xung** : outputpulse,0, < ton >, < toff >, < số chu kỳ >#
+  * **Trigger**: outputtrigger,0, < ton >#
 
 ##### 1.11.	Thiết lập số điện thoại trung tâm 
 
 <table>
-    <tr >
-        <td rowspan="2">Cấu trúc</td>
-        <td >Thiết lập</td>
-        <td >Đọc</td>  
+     <tr >
+        <td colspan="3"> * Được cập nhật sau khi phản hồi OK và lưu sau khi gửi lại lệnh   <b>reset# </b>
+        </td>
     </tr> 
     <tr >
-        <td >Centralphone,< n >,< số điện thoại > # <br>
+        <td rowspan="2">Cấu trúc</td>
+        <td >Ghi</td>
+        <td class="text-bold" >Đọc</td>  
+    </tr> 
+    <tr >
+        <td >centralphone,< n >,< số điện thoại > # <br>
             n: 0,1,2 (hỗ trợ cài đặt 3 số trung tâm)
         </td>  
-        <td >Centralphone,0# <br>
+        <td class="text-bold" >centralphone,0# <br>
              Hoặc <br>
-             Centralphone,1# <br>
+             centralphone,1# <br>
              Hoặc <br>
-             Centralphone,2# <br>
+             centralphone,2# <br>
         </td>   
     </tr> 
      <tr >
-        <td colspan="3"></td>
+        <td colspan="3">Ví dụ</td>
     </tr> 
      <tr >
-        <td >Ví dụ</td>
-        <td >Centralphone,0,0986026929#</td>
-        <td >Centralphone,0#</td>  
+        <td >Gửi</td>
+        <td >centralphone,0,0986026929#</td>
+        <td class="text-bold" >centralphone,0#</td>  
     </tr> 
     <tr >
-        <td >Phản hồi</td>
-        <td >Centralphone,0,0986026929#@OK#</td>
-        <td >Centralphone,0,0986026929#@OK#</td>  
+        <td >Nhận</td>
+        <td >centralphone,0,0986026929#@OK#</td>
+        <td >centralphone,0,0986026929#@OK#</td>  
     </tr> 
-    <tr >
-        <td colspan="3"> * Được cập nhật sau khi phản hồi OK và lưu sau khi khởi động lại bởi lệnh   <b>reset# </b>
-        </td>
-    </tr> 
+   
 </table>
 
 ##### 1.12.	Thiết lập lịch khởi động lại
 
 <table>
     <tr >
+        <td colspan="3"> * Mặc định chức năng này bị tắt <br>
+                         * Được cập nhật sau khi phản hồi OK và lưu sau khi gửi lại lệnh   <b>reset# </b>
+        </td>
+    </tr> 
+    <tr >
         <td rowspan="2">Cấu trúc</td>
-        <td >Thiết lập</td>
-        <td >Đọc</td>  
+        <td >Ghi</td>
+        <td class="text-bold" >Đọc</td>  
     </tr> 
     <tr >
         <td >rebootsch, < n > ,< a > # <br>
             thực hiện lịch reboot thiết bị sau “n” ngày vào đúng thời điểm lúc “a” giờ <br>
             n=0: chế độ lập lịch này bị tắt 
         </td>  
-        <td >rebootsch#</td>   
+        <td class="text-bold" >rebootsch#</td>   
     </tr> 
      <tr >
-        <td colspan="3"></td>
+        <td colspan="3">Ví dụ</td>
     </tr> 
      <tr >
-        <td >Ví dụ</td>
+        <td >Gửi </td>
         <td >rebootsch,1,0#</td>
-        <td >rebootsch#</td>  
+        <td class="text-bold" >rebootsch#</td>  
     </tr> 
     <tr >
-        <td >Phản hồi</td>
+        <td >Nhận</td>
         <td >rebootsch,1,0#@OK#</td>
         <td >rebootsch,1,0#@OK#</td>  
     </tr> 
-    <tr >
-        <td colspan="3"> * Mặc định chức năng này bị tắt <br>
-                         * Được cập nhật sau khi phản hồi OK và lưu sau khi khởi động lại bởi lệnh   <b>reset# </b>
-        </td>
-    </tr> 
+    
 </table>
+
+<div id="ring">
+</div>
 
 ##### 1.13.	Thiết lập cảm biến rung lắc
 
 <table>
     <tr >
+        <td colspan="3"> * Mặc định là bật và độ nhạy là 0.05 <br>
+                         * Được cập nhật sau khi phản hồi OK và lưu sau khi gửi lại lệnh   <b>reset# </b>
+        </td>
+    </tr>
+    <tr >
         <td rowspan="2">Cấu trúc</td>
-        <td >Thiết lập</td>
-        <td >Đọc</td>  
+        <td >Ghi</td>
+        <td class="text-bold" >Đọc</td>  
     </tr> 
     <tr >
         <td >motion,< 0/1: tắt/bật >,< chỉ số độ nhạy là một giá trị nhỏ hơn 1 >#</td>  
-        <td >motion#</td>   
+        <td class="text-bold" >motion#</td>   
     </tr> 
      <tr >
-        <td colspan="3"></td>
+        <td colspan="3">Ví dụ</td>
     </tr> 
      <tr >
-        <td >Ví dụ</td>
-        <td >Motion,1,0.05#</td>
-        <td >motion#</td>  
+        <td >Gửi </td>
+        <td >motion,1,0.05#</td>
+        <td class="text-bold" >motion#</td>  
     </tr> 
     <tr >
-        <td >Phản hồi</td>
-        <td >Motion,1,0.05#@OK#</td>
-        <td >Motion,1,0.05#@OK#>  
+        <td >Nhận</td>
+        <td >motion,1,0.05#@OK#</td>
+        <td >motion,1,0.05#@OK#>  
     </tr> 
-    <tr >
-        <td colspan="3"> * Mặc định là bật và độ nhạy là 0.05 <br>
-                         * Được cập nhật sau khi phản hồi OK và lưu sau khi khởi động lại bởi lệnh   <b>reset# </b>
-        </td>
-    </tr> 
+     
 </table>
 
--	Lưu ý: giá trị thông số độ nhạy càng nhỏ càng nhạy trong việc phát hiện rung lắc và chuyển động. Khách hàng cẩn trong khi thay đổi thông số này.
+>	Lưu ý: giá trị thông số độ nhạy càng nhỏ càng nhạy trong việc phát hiện rung lắc và chuyển động. Khách hàng cẩn trong khi thay đổi thông số này.
 
 ##### 1.14.	Thiết lập cân bằng tiêu thụ điện năng (điện áp thấp)
 -	Nên sử dụng phần mềm cấu hình để thực hiện việc này.
@@ -688,6 +716,10 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
     </tr> 
 </table>
 
+<div id="log">
+</div>
+
+
 #### 2.7. Kiểm tra thông tin bộ nhớ và lưu trữ 
 
 <table>
@@ -750,7 +782,7 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 <table>
     <tr >
         <td>Lệnh</td>
-        <td >View,map#</td>
+        <td ><b>View,map#</b></td>
     </tr> 
     <tr >
         <td>Ví dụ</td>
