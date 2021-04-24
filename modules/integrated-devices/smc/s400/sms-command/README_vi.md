@@ -9,7 +9,7 @@ Một vài lưu ý:
 
 -	***Xin Quý Khách hãy [liên hệ](vi/modules/web-interface/contact/) bộ phận hỗ trợ kỹ thuật để nhận được giải đáp và hướng dẫn tốt nhất***.
 
-- **Chữ cái đầu không phân biệt chữ hoa/chữ thường. Các chữ cái còn lại sau nó viết thường**. 
+- **Chữ cái đầu không phân biệt chữ hoa/chữ thường và chữ cái còn lại viết thường**. . 
   
 ### 1. Thiết lập và kiểm tra thông số cơ bản
 
@@ -23,7 +23,7 @@ Một vài lưu ý:
     <tr >
         <td rowspan="2"><b>Cấu trúc</b></td>
         <td >Ghi</td>
-        <td class="text-bold" >Đọc</td>  
+        <td>Đọc</td> 
     </tr> 
     <tr >
         <td >server,data,< ip/domain >,< port number >#</td>
@@ -60,7 +60,7 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
     <tr >
         <td rowspan="2">Cấu trúc</td>
         <td >Ghi</td>
-        <td class="text-bold">Đọc</td>  
+        <td>Đọc</td>  
     </tr> 
     <tr >
         <td >apn,< tên apn cần thiết lập > # </td>
@@ -92,7 +92,7 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
     <tr >
         <td rowspan="2">Cấu trúc</td>
         <td >Ghi</td>
-        <td class="text-bold">Đọc</td>  
+        <td>Đọc</td>  
     </tr> 
     <tr >
         <td >apnex, < tên apn khi chuyển vùng cần thiết lập ># </td>
@@ -123,7 +123,7 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
     <tr >
         <td rowspan="2">Cấu trúc</td>
         <td >Ghi</td>
-        <td class="text-bold">Đọc</td>  
+        <td>Đọc</td>  
     </tr> 
     <tr >
         <td >tim, < thời gian truyền khi chạy >,< khi dừng > # </td>
@@ -156,7 +156,7 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
     <tr >
         <td rowspan="2">Cấu trúc</td>
         <td >Ghi</td>
-        <td class="text-bold" >Đọc</td>  
+        <td>Đọc</td> 
     </tr> 
     <tr >
         <td >tzone, < múi giờ định dạng ±HH.hh > # </td>
@@ -190,7 +190,7 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
     <tr >
         <td rowspan="2">Cấu trúc</td>
         <td >Ghi</td>
-        <td class="text-bold" >Đọc</td>  
+        <td>Đọc</td> 
     </tr> 
     <tr >
         <td >speedth, < giá trị tốc độ giới hạn > # </td>
@@ -295,7 +295,7 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
     <tr >
         <td rowspan="2">Cấu trúc</td>
         <td >Ghi</td>
-        <td class="text-bold" >Đọc</td>  
+        <td>Đọc</td> 
     </tr> 
     <tr >
         <td >- đối với cổng RS232_0 <br> rs232,0, < sensor id >,< baudrate > # <br>
@@ -335,7 +335,7 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
     <tr >
         <td rowspan="2">Cấu trúc</td>
         <td >Ghi</td>
-        <td class="text-bold" >Đọc</td>  
+        <td>Đọc</td> 
     </tr> 
     <tr >
        <td >- đối với cổng RS232_0 <br> 
@@ -416,7 +416,7 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
     <tr >
         <td rowspan="2">Cấu trúc</td>
         <td >Ghi</td>
-        <td class="text-bold" >Đọc</td>  
+        <td>Đọc</td> 
     </tr> 
     <tr >
         <td >centralphone,< n >,< số điện thoại > # <br>
@@ -456,7 +456,7 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
     <tr >
         <td rowspan="2">Cấu trúc</td>
         <td >Ghi</td>
-        <td class="text-bold" >Đọc</td>  
+        <td>Đọc</td> 
     </tr> 
     <tr >
         <td >rebootsch, < n > ,< a > # <br>
@@ -492,7 +492,7 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
     <tr >
         <td rowspan="2">Cấu trúc</td>
         <td >Ghi</td>
-        <td class="text-bold" >Đọc</td>  
+        <td>Đọc</td> 
     </tr> 
     <tr >
         <td >motion,< 0/1: tắt/bật >,< chỉ số độ nhạy là một giá trị nhỏ hơn 1 >#</td>  

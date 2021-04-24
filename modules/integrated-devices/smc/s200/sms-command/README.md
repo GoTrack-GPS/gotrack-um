@@ -9,12 +9,10 @@ A few notes:
 
 * ***Please [contact](modules/web-interface/contact/) technical support for answers and best guidance***.
 
-* **The first letter is not case sensitive. The remaining letters after it are lowercase**.
+* **The first letter is not case sensitive and the other is lowercase**.
 
 ### 1. Set up and check basic parameters
 #### 1.1. IP / Port parameter
-
-
 
 <table>
   <tr >
@@ -22,8 +20,8 @@ A few notes:
     </tr> 
     <tr >
         <td rowspan="2"><b>Structure</b></td>
-        <td ></td>
-        <td class="text-bold" >Read</td>  
+        <td >Write</td>
+        <td>Read</td>  
     </tr> 
     <tr >
         <td >server,data,< ip/domain >,< port number >#</td>
@@ -60,7 +58,7 @@ Perform the setup by sending commands from the server to which the device is con
     <tr >
         <td rowspan="2">Structure</td>
         <td >Write </td>
-        <td class="text-bold">Read</td>  
+        <td>Read</td>  
     </tr> 
     <tr >
         <td >Apn,< apn name needed to set > # </td>
@@ -91,7 +89,7 @@ Perform the setup by sending commands from the server to which the device is con
     <tr >
         <td rowspan="2">Structure  </td>
         <td >Write </td>
-        <td class="text-bold">Read</td>  
+        <td>Read</td>  
     </tr> 
     <tr >
         <td >apnex, < name apn when roaming needs setting ># </td>
@@ -122,7 +120,7 @@ Perform the setup by sending commands from the server to which the device is con
     <tr >
         <td rowspan="2">Structure  </td>
         <td >Write </td>
-        <td class="text-bold">Read</td>  
+        <td>Read</td>  
     </tr> 
     <tr >
         <td >tim, < transmission time at run>, < on stop > # </td>
@@ -154,7 +152,7 @@ Perform the setup by sending commands from the server to which the device is con
     <tr >
         <td rowspan="2">Structure  </td>
         <td >Write </td>
-        <td class="text-bold" >Read</td>  
+        <td>Read</td>  
     </tr> 
     <tr >
         <td >tzone, < time zone format ±HH.hh > # </td>
@@ -188,7 +186,7 @@ Perform the setup by sending commands from the server to which the device is con
     <tr >
         <td rowspan="2">Structure  </td>
         <td >Write </td>
-        <td class="text-bold" >Read</td>  
+        <td>Read</td>  
     </tr> 
     <tr >
         <td >speedth, < speed limit value > # </td>
@@ -293,7 +291,7 @@ Perform the setup by sending commands from the server to which the device is con
     <tr >
         <td rowspan="2">Structure  </td>
         <td >Write </td>
-        <td class="text-bold" >Read</td>  
+        <td>Read</td>  
     </tr> 
     <tr >
         <td >- for port RS232_0 <br> rs232,0, < sensor id >,< baudrate > # <br>
@@ -333,7 +331,7 @@ Perform the setup by sending commands from the server to which the device is con
     <tr >
         <td rowspan="2">Structure  </td>
         <td >Write </td>
-        <td class="text-bold" >Read</td>  
+        <td>Read</td>  
     </tr> 
     <tr >
        <td >- for port RS232_0 <br> 
@@ -414,7 +412,7 @@ Perform the setup by sending commands from the server to which the device is con
     <tr >
         <td rowspan="2">Structure  </td>
         <td >Write </td>
-        <td class="text-bold" >Read</td>  
+        <td>Read</td>  
     </tr> 
     <tr >
         <td >centralphone,< n >,< phone number > # <br>
@@ -454,7 +452,7 @@ Perform the setup by sending commands from the server to which the device is con
     <tr >
         <td rowspan="2">Structure  </td>
         <td >Write </td>
-        <td class="text-bold" >Read</td>  
+        <td>Read</td>  
     </tr> 
     <tr >
         <td >rebootsch, < n > ,< a > # <br>
@@ -490,7 +488,7 @@ Perform the setup by sending commands from the server to which the device is con
     <tr >
         <td rowspan="2">Structure  </td>
         <td >Write </td>
-        <td class="text-bold" >Read</td>  
+        <td>Read</td>  
     </tr> 
     <tr >
         <td >motion,< 0/1: off / on>, < sensitivity index is a value less than 1 >#</td>  
