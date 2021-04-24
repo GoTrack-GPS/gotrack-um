@@ -217,7 +217,7 @@ Perform the setup by sending commands from the server to which the device is con
     <tr >
         <td rowspan="2">Structure  </td>
         <td >Write </td>
-        <td  class="text-bold" >Read</td>  
+        <td >Read</td>  
     </tr> 
     <tr >
         <td >buzzer, < 0/1: disable/enable > #</td>
@@ -252,7 +252,7 @@ Perform the setup by sending commands from the server to which the device is con
     <tr >
         <td rowspan="2">Structure  </td>
         <td >Write </td>
-        <td  class="text-bold" >Read</td>  
+        <td >Read</td>  
     </tr> 
     <tr >
         <td >- for port ALT0 <br> altio, 0, < acc/air/sos/doo/ben >, < active level 0/1 > # <br>
@@ -375,7 +375,7 @@ Perform the setup by sending commands from the server to which the device is con
     <tr >
         <td rowspan="2">Structure  </td>
         <td >Write </td>
-        <td  class="text-bold">Read</td>  
+        <td >Read</td>  
     </tr> 
     <tr >
         <td >outputturn,0, < 0/1: off / on > </td>  

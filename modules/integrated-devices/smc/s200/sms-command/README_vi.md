@@ -230,7 +230,7 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
     <tr >
         <td rowspan="2">Cấu trúc</td>
         <td >Ghi</td>
-        <td  class="text-bold" >Đọc</td>  
+        <td >Đọc</td>  
     </tr> 
     <tr >
         <td >buzzer, < 0/1: disable/enable > #</td>
@@ -265,7 +265,7 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
     <tr >
         <td rowspan="2">Cấu trúc</td>
         <td >Ghi</td>
-        <td  class="text-bold" >Đọc</td>  
+        <td >Đọc</td>  
     </tr> 
     <tr >
         <td >- đối với cổng ALT0 <br> altio,0, < acc/air/sos/doo/ben >,< mức tích cực 0/1 > # <br>
@@ -388,7 +388,7 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
     <tr >
         <td rowspan="2">Cấu trúc</td>
         <td >Ghi</td>
-        <td  class="text-bold">Đọc</td>  
+        <td >Đọc</td>  
     </tr> 
     <tr >
         <td >outputturn,0, < 0/1: tắt / bật > </td>  
