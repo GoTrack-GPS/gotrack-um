@@ -67,11 +67,15 @@
                - **S400**
                   - [Technical document](modules/integrated-devices/smc/s400/technical-document/)
                   - [SMS commands](modules/integrated-devices/smc/s400/sms-command/)
+               - **SM400**
+                  - [Technical document](modules/integrated-devices/smc/sm400/technical-document/)
+                  - [Operation and settings](modules/integrated-devices/smc/sm400/operation-settings/) 
 
      - [**Contact**](modules/web-interface/contact/)
      - **FAQ**
           - [Build App](modules/web-interface/faq/build-app/)
           - [Device S200/S400](modules/web-interface/faq/device-s200-s400/)
+          - [Device SM400](modules/web-interface/faq/sm400/)
      - **Version history**
           - [Update history](modules/web-interface/version-history/)
      

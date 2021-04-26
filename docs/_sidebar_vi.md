@@ -62,7 +62,8 @@
     - **S400**
       - [Tài liệu kỹ thuật](vi/modules/integrated-devices/smc/s400/technical-document/)
       - [Lệnh SMS](vi/modules/integrated-devices/smc/s400/sms-command/)
-      - 
+    - **Sm400**
+      - [Tài liệu kỹ thuật](vi/modules/integrated-devices/smc/sm400/technical-document/)
 - [**Liên hệ**](vi/modules/web-interface/contact/)
 
 - **Câu hỏi thường gặp**

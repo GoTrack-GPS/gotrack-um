@@ -89,6 +89,69 @@
 
 }
 
+.icon-left10 img {
+    margin-left:5px;
+    margin-right: 4px;
+    margin-bottom: -2px;
+    width: 80px;
+    height: 300px;
+
+}
+
+.icon-left11 img {
+    margin-left:5px;
+    margin-right: 4px;
+    margin-bottom: -2px;
+    width: 463px;
+    height: 304px;
+
+}
+
+.icon-left12 img {
+    margin-left:5px;
+    margin-right: 4px;
+    margin-bottom: -2px;
+    width: 292px;
+    height: 171px;
+    text-align: center;
+}
+
+.icon-left13 img {
+    margin-left:5px;
+    margin-right: 4px;
+    margin-bottom: -2px;
+    width: 581px;
+    height: 216px;
+
+}
+
+.icon-left14 img {
+    margin-left:5px;
+    margin-right: 4px;
+    margin-bottom: -2px;
+    width: 131px;
+    height: 106px;
+   
+}
+.icon-left15 img {
+    margin-left:5px;
+    margin-right: 4px;
+    margin-bottom: -2px;
+    width: 469px;
+    height: 146px;
+   
+}
+
+.icon-left16 img {
+    margin-left:5px;
+    margin-right: 4px;
+    margin-bottom: -2px;
+    width: 379px;
+    height: 305px;
+   
+}
+
+
 
 
 /* get filter values: https://codepen.io/sosuke/pen/Pjoqqp */
@@ -204,5 +267,6 @@ th, td {
 .text-bold {
     font-weight: bold;
 }
+
 
 
