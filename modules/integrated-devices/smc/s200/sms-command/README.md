@@ -12,6 +12,10 @@ A few notes:
 * **The first letter is not case sensitive and the other is lowercase**.
 
 ### 1. Set up and check basic parameters
+
+<div id="ip">
+</div>
+
 #### 1.1. IP / Port parameter
 
 <table>
@@ -78,6 +82,10 @@ Perform the setup by sending commands from the server to which the device is con
         <td >apn,apn-name@OK#</td>  
     </tr> 
 </table>
+
+<div id="apn-roaming">
+</div>
+
 
 #### 1.3. Parameter APN-ROAMING
 
@@ -208,6 +216,9 @@ Perform the setup by sending commands from the server to which the device is con
      
 </table>
 
+<div id="bip">
+</div>
+
 #### 1.7. Buzzer buzzer setting
 
 <table>
@@ -237,8 +248,6 @@ Perform the setup by sending commands from the server to which the device is con
         <td >buzzer,1#@OK#</td>  
     </tr> 
      <tr >
-        
-    </tr> 
 </table>
 
 #### 1.8. Set up digital input (ALT IO)
@@ -277,6 +286,9 @@ Perform the setup by sending commands from the server to which the device is con
     </tr> 
      
 </table>
+
+<div id="sensor">
+</div>
 
 #### 1.9.	RS232 communication port setup (sensor connection)
 
@@ -476,6 +488,9 @@ Perform the setup by sending commands from the server to which the device is con
     </tr> 
     
 </table>
+
+<div id="ring">
+</div>
 
 ##### 1.13. Vibration sensor setting
 
@@ -701,6 +716,9 @@ Perform the setup by sending commands from the server to which the device is con
     </tr> 
 </table>
 
+<div id="log">
+</div>
+
 #### 2.7. Check memory and storage information
 
 <table>
@@ -725,7 +743,7 @@ Perform the setup by sending commands from the server to which the device is con
         <td>Example</td>
         <td >view,diskinfo, <b>disk </b>,0,2800.0/7640.0
             <b>dat </b>,201204.TXT,95065,0x1
-            <b>bak</b>,0/0,0
+            <b>bak</b>,0/0,0 <br>
             <b>>TCP-Stream</b>
             120Msg,4096B@0x200032f8
             Q_NO_PROTEC

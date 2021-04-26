@@ -250,8 +250,6 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
         <td >buzzer,1#@OK#</td>  
     </tr> 
      <tr >
-        
-    </tr> 
 </table>
 
 #### 1.8. Thiết lập tín hiệu vào số (ALT IO)
@@ -290,6 +288,9 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
     </tr> 
      
 </table>
+
+<div id="sensor">
+</div>
 
 #### 1.9.	Thiết lập cổng truyền thông RS232 (kết nối cảm biến)
 
@@ -744,7 +745,7 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
         <td>Ví dụ</td>
         <td >view,diskinfo, <b>disk </b>,0,2800.0/7640.0
             <b>dat </b>,201204.TXT,95065,0x1
-            <b>bak</b>,0/0,0
+            <b>bak</b>,0/0,0 <br>
             <b>>TCP-Stream</b>
             120Msg,4096B@0x200032f8
             Q_NO_PROTEC

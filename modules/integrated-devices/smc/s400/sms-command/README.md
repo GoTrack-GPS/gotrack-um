@@ -725,7 +725,7 @@ Perform the setup by sending commands from the server to which the device is con
         <td>Example</td>
         <td >view,diskinfo, <b>disk </b>,0,2800.0/7640.0
             <b>dat </b>,201204.TXT,95065,0x1
-            <b>bak</b>,0/0,0
+            <b>bak</b>,0/0,0 <br>
             <b>>TCP-Stream</b>
             120Msg,4096B@0x200032f8
             Q_NO_PROTEC

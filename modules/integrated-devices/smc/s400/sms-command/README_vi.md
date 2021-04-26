@@ -1,5 +1,6 @@
 # Hướng dẫn cấu hình và kiểm tra cơ bản
 
+
 Một vài lưu ý:
 -	Thiết bị hỗ trợ việc đọc/thiết lập cấu hình qua 3 kênh khác nhau: TCP/IP, COM-Terminal, SMS (cấu trúc, mã lệnh là như nhau).
 
@@ -728,7 +729,7 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
         <td>Ví dụ</td>
         <td >view,diskinfo, <b>disk </b>,0,2800.0/7640.0
             <b>dat </b>,201204.TXT,95065,0x1
-            <b>bak</b>,0/0,0
+            <b>bak</b>,0/0,0 <br>
             <b>>TCP-Stream</b>
             120Msg,4096B@0x200032f8
             Q_NO_PROTEC

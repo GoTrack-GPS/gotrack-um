@@ -71,6 +71,7 @@
      - [**Contact**](modules/web-interface/contact/)
      - **FAQ**
           - [Build App](modules/web-interface/faq/build-app/)
+          - [Device S200/S400](modules/web-interface/faq/device-s200-s400/)
      - **Version history**
           - [Update history](modules/web-interface/version-history/)
      

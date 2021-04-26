@@ -159,6 +159,9 @@ Bạn có thể tham khảo [tại đây](vi/modules/web-interface/tracking/Inte
  <a href="https://bitly.com.vn/cenayw" target="_blank">IOS</a> và <a href="https://bitly.com.vn/sg61yb" target="_blank">Android </a>
 ```
 ```
+<span style="color:red">some **This is Red Bold.** text</span>
+```
+```
 * 2 ảnh có link cùng hàng
 ```
 ```
@@ -168,10 +171,8 @@ Bạn có thể tham khảo [tại đây](vi/modules/web-interface/tracking/Inte
 <span class="icon-left2">[<img src="/docs/assets/images/web-interface/app-gotrack365/google-play-download-android-app.png" >](https://bitly.com.vn/sg61yb) 
 
 
-
-
  
- 
+
  
  
   

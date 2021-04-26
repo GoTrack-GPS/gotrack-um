@@ -46,5 +46,5 @@
 * A : Với trường hợp này quý Khách có thể thực hiện như sau, soạn SMS: view,comm# gửi tới số điện thoại của thiết bị. Thiết bị sẽ phản hồi 1 SMS có nội dung minh họa như sau: 
  
     Trong trường hợp không lên mức dầu (từ 1÷4095), Quý khách nên kiểm tra lại:
-    -	Cấu hình cổng, loại cảm biến. Tham khảo 1.19
+    -	Cấu hình cổng, loại cảm biến. Tham khảo [1.9](vi/modules/integrated-devices/smc/s200/sms-command/#sensor)
     -	Kiểm tra lại TX, RX của thiết bị và cảm biến có được nối chéo nhau hay không.
