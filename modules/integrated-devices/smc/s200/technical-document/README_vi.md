@@ -19,7 +19,7 @@
 
 #### 1.2. Hình ảnh tổng quan
 
-<span class="icon-left6" >![Interface Web](/docs/assets/images/integrated-devices/smc/s200/s200-cau-tao-than.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/s200-cau-tao-than.png)
 
 <center>Hình 1. Tổng quát các thành phần cấu tạo thân thiết bị</center>
 
@@ -42,7 +42,7 @@
 ### 2. Đặc tả kỹ thuật
 
 <table>
-    <tr class="color-primary" >
+    <tr class="color-primary">
         <td colspan="4"> <b>Môi trường và hoạt động</b></td>
     </tr>
     <tr>
@@ -60,7 +60,7 @@
             <td>5÷90% ±2.5%</td>
             <td></td>
     </tr>
-    <tr class="color-primary" >
+    <tr class="color-primary">
         <td colspan="4"> <b>Đặc tính điện và tiêu thụ</b></td> 
         </tr>
         <tr>
@@ -108,49 +108,49 @@
             <td>Mặc định</td>  
         </tr>
         <tr>
-            <td colspan="2" >Digital output</td>
+            <td colspan="2">Digital output</td>
             <td>Dòng tải lớn nhất: 50mA <br>
                 Điện áp lớn nhất: 24VDC </td>
-           <td > </td>
+           <td> </td>
         </tr>
         <tr>
-            <td colspan="2" >Digital input</td>
+            <td colspan="2">Digital input</td>
             <td>0-36VDC <br>
                 Ngưỡng logic: 4V</td>
-            <td > </td>
+            <td> </td>
         </tr>
-        <tr class="color-primary" >
+        <tr class="color-primary">
             <td colspan="4"> <b>Đặc tả vật lý </b></td> 
         </tr>
         <tr>
-            <td colspan="2" >Kích thước</td>
+            <td colspan="2">Kích thước</td>
             <td>94.0 x 55.0 x 16.8 (mm)</td>
             <td rowspan="3"> </td>
         </tr>
         <tr>
-           <td colspan="2" >Trọng lượng</td>
+           <td colspan="2">Trọng lượng</td>
             <td></td> 
         </tr>
         <tr>
-            <td colspan="2" >Housing</td>
+            <td colspan="2">Housing</td>
             <td>Nhựa ABS + PC, không cháy</td> 
         </tr>
         <tr>
-            <td colspan="2" >Connector</td>
+            <td colspan="2">Connector</td>
             <td>Molex Micro-Fit3.0, 2x3 pin</td>
             <td> </td>
         </tr>
          <tr>
-            <td colspan="2" >Antenna</td>
+            <td colspan="2">Antenna</td>
             <td>Built-in</td>
             <td> </td>
         </tr>
         <tr>
-            <td colspan="2" >SIM card</td>
+            <td colspan="2">SIM card</td>
             <td>Nano SIM Card</td>
             <td> </td>
         </tr>
-    <tr class="color-primary" >
+    <tr class="color-primary">
         <td colspan="4"> <b>Kết nối không dây và vệ tinh</b></td> 
         </tr>
         <tr>
@@ -263,7 +263,7 @@
             <td>QCVN96:2014/BTTTT  <br>
                 QCVN55:2010/BTTTT</td>
         </tr>
-    <tr class="color-primary" >
+    <tr class="color-primary">
         <td colspan="4"> <b>Bộ xử lý và lưu trữ </b></td> 
         </tr>
         <tr>
@@ -313,35 +313,35 @@
             <td>8-32 MB</td>
             <td>Mặc định 8 MB</td>
         </tr>
-    <tr class="color-primary" >
+    <tr class="color-primary">
         <td colspan="4"> <b>Cảm biến (tích hợp trên bo mạch) </b></td> 
         </tr>
         <tr>
             <td colspan="2">Cảm biến gia tốc </td>
             <td>3 trục gia tốc tuyến tính <br>
             Dải đo 2÷16g độ phân giải cao 16bits</td>
-            <td rowspan="3" ></td>
+            <td rowspan="3"></td>
         </tr>
         <tr>
-            <td colspan="2" >Cảm biến nhiệt </td>
+            <td colspan="2">Cảm biến nhiệt </td>
             <td> Độ phân giải 12 bits, quản lý nhiệt độ CPU </td>
         </tr>
         <tr>
-            <td colspan="2" >Cảm biến điện áp </td>
+            <td colspan="2">Cảm biến điện áp </td>
             <td> Đo đạc điện áp đầu vào </td>
         </tr>
-    <tr class="color-primary" >
+    <tr class="color-primary">
         <td colspan="4"> <b>Cổng kết nối tín hiệu </b></td> 
         </tr>
         <tr>
             <td rowspan="4">Cổng A</td>
             <td>Cấp nguồn VDC </td>
-            <td >9-36VDC Nguồn cấp cho thiết bị</td>
+            <td>9-36VDC Nguồn cấp cho thiết bị</td>
             <td></td>
         </tr>
         <tr>
             <td rowspan="2">2 x Đầu vào số </td>
-            <td >1 tín hiệu mức tích cực cao</td>
+            <td>1 tín hiệu mức tích cực cao</td>
             <td>ACC</td>
         </tr>
         <tr>
@@ -349,14 +349,14 @@
             <td>ALT0</td>
         </tr>
         <tr>
-            <td >1 x RS232 </td>
-            <td >1 RS232</td>
+            <td>1 x RS232 </td>
+            <td>1 RS232</td>
             <td>TX1,RX1</td>
         </tr>
         <tr>
             <td rowspan="4">Cổng B </td>
             <td  rowspan="2">2 x Đầu vào số</td>
-            <td >1 tín hiệu mức tích cực cao</td>
+            <td>1 tín hiệu mức tích cực cao</td>
             <td>ENGINE</td>
         </tr>
         <tr>
@@ -364,13 +364,13 @@
             <td>ALT1</td>
         </tr>
         <tr>
-            <td >1 x Đầu ra số </td>
-            <td >Mức tích cự thấp, có hỗ trợ dạng trigger và xung</td>
+            <td>1 x Đầu ra số </td>
+            <td>Mức tích cự thấp, có hỗ trợ dạng trigger và xung</td>
             <td>DOUT</td>
         </tr>
         <tr>
-            <td >1 x RS232</td>
-            <td >1 cổng RS232/RS485</td>
+            <td>1 x RS232</td>
+            <td>1 cổng RS232/RS485</td>
             <td>TX2,RX2 <br>
                 RS485 tùy chọn <br>
                 RS232 mặc định </td>
@@ -378,93 +378,93 @@
         <tr>
             <td colspan="2">01 x COM/MicroUSB (optional) </td>
             <td>Cổng cấu hình và trích xuất dữ liệu</td>
-            <td ></td>
+            <td></td>
         </tr>
-    <tr class="color-primary" >
+    <tr class="color-primary">
         <td colspan="4"> <b>Chỉ thị trạng thái</b></td> 
         </tr>
         <tr>
             <td colspan="2">Đèn Led</td>
             <td>4 led: Driver, GNSS, CELLULAR, MEM</td>
-            <td ></td>
+            <td></td>
         </tr>
         <tr>
             <td colspan="2">Còi Bip</td>
             <td>Có trên  mạch</td>
-            <td ></td>
+            <td></td>
         </tr>
-    <tr class="color-primary" >
-        <td colspan="4" > <b>Tính năng</b></td> 
+    <tr class="color-primary">
+        <td colspan="4"> <b>Tính năng</b></td> 
         </tr>
         <tr>
             <td colspan="2" rowspan="9">Cơ bản</td>
             <td>Bắt tay xác nhận 2 chiều</td>
-            <td ></td>
+            <td></td>
         </tr>
         <tr>
             <td>Định vị, giám sát hành trình thời gian thực</td>
-            <td ></td>
+            <td></td>
         </tr>
         <tr>
             <td>Định danh tài xế qua thẻ RFID</td>
-            <td ></td>
+            <td></td>
         </tr>
         <tr>
             <td>Giám sát nhiên liệu</td>
-            <td ></td>
+            <td></td>
         </tr>
         <tr>
             <td>Giám sát hình ảnh</td>
-            <td ></td>
+            <td></td>
         </tr>
         <tr>
             <td>Giám sát nhiệt độ</td>
-            <td ></td>
+            <td></td>
         </tr>
         <tr>
             <td>Dạng đầu ra số: nPulse/Trigger/Level</td>
-            <td ></td>
+            <td></td>
         </tr>
         <tr>
             <td>Phát hiện phá sóng</td>
-            <td ></td>
+            <td></td>
         </tr>
         <tr>
             <td>Cấu hình và kiểm tra qua SMS/TCPIP</td>
-            <td ></td>
+            <td></td>
         </tr>
         <tr>
         <td colspan="2">Lưu trữ và truyền lại dữ liệu</td>
             <td>30 ngày</td>
-            <td ></td>
+            <td></td>
         </tr>
         <td colspan="2">Đồng bộ thời gian</td>
             <td>NTP, vệ tinh GPS</td>
-            <td ></td>
+            <td></td>
         </tr>
     <td colspan="2" rowspan="6">Nâng cao</td>
             <td>Cảnh báo có đáp ứng đầu ra tại Out0</td>
-            <td ></td>
+            <td></td>
         </tr>
         <tr>
             <td>Kết nối song song 2 cảm biến dầu</td>
-            <td ></td>
+            <td></td>
         </tr>
         <tr>
             <td>Cảnh báo điện áp nguồn ngoài</td>
-            <td ></td>
+            <td></td>
         </tr>
         <tr>
             <td>Tích hợp các loại cảm biến khác nhau theo yêu cầu Khách hàng</td>
-            <td ></td>
+            <td></td>
         </tr>
         <tr>
             <td>Cập nhật firmware từ xa (OTA)</td>
-            <td ></td>
+            <td></td>
         </tr>
         <tr>
             <td>Hỗ trợ nguồn dự phòng</td>
-            <td ></td>
+            <td></td>
         </tr>
 </table>
 
@@ -475,39 +475,39 @@
 #### 3.1. Led chỉ thị
 
 <table>
-    <tr class="color-primary" >
+    <tr class="color-primary">
         <td> <b>LED</b></td>
-        <td ><b>Kiểu dạng sáng, chớp</b></td>
-        <td ><b>Chỉ thị trạng thái</b></td>
+        <td><b>Kiểu dạng sáng, chớp</b></td>
+        <td><b>Chỉ thị trạng thái</b></td>
         </tr>
-        <tr >
+        <tr>
         <td rowspan="4"><b>Driver</b></td>
-        <td ><b>Sáng ổn định không chớp</b></td>
-        <td ><b>Tài xế đã đăng nhập</b></td>
+        <td><b>Sáng ổn định không chớp</b></td>
+        <td><b>Tài xế đã đăng nhập</b></td>
         </tr>
         <tr>
             <td>Không sáng</td>
-            <td >Chưa có tài xế nào đang nhập</td>
+            <td>Chưa có tài xế nào đang nhập</td>
         </tr>
         <tr>
             <td>Chớp sáng chậm (**)</td>
-            <td >Xe chạy mà không có lái xe đăng nhập</td>
+            <td>Xe chạy mà không có lái xe đăng nhập</td>
         </tr>
         <tr>
             <td>Chớp sáng nhanh (*) </td>
             <td> Đầu đọc thẻ gặp sự cố  </td>
         </tr>
         <td rowspan="4"><b>GNSS</b></td>
-        <td >Sáng ổn định không chớp</td>
-        <td >Đang dò sóng</td>
+        <td>Sáng ổn định không chớp</td>
+        <td>Đang dò sóng</td>
         </tr>
         <tr>
             <td>Không sáng</td>
-            <td >Module GNSS gặp sự cố</td>
+            <td>Module GNSS gặp sự cố</td>
         </tr>
         <tr>
             <td>Chớp sáng nhanh (*)</td>
-            <td >Đang trong trạng thái  ngủ</td>
+            <td>Đang trong trạng thái  ngủ</td>
         </tr>
         <tr>
             <td><b>Chớp sáng chậm(**) <b></td>
@@ -515,31 +515,31 @@
         </tr>
        <td rowspan="3"><b>CELLULAR <br>
                           (Network)</b></td>
-        <td >Sáng ổn định không chớp</td>
-        <td >Đã đăng ký được mạng dữ liệu và đang kết nối máy chủ dữ liệu</td>
+        <td>Sáng ổn định không chớp</td>
+        <td>Đã đăng ký được mạng dữ liệu và đang kết nối máy chủ dữ liệu</td>
         </tr>
         <tr>
             <td>Không sáng</td>
-            <td >Chưa đăng ký được mạng <br>
+            <td>Chưa đăng ký được mạng <br>
                  Không cài sim/không nhận sim <br>
                  Có sự cố bất thường
 </td>
         </tr>
         <tr>
             <td><b>Chớp sáng chậm (**)</b></td>
-            <td ><b>Đã kết nối máy chủ thành công<b></td>
+            <td><b>Đã kết nối máy chủ thành công<b></td>
         </tr>
          <td rowspan="3"><b>MEMORY </b></td>
-        <td ><b>Sáng ổn định không chớp</b></td>
-        <td ><b>Bộ nhớ bình thường</b></td>
+        <td><b>Sáng ổn định không chớp</b></td>
+        <td><b>Bộ nhớ bình thường</b></td>
         </tr>
         <tr>
             <td>Không sáng</td>
-            <td >Bộ nhớ gặp lỗi/sự cố</td>
+            <td>Bộ nhớ gặp lỗi/sự cố</td>
         </tr>
         <tr>
             <td>Chớp sáng nhanh</td>
-            <td >Đang truy cập bộ nhớ</td>
+            <td>Đang truy cập bộ nhớ</td>
         </tr>
 </table>       
 <center>Bảng 2. Mô tả led chỉ thị</center>
@@ -557,116 +557,116 @@
 #### 3.2. Còi chỉ thị
 
 <table>
-    <tr class="color-primary" >
+    <tr class="color-primary">
         <td> <b><center>STT</center></b></td>
-        <td ><b><center>Đặc điểm chỉ thị</center></b></td>
-        <td ><b><center>Mô tả</center></b></td>
+        <td><b><center>Đặc điểm chỉ thị</center></b></td>
+        <td><b><center>Mô tả</center></b></td>
         </tr>
-        <tr >
+        <tr>
         <td>1</td>
-        <td >1 tiếng bip</td>
-        <td >Thiết bị vừa được khởi động nguồn</td>
+        <td>1 tiếng bip</td>
+        <td>Thiết bị vừa được khởi động nguồn</td>
         </tr>
-         <tr >
+         <tr>
         <td>2</td>
-        <td >1 tiếng bip, 1 phút/lần</td>
-        <td >Xe đang di chuyển đồng thời chưa có lái xe đăng nhập</td>
+        <td>1 tiếng bip, 1 phút/lần</td>
+        <td>Xe đang di chuyển đồng thời chưa có lái xe đăng nhập</td>
         </tr>
-         <tr >
+         <tr>
         <td>3</td>
-        <td >2 tiếng bip</td>
-        <td >Lái xe vừa đăng nhập</td>
+        <td>2 tiếng bip</td>
+        <td>Lái xe vừa đăng nhập</td>
         </tr>
-        <tr >
+        <tr>
         <td>4</td>
-        <td >3 tiếng bip</td>
-        <td >Lái xe vừa đăng xuất</td>
+        <td>3 tiếng bip</td>
+        <td>Lái xe vừa đăng xuất</td>
         </tr>
-         <tr >
+         <tr>
         <td>5</td>
-        <td >Tiếng bip nhanh, liên tục</td>
-        <td >Quá tốc độ cho phép</td>
+        <td>Tiếng bip nhanh, liên tục</td>
+        <td>Quá tốc độ cho phép</td>
         </tr>
-         <tr >
+         <tr>
         <td>6</td>
-        <td >Tiếng bip chậm liên tục (1s/lần)</td>
-        <td >Quá thời gian lái xe liên tục</td>
+        <td>Tiếng bip chậm liên tục (1s/lần)</td>
+        <td>Quá thời gian lái xe liên tục</td>
         </tr>
-         <tr >
+         <tr>
         <td>7</td>
-        <td >Tiếng bip liên tục (500ms/lần)</td>
-        <td >Quá thời gian lái xe liên tục đồng thời đang quá tốc độ cho phép</td>
+        <td>Tiếng bip liên tục (500ms/lần)</td>
+        <td>Quá thời gian lái xe liên tục đồng thời đang quá tốc độ cho phép</td>
         </tr>  
 </table>
 
 #### 3.3. Cổng tín hiệu
 
 <table>
-    <tr class="color-primary" >
+    <tr class="color-primary">
         <td> <b><center>Cổng</center></b></td>
-        <td ><b><center>Pin</center></b></td>
-         <td ><b><center>Màu</center></b></td>
-        <td ><b><center>Mô tả</center></b></td>
+        <td><b><center>Pin</center></b></td>
+         <td><b><center>Màu</center></b></td>
+        <td><b><center>Mô tả</center></b></td>
         </tr>
-    <tr >
+    <tr>
         <td rowspan="6"><b>Cổng A </b></td>
-        <td >RS232_TX0</td>
-        <td >Vàng</td>  
+        <td>RS232_TX0</td>
+        <td>Vàng</td>  
         <td rowspan="2">Kết nối với RX và TX (nối chéo) của cảm biến chuẩn truyền thông RS232</td>
     </tr>  
-    <tr >
-        <td >RS232_RX0</td>
-        <td >Xanh lá</td>
+    <tr>
+        <td>RS232_RX0</td>
+        <td>Xanh lá</td>
     </tr>  
-    <tr >
-        <td >ALT0</td>
-        <td >Trắng</td>
-        <td >Đầu vào số (mức tích cực có thể cấu hình được)</td>
+    <tr>
+        <td>ALT0</td>
+        <td>Trắng</td>
+        <td>Đầu vào số (mức tích cực có thể cấu hình được)</td>
     </tr> 
-    <tr >
-        <td >Ignition (ACC)</td>
-        <td >Cam</td>
-        <td >Kết nối với dây tín hiệu khóa điện của xe, tích cực dương</td>
+    <tr>
+        <td>Ignition (ACC)</td>
+        <td>Cam</td>
+        <td>Kết nối với dây tín hiệu khóa điện của xe, tích cực dương</td>
     </tr> 
-    <tr >
-        <td ><b>VDC_in</b></td>
-        <td ><b>Đỏ</b></td>
-        <td ><b>Kết nối với điện áp Dương 12/24 VDC</b></td>
+    <tr>
+        <td><b>VDC_in</b></td>
+        <td><b>Đỏ</b></td>
+        <td><b>Kết nối với điện áp Dương 12/24 VDC</b></td>
     </tr> 
-    <tr >
-        <td ><b>GND</b></td>
-        <td ><b>Đen</b></td>
-        <td ><b>Kết nối với Mass</b></td>
+    <tr>
+        <td><b>GND</b></td>
+        <td><b>Đen</b></td>
+        <td><b>Kết nối với Mass</b></td>
     </tr> 
-    <tr >
+    <tr>
         <td rowspan="6"><b>Cổng B </b></td>
-        <td >RS232_TX1</td>
-        <td >Vàng</td>  
+        <td>RS232_TX1</td>
+        <td>Vàng</td>  
         <td rowspan="2">Kết nối với RX và TX (nối chéo) của cảm biến chuẩn truyền thông RS232</td>
     </tr>  
-    <tr >
-        <td >RS232_RX1</td>
-        <td >Xanh lá</td>
+    <tr>
+        <td>RS232_RX1</td>
+        <td>Xanh lá</td>
     </tr>  
-    <tr >
-        <td >DOUT</td>
-        <td >Trắng</td>
-        <td >Điều khiển ra với tích cực âm</td>
+    <tr>
+        <td>DOUT</td>
+        <td>Trắng</td>
+        <td>Điều khiển ra với tích cực âm</td>
     </tr> 
-       <tr >
-        <td >ENGINE</td>
-        <td >Cam</td>
-        <td >Kết nối với tín hiệu động cơ của xe, tích cực dương</td>
+       <tr>
+        <td>ENGINE</td>
+        <td>Cam</td>
+        <td>Kết nối với tín hiệu động cơ của xe, tích cực dương</td>
     </tr>
-    <tr >
-        <td >ALT1</td>
-        <td >Đỏ</td>
-        <td >Đầu vào số (mức tích cực có thể cấu hình được)</td>
+    <tr>
+        <td>ALT1</td>
+        <td>Đỏ</td>
+        <td>Đầu vào số (mức tích cực có thể cấu hình được)</td>
     </tr>
-    <tr >
-        <td >GND</td>
-        <td >Đen</td>
-        <td >Kết nối với Mass</td>
+    <tr>
+        <td>GND</td>
+        <td>Đen</td>
+        <td>Kết nối với Mass</td>
     </tr>
 </table>
  <center>Bảng 3. Mô tả dây tín hiệu</center>

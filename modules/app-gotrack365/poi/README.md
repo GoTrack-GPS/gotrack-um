@@ -21,10 +21,10 @@ Create markers on the map to make it easier to see where your vehicle is nearer.
 
     Click **Reset** to start over.
 
-* Step 4: Set the **name**, enter the **description**, the **icon** matches that point. Click Save to finish undo.
-
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/add-poi-4.jpg)
 
+* Step 4: Set the **name**, enter the **description**, the **icon** matches that point. Click Save to finish undo.
+  
 ### Edit POI
 
 * Step 1: Go to **Account  > <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-flag-2.svg) POI**.
@@ -38,9 +38,9 @@ Create markers on the map to make it easier to see where your vehicle is nearer.
 
     Click **Reset** to start over.
 
-* Step 4: Edit the **name**, enter the **description**. Select the **icon** again. Click **Save** to complete the operation
-
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/edit-poi.jpg)
+
+* Step 4: Edit the **name**, enter the **description**. Select the **icon** again. Click **Save** to complete the operation
 
 ### Delete POI
 

@@ -26,7 +26,9 @@
 ### 2. History trips
 
 * **Step 1**
+  
     * **Option 1** :  Click  <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-v.svg) **> History trips** of that device.
+  
     * **Option 2** :  <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/route.svg) in the device information box
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/history-trips.png)
@@ -49,12 +51,15 @@
     * Step 1: Select the device name to route history.
     * Step 2: Select the date and time to view the route. Click OK
     * Step 3: On the screen now update the route of the vehicle in that period as shown above.
+    * 
 * **According to each object**
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/history-trips-5.png)
 
     **1.** The point where the vehicle stops
+
     **2.** The road is running.
+
     **3.** When clicking on the points and segments, the screen will display the information you have chosen
 
 * **The parameters on the chart**
@@ -81,7 +86,7 @@
     * ***CBND*** : Temperature sensor attached to the device.
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/cbnd.png)
 
-    ***Data log***
+    * ***Data log***
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/data-log.png)
 
@@ -109,7 +114,7 @@
 
     * Option 3: Click in <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/power-off.svg) the device list box. Or Double click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/power-off.svg) to turn on / off the electric lock
 
-     <span class="icon-left4 ">![Interface Web](/docs/assets/images//web-english/map/send-command.png)
+     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/send-command.png)
 
 * Step 2 : The dialog box appears as shown below. Choose the type of command to be sent. And click **Submit** to complete the operation.
     <span class="icon-left4 ">![Interface Web](/docs/assets/images//web-english/map/send-command-2.png)
@@ -163,7 +168,7 @@
     * Information of the device, how many distances to go today, driving, stops. 
     When click on  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/route.svg),  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/stop-circle.svg) or <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/car-alt.svg) switch to **Route** tab.View vehicle route history [here](modules/web-interface/tracking/detailed-monitoring/#route) <div id="route">
 
-    * Sensor: For steps to add a sensor, please refer [here](vi/modules/web-interface/devices/edit-device/#cambien) <div id="cambien">
+    * Sensor: For steps to add a sensor, please refer [here](modules/web-interface/devices/edit-device/#cambien) <div id="cambien">
 
     * Other data
 

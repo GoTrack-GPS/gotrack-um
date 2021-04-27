@@ -21,11 +21,10 @@ Tạo điểm đánh dấu trên bản đồ để tiện trên việc giám sá
 
     Click **Đặt lại** để tạo lại từ đầu.
 
-* **Bước 4** : **Đặt tên, nhập ghi chú, icon** phù hợp với điểm đó.
-Click **Lưu** để hoàn thành tháo tác
-
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/create-poi-4.jpg)
 
+* **Bước 4** : **Đặt tên, nhập ghi chú, icon** phù hợp với điểm đó.
+Click **Lưu** để hoàn thành tháo tác
     
 ### Sửa điểm đánh dấu 
 
@@ -36,15 +35,15 @@ Click **Lưu** để hoàn thành tháo tác
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/edit-poi-3.jpg)
 
 - **Bước 3** : **Sửa điểm đánh dấu**, thu phóng, di chuyển đến nơi bạn muốn đánh dấu
-   
-    * Click **Lưu** để lưu tạm điểm mới chọn đó.
 
-        Click **Đặt lại** để tạo lại từ đầu.
+    Click **Lưu** để lưu tạm điểm mới chọn đó.
+
+    Click **Đặt lại** để tạo lại từ đầu.
+
+    <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/edit-poi-4.jpg)
 
 * **Bước 4** : **Sửa tên, nhập ghi chú** điểm đánh dấu. Chọn lại **icon**.
 Click **Lưu** để hoàn thành thao tác
-
-    <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/edit-poi-4.jpg)
 
 ### Xóa điểm đánh dấu
 

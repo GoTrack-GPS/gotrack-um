@@ -120,16 +120,13 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
     * **Toll station**: Can be switched on / off. When turning on when the vehicle passes through toll booths, a warning will be made and how much will it cost the vehicle to pass through, corresponding to the type of transport.
     * **Type of transport**: Choose 1 out of 5 types of transport. (Only applicable in Vietnam)
 
-    <span class="icon-left4">![delete device](/docs/assets/images/web-interface/device/Price-list.png)
-
 * ***Ministry of Transportation***
 
     * **Send data**: Can be enabled/disabled.
     * **Province**: Select a province to send data. (Selected only when sending mode is enabled).
     * **Transport type QCVN**: Choose one of the types of transport that is correct for the vehicle/vehicle in which you install the equipment. (Selectable only when sending mode is enabled).
 
-<div id="cambien">
-</div>
+
 
 ### 3. Sensor
 
@@ -137,6 +134,9 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
 
 Choose "<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **Add sensor**" tab , the screen will display as follows:
  
+ <div id="cambien">
+</div>
+
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/add-sensor.png)
 
 * ***Basic***

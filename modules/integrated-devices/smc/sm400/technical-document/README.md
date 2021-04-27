@@ -32,7 +32,7 @@
 * 4-720P SD-MDDVR    
 * 4-1080P SD-MDVR   
 * 4-720P HDD-MDVR    
-* 4-1080P HDD-mdvr  
+* 4-1080P HDD-MDVR  
 * 8-720P SD-MDVR 
 * 8-720P HDD-MDVR
 
@@ -52,21 +52,21 @@
 </p>
 
 <table>
-    <tr >
+    <tr>
         <td class="text-bold">System</td>
-        <td >OS</td>
+        <td>OS</td>
         <td>Linux</td> 
     </tr> 
-    <tr >
+    <tr>
         <td class="text-bold" rowspan="4">Video</td>
-        <td >Input</td>
+        <td>Input</td>
         <td>4 channels AHD(1080P/720P)</td>   
     </tr> 
-    <tr >
+    <tr>
         <td>Output</td>
         <td>1 channel</td>   
     </tr> 
-    <tr >
+    <tr>
         <td>Total Resource</td>
         <td>PAL: <br>
             4*720P@25fps(AHD) or4*1080P@15fps(AHD) <br>
@@ -74,40 +74,40 @@
             4*720P@30fps(AHD) or4*1080P@18fps(AHD) 
         </td>   
     </tr> 
-    <tr >
+    <tr>
         <td>Video Signal Standard</td>
         <td>Electrical level: 1Vpp Impedance: 75Ω NTSC/PAL Optional</td>   
     </tr> 
-    <tr >
+    <tr>
         <td class="text-bold" rowspan="3">Audio</td>
-        <td >Input</td>
+        <td>Input</td>
         <td>4 channels</td>   
     </tr> 
-    <tr >
+    <tr>
         <td>Output</td>
         <td>1 channel</td>   
     </tr> 
-    <tr >
+    <tr>
         <td>Audio Signal Standard</td>
         <td>Electrical level: 2Vpp  Input impedance: 4.7kΩ</td>   
-    <tr >
+    <tr>
         <td class="text-bold" rowspan="2">Display</td>
-        <td >Display Split</td>
+        <td>Display Split</td>
         <td>1-4</td>   
     </tr> 
-    <tr >
+    <tr>
         <td>OSD</td>
         <td>GPS information, alarm, vehicle No., speed, date/time</td>   
     </tr> 
-    <tr >
+    <tr>
         <td class="text-bold" rowspan="8">Recording</td>
         <td rowspan="2">Video/Audio Compression</td>
-        <td >Video: H.264/H.265</td>   
+        <td>Video: H.264/H.265</td>   
     </tr> 
-    <tr >
-        <td >Audio: ADPCM, G.711A, G.726</td>
+    <tr>
+        <td>Audio: ADPCM, G.711A, G.726</td>
     </tr> 
-    <tr >
+    <tr>
         <td>Image Resolutiont</td>
         <td>Analog: <br>
             PAL: <br>
@@ -116,90 +116,90 @@
             1080P(1920X1080), 720P(1280X720), D1(704x480),HD1(704x240),CIF(352x240);
         </td>   
     </tr>
-    <tr >
+    <tr>
         <td>Image Quality</td>
         <td>1-8 levels adjustable (1 is the best)</td>   
     </tr> 
-    <tr >
+    <tr>
         <td>Recording Mode</td>
         <td>Schedule/Alarm(sensor trigger, speed, acceleration, video loss, temperature) </td>   
     </tr> 
-    <tr >
+    <tr>
         <td>Pre-recording</td>
         <td>0-60 Secend</td>   
     </tr> 
-    <tr >
+    <tr>
         <td>Post-recording</td>
         <td>0-60 minutes</td>   
     </tr> 
-    <tr >
+    <tr>
         <td>Mirror Recording</td>
         <td>Yes</td>   
     </tr> 
-    <tr >
+    <tr>
         <td class="text-bold">Network</td>
-        <td >WIFI/3G/4G(choose one or more from list)</td>
+        <td>WIFI/3G/4G(choose one or more from list)</td>
         <td>802.11b/g/n/ac/EVDO/TD-SCDMA/WCDMA/TDD-LTE/FDD-LTE and so on</td> 
     </tr> 
-    <tr >
+    <tr>
         <td class="text-bold">Locating</td>
-        <td >GPS</td>
+        <td>GPS</td>
         <td>Location tracking, speed detection and time sync</td> 
     </tr> 
-    <tr >
+    <tr>
         <td class="text-bold">Storage</td>
-        <td >SD</td>
+        <td>SD</td>
         <td>SD card slot x 2(Default 1)</td> 
     </tr> 
-    <tr >
+    <tr>
         <td class="text-bold" rowspan="5">Interface</td>
-        <td >USB</td>
+        <td>USB</td>
         <td>USB2.0 x 1</td>   
     </tr> 
-    <tr >
+    <tr>
         <td>RS485</td>
         <td>RS485x1(optional)</td>   
     </tr> 
-    <tr >
+    <tr>
         <td>RS232</td>
         <td>RS232 × 1(optional)</td>   
     </tr> 
-    <tr >
+    <tr>
         <td>SIM</td>
         <td>SIM Slot x 1(optional)</td>   
     </tr> 
-    <tr >
+    <tr>
         <td>Sensor</td>
         <td>4 inputs, 1 outputs</td>   
     </tr> 
-    <tr >
+    <tr>
         <td class="text-bold" rowspan="3">Power</td>
-        <td >Input</td>
+        <td>Input</td>
         <td>DC8-36V</td>   
     </tr> 
-    <tr >
+    <tr>
         <td>Output</td>
         <td>12V@2000mA</td>   
     </tr> 
-    <tr >
+    <tr>
         <td>Max Power Consumption</td>
         <td>36W</td>   
     </tr> 
-    <tr >
+    <tr>
         <td class="text-bold" rowspan="2">Physical Characteristic</td>
-        <td >Dimension (L × W × H)</td>
+        <td>Dimension (L × W × H)</td>
         <td>148mm x 138mm x 35mm</td>   
     </tr> 
-    <tr >
+    <tr>
         <td>Weight</td>
         <td>480g</td>   
     </tr> 
-    <tr >
+    <tr>
         <td class="text-bold" rowspan="2">Environment</td>
-        <td >Operating Temperature</td>
+        <td>Operating Temperature</td>
         <td>-40℃- +70℃</td>   
     </tr> 
-    <tr >
+    <tr>
         <td>Operating Relative Humidity</td>
         <td>8%~90%(No Condense)</td>   
     </tr>
@@ -210,59 +210,59 @@
 #### 3.1. Accessories list
 
 <table>
-    <tr >
+    <tr>
         <td class="text-bold" align="center">S.N.</td>
         <td align="center">Ltem</td>
         <td align="center">Image</td>   
     </tr>
-    <tr >
+    <tr>
         <td align="center">1</td>
         <td align="center">Device</td>
         <td align="center"> <img src="/docs/assets/images/integrated-devices/smc/sm400/sm400.png"> 
        <span class="icon-left8"> <img src="/docs/assets/images/integrated-devices/smc/sm400/hdd-mdvr.png"></td>   
     </tr>
-    <tr >
+    <tr>
         <td align="center">2</td>
         <td align="center">Power cable</td>
         <td align="center">  <img src="/docs/assets/images/integrated-devices/smc/sm400/power-cable.png"> 
         </td>   
     </tr>
-    <tr >
+    <tr>
         <td align="center">3</td>
         <td align="center">4G antenna</td>
         <td align="center">  <img src="/docs/assets/images/integrated-devices/smc/sm400/4g-antenna.png"> 
         </td>   
     </tr>
-    <tr >
+    <tr>
         <td align="center">4</td>
         <td align="center">GPS antenna</td>
         <td align="center">  <img src="/docs/assets/images/integrated-devices/smc/sm400/gps-antenna.png"> 
         </td>   
     </tr>
-    <tr >
+    <tr>
         <td align="center">5</td>
         <td align="center">Remote</td>
         <td align="center"> <span class="icon-left10"> <img src="/docs/assets/images/integrated-devices/smc/sm400/remote.png"> 
         </td>   
     </tr>
-    <tr >
+    <tr>
         <td align="center">6</td>
         <td align="center">Key</td>
         <td align="center"> <img src="/docs/assets/images/integrated-devices/smc/sm400/key.png"> 
         </td>   
     </tr>
-    <tr >
+    <tr>
         <td align="center">7</td>
         <td align="center">IO cable</td>
         <td align="center">  <span class="icon-left11"><img src="/docs/assets/images/integrated-devices/smc/sm400/io-cable.png"> 
         </td>   
     </tr>
-    <tr >
+    <tr>
         <td align="center">8</td>
         <td align="center">User manual</td>
         <td align="center"></td>   
     </tr>
-    <tr >
+    <tr>
         <td align="center">9</td>
         <td align="center">Video cable</td>
         <td align="center"><span class="icon-left11"><img src="/docs/assets/images/integrated-devices/smc/sm400/video-cable.png"> </td>   
@@ -272,13 +272,13 @@
 #### 3.2 Host appearance diagram
 
 <span class="icon-left12">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/sd-card.png) 
-
+```
     Hình 1. SD card video recorder                    
-
+```
 <span class="icon-left12">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/hdd-video.png)
-
+```
     Hình 2. HDD video recorder
-
+```
 #### 3.3 Machine size and mounting hole position（UNIT：mm）
 
 <span class="icon-left16">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/size.png)
@@ -290,36 +290,36 @@
 The front panel interface and indicator light are defined in the following table：
 
 <table>
-    <tr >
+    <tr>
         <td class="text-bold" align="center">Classification</td>
-        <td class="text-bold" >Project</td>
-        <td class="text-bold" >Define</td>   
+        <td class="text-bold">Project</td>
+        <td class="text-bold">Define</td>   
     </tr>
-    <tr >
-        <td >Interface</td>
-        <td >SD1/SD2 <br>
+    <tr>
+        <td>Interface</td>
+        <td>SD1/SD2 <br>
              SIM
         </td>
         <td>SD card slot, two SD CARDS can loop video <br>
             3G/4G card, dial-up Internet access
         </td>   
     </tr>
-    <tr >
-        <td >Indicator light</td>
-        <td >GPS</td>
+    <tr>
+        <td>Indicator light</td>
+        <td>GPS</td>
         <td>GPS indicator light, flashing when GPS module has no signal; <br>
             The light is always on when the signal is normal; No module light off detected
         </td>   
     </tr>
-    <tr >
-        <td >IR</td>
+    <tr>
+        <td>IR</td>
         <td>Infrared receive</td>
-        <td >Receiving remote control button</td>   
+        <td>Receiving remote control button</td>   
     </tr>
-    <tr >
-        <td >Electronic lock</td>
+    <tr>
+        <td>Electronic lock</td>
         <td>LOCK</td>
-        <td >SD card and SIM card baffle lock, do not lock the host can not start, hit <br>
+        <td>SD card and SIM card baffle lock, do not lock the host can not start, hit <br>
         Automatic standby state of the host machine 5 seconds after opening the lock
 </td>   
     </tr>
@@ -339,36 +339,36 @@ Audio and video input and output (AV_IN1~AV_IN4, AV-out) interface definition di
 Back panel description：
 
 <table>
-    <tr >
-        <td class="text-bold">Classification</td>
-        <td class="text-bold" >Define</td>   
+    <tr>
+        <td class="text-bold">Interface</td>
+        <td class="text-bold">Define</td>   
     </tr>
-    <tr >
-        <td >AV—IN1~AV—IN4</td>
+    <tr>
+        <td>AV—IN1~AV—IN4</td>
         <td>Four - way camera audio and video input interface</td> 
     </tr>
-    <tr >
-        <td >AV—OUT</td>
+    <tr>
+        <td>AV—OUT</td>
         <td>Audio and video output interface</td> 
     </tr>
-    <tr >
-        <td >VGA</td>
+    <tr>
+        <td>VGA</td>
         <td>Hd video output interface</td> 
     </tr>
-    <tr >
-        <td >4G</td>
+    <tr>
+        <td>4G</td>
         <td>3G/4G antenna interface</td> 
     </tr>
-    <tr >
-        <td >GPS</td>
+    <tr>
+        <td>GPS</td>
         <td>Locate module antenna interface</td> 
     </tr>
-    <tr >
-        <td >IO</td>
+    <tr>
+        <td>IO</td>
         <td>4 channels IO input, 2 channels alarm output, 1*RS485 interface or 1*RS232</td> 
     </tr>
-    <tr >
-        <td >POWER</td>
+    <tr>
+        <td>POWER</td>
         <td>Power input interface, DC10-33V</td> 
     </tr>
 </table>

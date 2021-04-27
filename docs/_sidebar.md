@@ -70,8 +70,9 @@
                - **SM400**
                   - [Technical document](modules/integrated-devices/smc/sm400/technical-document/)
                   - [Operation and settings](modules/integrated-devices/smc/sm400/operation-settings/) 
-
-     - [**Contact**](modules/web-interface/contact/)
+                
+     - **Contact**  
+          - [**Email**](vi/modules/web-interface/contact/)
      - **FAQ**
           - [Build App](modules/web-interface/faq/build-app/)
           - [Device S200/S400](modules/web-interface/faq/device-s200-s400/)

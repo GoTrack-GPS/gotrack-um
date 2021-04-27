@@ -21,67 +21,67 @@ Một vài lưu ý:
 
 
 <table>
-  <tr >
+  <tr>
         <td colspan="3"> * Để cài đặt có hiệu lực, vui lòng gửi lệnh  <b>reset#</b></td>
     </tr> 
-    <tr >
+    <tr>
         <td rowspan="2"><b>Cấu trúc</b></td>
-        <td >Ghi</td>
+        <td>Ghi</td>
         <td>Đọc</td>  
     </tr> 
-    <tr >
-        <td >server,data,< ip/domain >,< port number >#</td>
-        <td class="text-bold" >server,data#</td>  
-    </tr> 
-     <tr >
-        <td colspan="3">Ví dụ</td>
-    </tr> 
-     <tr >
-        <td ><b>Gửi</b></td>
-        <td >server,data,125.212.235.145,13030#</td>
+    <tr>
+        <td>server,data,< ip/domain>,< port number>#</td>
         <td class="text-bold">server,data#</td>  
     </tr> 
-    <tr >
-        <td ><b>Nhận</b></td>
-        <td >server,data,125.212.235.145,13030#@OK#</td>
-        <td >server,data,125.212.235.145,13030@OK#</td>  
+     <tr>
+        <td colspan="3">Ví dụ</td>
+    </tr> 
+     <tr>
+        <td><b>Gửi</b></td>
+        <td>server,data,125.212.235.145,13030#</td>
+        <td class="text-bold">server,data#</td>  
+    </tr> 
+    <tr>
+        <td><b>Nhận</b></td>
+        <td>server,data,125.212.235.145,13030#@OK#</td>
+        <td>server,data,125.212.235.145,13030@OK#</td>  
     </tr> 
 </table>
 
 
 
-> Lưu ý: đối với lệnh thiết lập cho thông số này để thực hiện được thành công cần như sau:
-Thiết bị chưa bị khóa cấu hình (để kiểm tra, xem mục 2.10 ).
-Nếu cấu hình đã bị khóa, số điện thoại thực hiện thiết lập phải là số điện thoại trung tâm. (để kiểm tra/thiết lập, xem mục 1.9).
+> Lưu ý: đối với lệnh thiết lập cho thông số này để thực hiện được thành công cần như sau: <br>
+Thiết bị chưa bị khóa cấu hình (để kiểm tra, xem mục [2.10](vi/modules/integrated-devices/smc/s200/sms-command/#unlock) ). <br>
+Nếu cấu hình đã bị khóa, số điện thoại thực hiện thiết lập phải là số điện thoại trung tâm. (để kiểm tra/thiết lập, xem mục [1.9](vi/modules/integrated-devices/smc/s200/sms-command/#sensor)). <br>
 Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết bị đang kết nối.
 
 #### 1.2. Thông số APN
 
 <table>
-    <tr >
+    <tr>
         <td colspan="3"> * Để cài đặt có hiệu lực, vui lòng gửi lệnh  <b>reset#</b></td>
     </tr> 
-    <tr >
+    <tr>
         <td rowspan="2">Cấu trúc</td>
-        <td >Ghi</td>
+        <td>Ghi</td>
         <td>Đọc</td>  
     </tr> 
-    <tr >
-        <td >apn,< tên apn cần thiết lập > # </td>
-        <td class="text-bold">apn #</td>  
+    <tr>
+        <td>apn,< tên apn cần thiết lập># </td>
+        <td class="text-bold">apn#</td>  
     </tr> 
-     <tr >
+     <tr>
         <td colspan="3">Ví dụ</td>
     </tr> 
-     <tr >
-        <td >Gửi</td>
-        <td >apn,apn-name#</td>
-        <td class="text-bold">apn #</td>  
+     <tr>
+        <td>Gửi</td>
+        <td>apn,apn-name#</td>
+        <td class="text-bold">apn#</td>  
     </tr> 
-    <tr >
-        <td >Nhận</td>
-        <td >apn,apn-name#@OK#</td>
-        <td >apn,apn-name@OK#</td>  
+    <tr>
+        <td>Nhận</td>
+        <td>apn,apn-name#@OK#</td>
+        <td>apn,apn-name@OK#</td>  
     </tr> 
 </table>
 
@@ -92,61 +92,61 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 
 
 <table>
-    <tr >
+    <tr>
         <td colspan="3"> * Để cài đặt có hiệu lực, vui lòng gửi lệnh  <b>reset#</b></td>
     </tr> 
-    <tr >
+    <tr>
         <td rowspan="2">Cấu trúc</td>
-        <td >Ghi</td>
+        <td>Ghi</td>
         <td>Đọc</td>  
     </tr> 
-    <tr >
-        <td >apnex, < tên apn khi chuyển vùng cần thiết lập ># </td>
-        <td class="text-bold" >apnex#</td>  
-    </tr> 
-     <tr >
-        <td colspan="3">Ví dụ</td>
-    </tr> 
-     <tr >
-        <td >Gửi</td>
-        <td >apnex,e-connect#</td>
+    <tr>
+        <td>apnex, < tên apn khi chuyển vùng cần thiết lập># </td>
         <td class="text-bold">apnex#</td>  
     </tr> 
-    <tr >
-        <td >Nhận</td>
-        <td >apnex,e-connect#@OK#</td>
-        <td >apnex,e-connect@OK#</td>  
+     <tr>
+        <td colspan="3">Ví dụ</td>
+    </tr> 
+     <tr>
+        <td>Gửi</td>
+        <td>apnex,e-connect#</td>
+        <td class="text-bold">apnex#</td>  
+    </tr> 
+    <tr>
+        <td>Nhận</td>
+        <td>apnex,e-connect#@OK#</td>
+        <td>apnex,e-connect@OK#</td>  
     </tr>
 </table>
 
 #### 1.4. Tần suất truyền tin
 
 <table>
-     <tr >
+     <tr>
         <td colspan="3"> * Mặc định là 30,900 <br>
                          * Được cập nhật sau khi phản hồi OK và lưu sau khi gửi lại lệnh  <b>reset#</b></td>
     </tr> 
-    <tr >
+    <tr>
         <td rowspan="2">Cấu trúc</td>
-        <td >Ghi</td>
+        <td>Ghi</td>
         <td>Đọc</td>  
     </tr> 
-    <tr >
-        <td >tim, < thời gian truyền khi chạy >,< khi dừng > # </td>
+    <tr>
+        <td>tim, < thời gian truyền khi chạy>,< khi dừng># </td>
         <td class="text-bold">tim#</td>  
     </tr> 
-     <tr >
+     <tr>
         <td colspan="3">Ví dụ</td>
     </tr> 
-     <tr >
-        <td >Gửi</td>
-        <td >tim#,10,900#</td>
+     <tr>
+        <td>Gửi</td>
+        <td>tim#,10,900#</td>
         <td class="text-bold">tim#</td>  
     </tr> 
-    <tr >
-        <td >Nhận</td>
-        <td >tim,10,900#@OK#</td>
-        <td >tim,30,900@OK#</td>  
+    <tr>
+        <td>Nhận</td>
+        <td>tim,10,900#@OK#</td>
+        <td>tim,30,900@OK#</td>  
     </tr> 
     
 </table>
@@ -155,32 +155,32 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 #### 1.5. Thông số timezone
 
 <table>
- <tr >
+ <tr>
         <td colspan="3"> * Mặc định là +7.0 <br>
                          * Được cập nhật sau khi phản hồi OK và lưu sau khi gửi lại lệnh  <b>reset#</b></td>
     </tr> 
-    <tr >
+    <tr>
         <td rowspan="2">Cấu trúc</td>
-        <td >Ghi</td>
+        <td>Ghi</td>
         <td>Đọc</td>  
     </tr> 
-    <tr >
-        <td >tzone, < múi giờ định dạng ±HH.hh > # </td>
-        <td class="text-bold" >tzone#</td>  
+    <tr>
+        <td>tzone, < múi giờ định dạng ±HH.hh># </td>
+        <td class="text-bold">tzone#</td>  
     </tr> 
-     <tr >
+     <tr>
         <td colspan="3">Ví dụ</td>
     </tr> 
-     <tr >
-        <td >Gửi</td>
-        <td >Múi giờ: 9:30 -> “HH.hh” = 9 + 30/60 = 9.5 <br>
+     <tr>
+        <td>Gửi</td>
+        <td>Múi giờ: 9:30 -> “HH.hh” = 9 + 30/60 = 9.5 <br>
             tzone,9.5#</td>
-        <td class="text-bold" >tzone #</td>  
+        <td class="text-bold">tzone#</td>  
     </tr> 
-    <tr >
-        <td >Nhận</td>
-        <td >tzone,9.5#@OK#</td>
-        <td >tzone,9.5@OK#</td>  
+    <tr>
+        <td>Nhận</td>
+        <td>tzone,9.5#@OK#</td>
+        <td>tzone,9.5@OK#</td>  
     </tr> 
     
 </table>
@@ -188,32 +188,32 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 #### 1.6. Thông số vận tốc giới hạn
 
 <table>
-    <tr >
+    <tr>
         <td colspan="3"> * Mặc định là 120 <br>
                          * Được cập nhật sau khi phản hồi OK và lưu sau khi gửi lại lệnh  <b>reset# </b>
         </td>
     </tr> 
-    <tr >
+    <tr>
         <td rowspan="2">Cấu trúc</td>
-        <td >Ghi</td>
+        <td>Ghi</td>
         <td>Đọc</td>  
     </tr> 
-    <tr >
-        <td >speedth, < giá trị tốc độ giới hạn > # </td>
-        <td class="text-bold" >speedth#</td>  
+    <tr>
+        <td>speedth, < giá trị tốc độ giới hạn># </td>
+        <td class="text-bold">speedth#</td>  
     </tr> 
-     <tr >
+     <tr>
         <td colspan="3">Ví dụ</td>
     </tr> 
-     <tr >
-        <td > Gửi</td>
-        <td >speedth,120#</td>
-        <td class="text-bold" >speedth#</td>  
+     <tr>
+        <td> Gửi</td>
+        <td>speedth,120#</td>
+        <td class="text-bold">speedth#</td>  
     </tr> 
-    <tr >
-        <td >Nhận</td>
-        <td >speedth,120#@OK#</td>
-        <td >speedth,120#@OK#</td>  
+    <tr>
+        <td>Nhận</td>
+        <td>speedth,120#@OK#</td>
+        <td>speedth,120#@OK#</td>  
     </tr> 
      
 </table>
@@ -227,64 +227,64 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
     <td colspan="3"> * Mặc định là bật <br>
                          * Được cập nhật sau khi phản hồi OK (đối với việc tắt)  và lưu sau khi gửi lại lệnh  <b>reset#</b>
         </td>
-    <tr >
+    <tr>
         <td rowspan="2">Cấu trúc</td>
-        <td >Ghi</td>
-        <td >Đọc</td>  
+        <td>Ghi</td>
+        <td>Đọc</td>  
     </tr> 
-    <tr >
-        <td >buzzer, < 0/1: disable/enable > #</td>
-        <td  class="text-bold" >buzzer#</td>  
+    <tr>
+        <td>buzzer, < 0/1: disable/enable>#</td>
+        <td  class="text-bold">buzzer#</td>  
     </tr> 
-     <tr >
+     <tr>
         <td colspan="3">Ví dụ</td>
     </tr> 
-     <tr >
-        <td >Gửi</td>
-        <td >buzzer,1#</td>
-        <td  class="text-bold" >buzzer#</td>  
+     <tr>
+        <td>Gửi</td>
+        <td>buzzer,1#</td>
+        <td  class="text-bold">buzzer#</td>  
     </tr> 
-    <tr >
-        <td >Nhận</td>
-        <td >buzzer,1#@OK#</td>
-        <td >buzzer,1#@OK#</td>  
+    <tr>
+        <td>Nhận</td>
+        <td>buzzer,1#@OK#</td>
+        <td>buzzer,1#@OK#</td>  
     </tr> 
-     <tr >
+     <tr>
 </table>
 
 #### 1.8. Thiết lập tín hiệu vào số (ALT IO)
 
 <table>
-    <tr >
+    <tr>
         <td colspan="3"> * Mặc định là AIR với ALT0 và SOS với ALT1 <br>
                          * Được cập nhật sau khi phản hồi OK và lưu sau khi gửi lại lệnh  <b>reset#</b>
         </td>
     </tr> 
-    <tr >
+    <tr>
         <td rowspan="2">Cấu trúc</td>
-        <td >Ghi</td>
-        <td >Đọc</td>  
+        <td>Ghi</td>
+        <td>Đọc</td>  
     </tr> 
-    <tr >
-        <td >- đối với cổng ALT0 <br> altio,0, < acc/air/sos/doo/ben >,< mức tích cực 0/1 > # <br>
-            - đối với cổng ALT1 <br> altio,1, < acc/air/sos/doo/ben >,< mức tích cực 0/1 > # </td>
-        <td  class="text-bold" >altio,0# <br>
+    <tr>
+        <td>- đối với cổng ALT0 <br> altio,0, < acc/air/sos/doo/ben>,< mức tích cực 0/1># <br>
+            - đối với cổng ALT1 <br> altio,1, < acc/air/sos/doo/ben>,< mức tích cực 0/1># </td>
+        <td  class="text-bold">altio,0# <br>
             <br>
             altio,1#
         </td>  
     </tr> 
-     <tr >
+     <tr>
         <td colspan="3">Ví dụ</td>
     </tr> 
-     <tr >
-        <td >Gửi</td>
-        <td >altio,0,air,1#</td>
-        <td  class="text-bold" >altio,0 #</td>  
+     <tr>
+        <td>Gửi</td>
+        <td>altio,0,air,1#</td>
+        <td  class="text-bold">altio,0#</td>  
     </tr> 
-    <tr >
-        <td >Nhận</td>
-        <td >altio,0,air,1#@OK#</td>
-        <td >altio,0,air,1#@OK#</td>  
+    <tr>
+        <td>Nhận</td>
+        <td>altio,0,air,1#@OK#</td>
+        <td>altio,0,air,1#@OK#</td>  
     </tr> 
      
 </table>
@@ -297,38 +297,38 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 ##### 1.9.1. Thiết lập kết nối
 
 <table>
-    <tr >
+    <tr>
         <td colspan="3"> * Mặc định là tắt <br>
                          * Được cập nhật và lưu sau khi gửi lại lệnh   <b>reset#</b>
         </td>
     </tr> 
-    <tr >
+    <tr>
         <td rowspan="2">Cấu trúc</td>
-        <td >Ghi</td>
+        <td>Ghi</td>
         <td>Đọc</td>  
     </tr> 
-    <tr >
-        <td >- đối với cổng RS232_0 <br> rs232,0, < sensor id >,< baudrate > # <br>
-             - đối với cổng RS232_1 <br> rs232,1,< sensor id > ,< baudrate > # <br>
+    <tr>
+        <td>- đối với cổng RS232_0 <br> rs232,0, < sensor id>,< baudrate># <br>
+             - đối với cổng RS232_1 <br> rs232,1,< sensor id> ,< baudrate># <br>
              -  sensor id:<br> 0/1/2 tắt rs232/cảm biến dầu FLS-Omnicom/ cảm biến dầu Soji
         </td>  
-        <td class="text-bold" >rs232,0# <br>
+        <td class="text-bold">rs232,0# <br>
             <br>  <br> 
             rs232,1#
         </td>  
     </tr> 
-     <tr >
+     <tr>
         <td colspan="3">Ví dụ</td>
     </tr> 
-     <tr >
-        <td >Gửi </td>
-        <td >rs232,0,2,9600# (thiết lập cho cảm biến dầu Soji)</td>
-        <td class="text-bold" >rs232,0#</td>  
+     <tr>
+        <td>Gửi </td>
+        <td>rs232,0,2,9600# (thiết lập cho cảm biến dầu Soji)</td>
+        <td class="text-bold">rs232,0#</td>  
     </tr> 
-    <tr >
-        <td >Nhận</td>
-        <td >rs232,0,2,9600#@OK#</td>
-        <td >rs232,0,2,9600#@OK#</td>  
+    <tr>
+        <td>Nhận</td>
+        <td>rs232,0,2,9600#@OK#</td>
+        <td>rs232,0,2,9600#@OK#</td>  
     </tr> 
     
 </table>
@@ -336,44 +336,44 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 ##### 1.9.2. Thiết lập tham số hoạt động
 
 <table>
-    <tr >
+    <tr>
         <td colspan="3"> * Mặc định là 10s và 5 đơn vị <br>
                          * Được cập nhật sau khi phản hồi OK và lưu sau khi gửi lại lệnh   <b>reset# </b> <br>
                          * Để xem giá trị cảm biến gửi về xem lệnh view,comm# <br>
         </td>
     </tr> 
-    <tr >
+    <tr>
         <td rowspan="2">Cấu trúc</td>
-        <td >Ghi</td>
+        <td>Ghi</td>
         <td>Đọc</td>  
     </tr> 
-    <tr >
-       <td >- đối với cổng RS232_0 <br> 
-                rs232para,0, < sample time >, < trigger value ># <br> 
+    <tr>
+       <td>- đối với cổng RS232_0 <br> 
+                rs232para,0, < sample time>, < trigger value># <br> 
             - đối với cổng RS232_1 <br>
-                rs232para,1, < sample time >, < trigger value ># <br>
+                rs232para,1, < sample time>, < trigger value># <br>
             <b> sample time </b> : Thời gian đọc cảm biến, đơn vị s, mặc định 10s<br>
             <b> trigger value </b>: giá trị sai khác giữa 2 lần gần nhất để tạo ra 1 sự kiện cập nhật giá trị cảm biến, mặc định là 5
         </td>  
-        <td class="text-bold" >rs232para,0# <br>
+        <td class="text-bold">rs232para,0# <br>
             <br>  <br> 
                             rs232para,1#
         </td>  
     </tr> 
-     <tr >
+     <tr>
         <td colspan="3">Ví dụ</td>
     </tr> 
-     <tr >
-        <td >Gửi </td>
-        <td >rs232para,0,20,10# <br> 
+     <tr>
+        <td>Gửi </td>
+        <td>rs232para,0,20,10# <br> 
              <i>(thiết lập tần suất lấy mẫu/đọc cảm biến: 20s và cập nhật giá trị cảm biến khi sai khác từ 10 đơn vị trở lên) </i>
         </td>
-        <td class="text-bold" >rs232para,0#</td>  
+        <td class="text-bold">rs232para,0#</td>  
     </tr> 
-    <tr >
-        <td >Nhận</td>
-        <td >rs232para,0,20,10#@OK#</td>
-        <td >rs232para,0,20,10#@OK#</td>  
+    <tr>
+        <td>Nhận</td>
+        <td>rs232para,0,20,10#@OK#</td>
+        <td>rs232para,0,20,10#@OK#</td>  
     </tr> 
     
 </table>
@@ -381,76 +381,76 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 ##### 1.10.	Bật/tắt tín hiệu ra số (Out0)
 
 <table>
-    <tr >
+    <tr>
         <td colspan="3"> * Mặc định đầu ra ở trạng thái không tích cực. <br>
                          * Được cập nhật và lưu tức thì
         </td>
     </tr> 
-    <tr >
+    <tr>
         <td rowspan="2">Cấu trúc</td>
-        <td >Ghi</td>
-        <td >Đọc</td>  
+        <td>Ghi</td>
+        <td>Đọc</td>  
     </tr> 
-    <tr >
-        <td >outputturn,0, < 0/1: tắt / bật > </td>  
+    <tr>
+        <td>outputturn,0, < 0/1: tắt / bật> </td>  
         <td  class="text-bold">output,0#</td>  
     </tr> 
-     <tr >
+     <tr>
         <td colspan="3">Ví dụ</td>
     </tr> 
-     <tr >
-        <td >Gửi </td>
-        <td >outputturn,0,1#</td>
+     <tr>
+        <td>Gửi </td>
+        <td>outputturn,0,1#</td>
         <td  class="text-bold">output,0#</td>  
     </tr> 
-    <tr >
-        <td >Nhận</td>
-        <td >outputturn,0,1#@OK#</td>
-        <td >output,0,1#@OK#</td>  
+    <tr>
+        <td>Nhận</td>
+        <td>outputturn,0,1#@OK#</td>
+        <td>output,0,1#@OK#</td>  
     </tr> 
     
 </table>
 
 - Ngoài ra, thiết bị còn hỗ trợ tạo ra một xung vuông có Ton, Toff, số chu kỳ điều chỉnh được hoặc một trigger (xung 1 chu kỳ):
 
-  * **Xung** : outputpulse,0, < ton >, < toff >, < số chu kỳ >#
-  * **Trigger**: outputtrigger,0, < ton >#
+  * **Xung** : outputpulse,0, < ton>, < toff>, < số chu kỳ>#
+  * **Trigger**: outputtrigger,0, < ton>#
 
 ##### 1.11.	Thiết lập số điện thoại trung tâm 
 
 <table>
-     <tr >
+     <tr>
         <td colspan="3"> * Được cập nhật sau khi phản hồi OK và lưu sau khi gửi lại lệnh   <b>reset# </b>
         </td>
     </tr> 
-    <tr >
+    <tr>
         <td rowspan="2">Cấu trúc</td>
-        <td >Ghi</td>
+        <td>Ghi</td>
         <td>Đọc</td>  
     </tr> 
-    <tr >
-        <td >centralphone,< n >,< số điện thoại > # <br>
+    <tr>
+        <td>centralphone,< n>,< số điện thoại># <br>
             n: 0,1,2 (hỗ trợ cài đặt 3 số trung tâm)
         </td>  
-        <td class="text-bold" >centralphone,0# <br>
+        <td class="text-bold">centralphone,0# <br>
              Hoặc <br>
              centralphone,1# <br>
              Hoặc <br>
              centralphone,2# <br>
         </td>   
     </tr> 
-     <tr >
+     <tr>
         <td colspan="3">Ví dụ</td>
     </tr> 
-     <tr >
-        <td >Gửi</td>
-        <td >centralphone,0,0986026929#</td>
-        <td class="text-bold" >centralphone,0#</td>  
+     <tr>
+        <td>Gửi</td>
+        <td>centralphone,0,0986026929#</td>
+        <td class="text-bold">centralphone,0#</td>  
     </tr> 
-    <tr >
-        <td >Nhận</td>
-        <td >centralphone,0,0986026929#@OK#</td>
-        <td >centralphone,0,0986026929#@OK#</td>  
+    <tr>
+        <td>Nhận</td>
+        <td>centralphone,0,0986026929#@OK#</td>
+        <td>centralphone,0,0986026929#@OK#</td>  
     </tr> 
    
 </table>
@@ -458,35 +458,35 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 ##### 1.12.	Thiết lập lịch khởi động lại
 
 <table>
-    <tr >
+    <tr>
         <td colspan="3"> * Mặc định chức năng này bị tắt <br>
                          * Được cập nhật sau khi phản hồi OK và lưu sau khi gửi lại lệnh   <b>reset# </b>
         </td>
     </tr> 
-    <tr >
+    <tr>
         <td rowspan="2">Cấu trúc</td>
-        <td >Ghi</td>
+        <td>Ghi</td>
         <td>Đọc</td>  
     </tr> 
-    <tr >
-        <td >rebootsch, < n > ,< a > # <br>
+    <tr>
+        <td>rebootsch, < n> ,< a># <br>
             thực hiện lịch reboot thiết bị sau “n” ngày vào đúng thời điểm lúc “a” giờ <br>
             n=0: chế độ lập lịch này bị tắt 
         </td>  
-        <td class="text-bold" >rebootsch#</td>   
+        <td class="text-bold">rebootsch#</td>   
     </tr> 
-     <tr >
+     <tr>
         <td colspan="3">Ví dụ</td>
     </tr> 
-     <tr >
-        <td >Gửi </td>
-        <td >rebootsch,1,0#</td>
-        <td class="text-bold" >rebootsch#</td>  
+     <tr>
+        <td>Gửi </td>
+        <td>rebootsch,1,0#</td>
+        <td class="text-bold">rebootsch#</td>  
     </tr> 
-    <tr >
-        <td >Nhận</td>
-        <td >rebootsch,1,0#@OK#</td>
-        <td >rebootsch,1,0#@OK#</td>  
+    <tr>
+        <td>Nhận</td>
+        <td>rebootsch,1,0#@OK#</td>
+        <td>rebootsch,1,0#@OK#</td>  
     </tr> 
     
 </table>
@@ -497,32 +497,32 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 ##### 1.13.	Thiết lập cảm biến rung lắc
 
 <table>
-    <tr >
+    <tr>
         <td colspan="3"> * Mặc định là bật và độ nhạy là 0.05 <br>
                          * Được cập nhật sau khi phản hồi OK và lưu sau khi gửi lại lệnh   <b>reset# </b>
         </td>
     </tr>
-    <tr >
+    <tr>
         <td rowspan="2">Cấu trúc</td>
-        <td >Ghi</td>
+        <td>Ghi</td>
         <td>Đọc</td>  
     </tr> 
-    <tr >
-        <td >motion,< 0/1: tắt/bật >,< chỉ số độ nhạy là một giá trị nhỏ hơn 1 >#</td>  
-        <td class="text-bold" >motion#</td>   
+    <tr>
+        <td>motion,< 0/1: tắt/bật>,< chỉ số độ nhạy là một giá trị nhỏ hơn 1>#</td>  
+        <td class="text-bold">motion#</td>   
     </tr> 
-     <tr >
+     <tr>
         <td colspan="3">Ví dụ</td>
     </tr> 
-     <tr >
-        <td >Gửi </td>
-        <td >motion,1,0.05#</td>
-        <td class="text-bold" >motion#</td>  
+     <tr>
+        <td>Gửi </td>
+        <td>motion,1,0.05#</td>
+        <td class="text-bold">motion#</td>  
     </tr> 
-    <tr >
-        <td >Nhận</td>
-        <td >motion,1,0.05#@OK#</td>
-        <td >motion,1,0.05#@OK#>  
+    <tr>
+        <td>Nhận</td>
+        <td>motion,1,0.05#@OK#</td>
+        <td>motion,1,0.05#@OK#>  
     </tr> 
      
 </table>
@@ -537,22 +537,22 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 
 
 <table>
-    <tr >
+    <tr>
         <td>Lệnh</td>
-        <td ><b>View, vehicleinfo#</b></td>
+        <td><b>View, vehicleinfo#</b></td>
     </tr> 
-    <tr >
+    <tr>
         <td>Nội dung phản hồi</td>
-        <td >
-        <b>vehi</b> , < Biển số xe >, < quãng đường: Km >, < tốc độ >, < ngưỡng xác lập chuyển động >, < số lần quá tốc >, < thời gian duy trì trạng thái hiện tại >, < tổng thời gian dừng >,< lọc vận tốc: 0/A or E không dùng/lọc theo tín hiệu ACC hoặc Engine >. <br>
-        <b>driv</b> , < ID thẻ >, < tên lái xe >, < GPLX >, < bắt đầu hành trình >, < kết thúc hành trình >,< tg lái xe liên tục >, < tổng thời gian lái xe > <br>
-        <b>devi</b>, < tên thiết bị > , < imei > , < hw-rev >, < Manuf-time >,< install-time > .<br>
-        <b>pwr</b>, < điện áp nguồn ngoài > , < điện áp nguồn dự phòng >
+        <td>
+        <b>vehi</b> , < Biển số xe>, < quãng đường: Km>, < tốc độ>, < ngưỡng xác lập chuyển động>, < số lần quá tốc>, < thời gian duy trì trạng thái hiện tại>, < tổng thời gian dừng>,< lọc vận tốc: 0/A or E không dùng/lọc theo tín hiệu ACC hoặc Engine>. <br>
+        <b>driv</b> , < ID thẻ>, < tên lái xe>, < GPLX>, < bắt đầu hành trình>, < kết thúc hành trình>,< tg lái xe liên tục>, < tổng thời gian lái xe> <br>
+        <b>devi</b>, < tên thiết bị> , < imei> , < hw-rev>, < Manuf-time>,< install-time> .<br>
+        <b>pwr</b>, < điện áp nguồn ngoài> , < điện áp nguồn dự phòng>
         </td>
     </tr> 
-    <tr >
+    <tr>
         <td>Ví dụ</td>
-        <td >view,vehicleinfo, <br>
+        <td>view,vehicleinfo, <br>
           <b>vehi</b> ,xxX-abc.de,0,0/10,0,9585,161,0 <br>
           <b>driv</b>,1dd46392500104e0 <br>
             ,LX_1dd46,gplx_1dd46,000000,000000,0,0 <br>
@@ -566,24 +566,24 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 #### 2.2. Kiểm tra tổng quan
 
 <table>
-    <tr >
+    <tr>
         <td>Lệnh</td>
-        <td ><b>View, overview#</b></td>
+        <td><b>View, overview#</b></td>
     </tr> 
-    <tr >
+    <tr>
         <td>Nội dung phản hồi</td>
-        <td >
-        <b>< device name ></b>, < imei >, < phiên bản fw >, < 0/1: thiết bị chưa khóa/đã khóa >, < số ngày thiết bị đã hoạt động >, < thời điểm khởi độngDDMMYYhhmmss >, < Nhiệt độ chip xử lý ><br>
-        <b>nw</b>, < 0/1: chưa có/đã có GPRS >, < độ mạnh sóng, lớn nhất: 31 > <br>
-        <b>gps</b>, < 0/4/6: trạng thái OK/ERROR/đang ngủ >, < 0/1: không/có chốt vị trí >, < số vệ tinh ><br>
-        <b>sv</b>, < server ip >, < server port >, < 0/1: chưa/đã kết nối ><br>
-        <b>pw</b>, < chế độ: 0:normal/1:sleeping >, < điện áp nguồn ngoài >, < điện áp nguồn dự phòng > , < chế độ sạc >, < trạng thái sạc ><br>
-        <b>ti</b>, < ddmmyy >-< hh:mm:ss >
+        <td>
+        <b>< device name></b>, < imei>, < phiên bản fw>, < 0/1: thiết bị chưa khóa/đã khóa>, < số ngày thiết bị đã hoạt động>, < thời điểm khởi độngDDMMYYhhmmss>, < Nhiệt độ chip xử lý><br>
+        <b>nw</b>, < 0/1: chưa có/đã có GPRS>, < độ mạnh sóng, lớn nhất: 31> <br>
+        <b>gps</b>, < 0/4/6: trạng thái OK/ERROR/đang ngủ>, < 0/1: không/có chốt vị trí>, < số vệ tinh><br>
+        <b>sv</b>, < server ip>, < server port>, < 0/1: chưa/đã kết nối><br>
+        <b>pw</b>, < chế độ: 0:normal/1:sleeping>, < điện áp nguồn ngoài>, < điện áp nguồn dự phòng> , < chế độ sạc>, < trạng thái sạc><br>
+        <b>ti</b>, < ddmmyy>-< hh:mm:ss>
         </td>
     </tr> 
-    <tr >
+    <tr>
         <td>Ví dụ</td>
-        <td >view, overview, <br>
+        <td>view, overview, <br>
           <b>S200</b>, 868183033877510,1.000.01.000000.201201,0,240,021220094301,34.3C <br>
             <b>nw</b>,1,20 <br>
             <b>gps</b>,0,1,6 <br>
@@ -598,26 +598,26 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 #### 2.3. Kiểm tra trạng thái ngoại vi
 
 <table>
-    <tr >
+    <tr>
         <td>Lệnh</td>
-        <td ><b>View,comm#</b></td>
+        <td><b>View,comm#</b></td>
     </tr> 
-    <tr >
+    <tr>
         <td>Nội dung phản hồi</td>
-        <td >
-        <b>led</b>, < state > , < trạng thái 4 led chỉ thị, tính từ trái qua phải: “Lái xe” – “Bộ nhớ” – “Mạng di động” – “GPS” > <br>
-        <b>gps</b>, < state >, < 0-Không tốt, 1-Tốt > ,  <số vệ tinh > <br>
-        <b>cell</b>, < state>,1,1,1,1,1, < độ mạnh sóng >, < trạng thái kết nối sv/trạng thái đăng nhập server: 0-không tốt, 1-Tốt > <br>
-        <b>buz</b>, < state >, < 0/1: không bip/đang phát kêu bip > <br>
-        <b>rfid</b>, < state >, < ID thẻ > <br>
-        <b>Acce</b>, < state > , < trục x >, < trục y >, < trục z >, < trục xyz > <br> 
-        <b>rs0</b>, < state >, < sensor id >, < state >, < giá trị số đọc từ cảm biến > <br>
-        <b>rs1</b>, < state > , < sensor id >, < state >, <giá trị số đọc từ cảm biến > <br>
-        <b>acc</b>, < state >, < mức tích cực > <br>
-        <b>eng </b>, < state >, < mức tích cực > <br>
-        <b>AIR</b>, < state >, 1,+, < mức tích cực > <br>
-        <b>SOS</b>, < state >,3,+, < mức tích cực> <br>
-        <b>DO</b>,  < state >, < mức tích cực >  <br>
+        <td>
+        <b>led</b>, < state> , < trạng thái 4 led chỉ thị, tính từ trái qua phải: “Lái xe” – “Bộ nhớ” – “Mạng di động” – “GPS”> <br>
+        <b>gps</b>, < state>, < 0-Không tốt, 1-Tốt> ,  <số vệ tinh> <br>
+        <b>cell</b>, < state>,1,1,1,1,1, < độ mạnh sóng>, < trạng thái kết nối sv/trạng thái đăng nhập server: 0-không tốt, 1-Tốt> <br>
+        <b>buz</b>, < state>, < 0/1: không bip/đang phát kêu bip> <br>
+        <b>rfid</b>, < state>, < ID thẻ> <br>
+        <b>Acce</b>, < state> , < trục x>, < trục y>, < trục z>, < trục xyz> <br> 
+        <b>rs0</b>, < state>, < sensor id>, < state>, < giá trị số đọc từ cảm biến> <br>
+        <b>rs1</b>, < state> , < sensor id>, < state>, <giá trị số đọc từ cảm biến> <br>
+        <b>acc</b>, < state>, < mức tích cực> <br>
+        <b>eng </b>, < state>, < mức tích cực> <br>
+        <b>AIR</b>, < state>, 1,+, < mức tích cực> <br>
+        <b>SOS</b>, < state>,3,+, < mức tích cực> <br>
+        <b>DO</b>,  < state>, < mức tích cực>  <br>
         <i>state </i>: <br>
         &emsp;&emsp;&emsp;&emsp;-	7: bị tắt/Không sử dụng <br>
         &emsp;&emsp;&emsp;&emsp;-	6: bị reset <br>
@@ -631,9 +631,9 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
         <i>Trạng thái led </i> : 0-Tắt, 1-Sáng không chớp, 2-Lóe sáng nhanh (Chớp nhanh), 3-Lóe sáng lâu (chớp chậm).
         </td>
     </tr> 
-    <tr >
+    <tr>
         <td>Ví dụ</td>
-        <td >view,comm, <br>
+        <td>view,comm, <br>
           <b>led</b>, ,0,0133<br>
             <b>gps</b>,0,1,5 <br>
             <b>cell</b>, 0,1,1,1,1,1,20,1/1 <br>
@@ -655,13 +655,13 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 
 
 <table>
-    <tr >
+    <tr>
         <td>Lệnh</td>
-        <td ><b>View,network#</b></td>
+        <td><b>View,network#</b></td>
     </tr> 
-    <tr >
+    <tr>
         <td>Ví dụ</td>
-        <td >view,network, <br>
+        <td>view,network, <br>
             <b>reg</b>,1,1,1,1,1 <br>
             <b> cid</b>,89840480000616669331 <br>
             <b>nw</b>, 0,0,"Mobifone",20 <br>
@@ -675,13 +675,13 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 #### 2.5. Kiểm tra trạng thái kết nối máy chủ 
 
 <table>
-    <tr >
+    <tr>
         <td>Lệnh</td>
-        <td ><b>View,serverconn#</b></td>
+        <td><b>View,serverconn#</b></td>
     </tr> 
-    <tr >
+    <tr>
         <td>Ví dụ</td>
-        <td > 
+        <td> 
             View, serverconn,10.82.117.62[0] <br>
             0.asia.pool.ntp.org:123,0,105311,LOST <br>
             27.72.57.208:5555,1,104609,LOST <br>
@@ -696,15 +696,15 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 #### 2.6. Kiểm tra lưu lượng tiêu thụ
 
 <table>
-    <tr >
+    <tr>
         <td>Lệnh</td>
-        <td ><b>View, idatameter# </b><br>
+        <td><b>View, idatameter# </b><br>
         (Lưu lượng được tính từ 00h)
         </td>
     </tr> 
-    <tr >
+    <tr>
         <td>Ví dụ</td>
-        <td > 
+        <td> 
             view,idatameter, <br>
             <b>Send/Rev </b>: 30.98/0.64KB <br>
             0:112412,112418,48B,0P,112417,48B,7P <br>
@@ -724,26 +724,26 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 #### 2.7. Kiểm tra thông tin bộ nhớ và lưu trữ 
 
 <table>
-    <tr >
+    <tr>
         <td>Lệnh</td>
-        <td ><b>View, diskinfo# </b></td>
+        <td><b>View, diskinfo# </b></td>
     </tr> 
-    <tr >
+    <tr>
         <td>Nội dung phản hồi</td>
-        <td >view,diskinfo, <br>
-        <b>disk</b>, < 0: tốt >, < dung lượng KB còn trống/tổng > <br>
-        <b>dat</b>, < tên file dữ liệu >, < dung lượng KB >, < 1: đã bật chế độ log > <br>
-        <b>bak</b>, < thông tin truyền log: số byte đã truyền/tổn số >, < dung lượng Byte của file  > <br>
-        <b> > TCP-Stream</b>
-         < Số bản tin của FIFO >, < dung lượng BYTE và địa chỉ của FIFO > <br>
+        <td>view,diskinfo, <br>
+        <b>disk</b>, < 0: tốt>, < dung lượng KB còn trống/tổng> <br>
+        <b>dat</b>, < tên file dữ liệu>, < dung lượng KB>, < 1: đã bật chế độ log> <br>
+        <b>bak</b>, < thông tin truyền log: số byte đã truyền/tổn số>, < dung lượng Byte của file> <br>
+        <b>> TCP-Stream</b>
+         < Số bản tin của FIFO>, < dung lượng BYTE và địa chỉ của FIFO> <br>
         Q_NO_PROTEC <br>
-        < số bản tin đã truyền/tổng số bản tin trong FIFO>:<số BYTE còn lại của FIFO >
+        < số bản tin đã truyền/tổng số bản tin trong FIFO>:<số BYTE còn lại của FIFO>
         @OK#
     </td>
     </tr> 
-    <tr >
+    <tr>
         <td>Ví dụ</td>
-        <td >view,diskinfo, <b>disk </b>,0,2800.0/7640.0
+        <td>view,diskinfo, <b>disk </b>,0,2800.0/7640.0
             <b>dat </b>,201204.TXT,95065,0x1
             <b>bak</b>,0/0,0 <br>
             <b>>TCP-Stream</b>
@@ -752,9 +752,9 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
             0/0:4096
             @OK#
     </td>
-    <tr >
-        <td colspan="2" > 
-            * Log (hay còn gọi là dữ liệu lịch sử) bị đọng sẽ thể hiện ở bak và < số bản tin đã truyền/tổng số bản tin trong FIFO >. Thực hiện kiểm tra khi không thấy thiết bị cập nhật dữ liệu mới <br>
+    <tr>
+        <td colspan="2"> 
+            * Log (hay còn gọi là dữ liệu lịch sử) bị đọng sẽ thể hiện ở bak và < số bản tin đã truyền/tổng số bản tin trong FIFO>. Thực hiện kiểm tra khi không thấy thiết bị cập nhật dữ liệu mới <br>
             *  Xóa log để cập nhật ngay dữ liệu mới xử dụng lệnh <b> fsmclean,log# </b>
         </td>
     </tr> 
@@ -763,13 +763,13 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 #### 2.8. Kiểm tra trạng thái nguồn điện của xe 
 
 <table>
-    <tr >
+    <tr>
         <td>Lệnh</td>
-        <td ><b>View, powerinfo#</b></td>
+        <td><b>View, powerinfo#</b></td>
     </tr> 
-    <tr >
+    <tr>
         <td>Ví dụ</td>
-        <td > 
+        <td> 
             view,powerinfo, <b>Main </b>,12.18,1(12.40-36.00) <br>
              <b>Bak </b>,0.00,0%,1(3.20-4.20) <br>
              <b>SW </b>,0/1,505000/10,180000/3 <br>
@@ -781,34 +781,37 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 #### 2.9. Lấy vị trí của xe hiện tại
 
 <table>
-    <tr >
+    <tr>
         <td>Lệnh</td>
-        <td ><b>View,map#</b></td>
+        <td><b>View,map#</b></td>
     </tr> 
-    <tr >
+    <tr>
         <td>Ví dụ</td>
-        <td > 
+        <td> 
             View,map,http://maps.google.com/maps?q=N%2020%2059.618626%20E%20105%2047.236412 <br>
             @OK#     
         </td>
     </tr> 
 </table>
 
+<div id="unlock">
+</div>
+
 #### 2.10.	Trạng thái bảo vệ cấu hình
 
 <table>
-    <tr >
+    <tr>
         <td>Lệnh</td>
-        <td colspan="2" ><b>lockerstat#</b></td>
+        <td colspan="2"><b>lockerstat#</b></td>
     </tr> 
-    <tr >
+    <tr>
         <td rowspan="2">Ví dụ</td>
-        <td >lockerstat,0@OK# </td>
-        <td >Cấu hình chưa được bảo vệ</td>
+        <td>lockerstat,0@OK# </td>
+        <td>Cấu hình chưa được bảo vệ</td>
     </tr> 
-    <tr >
+    <tr>
         <td>lockerstat,1@OK#</td>
-        <td >Cấu hình đã được bảo vệ (thiết bị đã bị khóa)</td>
+        <td>Cấu hình đã được bảo vệ (thiết bị đã bị khóa)</td>
     </tr> 
 </table>
 
@@ -824,10 +827,10 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 
 #### 3.3. Truyền bản tin tức thì
 
-* Pack, < packet-name: location/status/sensor/heartbeat >#
+* Pack, < packet-name: location/status/sensor/heartbeat>#
 * VD: Pack,location#
 
 #### 3.4. Lấy số điện thoại trên thiết bị
 
-* Cellularsms, < sdt nhận sms từ thiết bị >, < nội dung sms mà thiết bị sẽ gửi >#
+* Cellularsms, < sdt nhận sms từ thiết bị>, < nội dung sms mà thiết bị sẽ gửi>#
 Cellularsms, 0986026929, xin chao#

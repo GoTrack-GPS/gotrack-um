@@ -67,7 +67,7 @@ After filling out all information, click **Add** to complete the operation
 #### Option 1
 
 * Step 1 : Click on **Edit** for that account. 
-* Bước 2 : A dialog box will appear as shown below. Click **Save changes** to save.
+* Step 2 : A dialog box will appear as shown below. Click **Save changes** to save.
 
     <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/users/edit-user.png)
 
@@ -112,11 +112,11 @@ Click **Save changes** to complete the operation.
 
 ### 5. Delete account
 
-* Bước 1 :  Click on :point_right:   <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) that account. Select **Delete**
+* Step 1 :  Click on :point_right:   <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) that account. Select **Delete**
 
     <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/users/delete-acount.png)
 
-* Bước 2 : A dialog box appears as shown below.
+* Step 2 : A dialog box appears as shown below.
 
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/users/delete-acount-1.png)
 
