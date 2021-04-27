@@ -70,6 +70,7 @@
                - **SM400**
                   - [Technical document](modules/integrated-devices/smc/sm400/technical-document/)
                   - [Operation and settings](modules/integrated-devices/smc/sm400/operation-settings/) 
+                  - [Wriring diagram](modules/integrated-devices/smc/sm400/wriring-diagram/) 
                 
      - **Contact**  
           - [**Email**](vi/modules/web-interface/contact/)

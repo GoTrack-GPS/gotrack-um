@@ -64,7 +64,8 @@
       - [Lệnh SMS](vi/modules/integrated-devices/smc/s400/sms-command/)
     - **SM400**
       - [Tài liệu kỹ thuật](vi/modules/integrated-devices/smc/sm400/technical-document/)
-      - [Hoạt động và cài đặt](vi/modules/integrated-devices/smc/sm400/operation-settings/) 
+      - [Hoạt động và cài đặt](vi/modules/integrated-devices/smc/sm400/operation-settings/)
+      - [Sơ đồ đấu dây ](vi/modules/integrated-devices/smc/sm400/wriring-diagram/) 
  
   **Liên hệ**  
     - [**Email**](vi/modules/web-interface/contact/)

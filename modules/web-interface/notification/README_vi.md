@@ -33,6 +33,8 @@ Màn hình sẽ hiển thị chi tiết của thông báo và vị trí gặp c�
 
     <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/info-1.jpg)
 
+<div id="notification"> 
+</div>
 ### Cài đặt thông báo 
 
 <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/setting.jpg)

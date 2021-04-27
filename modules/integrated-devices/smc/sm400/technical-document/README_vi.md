@@ -34,7 +34,7 @@
 
 ### 2. Giới thiệu
 
-#### 2.1. Mô tả Sản phẩm
+#### 2.1. Mô tả sản phẩm
 
 * Dòng sản phẩm SM400 là một thiết bị hiệu quả về chi phí và có thể mở rộng được phát triển đặc biệt để giám sát video và giám sát từ xa trên xe.
 
@@ -42,7 +42,7 @@
 
 * Các sản phẩm dòng SM400 có thể nhận ra 4 kênh ghi hình full-frame 720P, có thể chọn 4 định dạng ghi CIF / HD1 / D1 / 720P, ghi cục bộ và tải lên dữ liệu không dây, ghi thông tin lái xe ô tô và phần mềm trung tâm có thể nhận ra giám sát trung tâm và điều khiển từ xa quản lý liên kết cảnh báo Và phân tích phát lại, cam kết theo hướng kết nối mạng xe hơi.
 
-#### 2.2. Tính năng sản phẩm
+#### 2.2. Thông số kỹ thuật
 
 <p align="center">
   <b>Thông số kỹ thuật</b>
@@ -266,7 +266,7 @@
     </tr>
 </table>
 
-#### 3.2 Sơ đồ máy chủ
+#### 3.2 Hình ảnh sản phẩm 
 
 <span class="icon-left12">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/sd-card.png) 
 ```
@@ -276,7 +276,8 @@
 ```
     Hình 2. Đầu ghi video HDD
 ```
-#### 3.3 3.3 Kích thước máy và gắn vị trí lỗ (đơn vị: mm)
+
+#### 3.3 Kích thước máy và gắn vị trí lỗ (đơn vị: mm)
 
 <span class="icon-left16">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/size.png)
 
