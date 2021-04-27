@@ -1,17 +1,17 @@
 
-# 2. Wiring diagram
+#  Wiring diagram
 
-### 2.1. Wiring diagram of SD video recorder
+### 1. Wiring diagram of SD video recorder
 
 &emsp;<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/diagram-sd.png)
 
-### 2.2.	Wiring diagram of HDD video recorder
+### 2.	Wiring diagram of HDD video recorder
 
 &emsp;<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/diagram-hdd.png)
 
-### 2.3. Quick setting
+### 3. Quick setting
 
-#### 2.3.1. Wiring test and boot
+#### 3.1. Wiring test and boot
 
 * The power supply of the host has three wires, red, black and yellow. The red and black wires are directly connected to the car battery, the red wire is connected to the positive electrode, the black wire is connected to the negative electrode, and the yellow wire is connected to the ignition wire (ACC). If you test indoors, the red and yellow wires can be connected together. Positive pole, then directly use DC12V power supply.
   
@@ -23,7 +23,7 @@
 
 &emsp;<span class="icon-left12">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/car-battery.png)
 
-#### 2.3.2. Vehicles quickly report to the server
+#### 3.2. Vehicles quickly report to the server
 
 > Note: For hosts without WIFI and 3G module functions, the following descriptions are  invalid and do not need to be reported to the platform. 
 * Step 1: Install the SIM card, select the SIM card according to the corresponding module.
@@ -32,7 +32,7 @@
 
 &emsp;<span class="icon-left09">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/terminal-sv-.png)
 
-#### 2.3.3. IO serial port use 
+#### 3.3. IO serial port use 
 
 * The device has 4 alarm inputs and 2 alarm output interfaces. The alarm input detection is all level detection, which can be connected to various vehicle driving states, such as brake, steering, vehicle switch, and alarm button, as shown in Figure 4-2. 
 
@@ -42,10 +42,7 @@
   
     &emsp;<span class="icon-left09">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/24V.png)
 
-
-
-
-#### 2.3.4.  PTZ connection and settings
+#### 3.4.  PTZ connection and settings
 
 * Setting steps:
   
