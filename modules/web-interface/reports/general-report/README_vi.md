@@ -34,7 +34,7 @@ Nếu người dùng muốn xem **Báo cáo nhiệt độ** :
 ### 1.2. Báo cáo Tổng hợp ( thiết bị )
 
  Nếu người dùng muốn xem báo cáo **Tổng hợp ( Thiết bị )** :  
- 
+
 * Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Báo cáo > Tổng hợp ( thiết bị )**.
 
 * Hiện ra màn hình **Báo cáo Tổng hợp ( thiết bị )** như hình dưới đây :
