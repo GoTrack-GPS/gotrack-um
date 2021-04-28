@@ -4,7 +4,7 @@
 
 * Step 2: To track the vehicle moving online: Click on the information box floating right on the vehicle's icon.
 
-    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-english/gotrack365-el/detail-tracking.jpg) 
+    <span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/detail-tracking.jpg) 
 
     The detailed monitoring screen is almost identical to the general monitor screen. The buttons in the extended feature are always fixed.
 

@@ -45,7 +45,7 @@
 * If the knob is broken / want to lock the car remotely. If you want to automatically lock, you go to the app and do the following:
 
     * Step 1: Go to **Settings > Command List**.
-    * 
+
     * Step 2: Click on 1 of the following commands:
 
         * CLick **Lock after some time** to customize the autolock period. **Enter the number of seconds you want to automatically lock**. Click **Submit**.

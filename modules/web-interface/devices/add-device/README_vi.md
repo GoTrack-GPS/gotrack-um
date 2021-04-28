@@ -1,6 +1,6 @@
 # Thêm thiết bị
 
-Để bắt đầu **Thêm** và cấu hình thiết bị, trong thanh điều hướng ở trên cùng người dùng chọn **Quản lý > Thiết bị**  
+Để bắt đầu **Thêm** và cấu hình thiết bị, người dùng chọn **Quản lý > Thiết bị**  
 
 <span class="icon-left4">![Manage device ](/docs/assets/images/web-interface/device/manage-device-1.png)
 
@@ -19,7 +19,8 @@ Khi click vào  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/image
   - **Loại card**: Chọn gói gia hạn dịch vụ dùng thiết bị. Có 2 loại là card mới và card trọn đời.
   - **Múi giờ**: Chọn cấu hình múi giờ địa phương. 
   - **Mô tả**: Nhập thông số kỹ thuật tính năng chính của thiết bị,...
-   Sau khi điền hết các thông tin thì click vào **Gửi** để hoàn thành thao tác.
+  
+Sau khi điền hết các thông tin thì click vào **Gửi** để hoàn thành thao tác.
 
 
 

@@ -13,7 +13,7 @@ Go to **Manage > Configuration > Geofence**. Display **Manage geofence** screen 
 
 <span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/add-geofence-1.png)
 
-* Step 1 : Choose "**<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)Create new geofence**" tab.
+* Step 1 : Choose "**<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)  Create new geofence**" tab.
 * Step 2 : The Add geofence dialog box appears as shown above:
 
     * **Name** : Enter a warning geofence name

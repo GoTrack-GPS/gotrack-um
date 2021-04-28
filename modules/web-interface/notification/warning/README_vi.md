@@ -31,7 +31,7 @@ Khi vi phạm quy tắc cảnh báo sẽ nổ ra cảnh báo cho người dùng.
 * ***Cơ bản*** 
     * **Tên cảnh báo** : Nhập tên cảnh báo.
     * **Mô tả** : cảnh báo này cụ thể như nào,...
-    * *Kích hoạt* : Bật tắt cảnh báo.
+    * **Kích hoạt** : Bật tắt cảnh báo.
 * ***Loại cảnh báo*** 
     * **Loại cảnh báo** : Chọn loại cảnh báo mà bạn cần gửi cảnh báo về.
     * Cài đặt thông số cho mỗi cảnh báo tương ứng.

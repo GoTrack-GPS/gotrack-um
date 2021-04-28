@@ -11,7 +11,7 @@ Khi click vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/imag
 
 <span style="display:block;text-align:left">![search device ](/docs/assets/images/web-interface/device/edit-device-basic-1.png)
 
-### 1. Cơ bản 
+### Cơ bản 
 
 - ***Thông tin thiết bị*** 
     - **IMEI**: Mã số nhận dạng của thiết bị. (Không cho phép sửa).
@@ -49,11 +49,10 @@ Khi click vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/imag
     - **Ngày bán** : Cài đặt ngày bán thiết bị sang tài khoản khác (nếu có).
     - Ngày cập nhật : Hệ thống tự động cập nhật ngày bán thiết bị khi có thay đổi .
 
-
 <div id="advanced">
 </div>
 
-### 2. Nâng cao 
+### Nâng cao 
   
 <span class="icon-left9">![search device ](/docs/assets/images/web-interface/device/advanced-device.png)  
 
@@ -83,7 +82,7 @@ Khi click vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/imag
     Ngoài ra, có thể thêm người lái xe bằng cách như hình dưới đây :
     <span style="display:block;text-align:left">![search device ](/docs/assets/images/web-interface/device/add-a-driver-2.png)
 
-     Tham khảo thêm chi tiết [tại đây](vi/modules/web-interface/configuration/driver/#driver) 
+     Tham khảo thêm chi tiết [tại đây](vi/modules/web-interface/configuration/driver/#driver) <div id="driver">
 
 - ***Nhiên liệu*** 
     - **Định mức tiêu hao (lít/100km)** : Đặt giới hạn tiêu hao nhiên liệu của xe cho bao nhiêu lít/100km.
@@ -97,13 +96,10 @@ Khi click vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/imag
     - **Sở Giao thông vận tải** : Chọn tỉnh để gửi dữ liệu. (Chỉ chọn đượkhi bật chế độ gửi dữ liệu).
     - **Loại hình vận tải QVCN** : Chọn 1 trong các loại hình đó, đúng với xe / phương tiện mà bạn lắp thiết bị. (Chỉ chọn được khi bật chế độ gửi dữ liệu).
 
-<div id="cambien">
+<div id="sensor">
 </div>
 
-
-
-### 3. Cảm biến 
-
+### Cảm biến 
 
 <span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/Sensor-device.png)
  
@@ -133,7 +129,8 @@ Khi click vào  <span class="icon-left svg-filter-info">![Ok](/docs/assets/image
 Click **Thêm** để lưu cảm biến. 
 
 
-### 4. Camera 
+
+### Camera 
 
 * **Đối với loại camera : Basic**
     <span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/add-camera-device-1.png)
@@ -143,6 +140,7 @@ Click **Thêm** để lưu cảm biến.
         - **Loại camera** : Basic ( thường )  chỉ chụp ảnh.
         - **Camera Id** : Nhập mã  của camera.
         - **Mô tả** : Có thể nhập thêm thông tin về camera,...
+
 
 * **Đối với loại camera : MDVR**
 
@@ -162,7 +160,8 @@ Click **Thêm** để lưu cảm biến.
 
 > Bên nhân viên kỹ thuật sẽ cấu hình địa chỉ  MDVR Id, host, cổng cho thiết bị.
 
-### 5. Mở rộng
+### Mở rộng
+
 <span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/expand-device.png)
 
 - ***Cấu hình*** 
@@ -175,7 +174,7 @@ Click **Thêm** để lưu cảm biến.
 
     <span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/device-configuration.png)
 
-### 6. Cảnh báo
+### Cảnh báo
 
 
 <span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/warning-device.png)

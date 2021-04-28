@@ -11,7 +11,7 @@
 
     - Bước 1: Tick vào thiết bị cần chuyển/bán.
     - Bước 2: Chọn **Chuyển/Bán**.
-    - Bước 3: Một hộp thoại xuất hiện. Chọn tài khoản để chuyển/bán thiết bị sang đó. **IMEI** là mã số của thiết bị đó.
+    - Bước 3: Một hộp thoại xuất hiện. Chọn **tài khoản** để chuyển/bán thiết bị sang đó. **IMEI** là mã số của thiết bị đó.
     - Bước 4: Click vào **Gửi** để chuyển/bán thiết bị.
 * **Cách 2**
 
@@ -40,7 +40,7 @@
         Cài đặt trạng thái là **kích hoạt** / **vô hiệu hóa**. 
         **IMEI** là mã số của thiết bị đó.
 
-    Click vào **Gửi** để kích hoạt / vô hiệu hóa. thiết bị.
+    Click vào **Gửi** để kích hoạt / vô hiệu hóa thiết bị.
 
 ### 3. Cài đặt trạng thái thiết bị
 
@@ -76,8 +76,8 @@
 
 - Bước 1: Tick vào thiết bị cần gia hạn.
 - Bước 2: Chọn **Gia hạn**.
-- Bước 3: Một hộp thoại xuất hiện. Chọn loại card/gói gia hạn sử dụng dịch vụ gồm 2 loại là card năm và card trọn đời. **IMEI** là mã số của thiết bị đó.
- Nhập **mô tả** bất kì, có thể là mục đích, mong muốn,...khi sử dụng dịch vụ.
+- Bước 3: Một hộp thoại xuất hiện. Chọn **loại card/gói gia hạn** sử dụng dịch vụ gồm 2 loại là card năm và card trọn đời. **IMEI** là mã số của thiết bị đó.
+ Nhập **mô tả** bất kì, có thể là mục đích, mong muốn,... khi sử dụng dịch vụ.
 - Bước 4: Click vào **Gửi** để gia hạn thiết bị.
 
 ### 6. Xuất dữ liệu

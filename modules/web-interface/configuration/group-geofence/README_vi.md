@@ -18,7 +18,7 @@
     * **Tên** : Đặt tên nhóm vùng.
     * **Vùng địa lý** : Chọn các vùng gần nhau để gộp nhóm.
 
-    Nhấn **Thêm** để hoàn thành thao tác.
+ Nhấn **Thêm** để hoàn thành thao tác.
     
 
 ### Sửa nhóm vùng địa lý

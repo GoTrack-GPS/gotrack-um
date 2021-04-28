@@ -5,8 +5,8 @@
 ### Cài đặt bản đồ 
 <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/setting-map.png)
 
-- Bước 1 : Vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg).
-- Bước 2 : Hộp thoại xuất hiện. Cài dặt, bật / tắt thông tin theo ý muốn.
+- Bước 1 : Vào <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg).
+- Bước 2 : Hộp thoại xuất hiện. Cài đặt, bật / tắt thông tin theo ý muốn.
     - **Loại bản đồ** : Chọn giao diện bản đồ sao cho dễ nhìn.
     - **Hiển thị cụm** : Nếu một khu nào đó có nhiều thiết bị ở cạnh nhau thì sẽ gộp lại thành 1 cụm hình vòng tròn.
     - **Tâm bản đồ** : Xác định vị trí tâm của bản đồ.

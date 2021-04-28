@@ -1,7 +1,9 @@
-# Quản lý gửi lệnh
+
 
 <div id="command">
 </div>
+
+# Quản lý gửi lệnh
 
 Để xem danh sách gửi lệnh, bạn click vào **Quản lý > Gửi lệnh**. Màn hình hiển thị như hình dưới đây :
 
@@ -19,15 +21,15 @@
 
 <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/device/send-the-device-command-2.jpg)
 
-- Bước 1 : Vào **Tạo gửi lệnh** 
+- Bước 1 : Vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **Tạo gửi lệnh** 
 
 - Bước 2 : Một hộp thoại xuất hiện. 
 
-    Nhập **IMEI**, chọn  **Loại thiết bị** đã tạo. 
+    * Nhập **IMEI**, chọn  **Loại thiết bị** đã tạo. 
 
-    Chọn **loại lệnh** cần yêu cầu thực hiện.
+    * Chọn **loại lệnh** cần yêu cầu thực hiện.
 
-    Click vào **Gửi** để gửi lệnh thiết bị.
+ Click vào **Gửi** để gửi lệnh thiết bị.
 
 ### Chi tiết gửi lệnh
  Để xem cụ thể chi tiết gửi lệnh, bạn click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-info.svg) **Chi tiết** .

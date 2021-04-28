@@ -60,4 +60,4 @@
 
 Người dùng có thể tham khảo cách tắt máy / mở máy khác [tại đây](/modules/app-gotrack365/detailed-monitoring/#other) <div id="other"> 
 
-Hoặc có thể xem **video hướng dẫn**  <a href="https://bitly.com.vn/l259ox" target="_blank">tại đây</a>
+<!-- Hoặc có thể xem **video hướng dẫn**  <a href="https://bitly.com.vn/l259ox" target="_blank">tại đây</a> -->

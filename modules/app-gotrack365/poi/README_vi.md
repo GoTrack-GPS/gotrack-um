@@ -1,6 +1,7 @@
 # Điểm đánh dấu
 
 Tạo điểm đánh dấu trên bản đồ để tiện trên việc giám sát xe xem xe của mình đang gần điểm nào hơn.
+
 <div id="poi"> 
 </div>
 

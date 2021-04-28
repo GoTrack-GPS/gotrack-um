@@ -23,11 +23,11 @@ To view the order sending list, click on **Manage > Send command**. The screen d
  
 * Step 2: A dialog box appears.
 
-    Enter the **IMEI**, select the **Device Type** created.
+   * Enter the **IMEI**, select the **Device Type** created.
 
-    Select **Command type** to be executed.
+   * Select **Command type** to be executed.
 
-    Click **Submit** to send the device command.
+ Click **Submit** to send the device command.
 
 ###  Details send command
 

@@ -13,7 +13,7 @@ To start performing the **Search** function, users go to **Manage > Devices**
 
 **1.** Click on the account to see.
 
-**2.** Click once <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-right.svg) on the top right corner of the system to expand the utility. (Click again <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-down.svg) to collapse utility). Will display all information related to the account.
+**2.** Click once <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-right.svg) on the top right corner of the system to expand the utility. (Click again <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-down.svg) to collapse utility). Will display all information related to the device.
 <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg) Search: You can search by the following criteria:
 
 
@@ -30,7 +30,7 @@ To start performing the **Search** function, users go to **Manage > Devices**
 
     * Can be searched by:
         * **Device Type / SIM Number / SIM Type**: Device Type / Phone Number / Sim type registered when adding a device before.
-        * **Activation time / Start time / End time**: Device activation time, warranty time
+        * **Activation time / Start time / End time**: Device activation time, service expiry date.
         * **Service term / Status  active / Status**: Service usage time / Activation status / Device status
 
 * Select **Search** will display the information to search.

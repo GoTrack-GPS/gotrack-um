@@ -14,7 +14,7 @@ To move/sell a device to another account, there are 2 options :
 
     * Step 1: Tick the device to move/sell.
     * Step 2: Choose **Move/Sell.**
-    * Step 3: A dialog box appears. Select the account to move/sell the device to. The **IMEI** is the number of that device.
+    * Step 3: A dialog box appears. Select the **account** to move/sell the device to. The **IMEI** is the number of that device.
     Click **Submit** to move/sell the device.
  
 * **Option 2** :
@@ -86,7 +86,7 @@ To renew the device, do the following:
 
 * Step 2: Select **Renewal**.
 
-* Step 3: A dialog box appears. Choose a card/service renewal package with 2 types of five cards and lifetime cards. The **IMEI** is the number of that device. Enter any **description**, which can be the purpose, desire, ... when using the service.
+* Step 3: A dialog box appears. Choose a **card/service renewal package** with 2 types of five cards and lifetime cards. The **IMEI** is the number of that device. Enter any **description**, which can be the purpose, desire, ... when using the service.
 
 
  Click **Submit** to renew the device.

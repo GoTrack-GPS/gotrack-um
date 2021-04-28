@@ -2,11 +2,13 @@
 
 > Only vehicles fitted with temperature sensors have data.
 
-### Temperature report
+### 1.1. Temperature report
 
 If the user wants to see **Temperature Report**:
 
-Go to **Reports > Reports > Temperature**. The screen **Report temperature** is shown below:
+* Go to **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg ) Reports > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Reports > Temperature**.
+   
+* The screen **Report temperature** is shown below:
 
 <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/temperature.png)
 
@@ -27,11 +29,13 @@ Go to **Reports > Reports > Temperature**. The screen **Report temperature** is 
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/export-report-temperature.png)
 
-### Reports summary (device)
+### 1.2. Reports summary (device)
 
 If the user wants the vehicle to report **the General (Device)**:
 
-* Go to **Reports > Reports > Summary (device)**. The **Summary Report (device)** screen  appears as shown below:
+* Go to **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg ) Reports > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Reports  > Summary (device)**. 
+  
+* The **Summary Report (device)** screen  appears as shown below:
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/summary.png)
 
@@ -53,11 +57,13 @@ If the user wants the vehicle to report **the General (Device)**:
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/export-summary.png)
 
-### Exports summary by days
+### 1.3. Exports summary by days
 
 If the user wants the vehicle to report **Exports summary by days**:
 
-* Go to **Reports > Reports > Exports summary by days**. The **Exports summary by days** screen  appears as shown below:
+* Go to **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg ) Reports > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Reports  > Exports summary by days**. 
+
+* The **Exports summary by days** screen  appears as shown below:
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/summary-by-day.png)
 
@@ -77,11 +83,13 @@ If the user wants the vehicle to report **Exports summary by days**:
 * When searching for results, click <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg), <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) to export the report in Excel, PDF format.
 
 
-### Report summary geofence
+### 1.4. Report summary geofence
 
 If the user wants the vehicle to report **Report summary geofence**:
 
-* **Option 1** : Go to **Reports > Reports > Report summary geofence**. The **Report summary geofence** screen  appears as shown below:
+* **Option 1** : Go to **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg ) Reports > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Reports  > Report summary geofence**. 
+
+* The **Report summary geofence** screen  appears as shown below:
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/summary-geofence.png)
 
@@ -99,6 +107,7 @@ DETAIL GEOFENCE**
     * **All device**: Click to select 1 or more devices that want to see the report.
     * **All geofence**: Click to select 1 or more geofence to see the report.
     * Stop time (minutes): Enter the stop time in that geofence.
+  
 * Step 2: Click **Search**.
  If pressing **Reset** will return to the original default.
 
@@ -108,11 +117,13 @@ DETAIL GEOFENCE**
 
 * When searching for results, click <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg), <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) to export the report in Excel, PDF format.
 
-###  Detail geofence
+###  1.5. Detail geofence
 
 If the user wants the vehicle to report **Report detail geofence**:
 
-* **Option 1** : Go to **Reports > Reports > Report detail geofence**. The **Report detail geofence** screen  appears as shown below:
+* **Option 1** : Go to **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg ) Reports > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Reports  > Report detail geofence**. 
+
+* The **Report detail geofence** screen  appears as shown below:
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/detail-geofence.png)
 
@@ -141,11 +152,13 @@ SUMMARY GEOFENCE**
 
 * When searching for results, click <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg), <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) to export the report in Excel, PDF format.
 
-### Data log
+### 1.6. Data log
 
 If the user wants the vehicle to report **Report Data log**:
 
-*  Go to **Reports > Reports > Route**. The **Report Data log** screen  appears as shown below:
+*  Go to **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg ) Reports > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Reports  > Route**. 
+
+*  The **Report Data log** screen  appears as shown below:
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/data-log.png)
 
@@ -166,11 +179,13 @@ If the user wants the vehicle to report **Report Data log**:
 
 * When searching for results, click <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) to export the report in Excel format.
 
-### Route
+### 1.7. Route
 
 If the user wants the vehicle to report **Report Route**:
 
-*  Go to **Reports > Reports > Route**. The **Report Route** screen  appears as shown below:
+*  Go to **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg ) Reports > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Reports  > Route**. 
+
+*  The **Report Route** screen  appears as shown below:
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/route.png)
 

@@ -45,7 +45,7 @@ Khi click vào  <span class="icon-left svg-filter-info">![Ok](/docs/assets/image
      - **Loại người dùng**: Chọn loại người dùng tương ứng với vai trò sử dụng tài khoản. Có 2 loại là đại lý và người dùng.
      - **Mật khẩu**: Nhập mật khẩu viết liền và không dấu để đăng nhập vào hệ thống.
      - **Xác nhận mật khẩu**: Nhập lại chính xác mật khẩu bạn vừa nhập.
-     - Mô tả: Có thể ghi thêm thông tin cá nhân của bạn hoặc mục đích bạn sử dụng hệ thống.
+     - **Mô tả**: Có thể ghi thêm thông tin cá nhân của bạn hoặc mục đích bạn sử dụng hệ thống.
      - **Địa chỉ**: Địa chỉ hiện tại của bạn.
  - **Thông số**
      - **Múi giờ**: Chọn múi giờ địa phương.
@@ -67,12 +67,16 @@ Sau khi điền hết các thông tin thì click vào **Thêm** để hoàn thà
 
     <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/users/edit-account-5.png)
 
-    - Bước 1: Click vào tài khoản cần sửa. 
-    - Bước 2: Click 1 lần vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-right.svg) ở góc bên phải trên cùng của hệ thống để mở rộng tiện ích. (Click 1 lần nữa vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-down.svg) để thu gọn tiện ích). Sẽ hiển thị hết các thông tin liên quan đến tài khoản.
-    - Bước 3: Click vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-edit.svg) để sửa tài khoản.
+    **1.** Click vào tài khoản cần sửa.
+
+    **2.** Click 1 lần vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-right.svg) ở góc bên phải trên cùng của hệ thống để mở rộng tiện ích. (Click 1 lần nữa vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-down.svg) để thu gọn tiện ích). Sẽ hiển thị hết các thông tin liên quan đến tài khoản.
+
+    **3.** Click vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-edit.svg) để sửa tài khoản.
     Sau khi sửa xong thông tin mà bạn cần sửa thì click vào **Lưu thay đổi** để hoàn thành thao tác.
-    - Vùng 4: Click vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-copy.svg) để sao chép tên tài khoản khi người dùng muốn tìm kiếm,...
-    - Vùng 5: Cài đặt cấu hình thông báo.
+
+    **4.** Click vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-copy.svg) để sao chép tên tài khoản khi người dùng muốn tìm kiếm,...
+    
+    **5.**  <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg)  Cài đặt cấu hình thông báo.
 
     Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](vi/modules/web-interface/notification/#notification) <div id="notification"> 
   

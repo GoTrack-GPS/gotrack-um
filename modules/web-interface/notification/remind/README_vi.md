@@ -1,7 +1,7 @@
 
 #  Nhắc nhở
 
-Đầu tiên, bạn nhấn vào **Quản lý > Cảnh báo - Lập lịch > Quy tắc cảnh báo**
+Đầu tiên, bạn nhấn vào **Quản lý > Cảnh báo - Lập lịch > Nhắc nhở**
 
 <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/remind.jpg) 
 

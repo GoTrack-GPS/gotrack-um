@@ -82,16 +82,18 @@ After filling out all information, click **Add** to complete the operation
     **2.** Click once <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-right.svg) on the top right corner of the system to expand the utility. (Click again <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-down.svg) to collapse utility). Will display all information related to the account.
 
     **3.** Click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-edit.svg) to edit the account> After editing the information you need to edit, click Save changes to complete the operation. 
-    **4.** Click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-copy.svg) to copy the account name when the user wants to search, ...
-    **5.** Setting up notification configuration.
 
-For more details, please refer [here](vi/modules/web-interface/notification/#notification) <div id="notification"> 
+    **4.** Click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-copy.svg) to copy the account name when the user wants to search, ...
+
+    **5.** <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) Setting up notification configuration.
+
+    For more details, please refer [here](vi/modules/web-interface/notification/#notification) <div id="notification"> 
 
 #### Option 3
 
-Click on <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-user.svg) in the bottom left corner of the system. Next click on **Edit**.
+* Click on <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-user.svg) in the bottom left corner of the system. Next click on **Edit**.
 
-<span class="icon-left4">![active device ](/docs/assets/images/web-english/users/edit-user-3.png)
+    <span class="icon-left4">![active device ](/docs/assets/images/web-english/users/edit-user-3.png)
 
 ### 4. Change password
 
@@ -101,14 +103,14 @@ Click on <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-i
 
 * Option 2 : Click on <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-user.svg) in the bottom left corner of the system. Next click on **Change password**.
 
-<span class="icon-left4">![active device ](/docs/assets/images/web-english/users/change-password.png)
+    <span class="icon-left4">![active device ](/docs/assets/images/web-english/users/change-password.png)
 
 
-A dialog box appears as shown below:
+* A dialog box appears as shown below:
 
-<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/users/reset-password-1.png)
+    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/users/reset-password-1.png)
 
-Click **Save changes** to complete the operation.
+    Click **Save changes** to complete the operation.
 
 ### 5. Delete account
 
@@ -118,13 +120,14 @@ Click **Save changes** to complete the operation.
 
 * Step 2 : A dialog box appears as shown below.
 
-<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/users/delete-acount-1.png)
+    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/users/delete-acount-1.png)
 
 * If:
     - Select **OK**: Will delete the account.
     - Select **Cancel**: Deletion will be canceled.
 
 ### 6. Export data
+
 * 2 types:
 
     * Export excel <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel.svg).
@@ -134,10 +137,11 @@ Click **Save changes** to complete the operation.
 
 ### 7. Activity logs
 
-To view the activity log, the user goes to <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-user.svg) > Activity Log. Display the list as shown below
+* To view the activity log, the user goes to <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-user.svg) **> Activity Log**. 
+  
+* Display the list as shown below
 
-
-<span class="icon-left4">![active device ](/docs/assets/images/web-english/users/activity-logs.png)
+    <span class="icon-left4">![active device ](/docs/assets/images/web-english/users/activity-logs.png)
 
 #### Search
 

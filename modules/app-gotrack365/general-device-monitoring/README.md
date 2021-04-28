@@ -27,12 +27,12 @@ Go to **Map** tab, the screen displays as shown below:
 * When the vehicle icon is displayed   <span class="icon-left svg-filter-circlexamtro">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) : Device not activated.
 
 ### 1. Traffic density
-* Click on the traffic light icon to turn on / off traffic density display.
+* Click on **the traffic light icon** <span class="icon-left">![Ok](/docs/assets/images/web-interface/app-gotrack365/traffic-light.png) to turn on / off traffic density display.
 * The darker the color, the more traffic density, the more.
 
 ### 2. Display mode on map
 
-Road / Satellite Map.
+Road / Satellite Map <span class="icon-left">![Ok](/docs/assets/images/web-interface/app-gotrack365/satellite-map.png).
 
 ### 3. Display name
 

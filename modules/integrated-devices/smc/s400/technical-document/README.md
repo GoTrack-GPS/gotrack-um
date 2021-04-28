@@ -21,9 +21,10 @@ With optimal design for easy installation, installation and maintenance with low
 
 <span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/el-s400-all.png)
 
+
 <center>Figure 1. General structural components of the device</center>
 
-<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/el-s400-nano.png)
+<span class="icon-left13">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/el-s400-nano.png)
 
 <center>Figure 2. Front side detail</center>
 

@@ -23,7 +23,7 @@
 
 <center>Figure 1. General structural components of the device</center>
 
-<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/el-s200-nano.png)
+<span class="icon-left13">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/el-s200-nano-1.png)
 
 <center>Figure 2. Front side detail</center>
 

@@ -7,7 +7,7 @@
 
   <span style="display:block;text-align:left">![search device ](/docs/assets/images/web-interface/device/edit-device-basic-2.png) 
   - Bước 1: Click vào tài khoản cần xem. 
-  - Bước 2: Click 1 lần vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-right.svg) ở góc bên phải trên cùng của hệ thống để mở rộng tiện ích. (Click 1 lần nữa vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-down.svg) để thu gọn tiện ích). Sẽ hiển thị hết các thông tin liên quan đến tài khoản.
+  - Bước 2: Click 1 lần vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-right.svg) ở góc bên phải trên cùng của hệ thống để mở rộng tiện ích. (Click 1 lần nữa vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-down.svg) để thu gọn tiện ích). Sẽ hiển thị hết các thông tin liên quan đến thiết bị.
 
 <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg)  Tìm kiếm: Có thể tìm kiếm theo các tiêu chí sau:  
 
@@ -24,7 +24,7 @@
 
     - Có thể tìm kiếm theo : 
         - **Loại thiết bị / Số sim / Loại sim**  : Loại thiết bị / Số điện thoại / Loại sim đã đăng ký khi thêm thiết bị trước đó. 
-        - **Thời gian kích hoạt / Thời gian bắt đầu / Thời gian kết thúc** : Thời gian kích hoạt thiết bị, thời gian bảo hảnh
+        - **Thời gian kích hoạt / Thời gian bắt đầu / Thời gian kết thúc** : Thời gian kích hoạt thiết bị, thời gian sử dụng dịch vụ.
         - **Hạn dịch vụ / Trạng thái kích hoạt / Trạng thái** : Thời gian sử dụng dịch vụ / Trạng thái kích hoạt / Trạng thái thiết bị
   - Chọn **Tìm kiếm** sẽ hiển thị ra thông tin cần tìm.
   - **Đặt lại**  : Sẽ xóa đi các ký tự bạn vừa nhập để tìm kiếm và hiển thị lại theo chế độ mặc định ban đầu.

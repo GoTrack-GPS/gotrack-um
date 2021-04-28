@@ -25,7 +25,7 @@
 
 <center>Hình 1. Tổng quát các thành phần cấu tạo thân thiết bị</center>
 
-<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/s400-canh-truoc.png)
+<span class="icon-left13">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/s400-canh-truoc.png)
 
 <center>Hình 2. Chi tiết mặt cạnh trước</center>
 

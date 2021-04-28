@@ -43,7 +43,7 @@
 <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/list-device-map-2.png)
 
 - Bước 1 : Chọn tài khoản muốn xem danh sách thiết bị.
-- Bước 2 : Sau khi hiển thị danh sách có thể chọn chi tiết từng thiết bị, xem lịch sử, lộ trình di chuyển, sửa thông tin, cấu hình danh sách thiết bị và thực hiện các thap tác khác
+- Bước 2 : Sau khi hiển thị danh sách có thể chọn chi tiết từng thiết bị, xem lịch sử, lộ trình di chuyển, sửa thông tin, cấu hình danh sách thiết bị và thực hiện các thao tác khác
 
 ### Bản đồ
 Giám sát trực tuyến: Vị trí, lộ trình, hướng di chuyển, trạng thái, tốc độ xe với thời gian thực (realtime).

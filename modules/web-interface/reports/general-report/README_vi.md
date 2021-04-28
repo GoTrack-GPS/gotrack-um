@@ -2,11 +2,13 @@
 # 1. Báo cáo chung
 > Chỉ có những xe lắp cảm biến nhiệt độ mới có dữ liệu.
 
-### Báo cáo nhiệt độ 
+### 1.1. Báo cáo nhiệt độ 
 
 Nếu người dùng muốn xem **Báo cáo nhiệt độ** :  
-* Vào **Báo cáo >  Báo cáo > Nhiệt độ**.
-Hiện ra màn hình **Báo cáo nhiệt độ** như hình dưới đây :
+
+* Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Báo cáo > Nhiệt độ**.
+  
+* Hiện ra màn hình **Báo cáo nhiệt độ** như hình dưới đây :
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/temperature.png)
 
@@ -19,6 +21,7 @@ Hiện ra màn hình **Báo cáo nhiệt độ** như hình dưới đây :
     * **Chọn tất cả** : Nhấn chọn nhiều thiết bị có lắp cảm biến nhiệt độ.
 
 * Bước 2 : Nhấn **Tìm kiếm** .
+  
     Nếu nhấn **Đặt lại** sẽ trở về mặc định ban đầu.
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/search-temperature.png)
@@ -28,11 +31,12 @@ Hiện ra màn hình **Báo cáo nhiệt độ** như hình dưới đây :
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/export-report.png)
 
-### Báo cáo Tổng hợp ( thiết bị )
+### 1.2. Báo cáo Tổng hợp ( thiết bị )
 
  Nếu người dùng muốn xem báo cáo **Tổng hợp ( Thiết bị )** :  
-* Vào **Báo cáo >  Báo cáo > Tổng hợp ( thiết bị )**.
-Hiện ra màn hình **Báo cáo Tổng hợp ( thiết bị )** như hình dưới đây :
+* Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Báo cáo > Tổng hợp ( thiết bị )**.
+
+* Hiện ra màn hình **Báo cáo Tổng hợp ( thiết bị )** như hình dưới đây :
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/general-equipment.png)
 
@@ -56,11 +60,12 @@ Hiện ra màn hình **Báo cáo Tổng hợp ( thiết bị )** như hình dư�
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/export-report-device.png) 
 
 
-### Báo cáo Tổng hợp theo ngày
+### 1.3. Báo cáo Tổng hợp theo ngày
 
 Nếu người dùng muốn xem báo cáo **Tổng hợp theo ngày** :  
-* Vào **Báo cáo >  Báo cáo > Tổng hợp theo ngày**.
-Hiện ra màn hình **Báo cáo Tổng hợp theo ngày** như hình dưới đây :
+* Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Báo cáo > Tổng hợp theo ngày**.
+
+* Hiện ra màn hình **Báo cáo Tổng hợp theo ngày** như hình dưới đây :
  
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/sum-up-by-date.png) 
 
@@ -81,11 +86,12 @@ Hiện ra màn hình **Báo cáo Tổng hợp theo ngày** như hình dưới đ
 
 * Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) , <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF
 
-### Tổng hợp ra vào vùng 
+### 1.4. Tổng hợp ra vào vùng 
 
 Nếu người dùng muốn xem báo cáo **Tổng hợp ra vào vùng** :  
-* **Cách 1** : Vào **Báo cáo >  Báo cáo > Tổng hợp ra vào vùng**.
-Hiện ra màn hình **Báo cáo Tổng hợp ra vào vùng** như hình dưới đây :
+* **Cách 1** : Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Báo cáo > Tổng hợp ra vào vùng**.
+
+* Hiện ra màn hình **Báo cáo Tổng hợp ra vào vùng** như hình dưới đây :
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/general-in-out-of-the-area.png)
 
@@ -113,12 +119,13 @@ CHI TIẾT RA VÀO VÙNG**
 
 * Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) , <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF
 
-### Chi tiết ra vào vùng 
+### 1.5. Chi tiết ra vào vùng 
 
 Nếu người dùng muốn xem báo cáo **Chi tiết ra vào vùng** :  
 
-* **Cách 1** : Vào **Báo cáo >  Báo cáo > Chi tiết ra vào vùng**.
-Hiện ra màn hình **Chi tiết ra vào vùng** như hình dưới đây :
+* **Cách 1** : Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Báo cáo > Chi tiết ra vào vùng**.
+
+* Hiện ra màn hình **Chi tiết ra vào vùng** như hình dưới đây :
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/details-geofence-2.png)
 
@@ -137,7 +144,6 @@ Hiện ra màn hình **Chi tiết ra vào vùng** như hình dưới đây :
 
 * Bước 2 : Nhấn **Tìm kiếm**.
     
-    
     Nếu nhấn **Đặt lại** sẽ trở về mặc định ban đầu.
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/search-details-geofence.png)
@@ -150,12 +156,13 @@ Hiện ra màn hình **Chi tiết ra vào vùng** như hình dưới đây :
 
 * Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) , <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF
 
-### Dữ liệu lịch sử
+### 1.6. Dữ liệu lịch sử
 
 Nếu người dùng muốn xem báo cáo **Dữ liệu lịch sử** :  
 
-* Vào **Báo cáo >  Báo cáo > Dữ liệu lịch sử**.
-Hiện ra màn hình **Dữ liệu lịch sử** như hình dưới đây :
+* Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Báo cáo > Dữ liệu lịch sử**.
+
+* Hiện ra màn hình **Dữ liệu lịch sử** như hình dưới đây :
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/data-log.png)
 
@@ -167,19 +174,22 @@ Hiện ra màn hình **Dữ liệu lịch sử** như hình dưới đây :
     * **Chọn thiết bị** : Chọn 1  thiết bị muốn xem lộ trình.
     
 * Bước 2 : Nhấn **Tìm kiếm** .
+  
     Nếu nhấn **Đặt lại** sẽ trở về mặc định ban đầu.
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/search-data-log.png)
+
 #### Xuất báo cáo
 
 * Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) để xuất báo cáo dạng Excel.
 
-### Lộ trình
+### 1.7. Lộ trình
 
 Nếu người dùng muốn xem báo cáo **Lộ trình** :  
 
-* Vào **Báo cáo >  Báo cáo > Lộ trình**.
-Hiện ra màn hình **Lộ trình** như hình dưới đây :
+* Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Báo cáo > Lộ trình**.
+
+* Hiện ra màn hình **Lộ trình** như hình dưới đây :
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/route.png)
 
@@ -191,6 +201,7 @@ Hiện ra màn hình **Lộ trình** như hình dưới đây :
     * **Chọn thiết bị** : Chọn 1  thiết bị muốn xem lộ trình.
     
 * Bước 2 : Nhấn **Tìm kiếm** .
+  
     Nếu nhấn **Đặt lại** sẽ trở về mặc định ban đầu.
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/search-route.png)

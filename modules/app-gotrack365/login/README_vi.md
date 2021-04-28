@@ -18,7 +18,7 @@ Sau đó đăng nhập.
 
 * Bước 2 : Click vào **Đăng nhập** để hoàn thành thao tác. 
 
-* Bước 3 : Chọn **CHỈ CHO PHÉP KHI DÙNG ỨNG DỤNG** để **Cho phép GoTrack365 truy cập vào vị trí của thiết bị này?**. Sử dụng được những tính năng liên quan đến vị trí.
+* Bước 3 : Chọn **CHỈ CHO PHÉP KHI DÙNG ỨNG DỤNG** để **Cho phép GoTrack365 truy cập vào vị trí của thiết bị này?** Sử dụng được những tính năng liên quan đến vị trí.
 
 
 * Người dùng có thể dựa vào ID thiết bị để **đăng nhập** mặc định theo cách sau.:

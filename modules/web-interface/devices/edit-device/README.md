@@ -11,8 +11,8 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
 
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/basic-edit.png)
 
-### 1. Basic
-* **Device Information** 
+### Basic
+* ***Device Information*** 
 
     * **IMEI**: Identification number of the device. (Editing is not allowed).
 
@@ -60,10 +60,10 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
     * **Sell date**: Set the date to sell the device to another account (if applicable).
     * **Updated time**: The system automatically updates the date of selling the device when there is a change. 
 
-### 2. Advanced
 
-<div id="advanced">
-</div>
+### Advanced
+
+
 
 <span class="icon-left4">![active device ](/docs/assets/images/web-english/device/advanced-edit-device.png)
 
@@ -128,7 +128,7 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
 
 
 
-### 3. Sensor
+### Sensor
 
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/sensor.png)
 
@@ -157,7 +157,7 @@ Choose "<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-in
     Click **Add** to save the sensor.
 
 
-### 4. Camera 
+### Camera 
 
 * **For camera type: Basic**
 
@@ -188,7 +188,7 @@ Choose "<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-in
     Click **Add** to save the camera.
 
 
-### 5. Extension
+### Extension
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/extension-device.png)
 
 * **Confi**
@@ -205,7 +205,7 @@ Choose "<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-in
 
     <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/extension-device-2.png)
 
-### 6. Alert
+### Alert
 
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/alert.png)
 

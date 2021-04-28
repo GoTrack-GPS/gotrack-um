@@ -34,7 +34,7 @@ First, click on **Manage > Alerts - Schedule > Alert Rules**
 
    * **Alert name**: Enter an alert name.
    * **Description**: How is this warning, ...
-   * Activation: Toggle alerts on and off.
+   * **Activation**: Toggle alerts on and off.
 
 * ***Alert type***
    

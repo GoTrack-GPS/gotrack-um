@@ -23,7 +23,7 @@ Nếu bạn vào email của mình mà không thấy email của phần mềm hi
 
 3. Vào mục **Chính / Hộp thư đến**, tìm mail của phần mềm gửi về, click vào link **Đặt lại mật khẩu** để đổi mật khẩu.
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-english/gotrack365-el/forgot-pw-3-365.jpg) 
+<span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/reset-password-1.jpg) 
 
 
 ### Bước 3: Cài lại mật khẩu

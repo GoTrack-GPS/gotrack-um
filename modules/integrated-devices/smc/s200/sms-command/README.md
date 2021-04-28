@@ -5,7 +5,7 @@ A few notes:
 
 * Important parameters such as IP / Port, ID, central phone will be protected (hereinafter referred to as locked device) after the device has been running continuously for 10 days, after this time the change of information. The above protected messages will be restricted and only made via central phone numbers or over the TCP / IP configuration channel to which the device is connected. (A message "No Permission @ ER#" will be returned when we change the parameters that are being protected from restricted channels).
 
-* Customer / Reseller should inform manufacturer about phone numbers that will be their own central number, so that the manufacturer can do this configuration before handing over to Customer / Reseller.
+* Customer / Reseller should inform manufacturer about phone numbers that will be their own central number,so that the manufacturer can do this configuration before handing over to Customer / Reseller.
 
 * ***Please [contact](modules/web-interface/contact/) technical support for answers and best guidance***.
 
@@ -49,9 +49,9 @@ A few notes:
      
 
 
-> Note: for the command set for this parameter to be successful, it should be as follows: <br>
-The device has not been configured locked (for checking, see item [2.10](modules/integrated-devices/smc/s200/sms-command/#unlock)). <br>
-If the profile is locked, the phone number to be set up must be the central number. (For checking / setting, see section [1.9](modules/integrated-devices/smc/s200/sms-command/#sensor)). <br>
+> Note: for the command set for this parameter to be successful,it should be as follows: <br>
+The device has not been configured locked (for checking,see item [2.10](modules/integrated-devices/smc/s200/sms-command/#unlock)). <br>
+If the profile is locked,the phone number to be set up must be the central number. (For checking / setting,see section [1.9](modules/integrated-devices/smc/s200/sms-command/#sensor)). <br>
 Perform the setup by sending commands from the server to which the device is connected.
 
 #### 1.2. APN parameters
@@ -100,7 +100,7 @@ Perform the setup by sending commands from the server to which the device is con
         <td>Read</td>  
     </tr> 
     <tr>
-        <td>apnex, < name apn when roaming needs setting># </td>
+        <td>apnex,< name apn when roaming needs setting># </td>
         <td class="text-bold">apnex#</td>  
     </tr> 
      <tr>
@@ -131,7 +131,7 @@ Perform the setup by sending commands from the server to which the device is con
         <td>Read</td>  
     </tr> 
     <tr>
-        <td>tim, < transmission time at run>, < on stop># </td>
+        <td>tim,< transmission time at run>,< on stop># </td>
         <td class="text-bold">tim#</td>  
     </tr> 
      <tr>
@@ -163,7 +163,7 @@ Perform the setup by sending commands from the server to which the device is con
         <td>Read</td>  
     </tr> 
     <tr>
-        <td>tzone, < time zone format ±HH.hh># </td>
+        <td>tzone,< time zone format ±HH.hh># </td>
         <td class="text-bold">tzone#</td>  
     </tr> 
      <tr>
@@ -197,7 +197,7 @@ Perform the setup by sending commands from the server to which the device is con
         <td>Read</td>  
     </tr> 
     <tr>
-        <td>speedth, < speed limit value># </td>
+        <td>speedth,< speed limit value># </td>
         <td class="text-bold">speedth#</td>  
     </tr> 
      <tr>
@@ -231,7 +231,7 @@ Perform the setup by sending commands from the server to which the device is con
         <td>Read</td>  
     </tr> 
     <tr>
-        <td>buzzer, < 0/1: disable/enable>#</td>
+        <td>buzzer,< 0/1: disable/enable>#</td>
         <td  class="text-bold">buzzer#</td>  
     </tr> 
      <tr>
@@ -264,8 +264,8 @@ Perform the setup by sending commands from the server to which the device is con
         <td>Read</td>  
     </tr> 
     <tr>
-        <td>- for port ALT0 <br> altio, 0, < acc/air/sos/doo/ben>, < active level 0/1># <br>
-            - for port ALT1 <br> altio,1, < acc/air/sos/doo/ben>,< active level 0/1># </td>
+        <td>- for port ALT0 <br> altio,0,< acc/air/sos/doo/ben>,< active level 0/1># <br>
+            - for port ALT1 <br> altio,1,< acc/air/sos/doo/ben>,< active level 0/1># </td>
         <td  class="text-bold">altio,0# <br>
             <br>
             altio,1#
@@ -306,8 +306,8 @@ Perform the setup by sending commands from the server to which the device is con
         <td>Read</td>  
     </tr> 
     <tr>
-        <td>- for port RS232_0 <br> rs232,0, < sensor id>,< baudrate># <br>
-             - for port RS232_1 <br> rs232,1,< sensor id> ,< baudrate># <br>
+        <td>- for port RS232_0 <br> rs232,0,< sensor id>,< baudrate># <br>
+             - for port RS232_1 <br> rs232,1,< sensor id>,< baudrate># <br>
              -  sensor id:<br> 0/1/2 turns off rs232 / FLS-Omnicom fuel sensor/ Soji fuel sensor
         </td>  
         <td class="text-bold">rs232,0# <br>
@@ -337,7 +337,7 @@ Perform the setup by sending commands from the server to which the device is con
     <tr>
         <td colspan="3"> * The default is 10 seconds and 5 units <br>
                           * Updated after feedback OK and save after sending the command <b> reset# </b> <br>
-                          * To view Send sensor value to view command view, comm# <br>
+                          * To view Send sensor value to view command view,comm# <br>
         </td>
     </tr> 
     <tr>
@@ -347,11 +347,11 @@ Perform the setup by sending commands from the server to which the device is con
     </tr> 
     <tr>
        <td>- for port RS232_0 <br> 
-                rs232para,0, < sample time>, < trigger value># <br> 
+                rs232para,0,< sample time>,< trigger value># <br> 
             - for port RS232_1 <br>
-                rs232para,1, < sample time>, < trigger value># <br>
-            <b> sample time </b> : Sensor Read time, unit s, default 10s <br>
-            <b> trigger value </b>: difference value between 2 last times to generate 1 sensor value update event, default is 5
+                rs232para,1,< sample time>,< trigger value># <br>
+            <b> sample time </b> : Sensor Read time,unit s,default 10s <br>
+            <b> trigger value </b>: difference value between 2 last times to generate 1 sensor value update event,default is 5
         </td>  
         <td class="text-bold">rs232para,0# <br>
             <br>  <br> 
@@ -390,7 +390,7 @@ Perform the setup by sending commands from the server to which the device is con
         <td>Read</td>  
     </tr> 
     <tr>
-        <td>outputturn,0, < 0/1: off / on> </td>  
+        <td>outputturn,0,< 0/1: off / on> </td>  
         <td  class="text-bold">output,0#</td>  
     </tr> 
      <tr>
@@ -409,10 +409,10 @@ Perform the setup by sending commands from the server to which the device is con
     
 </table>
 
-- In addition, the device also supports generating a square pulse with Ton, Toff, adjustable cycles or a trigger (1 cycle pulse):
+- In addition,the device also supports generating a square pulse with Ton,Toff,adjustable cycles or a trigger (1 cycle pulse):
 
-   * **Pulse**: outputpulse, 0, < ton>, < toff>, < number of cycles>#
-   * **Trigger**: outputtrigger, 0, < ton>#
+   * **Pulse**: outputpulse,0,< ton>,< toff>,< number of cycles>#
+   * **Trigger**: outputtrigger,0,< ton>#
 
 ##### 1.11.	Set up center phone number
 
@@ -467,7 +467,7 @@ Perform the setup by sending commands from the server to which the device is con
         <td>Read</td>  
     </tr> 
     <tr>
-        <td>rebootsch, < n> ,< a># <br>
+        <td>rebootsch,< n>,< a># <br>
             Perform schedule to reboot the device after “n” days at the right time at “a” time
              n = 0: this scheduling mode is disabled
         </td>  
@@ -506,7 +506,7 @@ Perform the setup by sending commands from the server to which the device is con
         <td>Read</td>  
     </tr> 
     <tr>
-        <td>motion,< 0/1: off / on>, < sensitivity index is a value less than 1>#</td>  
+        <td>motion,< 0/1: off / on>,< sensitivity index is a value less than 1>#</td>  
         <td class="text-bold">motion#</td>   
     </tr> 
      <tr>
@@ -525,7 +525,7 @@ Perform the setup by sending commands from the server to which the device is con
      
 </table>
 
->	Note: the smaller the sensitivity parameter value, the more sensitive it is to detect vibration and movement. Please take care while changing this parameter.
+>	Note: the smaller the sensitivity parameter value,the more sensitive it is to detect vibration and movement. Please take care while changing this parameter.
 
 ##### 1.14. Setting the power consumption balance (low voltage)
 
@@ -538,23 +538,23 @@ Perform the setup by sending commands from the server to which the device is con
 <table>
     <tr>
         <td>Commands</td>
-        <td><b>View, vehicleinfo#</b></td>
+        <td><b>View,vehicleinfo#</b></td>
     </tr> 
     <tr>
         <td>Feedback content</td>
         <td>
-       <b> vehi </b>, < License plate>, < distance: Km>, < speed>, < motion detection threshold>, < number of overspeed>, < time to maintain the current state at>, < total dwell time>, < velocity filtering: 0 / A or E is not used / filtered by ACC or Engine signals>. <br>
-         <b> driv </b>, <ID card>, < driver's name>, < GPLX>, < start of journey>, < end of journey>, < tg continuous driving>, < total time driving> <br>
-         <b> devi </b>, < device name>, < imei>, < hw-rev> , < Manuf-time>, < install-time>.
-         <b> pwr </b>, < external power voltage>, < backup power voltage>
+       <b> vehi </b>,< License plate>,< distance: Km>,< speed>,< motion detection threshold>,< number of overspeed>,< time to maintain the current state at>,< total dwell time>,< velocity filtering: 0 / A or E is not used / filtered by ACC or Engine signals>. <br>
+         <b> driv </b>,<ID card>,< driver's name>,< GPLX>,< start of journey>,< end of journey>,< tg continuous driving>,< total time driving> <br>
+         <b> devi </b>,< device name>,< imei>,< hw-rev>,< Manuf-time>,< install-time>.
+         <b> pwr </b>,< external power voltage>,< backup power voltage>
         </td>
     </tr> 
     <tr>
         <td>Example</td>
-        <td>view,vehicleinfo, <br>
-          <b>vehi</b> ,xxX-abc.de,0,0/10,0,9585,161,0 <br>
+        <td>view,vehicleinfo,<br>
+          <b>vehi</b>,xxX-abc.de,0,0/10,0,9585,161,0 <br>
           <b>driv</b>,1dd46392500104e0 <br>
-            ,LX_1dd46,gplx_1dd46,000000,000000,0,0 <br>
+           ,LX_1dd46,gplx_1dd46,000000,000000,0,0 <br>
           <b>devi</b>,,S200,868183033819694,S2xx v1.0a,201020,201020 <br>
           <b>pwr</b>,19.39,0.00 <br>
             @OK#
@@ -567,23 +567,23 @@ Perform the setup by sending commands from the server to which the device is con
 <table>
     <tr>
         <td>Commands</td>
-        <td><b>View, overview#</b></td>
+        <td><b>View,overview#</b></td>
     </tr> 
     <tr>
         <td>Feedback content</td>
         <td>
-        <b> < device name> </b>, < imei>, < fw version>, < 0/1: the device is unlocked / locked>, < number of days the device was active>, < time of starting Dynamic DDMMYYhhmmss>, < Processor temperature> <br>
-         <b> nw </b>, < 0/1: not available / have GPRS>, < signal strength, maximum: 31> <br>
-         <b> gps </b>, < 0/4/6:  state OK / ERROR / sleeping>, < 0/1: no / with position pin>, < satellite number> <br>
-         <b> sv </b>, < server ip>, < server port>, < 0/1: not yet / connected> <br>
-         <b> pw </b>, < mode: 0: normal / 1: sleeping>, < external power voltage>, < backup power voltage>, < charging mode>, < charging status> <br>
-        <b>ti</b>, < ddmmyy>-< hh:mm:ss>
+        <b> < device name> </b>,< imei>,< fw version>,< 0/1: the device is unlocked / locked>,< number of days the device was active>,< time of starting Dynamic DDMMYYhhmmss>,< Processor temperature> <br>
+         <b> nw </b>,< 0/1: not available / have GPRS>,< signal strength,maximum: 31> <br>
+         <b> gps </b>,< 0/4/6:  state OK / ERROR / sleeping>,< 0/1: no / with position pin>,< satellite number> <br>
+         <b> sv </b>,< server ip>,< server port>,< 0/1: not yet / connected> <br>
+         <b> pw </b>,< mode: 0: normal / 1: sleeping>,< external power voltage>,< backup power voltage>,< charging mode>,< charging status> <br>
+        <b>ti</b>,< ddmmyy>-< hh:mm:ss>
         </td>
     </tr> 
     <tr>
         <td>Example</td>
-        <td>view, overview, <br>
-          <b>S200</b>, 868183033877510,1.000.01.000000.201201,0,240,021220094301,34.3C <br>
+        <td>view,overview,<br>
+          <b>S200</b>,868183033877510,1.000.01.000000.201201,0,240,021220094301,34.3C <br>
             <b>nw</b>,1,20 <br>
             <b>gps</b>,0,1,6 <br>
             <b>sv</b>,125.212.235.145,13030,1 <br>
@@ -604,19 +604,19 @@ Perform the setup by sending commands from the server to which the device is con
     <tr>
         <td>Feedback content</td>
         <td>
-        <b> led </b>, < state>, < 4 led indicator status, from left to right: "Drive" - ​​"Memory" - "Mobile network" - "GPS"> <br>
-        <b> gps </b>, < state>, < 0-No good, 1-Good>, < satellite number> <br>
-        <b> cell </b>, < state>, 1,1,1,1,1, < signal strength>, < sv connection state / server login state: 0-bad, 1-good> <br>
-        <b> buz </b>, < state>, < 0/1: no bip / playing beep> <br>
-        <b> rfid </b>, < state>, < tag ID> <br>
-        <b> Acce </b>, < state>, < x-axis>, < y-axis>, < z-axis>, < xyz-axis> <br>
-        <b> rs0 </b>, < state>, < sensor id>, < state>, < sensor reading value> <br>
-        <b> rs1 </b>, < state>, < sensor id>, < state>, < sensor reading value> <br>
-        <b> acc </b>, < state>, < active level> <br>
-        <b> eng </b>, < state>, < active level> <br>
-        <b> AIR </b>, < state>, 1, +, < active level> <br>
-        <b> SOS </b>, < state>, 3, +, < positive level> <br>
-        <b> DO </b>, < state>, < active level> <br>
+        <b> led </b>,< state>,< 4 led indicator status,from left to right: "Drive" - ​​"Memory" - "Mobile network" - "GPS"> <br>
+        <b> gps </b>,< state>,< 0-No good,1-Good>,< satellite number> <br>
+        <b> cell </b>,< state>,1,1,1,1,1,< signal strength>,< sv connection state / server login state: 0-bad,1-good> <br>
+        <b> buz </b>,< state>,< 0/1: no bip / playing beep> <br>
+        <b> rfid </b>,< state>,< tag ID> <br>
+        <b> Acce </b>,< state>,< x-axis>,< y-axis>,< z-axis>,< xyz-axis> <br>
+        <b> rs0 </b>,< state>,< sensor id>,< state>,< sensor reading value> <br>
+        <b> rs1 </b>,< state>,< sensor id>,< state>,< sensor reading value> <br>
+        <b> acc </b>,< state>,< active level> <br>
+        <b> eng </b>,< state>,< active level> <br>
+        <b> AIR </b>,< state>,1,+,< active level> <br>
+        <b> SOS </b>,< state>,3,+,< positive level> <br>
+        <b> DO </b>,< state>,< active level> <br>
         <i>state </i>: <br>
         &emsp;&emsp;&emsp;&emsp;-	7: disabled / not in use <br>
         &emsp;&emsp;&emsp;&emsp;-	6: reset <br>
@@ -626,16 +626,16 @@ Perform the setup by sending commands from the server to which the device is con
         &emsp;&emsp;&emsp;&emsp;-	2: checksum error <br>
         &emsp;&emsp;&emsp;&emsp;-	1: sleeping <br>
         &emsp;&emsp;&emsp;&emsp;-	0: Good <br>
-        <i> Positive level </i>: 0-Off / Close, 1-On / On <br>
-         <i> Led Status </i>: 0-Off, 1-No Flashing, 2-Fast Flashing (Flashing Fast), 3-Long Flashing (Slow Flashing).
+        <i> Positive level </i>: 0-Off / Close,1-On / On <br>
+         <i> Led Status </i>: 0-Off,1-No Flashing,2-Fast Flashing (Flashing Fast),3-Long Flashing (Slow Flashing).
         </td>
     </tr> 
     <tr>
         <td>Example</td>
-        <td>view,comm, <br>
-          <b>led</b>, ,0,0133<br>
+        <td>view,comm,<br>
+          <b>led</b>,,0,0133<br>
             <b>gps</b>,0,1,5 <br>
-            <b>cell</b>, 0,1,1,1,1,1,20,1/1 <br>
+            <b>cell</b>,0,1,1,1,1,1,20,1/1 <br>
             <b>buz</b>,0,0 <br>
             <b>rfid</b>,0,3030303030303030 <br>
             <b>Acce</b>,0,0.00,-0.02,1.00,1.00 <br>
@@ -660,10 +660,10 @@ Perform the setup by sending commands from the server to which the device is con
     </tr> 
     <tr>
         <td>Example</td>
-        <td>view,network, <br>
+        <td>view,network,<br>
             <b>reg</b>,1,1,1,1,1 <br>
             <b> cid</b>,89840480000616669331 <br>
-            <b>nw</b>, 0,0,"Mobifone",20 <br>
+            <b>nw</b>,0,0,"Mobifone",20 <br>
             <b>cb</b>,EGSM_MODE,ALL_BAND,20 <br>
             <b>apn</b>,m-wap,e-connect <br>
             @OK#
@@ -681,7 +681,7 @@ Perform the setup by sending commands from the server to which the device is con
     <tr>
         <td>Example</td>
         <td> 
-            View, serverconn,10.82.117.62[0] <br>
+            View,serverconn,10.82.117.62[0] <br>
             0.asia.pool.ntp.org:123,0,105311,LOST <br>
             27.72.57.208:5555,1,104609,LOST <br>
             125.212.235.145:13030,*,102409,OK <br>
@@ -697,14 +697,14 @@ Perform the setup by sending commands from the server to which the device is con
 <table>
     <tr>
         <td>Commands</td>
-        <td><b>View, idatameter# </b><br>
+        <td><b>View,idatameter# </b><br>
         (Flow is calculated from 00h)
         </td>
     </tr> 
     <tr>
         <td>Example</td>
         <td> 
-            view,idatameter, <br>
+            view,idatameter,<br>
             <b>Send/Rev </b>: 30.98/0.64KB <br>
             0:112412,112418,48B,0P,112417,48B,7P <br>
             1:112240,112245,12B,0P,112246,37B,18P <br>
@@ -724,16 +724,16 @@ Perform the setup by sending commands from the server to which the device is con
 <table>
     <tr>
         <td>Commands</td>
-        <td><b>View, diskinfo# </b></td>
+        <td><b>View,diskinfo# </b></td>
     </tr> 
     <tr>
         <td>Feedback content</td>
-        <td>view,diskinfo, <br>
-        <b> disk </b>, < 0: good>, < available / total KB space> <br>
-         <b> dat </b>, < data file name>, < KB size>, < 1: log mode enabled> <br>
-         <b> bak </b>, < log transfer information: number of bytes transferred / loss>, < Byte size of file> <br>
+        <td>view,diskinfo,<br>
+        <b> disk </b>,< 0: good>,< available / total KB space> <br>
+         <b> dat </b>,< data file name>,< KB size>,< 1: log mode enabled> <br>
+         <b> bak </b>,< log transfer information: number of bytes transferred / loss>,< Byte size of file> <br>
          <b>> TCP-Stream </b>
-          < FIFO message number>, < BYTE capacity and FIFO address> <br>
+          < FIFO message number>,< BYTE capacity and FIFO address> <br>
          Q_NO_PROTEC <br>
          < number of transmitted messages / total number of messages in FIFO>: < number of remaining BYTEs of FIFO>
          @ OK#
@@ -741,7 +741,7 @@ Perform the setup by sending commands from the server to which the device is con
     </tr> 
     <tr>
         <td>Example</td>
-        <td>view,diskinfo, <b>disk </b>,0,2800.0/7640.0
+        <td>view,diskinfo,<b>disk </b>,0,2800.0/7640.0
             <b>dat </b>,201204.TXT,95065,0x1
             <b>bak</b>,0/0,0 <br>
             <b>>TCP-Stream</b>
@@ -764,12 +764,12 @@ Perform the setup by sending commands from the server to which the device is con
 <table>
     <tr>
         <td>Commands</td>
-        <td><b>View, powerinfo#</b></td>
+        <td><b>View,powerinfo#</b></td>
     </tr> 
     <tr>
         <td>Example</td>
         <td> 
-            view,powerinfo, <b>Main </b>,12.18,1(12.40-36.00) <br>
+            view,powerinfo,<b>Main </b>,12.18,1(12.40-36.00) <br>
              <b>Bak </b>,0.00,0%,1(3.20-4.20) <br>
              <b>SW </b>,0/1,505000/10,180000/3 <br>
             @OK#
@@ -827,10 +827,10 @@ Perform the setup by sending commands from the server to which the device is con
 
 #### 3.3. Instant news transmission
 
-* Pack, < packet-name: location/status/sensor/heartbeat>#
+* Pack,< packet-name: location/status/sensor/heartbeat>#
 * Example: Pack,location#
 
 #### 3.4. Get the phone number on the device
 
-* Cellularsms, < phone number receives sms from device>, < SMS content that the device will send>#
-Cellularsms, 0986026929, hello#
+* Cellularsms,< phone number receives sms from device>,< SMS content that the device will send>#
+Cellularsms,0986026929,hello#

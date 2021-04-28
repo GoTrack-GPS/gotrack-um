@@ -32,7 +32,7 @@
 <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/sort.png)
 
 ### Định vị thiết bị
-Chọn vào thiết bị cần xem, hệ thống hiển thị vị trí xe trên bảng đồ cùng một số thông số cơ bản như hình dưới :
+Chọn vào thiết bị cần xem, hệ thống hiển thị vị trí xe trên bản đồ cùng một số thông số cơ bản như hình dưới :
 <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/monitoring-device.png)
 
 ### Cấu hình hiển thị
@@ -62,7 +62,7 @@ Chọn vào thiết bị cần xem, hệ thống hiển thị vị trí xe trên
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/device-information-box.png)
 
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/list-device-map.png)
+    <span class="icon-left09">![Interface Web](/docs/assets/images/web-interface/map/list-device-map.png)
 
     - Bước 1 : Vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) **> Hộp thông tin thiết bị**
     - Bước 2 :Có thể bật / tắt thông tin mà bạn muốn / không muốn hiển thị. 
@@ -74,11 +74,11 @@ Chọn vào thiết bị cần xem, hệ thống hiển thị vị trí xe trên
 
 * **Theo dõi**
 
-    <span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/map/follow-1.png)
-    
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/follow-2.png)
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/follow-4.png)
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/follow-3.png)
+
+    
 
     - Bước 1 : Click vào icon biểu tượng xe để xem chi tiết thiết bị xe đó.
 
@@ -94,7 +94,6 @@ Chọn vào thiết bị cần xem, hệ thống hiển thị vị trí xe trên
 
 * **Xem lại**
 
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/follow-1.png)
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/review.png) 
 
     - Bước 1 : Click vào icon biểu tượng xe để xem chi tiết thiết bị xe đó.

@@ -9,14 +9,12 @@
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/Favourite-2.png)
 
-
-
 ### 2. Xem lại
-- Cách 1 và cách 2 : Thực hiện các bước như hình dưới đây :
+- **Cách 1 và cách 2** : Thực hiện các bước như hình dưới đây :
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/route-1.png)
 
-- Cách 3 : Click vào icon biểu tượng xe. Hiển thị thông tin chi tiết của xe đó > Chọn tab **Lộ trình**.
+- **Cách 3** : Click vào icon biểu tượng xe. Hiển thị thông tin chi tiết của xe đó > Chọn tab **Lộ trình**.
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/route-2.png)
 
@@ -60,9 +58,9 @@
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/report-route.png)
 
-    Có thể tải xuống báo cáo tất cả các thiết bị của tài khoản đó :
-    - <span class="icon-left svg-filter-circlegreen">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) Dạng Excel.
-    *  <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) Dạng PDF.
+    * Có thể tải xuống báo cáo tất cả các thiết bị của tài khoản đó :
+      - <span class="icon-left svg-filter-circlegreen">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) Dạng Excel.
+      *  <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) Dạng PDF.
 
 ### 3. Gửi lệnh
 - Bước 1:  
@@ -114,12 +112,11 @@ hoặc <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-int
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/edit-2.png) 
 
 <div id="suathietbi">
+</div>
 
 ### 6. Theo dõi thiết bị 
 
 - Bước 1 : Click vào icon xe trong hộp danh sách thiết bị.
-   <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/follow-1.png)
-
 - Bước 2 : Giao diện như hình dưới đây
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/notification-4.png)
@@ -131,7 +128,8 @@ hoặc <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-int
 
     Xem lịch sử lộ trình xe [tại đây](vi/modules/web-interface/tracking/detailed-monitoring/#route)<div id="route">
 
-   - Cảm biến : Các bước thêm cảm biến tham khảo [tại đây](vi/modules/web-interface/devices/edit-device/#cambien) <div id="cambien">
+   - Cảm biến : Các bước thêm cảm biến tham khảo [tại đây](vi/modules/web-interface/devices/edit-device/#sensor)<div id="sensor">
+ 
     - Dữ liệu khác
 
 ### 7. Theo dõi nhiều xe 

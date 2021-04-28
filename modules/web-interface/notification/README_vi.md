@@ -24,17 +24,18 @@ Màn hình hiển thị như hình dưới đây :
 
 ### Chi tiết thông báo
 
-* Cách 1 : Click vào <span class="icon-left svg-filter-circlepurpleple">![Ok](/docs/assets/images/web-interface/icon/SVG/info-circle.svg) để xem chi tiết từng thông báo.
+* **Cách 1** : Click vào <span class="icon-left svg-filter-circlepurpleple">![Ok](/docs/assets/images/web-interface/icon/SVG/info-circle.svg) để xem chi tiết từng thông báo.
 Màn hình sẽ hiển thị chi tiết của thông báo và vị trí gặp cảnh báo
 
     <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/info.jpg)
 
-* Cách 2 : Click vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-alarm.svg) . **Nhấp vào từng thông báo ở hộp thông báo nhỏ**
+* **Cách 2** : Click vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-alarm.svg) . **Nhấp vào từng thông báo ở hộp thông báo nhỏ**
 
     <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/info-1.jpg)
 
-<div id="notification"> 
-</div>
+<div id="notification">
+<div>
+
 ### Cài đặt thông báo 
 
 <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/setting.jpg)
@@ -42,8 +43,7 @@ Màn hình sẽ hiển thị chi tiết của thông báo và vị trí gặp c�
 
 - Bước 1 : Click vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-alarm.svg) > <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) để cấu hình thông báo
 
-<div id="notification">
-<div>
+
 
 - Bước 2 : Xuất hiện màn hình cấu hình thông báo :
     - **Email thông báo** : Nhập email vào ô đó để thêm email.
@@ -66,7 +66,7 @@ Sau khi cài đặt xong. Bấm **Lưu** để hoàn thành thao tác.
 
 * **Đánh dấu tất cả** 
 
-Click vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-alarm.svg) để xem thông báo. Nhấn <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-double-tick.svg) **Đánh dấu tất cả đã đọc** 
+Click vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-alarm.svg) để xem thông báo. Nhấn <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-double-tick.svg) **Đánh dấu tất cả đã đọc** 
 
 <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/infomation-1.jpg)
 

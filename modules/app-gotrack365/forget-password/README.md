@@ -25,6 +25,6 @@ Click on **Reset Password**. Then go to check mail.
 ### Step 3: Reset password
 Reset your password and click **Submit** to enter the system homepage.
 
-<span class="icon-left6">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/reset-password-365.jpg) 
+<!-- <span class="icon-left6">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/reset-password-365.jpg)  -->
 
 > Note: If you don't have an email, try to contact your GPS monitoring service provider to get the password to access your account.

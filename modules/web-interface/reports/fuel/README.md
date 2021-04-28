@@ -1,12 +1,14 @@
-# Fuel
+# 2. Fuel
 
 > Only vehicles fitted with fuel sensors have data.
 
-### Chart
+### 2.1. Chart
 
 If the user wants the vehicle to report **Report Chart**:
 
-*  Go to **Reports > Fuel > Chart**. The **Report Chart** screen  appears as shown below:
+*  Go to **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Reports > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/gas-station.svg) Fuel > Chart**. 
+
+*  The **Report Chart** screen  appears as shown below:
 
      <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/chart.png)
 
@@ -26,11 +28,13 @@ If the user wants the vehicle to report **Report Chart**:
 
 * When searching for results, click <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg), <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) to export the report in Excel, PDF format.
 
-### Change
+### 2.2. Change
 
 If the user wants the vehicle to report **Report Change**:
 
-* **Option 1** : Go to **Reports > Fuel > Change**. The **Report Change** screen  appears as shown below:
+* **Option 1** : Go to **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Reports > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/gas-station.svg) Fuel > Change**. 
+
+* The **Report Change** screen  appears as shown below:
 
      <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/change.png)
 
@@ -56,11 +60,13 @@ CHART**
 
 * When searching for results, click <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg), <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) to export the report in Excel, PDF format.
 
-### Summary 
+### 2.3. Summary 
 
 If the user wants the vehicle to report **Report Summary**:
 
-*  Go to **Reports > Fuel > Summary**. The **Report Summary** screen  appears as shown below:
+*  Go to **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Reports > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/gas-station.svg) Fuel > Summary**. 
+
+*  The **Report Summary** screen  appears as shown below:
 
      <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/fuel-summary.png)
 

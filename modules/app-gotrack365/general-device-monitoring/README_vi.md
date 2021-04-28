@@ -26,13 +26,13 @@ Vào mục **Bản đồ** , màn hình hiển thị như hình dưới đây :
 * Khi icon xe hiển thị   <span class="icon-left svg-filter-circlexamtro">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) : Chưa kích hoạt thiết bị.
 
 ### 1. Mật độ giao thông 
-* Click vào **biểu tượng đèn giao thông** để bật / tắt chế độ hiển thị mật độ các tuyến đường.
+* Click vào **biểu tượng đèn giao thông <span class="icon-left">![Ok](/docs/assets/images/web-interface/app-gotrack365/traffic-light.png)** để bật / tắt chế độ hiển thị mật độ các tuyến đường.
 * Màu càng đậm thì mật độ giao thông càng nhiều, càng đông.
 
 ###  2. Chế độ hiển thị trên bản đồ 
 
  
- Bản đồ đường bộ / Vệ tinh.
+ Bản đồ đường bộ / Vệ tinh <span class="icon-left">![Ok](/docs/assets/images/web-interface/app-gotrack365/satellite-map.png).
 
 ### 3. Tên hiển thị
 
@@ -45,7 +45,7 @@ Bật / tắt hiển thị điểm đánh dấu trên bản đồ. Người dùn
 
  <span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/poi-365.jpg) 
  
- Ngoài ra, có thể thêm điểm đánh dấu chi tiết hơn [tại đây](/modules/app-gotrack365/poi/#poi) <div id="poi"> 
+ Ngoài ra, có thể thêm điểm đánh dấu chi tiết hơn [tại đây](vi/modules/app-gotrack365/poi/#poi) <div id="poi"> 
 
 ### 5. Thu gọn vùng hiển thị 
 

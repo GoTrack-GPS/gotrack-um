@@ -1,10 +1,12 @@
 # 3. Nhiên liệu
 
- ### Biểu đồ
+ ### 3.1. Biểu đồ
 
-Nếu người dùng muốn xem **Báo cáo biểu đồ** :  
-* Vào **Báo cáo >  Nhiên liệu > Biểu đồ**.
-Hiện ra màn hình **Biểu đồ** như hình dưới đây :
+Nếu người dùng muốn xem **Báo cáo biểu đồ** : 
+
+* Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/gas-station.svg)  Nhiên liệu > Biểu đồ**.
+  
+* Hiện ra màn hình **Biểu đồ** như hình dưới đây :
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/chart.png)
 
@@ -16,7 +18,8 @@ Hiện ra màn hình **Biểu đồ** như hình dưới đây :
     * **Biển số** : Chọn 1  biển số muốn xem báo cáo biểu đồ nhiên liệu.
     * **Tất cả** : Chọn 1 hoặc nhiều tên cảm biến nhiên liệu.
 
-* Bước 2 : Nhấn **Tìm kiếm** 
+* Bước 2 : Nhấn **Tìm kiếm**.
+ 
     Nếu nhấn **Đặt lại** sẽ trở về mặc định ban đầu.
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/search-chart.png)
@@ -25,12 +28,13 @@ Hiện ra màn hình **Biểu đồ** như hình dưới đây :
 
 * Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng PDF.
 
-### Nạp xả
+### 3.2. Nạp xả
 
 Nếu người dùng muốn xem **Báo cáo nạp xả** :  
-* **Cách 1** : Vào **Báo cáo >  Nhiên liệu > Nạp xả**.
 
-    Hiện ra màn hình **Nạp xả** như hình dưới đây :
+* **Cách 1** : Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/gas-station.svg)  Nhiên liệu > Nạp xả**.
+
+* Hiện ra màn hình **Nạp xả** như hình dưới đây :
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/charge-and-discharge.png)
 
@@ -45,7 +49,8 @@ Nếu người dùng muốn xem **Báo cáo nạp xả** :
     * **Thời gian** : Chọn thời gian có sẵn hoặc tùy chọn.
     * **Tất cả** : Chọn 1 hoặc nhiều tên cảm biến nhiên liệu.
 
-* Bước 2 : Nhấn **Tìm kiếm** 
+* Bước 2 : Nhấn **Tìm kiếm** .
+  
     Nếu nhấn **Đặt lại** sẽ trở về mặc định ban đầu.
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/search-charge-and-discharge.png)
@@ -54,12 +59,12 @@ Nếu người dùng muốn xem **Báo cáo nạp xả** :
 
 * Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) , <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF.
 
-### Tổng hợp
+### 3.3. Tổng hợp
 
 Nếu người dùng muốn xem **Báo cáo tổng hợp** :  
-* Vào **Báo cáo >  Nhiên liệu > Tổng hợp**.
+* Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/gas-station.svg)  Nhiên liệu > Tổng hợp**.
 
-    Hiện ra màn hình **Tổng hợp** như hình dưới đây :
+* Hiện ra màn hình **Tổng hợp** như hình dưới đây :
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/synthetic.png)
 
@@ -70,7 +75,8 @@ Nếu người dùng muốn xem **Báo cáo tổng hợp** :
     * **Thời gian** : Chọn thời gian có sẵn hoặc tùy chọn.
     * **Tất cả thiết bị** : Chọn 1 hoặc nhiều tên cảm biến nhiên liệu.
 
-* Bước 2 : Nhấn **Tìm kiếm** 
+* Bước 2 : Nhấn **Tìm kiếm** .
+  
     Nếu nhấn **Đặt lại** sẽ trở về mặc định ban đầu.
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/search-synthetic.png)
