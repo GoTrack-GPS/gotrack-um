@@ -21,7 +21,7 @@
 
 &emsp;<span class="icon-left12">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/power-cable.png)
 
-&emsp;<span class="icon-left12">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/car-battery.png)
+&emsp;<span class="icon-left12">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/car-battery-1.png)
 
 #### 3.2. Xe nhanh chóng báo về máy chủ
 
@@ -33,17 +33,17 @@
   
 * Bước 3: Nhập các cài đặt mạng quan trọng, sửa đổi IP và số cổng tương ứng theo IP triển khai máy chủ khác nhau của từng khách hàng, và chọn nền tảng của giao thức chuẩn, chọn máy chủ GPS chính trên trang tiếp theo để sửa đổi IP và số cổng.
 
-&emsp;<span class="icon-left09">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/terminal-sv-.png)
+&emsp;<span class="icon-left09">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/sever-page-1.png)
 
 #### 3.3. Sử dụng cổng nối tiếp IO
 
 * Thiết bị có 4 đầu vào cảnh báo và 2 giao diện đầu ra cảnh báo. Phát hiện đầu vào cảnh báo là phát hiện tất cả các mức, có thể được kết nối với các trạng thái lái xe khác nhau, chẳng hạn như phanh, lái, chuyển xe và nút cảnh báo, như thể hiện trong Hình 4-2. 
   
-    &emsp;<span class="icon-left09">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/+12V.png)
+    &emsp;<span class="icon-left09">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/+12V-1.png)
 
 * Khi đạp đĩa phanh, MDVR có thể bảo vệ mức cao, nếu không mức thấp, đầu ra cảnh báo là tất cả đầu ra mức và dung lượng ổ đĩa là 200mA. Nếu bạn kết nối một thiết bị công suất lớn hơn, bạn phải kết nối một rơ le. Như trong Hình 4-3:
   
-    &emsp;<span class="icon-left09">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/24V.png)
+    &emsp;<span class="icon-left09">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/24V-1.png)
 
 
 #### 3.4. Kết nối PTZ và cài đặt
@@ -55,8 +55,8 @@
    * **Thứ ba** ： đặt mã địa chỉ: nhập trực tiếp mã địa chỉ tương ứng với giá trị địa chỉ PTZ.
    * **Thứ tư** đấu dây: dây điều khiển 485 trên PTZ được kết nối với RS485-A dương, dây còn lại Kết nối với RS458-B âm.
 
-&emsp;<span class="icon-left09">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/method1.png)
+&emsp;<span class="icon-left09">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/method1-1.png)
 
-&emsp;<span class="icon-left09">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/method2.png)
+&emsp;<span class="icon-left09">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/method2-2.png)
 
 

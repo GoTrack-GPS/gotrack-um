@@ -30,7 +30,7 @@ Ngoài ra, có thể tham khảo cách tìm kiếm khác [tại đây](vi/module
 ### 2. Thêm tài khoản
 Người dùng liên hệ với nhà cung cấp dịch vụ, đại lý để tạo tài khoản mới. Chỉ nhà cung cấp dịch vụ, đại lý, tài khoản cha mới  được tạo tài khoản mới.
 
-Khi click vào  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Tạo mới người dùng** màn hình sẽ hiển thị như sau:
+Khi click vào  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Tạo mới người dùng** màn hình sẽ hiển thị như sau:
 
 <span style="display:block;text-align:left">![Interface create acount](/docs/assets/images/web-interface/users/create-account.png)
 
