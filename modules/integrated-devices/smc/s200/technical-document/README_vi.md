@@ -2,6 +2,21 @@
 
 <span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/s200.png)
 
+
+### Các chú thích
+* Danh mục các thuật ngữ được sử dụng trong tài liệu
+    * PC – Máy tính cá nhân .
+    * GPS – Hệ thống định vị toàn cầu .
+    * GPRS – Dịch vụ vô tuyến gói tổng hợp .
+    * GNSS – Hệ thống định vị vệ tinh toàn cầu  .
+    * GSM – Hệ thống thông tin liên lạc di động toàn cầu .
+    * SMS – Dịch vụ tin nhắn văn bản .
+    * I/O – cổng tín hiệu vào ra .
+    * Record – Dữ liệu được lưu trữ trong bộ nhớ trong .
+    * Packet – Dữ liệu được truyền về máy chủ .
+    * AVL – Định vị phương tiện tự động .
+    * GSHT – Giám sát hành trình .
+
 ### 1. Thông tin sản phẩm
 
 - S200 là thiết bị giám sát hành trình sử dụng hệ thống định vị vệ tinh toàn cầu và hệ thống thông tin liên lạc 2G có khả năng định vị và truyền tải vị trí, trạng thái về máy chủ thông qua mạng dữ liệu GPRS.
@@ -549,7 +564,7 @@
 
 (\*) Chớp sáng **nhanh**: trong 1 chu kỳ nháy, thời gian **sáng** là **ngắn** hơn thời gian tắt.
 
-(**\*\***) Chớp sáng **chậm**: trong 1 chu kỳ nháy, thời gian **sáng** là **dài** hơn thời gian tắt.
+(\*\*) Chớp sáng **chậm**: trong 1 chu kỳ nháy, thời gian **sáng** là **dài** hơn thời gian tắt.
 
 (\*)(\*\*) Xem thêm lưu đồ Hình 4
 
@@ -670,7 +685,7 @@
 </table>
  <center>Bảng 3. Mô tả dây tín hiệu</center>
 
-> Lưu ý: chú thích tên tín hiệu có ghi lên mặt dưới của thân vỏ thiết bị
+> Lưu ý: Chú thích tên tín hiệu có ghi lên mặt dưới của thân vỏ thiết bị
 
 <span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/Drawing3-cong.png)
 

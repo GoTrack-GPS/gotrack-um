@@ -68,7 +68,7 @@
       - [Sơ đồ đấu dây ](vi/modules/integrated-devices/smc/sm400/wriring-diagram/) 
  
   **Liên hệ**  
-    - [**Email**](vi/modules/web-interface/contact/)
+    - [**Thông tin liên hệ**](vi/modules/web-interface/contact/)
 
 - **Câu hỏi thường gặp**
   - [Xây dựng ứng dụng](vi/modules/web-interface/faq/build-app/)

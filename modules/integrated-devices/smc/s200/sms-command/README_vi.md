@@ -539,7 +539,7 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 <table>
     <tr>
         <td>Lệnh</td>
-        <td><b>View,vehicleinfo#</b></td>
+        <td><b>view,vehicleinfo#</b></td>
     </tr> 
     <tr>
         <td>Nội dung phản hồi</td>
@@ -568,7 +568,7 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 <table>
     <tr>
         <td>Lệnh</td>
-        <td><b>View,overview#</b></td>
+        <td><b>view,overview#</b></td>
     </tr> 
     <tr>
         <td>Nội dung phản hồi</td>
@@ -600,7 +600,7 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 <table>
     <tr>
         <td>Lệnh</td>
-        <td><b>View,comm#</b></td>
+        <td><b>view,comm#</b></td>
     </tr> 
     <tr>
         <td>Nội dung phản hồi</td>
@@ -657,7 +657,7 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 <table>
     <tr>
         <td>Lệnh</td>
-        <td><b>View,network#</b></td>
+        <td><b>view,network#</b></td>
     </tr> 
     <tr>
         <td>Ví dụ</td>
@@ -677,12 +677,12 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 <table>
     <tr>
         <td>Lệnh</td>
-        <td><b>View,serverconn#</b></td>
+        <td><b>view,serverconn#</b></td>
     </tr> 
     <tr>
         <td>Ví dụ</td>
         <td> 
-            View,serverconn,10.82.117.62[0] <br>
+            view,serverconn,10.82.117.62[0] <br>
             0.asia.pool.ntp.org:123,0,105311,LOST <br>
             27.72.57.208:5555,1,104609,LOST <br>
             125.212.235.145:13030,*,102409,OK <br>
@@ -698,15 +698,15 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 <table>
     <tr>
         <td>Lệnh</td>
-        <td><b>View,idatameter# </b><br>
+        <td><b>view, idatameter# </b><br>
         (Lưu lượng được tính từ 00h)
         </td>
     </tr> 
     <tr>
         <td>Ví dụ</td>
         <td> 
-            view,idatameter,<br>
-            <b>Send/Rev </b>: 30.98/0.64KB <br>
+            view, idatameter,<br>
+            <b>send/rev </b>: 30.98/0.64KB <br>
             0:112412,112418,48B,0P,112417,48B,7P <br>
             1:112240,112245,12B,0P,112246,37B,18P <br>
             2:102409,102414,38B,0P,112749,50B,697P <br>
@@ -726,11 +726,11 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 <table>
     <tr>
         <td>Lệnh</td>
-        <td><b>View,diskinfo# </b></td>
+        <td><b>view, diskinfo# </b></td>
     </tr> 
     <tr>
         <td>Nội dung phản hồi</td>
-        <td>view,diskinfo,<br>
+        <td>view, diskinfo,<br>
         <b>disk</b>,< 0: tốt>,< dung lượng KB còn trống/tổng> <br>
         <b>dat</b>,< tên file dữ liệu>,< dung lượng KB>,< 1: đã bật chế độ log> <br>
         <b>bak</b>,< thông tin truyền log: số byte đã truyền/tổn số>,< dung lượng Byte của file> <br>
@@ -743,13 +743,14 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
     </tr> 
     <tr>
         <td>Ví dụ</td>
-        <td>view,diskinfo,<b>disk </b>,0,2800.0/7640.0
-            <b>dat </b>,201204.TXT,95065,0x1
+        <td>view, diskinfo, <br>
+        <b>disk </b>,0,2800.0/7640.0 <br>
+            <b>dat </b>,201204.TXT,95065,0x1 <br>
             <b>bak</b>,0/0,0 <br>
-            <b>>TCP-Stream</b>
-            120Msg,4096B@0x200032f8
-            Q_NO_PROTEC
-            0/0:4096
+            <b>>TCP-Stream</b> <br> 
+            120Msg,4096B@0x200032f8 <br>
+            Q_NO_PROTEC <br>
+            0/0:4096 <br>
             @OK#
     </td>
     <tr>
@@ -765,12 +766,13 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 <table>
     <tr>
         <td>Lệnh</td>
-        <td><b>View,powerinfo#</b></td>
+        <td><b>view, powerinfo#</b></td>
     </tr> 
     <tr>
         <td>Ví dụ</td>
         <td> 
-            view,powerinfo,<b>Main </b>,12.18,1(12.40-36.00) <br>
+            view, powerinfo, <br>
+            <b>Main </b>,12.18,1(12.40-36.00) <br>
              <b>Bak </b>,0.00,0%,1(3.20-4.20) <br>
              <b>SW </b>,0/1,505000/10,180000/3 <br>
             @OK#
@@ -783,12 +785,12 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
 <table>
     <tr>
         <td>Lệnh</td>
-        <td><b>View,map#</b></td>
+        <td><b>view,map#</b></td>
     </tr> 
     <tr>
         <td>Ví dụ</td>
         <td> 
-            View,map,http://maps.google.com/maps?q=N%2020%2059.618626%20E%20105%2047.236412 <br>
+            view,map,http://maps.google.com/maps?q=N%2020%2059.618626%20E%20105%2047.236412 <br>
             @OK#     
         </td>
     </tr> 
@@ -806,11 +808,11 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
     </tr> 
     <tr>
         <td rowspan="2">Ví dụ</td>
-        <td>lockerstat,0@OK# </td>
+        <td>lockerstat, 0@OK# </td>
         <td>Cấu hình chưa được bảo vệ</td>
     </tr> 
     <tr>
-        <td>lockerstat,1@OK#</td>
+        <td>lockerstat, 1@OK#</td>
         <td>Cấu hình đã được bảo vệ (thiết bị đã bị khóa)</td>
     </tr> 
 </table>

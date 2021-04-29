@@ -2,11 +2,24 @@
 
 <span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/s200.png)
 
+* List of terms used in the document
+     * PC - Personal Computer.
+     * GPS - Global Positioning System.
+     * GPRS - General Packet Radio Service.
+     * GNSS - Global Navigation Satellite System .
+     * GSM -  Global System for Mobile Communications.
+     * SMS - Short Message Services
+     * I / O - Input and Output port.
+     * Record - Data is stored in internal memory.
+     * Packet - Data is transferred to the server.
+     * AVL - Automatic Vehicle Location.
+     * GSHT - Monitoring the journey.
+
+
 ### 1. Product information
 * S400 is a journey monitoring device using global satellite positioning system and 4G LTE communication system capable of locating and transmitting position and status to the server via 4G data network.
 
 With optimal design for easy installation, installation and maintenance with low energy consumption as well as competitive price. Therefore, the S400 is perfectly compatible with many applications in road traffic management and operation.
-
 
 #### 1.1. Pack
 * The S400 product set is offered to customers including:
@@ -552,7 +565,7 @@ With optimal design for easy installation, installation and maintenance with low
 
 (**) Flashing slowly: within 1 cycle of flashing, light up time is longer than off time.
 
-(*) (**) See also flowchart Image 4
+(*) (**) See also flowchart Figure 4
 
 #### 3.2. Indicator horn
 
@@ -671,7 +684,7 @@ With optimal design for easy installation, installation and maintenance with low
 </table>
  <center>Table 3. Description of signal wire</center>
 
-> Note: the name of the signal is written on the underside of the case of the device
+> Note: The name of the signal is written on the underside of the case of the device
 
 <span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/el-s200-gate.png)
 

@@ -73,7 +73,7 @@
                   - [Wriring diagram](modules/integrated-devices/smc/sm400/wriring-diagram/) 
                 
      - **Contact**  
-          - [**Email**](vi/modules/web-interface/contact/)
+          - [**Contact Info**](modules/web-interface/contact/)
      - **FAQ**
           - [Build App](modules/web-interface/faq/build-app/)
           - [Device S200/S400](modules/web-interface/faq/device-s200-s400/)

@@ -41,6 +41,7 @@ Nếu người dùng muốn xem **Báo cáo nhiệt độ** :
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/general-equipment.png)
 
+
 #### Tìm kiếm 
 
 * Bước 1 : Tìm kiếm theo các tiêu chí sau :
