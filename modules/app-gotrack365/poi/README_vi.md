@@ -11,7 +11,7 @@ Tạo điểm đánh dấu trên bản đồ để tiện trên việc giám sá
 
 - **Bước 1** : Vào mục **Tài khoản >** <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-flag-2.svg) **POI**.
 
-- **Bước 2** : Click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) để tạo mới điểm đánh dấu.
+- **Bước 2** : Click vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) để tạo mới điểm đánh dấu.
 
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/create-poi-3.jpg)
 

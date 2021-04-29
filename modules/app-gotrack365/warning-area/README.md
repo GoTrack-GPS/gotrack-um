@@ -11,13 +11,13 @@ Alert Geofence when vehicles are entering / leaving the Geofence.
 ### Add geofence
 * Step 1: Go to **Account > <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/pentagon.svg)  Geofence**.
 
-* Step 2: Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) to create a new Geofence.
+* Step 2: Click <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) to create a new Geofence.
 
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/add-geofence-2.jpg)
 
 * Step 3 
 
-    * Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/circle.svg) to create a circle Geofence: Zoom **(** <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **/** <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/minus.svg)  **)** the map to create a radius, drag the map to select the center.
+    * Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/circle.svg) to create a circle Geofence: Zoom **(** <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **/** <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/minus.svg)  **)** the map to create a radius, drag the map to select the center.
 
     * Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/pentagon.svg) to create the polygonal shape Geofence: Touch the screen to select the points that make up the Geofence. At least 3 points.
 

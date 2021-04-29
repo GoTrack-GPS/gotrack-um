@@ -9,7 +9,7 @@
   - Bước 1: Click vào tài khoản cần xem. 
   - Bước 2: Click 1 lần vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-right.svg) ở góc bên phải trên cùng của hệ thống để mở rộng tiện ích. (Click 1 lần nữa vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-down.svg) để thu gọn tiện ích). Sẽ hiển thị hết các thông tin liên quan đến thiết bị.
 
-<span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg)  Tìm kiếm: Có thể tìm kiếm theo các tiêu chí sau:  
+<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg)  Tìm kiếm: Có thể tìm kiếm theo các tiêu chí sau:  
 
   <span style="display:block;text-align:left">![search device ](/docs/assets/images/web-interface/device/search-device.png)
 

@@ -14,7 +14,7 @@ To start performing the **Search** function, users go to **Manage > Devices**
 **1.** Click on the account to see.
 
 **2.** Click once <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-right.svg) on the top right corner of the system to expand the utility. (Click again <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-down.svg) to collapse utility). Will display all information related to the device.
-<span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg) Search: You can search by the following criteria:
+<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg) Search: You can search by the following criteria:
 
 
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/search-device-1.png)

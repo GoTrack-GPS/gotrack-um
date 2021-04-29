@@ -1,7 +1,7 @@
 # Quản lý tài khoản
 Sau khi tạo tài khoản xong, người dùng có thể tìm kiếm / thêm / sửa / đổi mật khẩu / xóa tạo khoản.
 
-Click vào **Quản lý > Tài khoản** để thực thực các chức năng trong quản lý tài khoản.
+Click vào **Quản lý > Tài khoản** để thực hiện các chức năng trong quản lý tài khoản.
 
 <span class="icon-left4">![Interface manage acount](/docs/assets/images/web-interface/users/search-account-2.png)
 
@@ -56,14 +56,17 @@ Khi click vào  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/image
 
 Sau khi điền hết các thông tin thì click vào **Thêm** để hoàn thành thao tác.
 ### 3. Sửa tài khoản
-* Cách 1
-    * Bước 1 : Click vào **Sửa** của tài khoản đó.
-    * Bước 2 : Sẽ xuất hiện một hộp thoại như hình dưới đây. Nhấn **Lưu thay đổi** để lưu lại.
 
-        <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/users/edit-account.png)
+#### Cách 1
 
-* Cách 2
-    Dùng tiện ích ở góc phải của hệ thống
+* Bước 1 : Click vào **Sửa** của tài khoản đó.
+* Bước 2 : Sẽ xuất hiện một hộp thoại như hình dưới đây. Nhấn **Lưu thay đổi** để lưu lại.
+
+    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/users/edit-account.png)
+
+#### Cách 2
+
+* Dùng tiện ích ở góc phải của hệ thống
 
     <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/users/edit-account-5.png)
 
@@ -82,15 +85,15 @@ Sau khi điền hết các thông tin thì click vào **Thêm** để hoàn thà
   
 
 
-* Cách 3
+#### Cách 3
 
-    * Click vào icon tài khoản góc dưới cùng bên trái hệ thống. Tiếp theo click vào **Sửa**
+* Click vào icon tài khoản góc dưới cùng bên trái hệ thống. Tiếp theo click vào **Sửa**
 
-        <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/users/edit-account-4.png)
+    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/users/edit-account-4.png)
 
-    * Xuất hiện hộp thoại như dưới đây: 
+* Xuất hiện hộp thoại như dưới đây: 
 
-      <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/users/edit-account-2.png)
+    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/users/edit-account-2.png)
 
 Sau khi sửa xong thông tin mà bạn cần sửa thì click vào **Lưu thay đổi** để hoàn thành thao tác.
 

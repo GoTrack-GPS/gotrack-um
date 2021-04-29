@@ -1,5 +1,5 @@
 # Sửa thiết bị:
-Để bắt đầu thực hiện chức năng **Sửa**, người dùng Người dùng vào **Quản lý > Thiết bị** 
+Để bắt đầu thực hiện chức năng **Sửa**, người dùng vào **Quản lý > Thiết bị** 
 
  <span class="icon-left4">![Manage device ](/docs/assets/images/web-interface/device/manage-device-1.png)
 
@@ -25,7 +25,7 @@ Khi click vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/imag
         <span style="display:block;text-align:left">![search device ](/docs/assets/images/web-interface/device/Add-a-device-group.png)
     
         
-        - Bước 1: Click  :heavy_plus_sign: để thêm nhóm  thiết bị.
+        - Bước 1: Click  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) để thêm nhóm  thiết bị.
         - Bước 2: Chọn tài khoản muốn thêm nhóm thiết bị. Nhập tên nhóm thiết bị.
         - Bước 3: Click vào **Thêm** để hoàn thành thao tác.
 
@@ -63,8 +63,9 @@ Khi click vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/imag
     - **Số khung** : Là số nhận dạng xe. Một chuỗi seri và kí tự được đục trê   khung xe. (Dành cho xe máy).
     - **Số máy** : Số máy xe của bạn. (Dành cho xe máy).
     - **Lái xe**: Tên người lái xe của xe/phương tiện đã lắp thiết bị định vị.
-        Nếu chưa có thì click vào **:heavy_plus_sign:**
-    <span style="display:block;text-align:left">![search device ](/docs/assets/images/web-interface/device/add-a-driver.png)
+        Nếu chưa có thì click vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)
+
+        <span style="display:block;text-align:left">![search device ](/docs/assets/images/web-interface/device/add-a-driver.png)
 
         - **Tài khoản** : Tên tài khoản muốn thêm người lái xe.
         - **Tên** : Tên người lái xe lắp thiết bị.
@@ -103,7 +104,7 @@ Khi click vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/imag
 
 <span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/Sensor-device.png)
  
-Khi click vào  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Thêm cảm biến** , sẽ xuất hiện hộp thoại như sau: 
+Khi click vào  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Thêm cảm biến** , sẽ xuất hiện hộp thoại như sau: 
 
 <span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/advanced-sensor-device.png)
 
@@ -135,7 +136,7 @@ Click **Thêm** để lưu cảm biến.
 * **Đối với loại camera : Basic**
     <span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/add-camera-device-1.png)
 
-    * Khi click vào  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Thêm camera** xuất  hiện hộp thoại như hình trên: 
+    * Khi click vào  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Thêm camera** xuất  hiện hộp thoại như hình trên: 
         - **Tên** : Nhập tên camera bạn muốn lắp đặt.
         - **Loại camera** : Basic ( thường )  chỉ chụp ảnh.
         - **Camera Id** : Nhập mã  của camera.
@@ -146,7 +147,7 @@ Click **Thêm** để lưu cảm biến.
 
     <span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/add-camera-device-2.png)
 
-    * Khi click vào  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Thêm camera** xuất  hiện hộp thoại như hình trên: 
+    * Khi click vào  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Thêm camera** xuất  hiện hộp thoại như hình trên: 
         - **Tên** : Nhập tên camera bạn muốn lắp đặt.
         - **Loại camera** : MDVR ngoài chụp ảnh ra còn có thêm tính năng quay video.
         - **MDVR Id** : Nhập mã của camera.

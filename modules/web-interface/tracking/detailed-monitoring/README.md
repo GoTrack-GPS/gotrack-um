@@ -67,7 +67,7 @@
     * ***Speed***
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/show-chart.png)
 
-        **1.**  Cick **Show chart**.
+        **1.**  Cick <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg) **Show chart**.
 
         **2.** Choose **speed**. Drag and hold the mouse to the end of the segment to zoom in to see the vehicle speed. Hovering the mouse to each point on the graph will show **how much time and speed** now.
 

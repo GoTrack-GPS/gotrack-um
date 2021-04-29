@@ -11,7 +11,7 @@ Create markers on the map to make it easier to see where your vehicle is nearer.
 
 * Step 1: Go to **Account  > <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-flag-2.svg) POI**.
 
-* Step 2: Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) to create a new POI.
+* Step 2: Click <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) to create a new POI.
 
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/add-poi-3.jpg)
 

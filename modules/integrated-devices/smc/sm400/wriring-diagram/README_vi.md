@@ -50,10 +50,10 @@
 
 * Các bước thiết lập:
   
-   * **Đầu tiên** ： chọn giao thức PTZ: PELCO-D và PELCO-P tương ứng.
-   * **Thứ hai** ： đặt tốc độ truyền và chọn nó trên thiết bị đầu cuối theo tốc độ truyền tương ứng của PTZ.
-   * **Thứ ba** ： đặt mã địa chỉ: nhập trực tiếp mã địa chỉ tương ứng với giá trị địa chỉ PTZ.
-   * **Thứ tư** đấu dây: dây điều khiển 485 trên PTZ được kết nối với RS485-A dương, dây còn lại Kết nối với RS458-B âm.
+   * **Bước 1** ： chọn giao thức PTZ: PELCO-D và PELCO-P tương ứng.
+   * **Bước 2** ： đặt tốc độ truyền và chọn nó trên thiết bị đầu cuối theo tốc độ truyền tương ứng của PTZ.
+   * **Bước 3** ： đặt mã địa chỉ: nhập trực tiếp mã địa chỉ tương ứng với giá trị địa chỉ PTZ.
+   * **Bước 4** đấu dây: dây điều khiển 485 trên PTZ được kết nối với RS485-A dương, dây còn lại Kết nối với RS458-B âm.
 
 &emsp;<span class="icon-left09">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/method1-1.png)
 

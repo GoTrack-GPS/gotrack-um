@@ -11,7 +11,7 @@
 
 - **Bước 1** : Vào mục **Tài khoản >** <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/pentagon.svg) **Vùng cảnh báo**.
 
-- **Bước 2** : Click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) để **tạo mới vùng cảnh báo**.
+- **Bước 2** : Click vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) để **tạo mới vùng cảnh báo**.
 
    
 
@@ -19,7 +19,7 @@
 
     
 * **Bước 3** : 
-     * Click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/circle.svg) để tạo vùng hình tròn: Thu phóng **(** <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **/** <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/minus.svg)  **)** bản đồ để tạo bán kính, kéo bản đồ để chọn tâm. 
+     * Click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/circle.svg) để tạo vùng hình tròn: Thu phóng **(** <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **/** <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/minus.svg)  **)** bản đồ để tạo bán kính, kéo bản đồ để chọn tâm. 
 
     * Click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/pentagon.svg) để tạo vùng hình đa giác : Chạm vào màn  hình để chọn các điểm tạo nên vùng. Ít nhất là 3 điểm.
 

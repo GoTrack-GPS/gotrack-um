@@ -24,6 +24,6 @@ Pull down to refresh data
     * Go to the **Alert Options settings** on / off the types of alerts sent to email, app.
     * Turn on / off receiving notifications **all day**.
     * Set the receiving **start time** and the receiving **end time**. (Only visible whenn**all day** notifications are off).
-    * Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) to **add email**. You can add 1 or more emails to send alert on.
+    * Click <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) to **add email**. You can add 1 or more emails to send alert on.
 
 After the installation is complete. Click **Save** to complete the operation.

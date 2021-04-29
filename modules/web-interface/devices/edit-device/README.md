@@ -30,7 +30,7 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
 
         <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/add-device-group.png)
 
-        * Step 1: Click :heavy_plus_sign: to add the device group.
+        * Step 1: Click <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) to add the device group.
 
         * Step 2: Select the account you want to add the device group too. Enter the device group name.
 
@@ -79,7 +79,7 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
 
     * **Engine number**: The engine number of your vehicle.
 
-    * **Driver**: The name of the driver of the vehicle/vehicle with the positioning device installed. If not, click on **:heavy_plus_sign:**
+    * **Driver**: The name of the driver of the vehicle/vehicle with the positioning device installed. If not, click on <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)
 
         <span class="icon-left4">![active device ](/docs/assets/images/web-english/device/add-driver.png)
 
