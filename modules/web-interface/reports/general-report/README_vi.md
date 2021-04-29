@@ -39,7 +39,7 @@ Nếu người dùng muốn xem **Báo cáo nhiệt độ** :
 
 * Hiện ra màn hình **Báo cáo Tổng hợp ( thiết bị )** như hình dưới đây :
 
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/general-equipment.png)
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/general-deivce.png)
 
 
 #### Tìm kiếm 
