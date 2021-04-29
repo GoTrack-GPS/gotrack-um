@@ -40,7 +40,9 @@
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/history.png) 
 
     **1.** Các điểm mà xe dừng.
+
     **2.** Đoạn đường mà xe chạy.
+    
     **3.** Khi click vào các điểm hay đoạn đường trên bản đồ sẽ hiển thị thông tin mà bạn chọn
 
 * **Các thông số trên biểu đồ**
