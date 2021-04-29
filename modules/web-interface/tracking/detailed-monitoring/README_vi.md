@@ -12,14 +12,17 @@
 
 * **Bỏ yêu thích**
 
-    * Bước 1: Click vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-v.svg) **> Bỏ yêu thích** của thiết bị đó. Hoặc <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/star.svg) trong hộp thông tin thiết bị 
+    * Bước 1: Click vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-v.svg) **> Bỏ yêu thích** của thiết bị đó. Hoặc <span class="icon-left svg-filter-blue">![Ok](/docs/assets/images/web-interface/icon/SVG/star1.svg) trong hộp thông tin thiết bị 
     
         <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/disfavorite.png)
 
     * Bước 2 : Sau khi click xong, sẽ xuất hiện thông báo "Đã bỏ yêu thích" . Biểu tượng sẽ thay đổi thành <span class="icon-left svg-filter-blue">![Ok](/docs/assets/images/web-interface/icon/SVG/star.svg)
     
         <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/disfavorite-2.png)
+
+
 ### 2. Xem lại
+
 - **Cách 1** : Click vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-v.svg) **> Xem lại** của thiết bị đó.
 
 
