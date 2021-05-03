@@ -155,45 +155,4 @@
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/edit-device-2.png)
 
-### 6. Device tracking
 
-<span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/tracking-device.png)
-
-* Step 1: Click on the icon of the vehicle to see details.
-
-* Step 2 : Display :
-
-    * Vehicle location.
-
-    * Information of the device, how many distances to go today, driving, stops. 
-    When click on  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/route.svg),  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/stop-circle.svg) or <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/car-alt.svg) switch to **Route** tab.View vehicle route history [here](modules/web-interface/tracking/detailed-monitoring/#route) <div id="route">
-
-    * Sensor: For steps to add a sensor, please refer [here](modules/web-interface/devices/edit-device/#cambien) <div id="cambien">
-
-    * Other data
-
-
-### 7. Trackings
-
-* To track multiple vehicles, go to <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-maintenance.svg) **Utilities > Tracking**.
-
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/trackings.png)
-
-    Enter the device name to quickly search for the device you want to find.
-
-*  <span class="icon-left svg-filter-company">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square.svg)  Tick 1 or more on the device name created to track the location of that device.
-
-<span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/trackings-2.png)
-
-
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/times.svg)  Close area.
-
-<span class="icon-left svg-filter-company">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-circle-left.svg) Collapse detailed track box.
-
-<span class="icon-left svg-filter-company">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-circle-right.svg) Expand the detailed tracking box.
-
-* Multiple vehicle tracking config 
-
-    Click <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) . 
-
-    See details [here](modules/web-interface/tracking/general-device-monitoring/#config) <div id="config">

@@ -18,6 +18,12 @@
       - [Giám sát chi tiết](vi/modules/web-interface/tracking/detailed-monitoring/)
       - [Công cụ mở rộng](vi/modules/web-interface/tracking/map-tools/)
       - [Tiện ích bản đồ](vi/modules/web-interface/tracking/map-widget/)
+    
+    - **Báo cáo**
+      - [1. Báo cáo chung](vi/modules/web-interface/reports/general-report/)
+      - [2. Bộ giao thông vận tải](vi/modules/web-interface/reports/the-transportation/)
+      - [3. Nhiên liệu](vi/modules/web-interface/reports/fuel/)
+    
     - **Cấu hình**
       - [Quản lý nhóm thiết bị](vi/modules/web-interface/configuration/device-group/)
       - [Quản lý lái xe](vi/modules/web-interface/configuration/driver/)
@@ -25,16 +31,19 @@
       - [Quản lý nhóm vùng](vi/modules/web-interface/configuration/group-geofence/)
       - [Quản lý điểm đánh dấu](vi/modules/web-interface/configuration/manage-poi/) 
 
-    - **Thông báo** 
+    - **Thông báo**
       - [Quản lý thông báo](vi/modules/web-interface/notification/)
       - [Quy tắc cảnh báo](vi/modules/web-interface/notification/warning/)
       - [Quản lý lập lịch báo cáo](vi/modules/web-interface/notification/Schedule-a-report/)
       - [Quản lý nhắc nhở](vi/modules/web-interface/notification/remind/)
-
-    - **Báo cáo**
-      - [1. Báo cáo chung](vi/modules/web-interface/reports/general-report/)
-      - [2. Bộ giao thông vận tải](vi/modules/web-interface/reports/the-transportation/)
-      - [3. Nhiên liệu](vi/modules/web-interface/reports/fuel/)
+    
+    - **Tiện ích**
+      - [Theo dõi nhiều xe](vi/modules/web-interface/utilities/trackings/) 
+      - [Theo dõi theo vùng](vi/modules/web-interface/utilities/multi-tracking-by-geofence/) 
+      - [Theo dõi theo điểm](vi/modules/web-interface/utilities/multi-tracking-by-landmarks/)
+      - [Ước phí tính đường bộ](vi/modules/web-interface/utilities/estimated-road-charges/)
+    
+    
   - **App GoTrack365**
     - **Đăng nhập ứng dụng**
       - [Đăng nhập](vi/modules/app-gotrack365/login/)

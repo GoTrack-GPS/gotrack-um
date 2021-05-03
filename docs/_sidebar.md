@@ -20,21 +20,29 @@
                - [Extensive tools](modules/web-interface/tracking/map-tools/)
                - [Utility maps](modules/web-interface/tracking/map-widget/)
 
+          - **Reports**
+               - [1. General report](modules/web-interface/reports/general-report/)
+               - [2. Fuel](modules/web-interface/reports/fuel/)
+              
           - **Configuration**
                - [Group device](modules/web-interface/configuration/device-group/)
                - [Driver](modules/web-interface/configuration/driver/)
                - [Geofences](modules/web-interface/configuration/manage-region/)
                - [Group geofences](modules/web-interface/configuration/group-geofence/)
                - [Landmarks](modules/web-interface/configuration/manage-poi/) 
+          
           - **Notification** 
                - [Manage notifications](modules/web-interface/notification/)
                - [Alert rules](modules/web-interface/notification/warning/)
                - [Scheduled report](modules/web-interface/notification/Schedule-a-report/)
                - [Task remind](modules/web-interface/notification/remind/)
-
-          - **Reports**
-               - [1. General report](modules/web-interface/reports/general-report/)
-               - [2. Fuel](modules/web-interface/reports/fuel/)
+          
+          - **Utilities**
+               - [Trackings](modules/web-interface/utilities/trackings/) 
+               - [Multi-tracking-by-geofence](modules/web-interface/utilities/multi-tracking-by-geofence/) 
+              - [Multi-tracking-by-landmarks](modules/web-interface/utilities/multi-tracking-by-landmarks/)
+              - [Estimated-road-charges](modules/web-interface/utilities/estimated-road-charges/)
+          
 
      - **App GoTrack365**
           - **Sign in to the application**

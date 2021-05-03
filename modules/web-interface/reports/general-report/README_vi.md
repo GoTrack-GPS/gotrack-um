@@ -24,7 +24,7 @@ Nếu người dùng muốn xem **Báo cáo nhiệt độ** :
   
     Nếu nhấn **Đặt lại** sẽ trở về mặc định ban đầu.
 
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/search-temperature.png)
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/search-temperature-1.png)
 
 #### Xuất báo cáo
  * Khi tìm kiếm ra kết quả, click vào <span class="icon-left      svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng PDF
@@ -179,7 +179,7 @@ Nếu người dùng muốn xem báo cáo **Dữ liệu lịch sử** :
   
     Nếu nhấn **Đặt lại** sẽ trở về mặc định ban đầu.
 
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/search-data-log.png)
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/search-data-log-1.png)
 
 #### Xuất báo cáo
 

@@ -23,6 +23,8 @@ If the user wants to see **Temperature Report**:
 
     If pressing **Reset** will return to the original default.
 
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/search-temperature.png)
+
 #### Export report
 
 * When searching for results, click <span class="icon-left      svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) to export the report in PDF format.
@@ -173,7 +175,7 @@ If the user wants the vehicle to report **Report Data log**:
 
     If pressing **Reset** will return to the original default.
 
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/search-data-log.png)
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/search-data-log-1.png)
 
 #### Export report
 

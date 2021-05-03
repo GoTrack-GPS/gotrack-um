@@ -143,52 +143,10 @@ hoặc <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-int
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/edit-1.png) 
 
-- Bước 2 : Hộp thoại xuất hiện. Thực hiện sửa thiết bị [tại đây](vi/modules/web-interface/devices/edit-device/#suathietbi)
+- Bước 2 : Hộp thoại xuất hiện. Thực hiện sửa thiết bị [tại đây](vi/modules/web-interface/devices/edit-device/#suathietbi)<div id="suathietbi">
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/edit-2.png) 
 
-<div id="suathietbi">
-</div>
 
-### 6. Theo dõi thiết bị 
 
-- Bước 1 : Click vào icon xe trong hộp danh sách thiết bị.
-- Bước 2 : Giao diện như hình dưới đây
-
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/notification-4.png)
-   
-   Hiển thị :
-   - Vị trí của xe.
-   - Thông tin của thiết đó, hôm nay đi được bao nhiêu quãng đường, lái xe, các điểm dừng.
-   Khi click vào  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/route.svg), <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/stop-circle.svg) hoặc <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/car-alt.svg) chuyển sang tab Lộ trình.
-
-    Xem lịch sử lộ trình xe [tại đây](vi/modules/web-interface/tracking/detailed-monitoring/#route)<div id="route">
-
-   - Cảm biến : Các bước thêm cảm biến tham khảo [tại đây](vi/modules/web-interface/devices/edit-device/#sensor)<div id="sensor">
- 
-    - Dữ liệu khác
-
-### 7. Theo dõi nhiều xe 
-
-Để theo dõi nhiều xe, vào  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-maintenance.svg) > **Theo dõi nhiều xe**
- 
-* Nhập tên thiết bị để tìm kiếm nhanh thiết bị bạn muốn tìm.
-
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/track-vehicle.jpg) 
-
- * <span class="icon-left svg-filter-company">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square.svg) Tick 1 hoặc nhiều vào  tên thiết bị đã tạo để theo dõi vị trí của thiết bị đó.
-
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/track-vehicle-2.jpg)
-
-    <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/times.svg)  Đóng vùng.
-
-    <span class="icon-left svg-filter-company">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-circle-left.svg) Thu gọn hộp theo dõi chi tiết
-
-    <span class="icon-left svg-filter-company">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-circle-right.svg) Mở rộng hộp theo dõi chi tiết
-
-* Cấu hình theo dõi nhiều xe
- 
- Click <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) . 
- Tham khảo chi tiết [tại đây](/vi/modules/web-interface/tracking/general-device-monitoring/#config) <div id="config"> 
-    
 
