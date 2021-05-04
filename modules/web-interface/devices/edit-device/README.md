@@ -136,7 +136,7 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
 
 * Before adding new sensors, see the diagram below, how parameters are sent from the gps device and how they need to be paired with the sensors.
 
-    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/sensor-device-2.png)
+    <span class="icon-left6">![active device ](/docs/assets/images/web-english/device/sensor-device-2.png)
 
 * Choose "<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **Add sensor**" tab , the screen will display as follows:
  
