@@ -103,10 +103,14 @@ Khi click vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/imag
 ### Cảm biến 
 
 <span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/Sensor-device.png)
- 
-Khi click vào  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Thêm cảm biến** , sẽ xuất hiện hộp thoại như sau: 
 
-<span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/advanced-sensor-device.png)
+* Trước khi thêm cảm biến mới, hãy xem sơ đồ bên dưới, cách các thông số được gửi từ thiết bị gps và cách chúng cần được ghép nối với các cảm biến.
+
+    <span class="icon-left6">![delete device](/docs/assets/images/web-interface/device/sensor-device-1.png)
+
+* Khi click vào  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Thêm cảm biến** , sẽ xuất hiện hộp thoại như sau:  
+
+    <span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/advanced-sensor-device.png)
 
 - ***Cơ bản*** 
     - **Tên cảm biến** : Đặt tên cảm biến cho dễ nhớ, dễ nhìn. 

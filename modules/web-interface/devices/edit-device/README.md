@@ -127,17 +127,20 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
     * **Transport type QCVN**: Choose one of the types of transport that is correct for the vehicle/vehicle in which you install the equipment. (Selectable only when sending mode is enabled).
 
 
+ <div id="cambien">
+</div>
 
 ### Sensor
 
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/sensor.png)
 
-Choose "<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **Add sensor**" tab , the screen will display as follows:
- 
- <div id="cambien">
-</div>
+* Before adding new sensors, see the diagram below, how parameters are sent from the gps device and how they need to be paired with the sensors.
 
-<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/add-sensor.png)
+    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/sensor-device-2.png)
+
+* Choose "<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **Add sensor**" tab , the screen will display as follows:
+ 
+    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/add-sensor.png)
 
 * ***Basic***
     * **Sensor name**: Name your sensor for easy memory and visualization.
