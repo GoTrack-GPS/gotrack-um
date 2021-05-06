@@ -8,9 +8,9 @@ If the user wants the vehicle to report **Report Chart**:
 
 *  Go to **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Reports > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/gas-station.svg) Fuel > Chart**. 
 
-*  The **Report Chart** screen  appears as shown below:
+   *  The **Report Chart** screen  appears as shown below:
 
-     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/chart.png)
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/chart.png)
 
 #### Search
 * Step 1: Search by the following criteria:
@@ -34,9 +34,9 @@ If the user wants the vehicle to report **Report Change**:
 
 * **Option 1** : Go to **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Reports > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/gas-station.svg) Fuel > Change**. 
 
-* The **Report Change** screen  appears as shown below:
+  * The **Report Change** screen  appears as shown below:
 
-     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/change.png)
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/change.png)
 
 * **Option 2** : Choose "**Change**" tab in **REPORTS
 CHART**
@@ -66,9 +66,9 @@ If the user wants the vehicle to report **Report Summary**:
 
 *  Go to **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Reports > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/gas-station.svg) Fuel > Summary**. 
 
-*  The **Report Summary** screen  appears as shown below:
+   *  The **Report Summary** screen  appears as shown below:
 
-     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/fuel-summary.png)
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/fuel-summary.png)
 
 #### Search
 * Step 1: Search by the following criteria:

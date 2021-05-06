@@ -113,7 +113,7 @@ Click vào **icon hình người** đó sẽ chuyển sang bản đồ Google 3D
 
 #### 5. Tìm đường
 
-Click vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/directions.svg) để tìm đường từ vị trí của máy đến vị trí thiết bị mà bạn. Vị trí cuả bạn đang ở đâu để tìm ra cung đường ngắn nhất đến xe đấy.
+Click vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/directions.svg) để tìm đường từ vị trí của máy đến vị trí thiết bị của bạn. Vị trí của bạn đang ở đâu để tìm ra cung đường ngắn nhất đến xe đấy.
 
  <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/search-the-way-1.jpg) 
 

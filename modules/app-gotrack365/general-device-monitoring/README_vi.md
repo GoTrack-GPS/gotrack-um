@@ -64,12 +64,12 @@ Click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web
 
 ### 7. Phóng to
  
- Khi click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus-circle.svg) sẽ phóng to lên theo điểm, đối trượng, vị trí bạn muốn phóng to lên.
+ Khi click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus-circle.svg) sẽ phóng to theo điểm, đối trượng, vị trí bạn muốn phóng to lên.
 
  
  ### 8. Thu nhỏ 
 
- Khi click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/minus-circle.svg) sẽ thu nhỏ theo theo điểm, đối trượng, vị trí bạn muốn thu nhỏ lại.
+ Khi click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/minus-circle.svg) sẽ thu nhỏ  theo điểm, đối trượng, vị trí bạn muốn thu nhỏ lại.
 
 
 

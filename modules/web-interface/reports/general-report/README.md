@@ -7,7 +7,9 @@ Add sensor [here](modules/web-interface/devices/edit-device/#sensor) <div id="se
 If the user wants to see **Temperature Report**:
 
 * Go to **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg ) Reports > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Reports > Temperature**.
-   
+
+* General information - report shows some basic information: top speed, average speed, consumed fuel, route length etc.
+  
 * The screen **Report temperature** is shown below:
 
 <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/temperature.png)
@@ -36,10 +38,12 @@ If the user wants to see **Temperature Report**:
 If the user wants the vehicle to report **the General (Device)**:
 
 * Go to **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg ) Reports > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Reports  > Summary (device)**. 
-  
+
+* General information - report shows some basic information: top speed, average speed, consumed fuel, route length etc.
+   
 * The **Summary Report (device)** screen  appears as shown below:
 
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/summary.png)
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/summary.png)
 
 #### Search
 
@@ -65,9 +69,9 @@ If the user wants the vehicle to report **Exports summary by days**:
 
 * Go to **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg ) Reports > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Reports  > Exports summary by days**. 
 
-* The **Exports summary by days** screen  appears as shown below:
+  * The **Exports summary by days** screen  appears as shown below:
 
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/summary-by-day.png)
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/summary-by-day.png)
 
 #### Search
 * Step 1: Search by the following criteria:
@@ -91,9 +95,9 @@ If the user wants the vehicle to report **Report summary geofence**:
 
 * **Option 1** : Go to **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg ) Reports > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Reports  > Report summary geofence**. 
 
-* The **Report summary geofence** screen  appears as shown below:
+  * The **Report summary geofence** screen  appears as shown below:
 
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/summary-geofence.png)
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/summary-geofence.png)
 
 * **Option 2** : Choose "**Summary geofence**" tab in **REPORTS
 DETAIL GEOFENCE**
@@ -125,9 +129,9 @@ If the user wants the vehicle to report **Report detail geofence**:
 
 * **Option 1** : Go to **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg ) Reports > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Reports  > Report detail geofence**. 
 
-* The **Report detail geofence** screen  appears as shown below:
+  * The **Report detail geofence** screen  appears as shown below:
 
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/detail-geofence.png)
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/detail-geofence.png)
 
 * **Option 2** : Choose "**Detail geofence**" tab in **REPORTS
 SUMMARY GEOFENCE**
@@ -160,9 +164,9 @@ If the user wants the vehicle to report **Report Data log**:
 
 *  Go to **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg ) Reports > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Reports  > Route**. 
 
-*  The **Report Data log** screen  appears as shown below:
+   *  The **Report Data log** screen  appears as shown below:
 
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/data-log.png)
+   <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/data-log.png)
 
 #### Search
 
@@ -187,9 +191,9 @@ If the user wants the vehicle to report **Report Route**:
 
 *  Go to **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg ) Reports > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Reports  > Route**. 
 
-*  The **Report Route** screen  appears as shown below:
+   *  The **Report Route** screen  appears as shown below:
 
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/route.png)
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/route.png)
 
 #### Search
 * Step 1: Search by the following criteria:

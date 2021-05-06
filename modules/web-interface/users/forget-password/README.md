@@ -21,7 +21,7 @@
 
     <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/users/mail_reset-password-2.png)
 
-* Or click on the **link** right in the mail. Go to **step 5**.
+
 ### Step 4
 
 * Go to the Main / Inbox, find the mail sent from the software.
@@ -29,7 +29,9 @@
 * Click the **Reset password** link to change the password.
 
     <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/users/reset-password-2.png)
-
+    
+* Or click on the **link** right in the mail. Go to **step 5**.
+  
 ### Step 5
 
 * Reset a new password and click **Submit** to enter the system homepage.

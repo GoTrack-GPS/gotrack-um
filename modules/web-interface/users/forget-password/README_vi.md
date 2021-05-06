@@ -18,14 +18,14 @@ Trong trường hợp người dùng quên mật khẩu, có thể dễ dàng kh
  
    <span style="display:block;text-align:left">![Restoring a forgotten password](/docs/assets/images/web-interface/users/mail_reset-password-1.png) 
 
-* Hoặc click vào **link** ngay trong mail. Chuyển sang **bước 5**.
-
 ### Bước 4 
 
 * Vào mục **Chính / Hộp thư đến**, tìm mail của phần mềm gửi về, click vào link **Đặt lại mật khẩu** để đổi mật khẩu.
 
    <span style="display:block;text-align:left">![Restoring a forgotten password ](/docs/assets/images/web-interface/users/reset-password-1.png)
 
+* Hoặc click vào **link** ngay trong mail. Chuyển sang **bước 5**.
+  
 ### Bước 5
 
 * Cài lại mật khẩu mới và click vào **Gửi đi** để vào trang chủ hệ thống.

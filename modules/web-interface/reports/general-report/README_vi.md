@@ -38,6 +38,8 @@ Nếu người dùng muốn xem **Báo cáo nhiệt độ** :
 
 * Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Báo cáo > Tổng hợp ( thiết bị )**.
 
+* Thông tin chung - báo cáo hiển thị một số thông tin cơ bản: tốc độ tối đa, tốc độ trung bình, nhiên liệu tiêu thụ, chiều dài tuyến đường, v.v.
+  
 * Hiện ra màn hình **Báo cáo Tổng hợp ( thiết bị )** như hình dưới đây :
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/general-deivce.png)
@@ -68,9 +70,9 @@ Nếu người dùng muốn xem **Báo cáo nhiệt độ** :
 Nếu người dùng muốn xem báo cáo **Tổng hợp theo ngày** :  
 * Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Báo cáo > Tổng hợp theo ngày**.
 
-* Hiện ra màn hình **Báo cáo Tổng hợp theo ngày** như hình dưới đây :
+  * Hiện ra màn hình **Báo cáo Tổng hợp theo ngày** như hình dưới đây :
  
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/sum-up-by-date.png) 
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/sum-up-by-date.png) 
 
 #### Tìm kiếm 
 
@@ -94,9 +96,9 @@ Nếu người dùng muốn xem báo cáo **Tổng hợp theo ngày** :
 Nếu người dùng muốn xem báo cáo **Tổng hợp ra vào vùng** :  
 * **Cách 1** : Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Báo cáo > Tổng hợp ra vào vùng**.
 
-* Hiện ra màn hình **Báo cáo Tổng hợp ra vào vùng** như hình dưới đây :
+  * Hiện ra màn hình **Báo cáo Tổng hợp ra vào vùng** như hình dưới đây :
 
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/general-in-out-of-the-area.png)
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/general-in-out-of-the-area.png)
 
 * **Cách 2** : Nhấn vào **Tổng hợp ra vào vùng** trong **BÁO CÁO
 CHI TIẾT RA VÀO VÙNG**
@@ -128,9 +130,9 @@ Nếu người dùng muốn xem báo cáo **Chi tiết ra vào vùng** :
 
 * **Cách 1** : Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Báo cáo > Chi tiết ra vào vùng**.
 
-* Hiện ra màn hình **Chi tiết ra vào vùng** như hình dưới đây :
+  * Hiện ra màn hình **Chi tiết ra vào vùng** như hình dưới đây :
 
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/details-geofence-2.png)
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/details-geofence-2.png)
 
 * **Cách 2** : Click vào **Chi tiết ra vào vùng** ở **BÁO CÁO TỔNG HỢP RA VÀO VÙNG**
 
@@ -165,9 +167,9 @@ Nếu người dùng muốn xem báo cáo **Dữ liệu lịch sử** :
 
 * Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Báo cáo > Dữ liệu lịch sử**.
 
-* Hiện ra màn hình **Dữ liệu lịch sử** như hình dưới đây :
+  * Hiện ra màn hình **Dữ liệu lịch sử** như hình dưới đây :
 
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/data-log.png)
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/data-log.png)
 
 #### Tìm kiếm
 
@@ -192,9 +194,9 @@ Nếu người dùng muốn xem báo cáo **Lộ trình** :
 
 * Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Báo cáo > Lộ trình**.
 
-* Hiện ra màn hình **Lộ trình** như hình dưới đây :
+  * Hiện ra màn hình **Lộ trình** như hình dưới đây :
 
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/route.png)
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/route.png)
 
 #### Tìm kiếm 
 

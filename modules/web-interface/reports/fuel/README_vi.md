@@ -7,9 +7,9 @@ Nếu người dùng muốn xem **Báo cáo biểu đồ** :
 
 * Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/gas-station.svg)  Nhiên liệu > Biểu đồ**.
   
-* Hiện ra màn hình **Biểu đồ** như hình dưới đây :
+  * Hiện ra màn hình **Biểu đồ** như hình dưới đây :
 
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/chart.png)
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/chart.png)
 
 #### Tìm kiếm 
 
@@ -35,9 +35,9 @@ Nếu người dùng muốn xem **Báo cáo nạp xả** :
 
 * **Cách 1** : Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/gas-station.svg)  Nhiên liệu > Nạp xả**.
 
-* Hiện ra màn hình **Nạp xả** như hình dưới đây :
+  * Hiện ra màn hình **Nạp xả** như hình dưới đây :
 
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/charge-and-discharge.png)
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/charge-and-discharge.png)
 
 * **Cách 2** : Vào **Nạp xả** trong **Biểu đồ** 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/charge-and-discharge-1.png)
@@ -65,9 +65,9 @@ Nếu người dùng muốn xem **Báo cáo nạp xả** :
 Nếu người dùng muốn xem **Báo cáo tổng hợp** :  
 * Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/gas-station.svg)  Nhiên liệu > Tổng hợp**.
 
-* Hiện ra màn hình **Tổng hợp** như hình dưới đây :
+  * Hiện ra màn hình **Tổng hợp** như hình dưới đây :
 
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/synthetic.png)
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/synthetic.png)
 
 #### Tìm kiếm 
 
