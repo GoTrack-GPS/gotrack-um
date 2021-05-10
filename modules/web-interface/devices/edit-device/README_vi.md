@@ -156,7 +156,7 @@ Click **Thêm** để lưu cảm biến.
         - **Loại camera** : MDVR ngoài chụp ảnh ra còn có thêm tính năng quay video.
         - **MDVR Id** : Nhập mã của camera.
         - **Host** : Địa chỉ IP truy cập server camera
-        - **Cổng** : Cổng kết nối đến đầu ghi hình camera
+        - **Cổng** : Cổng kết nối đến đầu ghi hình camera. 
         - **Kênh** : Tùy chọn Kênh camera 
         - **Luồng** : Tùy chọn luồng dữ liệu đầu ra. Luồng dữ liệu **chính** với độ nét cao để phục vụ lưu trữ, xem lại. Còn luồng dữ liệu **phụ** dùng để xem qua mạng – với tốc độ đường truyền hạn chế.
         - **Mô tả** : Có thể nhập thêm thông tin về camera,...
