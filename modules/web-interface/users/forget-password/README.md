@@ -6,8 +6,8 @@
 
    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/users/forgot-pw.png) 
 
-* Enter your email, click **Submit**. 
-* The message: "Sent successfully! Please confirm password by email".
+* Enter your account name, click **Submit**. 
+* The message: "Password reset email sent".
 
 ### Step 2
 
@@ -36,6 +36,6 @@
 
 * Reset a new password and click **Submit** to enter the system homepage.
  
-    <span style="display:block;text-align:left">![Restoring a forgotten password ](/docs/assets/images/web-interface/users/reset-password.png)
-
+  <span style="display:block;text-align:left">![Restoring a forgotten password ](/docs/assets/images/web-interface/users/reset-password.png)
+  
 > Note: If you don't have an email, try to contact your GPS monitoring service to get the password to access your account.

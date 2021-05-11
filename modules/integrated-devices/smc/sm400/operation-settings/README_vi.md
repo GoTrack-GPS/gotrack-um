@@ -160,6 +160,9 @@ Mật khẩu quản trị viên có tất cả các quyền, còn mật khẩu n
 
 &emsp;<span class="icon-left12">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/camera.png)
 
+<div id="mdvr">
+</div>
+
 ② **Cài đặt video: cài đặt cơ bản, cài đặt luồng chính, cài đặt luồng phụ, cài đặt thời gian, quản lý bộ nhớ, cài đặt OSD**
 
 &emsp;<span class="icon-left12">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/record.png)

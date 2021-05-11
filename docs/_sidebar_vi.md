@@ -12,6 +12,10 @@
       - [Xóa  ](vi/modules/web-interface/devices/delete-device/)
       - [Các chức năng khác](vi/modules/web-interface/devices/equipment-management/)
       - [Quản lý gửi lệnh ](vi/modules/web-interface/devices/send-the-device-command/)
+
+    - **Camera**  
+      - [Xem trực tiếp](vi/modules/web-interface/camera/livestream/)
+      - [Xem lại](vi/modules/web-interface/camera/playback/)
     - **Bản đồ**
       - [Bố cục ](vi/modules/web-interface/tracking/Interface-main/)
       - [Giám sát tổng quát   ](vi/modules/web-interface/tracking/general-device-monitoring/)
@@ -30,20 +34,21 @@
       - [Quản lý vùng](vi/modules/web-interface/configuration/manage-region/)
       - [Quản lý nhóm vùng](vi/modules/web-interface/configuration/group-geofence/)
       - [Quản lý điểm đánh dấu](vi/modules/web-interface/configuration/manage-poi/) 
-
-    - **Thông báo**
-      - [Quản lý thông báo](vi/modules/web-interface/notification/)
-      - [Quy tắc cảnh báo](vi/modules/web-interface/notification/warning/)
-      - [Quản lý lập lịch báo cáo](vi/modules/web-interface/notification/Schedule-a-report/)
-      - [Quản lý nhắc nhở](vi/modules/web-interface/notification/remind/)
+    - **Sim**
+      - [Quản lý Sim ](vi/modules/web-interface/sim/)
     
     - **Tiện ích**
       - [Theo dõi nhiều xe](vi/modules/web-interface/utilities/trackings/) 
       - [Theo dõi theo vùng](vi/modules/web-interface/utilities/multi-tracking-by-geofence/) 
       - [Theo dõi theo điểm](vi/modules/web-interface/utilities/multi-tracking-by-landmarks/)
       - [Ước phí tính đường bộ](vi/modules/web-interface/utilities/estimated-road-charges/)
-    
-    
+     
+    - **Thông báo**
+      - [Quản lý thông báo](vi/modules/web-interface/notification/)
+      - [Quy tắc cảnh báo](vi/modules/web-interface/notification/warning/)
+      - [Quản lý lập lịch báo cáo](vi/modules/web-interface/notification/Schedule-a-report/)
+      - [Quản lý nhắc nhở](vi/modules/web-interface/notification/remind/)
+
   - **App GoTrack365**
     - **Đăng nhập ứng dụng**
       - [Đăng nhập](vi/modules/app-gotrack365/login/)

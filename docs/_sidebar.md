@@ -13,6 +13,7 @@
                - [Other functions](modules/web-interface/devices/equipment-management/)
                - [Command ](modules/web-interface/devices/send-the-device-command/)
 
+          
           - **Map Tracking**
                - [Workspace overview](modules/web-interface/tracking/Interface-main/)
                - [General supervision](modules/web-interface/tracking/general-device-monitoring/)
@@ -20,6 +21,10 @@
                - [Extensive tools](modules/web-interface/tracking/map-tools/)
                - [Utility maps](modules/web-interface/tracking/map-widget/)
 
+          - **Camera**  
+               - [Livestream](modules/web-interface/camera/livestream/)
+               - [Playback](modules/web-interface/camera/playback/)
+               
           - **Reports**
                - [1. General report](modules/web-interface/reports/general-report/)
                - [2. Fuel](modules/web-interface/reports/fuel/)
@@ -31,11 +36,9 @@
                - [Group geofences](modules/web-interface/configuration/group-geofence/)
                - [Landmarks](modules/web-interface/configuration/manage-poi/) 
           
-          - **Notification** 
-               - [Manage notifications](modules/web-interface/notification/)
-               - [Alert rules](modules/web-interface/notification/warning/)
-               - [Scheduled report](modules/web-interface/notification/Schedule-a-report/)
-               - [Task remind](modules/web-interface/notification/remind/)
+          - **Sim**
+              - [Sim management](modules/web-interface/sim/)
+
           
           - **Utilities**
                - [Trackings](modules/web-interface/utilities/trackings/) 
@@ -43,7 +46,12 @@
               - [Multi-tracking-by-landmarks](modules/web-interface/utilities/multi-tracking-by-landmarks/)
               - [Estimated-road-charges](modules/web-interface/utilities/estimated-road-charges/)
           
-
+          - **Notification** 
+               - [Manage notifications](modules/web-interface/notification/)
+               - [Alert rules](modules/web-interface/notification/warning/)
+               - [Scheduled report](modules/web-interface/notification/Schedule-a-report/)
+               - [Task remind](modules/web-interface/notification/remind/)
+          
      - **App GoTrack365**
           - **Sign in to the application**
 

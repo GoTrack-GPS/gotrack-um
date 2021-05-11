@@ -5,7 +5,7 @@ Trong trường hợp người dùng quên mật khẩu, có thể dễ dàng kh
 
 <span style="display:block;text-align:left">![Restoring a forgotten password](/docs/assets/images/web-interface/users/forget-password.png)
 
-*  Nhập email xong click vào **Gửi đi**.
+*  Nhập tên tài khoản xong click vào **Gửi đi**.
 *  Hiện lên thông báo: "Gửi thành công! Hãy xác nhận mật khẩu qua email".
 
 ### Bước 2
