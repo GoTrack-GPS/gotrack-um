@@ -24,20 +24,11 @@ Select **Map** on the menu. The interface displays as shown below:
 
 See more details about the **Menu** [here](modules/get-started/#menu)
 
-### The account tree
+### Account tree
 
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/map/account-tree.png)
 
-<span class="icon-left svg-filter-distributor">![Ok](/docs/assets/images/web-interface/icon/SVG/user-tie.svg) Distributor user.
-
-
-<span class="icon-left svg-filter-user">![Ok](/docs/assets/images/web-interface/icon/SVG/user1.svg) User basic.
-
-> Note: This screen is available only when logging in to the distributor account.
-
-* <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg) User can enter Username / Account to search.
-
-Or refer to other search methods [here](modules/get-started/#searchuser) <div id="searchuser"> 
+See more details about the **Account tree** [here](/modules/web-interface/users/account-tree/#account-tree) <div id="account-tree">
 
 ### Device list
 

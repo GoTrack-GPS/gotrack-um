@@ -5,6 +5,7 @@
                - [Login](modules/web-interface/users/login/)
                - [Forgot password](modules/web-interface/users/forget-password/)
                - [Account Management](modules/web-interface/users/account-management/)
+               - [Account tree](modules/web-interface/users/account-tree/)
           - **Devices** 
                - [Search ](modules/web-interface/devices/search-device/)
                - [Add ](modules/web-interface/devices/add-device/)
@@ -86,6 +87,7 @@
                - **SM400**
                   - [Technical document](modules/integrated-devices/smc/sm400/technical-document/)
                   - [Operation and settings](modules/integrated-devices/smc/sm400/operation-settings/) 
+                  - [Configure to receive images](modules/integrated-devices/smc/sm400/configuration-connection/) 
                   - [Wriring diagram](modules/integrated-devices/smc/sm400/wriring-diagram/) 
                 
      - **Contact**  

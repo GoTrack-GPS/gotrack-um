@@ -13,6 +13,9 @@ Click vào **Quản lý > Tài khoản** để thực hiện các chức năng t
     * Quyền truy cập;
     * Danh sách các trình theo dõi có sẵn .
 
+<div id="search-acount">
+</div>
+
 ### 1. Tìm kiếm tài khoản
 
 <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg) Tìm kiếm theo các tiêu chí sau:
@@ -55,6 +58,10 @@ Khi click vào  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/image
      - **Ngày đầu tuần**: Chọn ngày trong tuần mà bạn muốn hiển thị khi tìm kiếm theo tuần/báo cáo.
 
 Sau khi điền hết các thông tin thì click vào **Thêm** để hoàn thành thao tác.
+
+<div id="edit-acount">
+</div>
+
 ### 3. Sửa tài khoản
 
 #### Cách 1
@@ -98,6 +105,7 @@ Sau khi điền hết các thông tin thì click vào **Thêm** để hoàn thà
 Sau khi sửa xong thông tin mà bạn cần sửa thì click vào **Lưu thay đổi** để hoàn thành thao tác.
 
 ### 4. Đổi mật khẩu
+
 - **Cách 1:** CLick vào :point_right:   <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg)  của tài khoản đó. Chọn **Đổi mật khẩu**.
 
     <span style="display:block;text-align:left">![ manage edit acount 2](/docs/assets/images/web-interface/users/change-password-1.png)
@@ -108,11 +116,18 @@ Sau khi sửa xong thông tin mà bạn cần sửa thì click vào **Lưu thay 
 
     Sẽ xuất hiện một hộp thoại như hình dưới đây:
 
+    <div id="change-pw">
+    </div>
+
     <span style="display:block;text-align:left">![ manage change password](/docs/assets/images/web-interface/users/change-password.png)
 
-    Click vào **Lưu thay đổi** để hoàn thành thao tác.
+    * Nhập **mật khẩu** liền, không dấu và hơn 6 ký tự.
+    * Trường dữ liệu **xác nhận mật khẩu** nhập **giống** với ô **mật khẩu**.
+    * Click vào **Lưu thay đổi** để hoàn thành thao tác.
 
 ### 5. Xóa tài khoản
+
+
 * CLick vào :point_right: <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) của tài khoản đó. Chọn **Xóa**.
 
 * Sẽ xuất hiện một hộp thoại như hình dưới đây:

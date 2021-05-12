@@ -33,7 +33,7 @@ Example: Select **Today** > Press **OK**. On the screen now update the route of 
     <span class="icon-left4">![Interface Web](/docs/assets/images/web-english/gotrack365-el/route.jpg) 
 
 
-    1. Select the icon to review the route.
+    1. Select the icon to review/stop the route.
 
     2. Press and hold the icon to see the route to the desired destination.
 

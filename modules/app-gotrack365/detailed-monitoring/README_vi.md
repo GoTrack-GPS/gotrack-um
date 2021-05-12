@@ -29,7 +29,7 @@ Ví dụ: Chọn ngày **Hôm nay > Nhấn OK**. trên màn hình lúc này cậ
 
     <span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/history-2-365.jpg) 
 
-    **1.** Chọn icon để xem lại lộ trình.
+    **1.** Chọn icon để xem/dừng xem lại lộ trình.
 
     **2.** Nhấn và giữ icon để xem lộ trình đến địa điểm nào đó theo ý bạn muốn.
 

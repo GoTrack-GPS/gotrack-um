@@ -173,6 +173,9 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
     * **Camera Id**: Enter the code of the camera.
     * **Description**: Can enter more information about the camera, ...
 
+<div id="camera">
+</div>
+
 * **For camera type: MDVR**
 
     Choose "<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **Add camera**" tab , the screen will display as follows:

@@ -12,6 +12,9 @@ Only an owner has the full access to the main account. An owner can create addit
 * Access rights.
 * A list of available trackers
 
+<div id="search-acount">
+</div>
+
 ### 1. Search for an account 
 
 <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg) Search by the following criteria:
@@ -108,9 +111,14 @@ After filling out all information, click **Add** to complete the operation
 
 * A dialog box appears as shown below:
 
+    <div id="change-pw">
+    </div>
+    
     <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/users/reset-password-1.png)
 
-    Click **Save changes** to complete the operation.
+    * Enter an unsigned, unsigned password and more than 6 characters.
+    * Data fields **confirm password** is the same as **password**
+    * Click **Save changes** to complete the operation.
 
 ### 5. Delete account
 

@@ -4,7 +4,7 @@
       - [Đăng nhập](vi/modules/web-interface/users/login/)
       - [Quên mật khẩu](vi/modules/web-interface/users/forget-password/)
       - [Quản lý tài khoản](vi/modules/web-interface/users/account-management/)
-
+      - [Cây tài khoản](vi/modules/web-interface/users/account-tree/)
     - **Thiết bị GPS**
       - [Tìm kiếm ](vi/modules/web-interface/devices/search-device/)
       - [Thêm ](vi/modules/web-interface/devices/add-device/)
@@ -79,6 +79,7 @@
     - **SM400**
       - [Tài liệu kỹ thuật](vi/modules/integrated-devices/smc/sm400/technical-document/)
       - [Hoạt động và cài đặt](vi/modules/integrated-devices/smc/sm400/operation-settings/)
+      - [Cấu hình nhận ảnh](vi/modules/integrated-devices/smc/sm400/configuration-connection/)
       - [Sơ đồ đấu dây ](vi/modules/integrated-devices/smc/sm400/wriring-diagram/) 
  
   **Liên hệ**  

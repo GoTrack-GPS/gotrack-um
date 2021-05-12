@@ -21,23 +21,13 @@
  Chọn vào **Bản đồ** trên menu. Giao diện hiển thị như hình dưới đây :
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-interface/map/search-map.png)
 
-Để hiểu thêm về phần Menu, người dùng tìm hiểu thêm [tại đây](/vi/modules/get-started/#menu) <div id="menu">
-
+Xem thêm thông tin chi tiết về **Menu** [tại đây](/vi/modules/get-started/#menu) <div id="menu">
 
 ### Cây tài khoản
 
-<span style="display:block; text-align:center">![Interface Web](/docs/assets/images/web-interface//map/search-account-level.png)
+<span style="display:block; text-align:left">![Interface Web](/docs/assets/images/web-interface//map/search-account-level.png)
 
-<span class="icon-left svg-filter-distributor">![Ok](/docs/assets/images/web-interface/icon/SVG/user-tie.svg) Tài khoản nhà phân phối
-
-
-<span class="icon-left svg-filter-user">![Ok](/docs/assets/images/web-interface/icon/SVG/user1.svg) Tài khoản thường
-> Lưu ý : Chỉ khi đăng nhập tài khoản là nhà phân phối mới có màn hình này.
-
-<span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg)  Người dùng có thể nhập **Tên người dùng/Tài khoản** để tìm kiếm.
-
- Hoặc tham khảo các cách tìm kiếm khác [tại đây](/vi/modules/web-interface/users/account-management/?id=_1-t%c3%acm-ki%e1%ba%bfm-t%c3%a0i-kho%e1%ba%a3n) 
-
+Xem thêm thông tin chi tiết về **Cây tài khoản** [tại đây](vi/modules/web-interface/users/account-tree/#account-tree) <div id="account-tree">
 
 ### Danh sách thiết bị 
 <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/list-device-map-2.png)

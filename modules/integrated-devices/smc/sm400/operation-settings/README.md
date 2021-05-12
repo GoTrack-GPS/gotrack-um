@@ -162,6 +162,9 @@ The administrator password has all permissions, and the user password only has t
 
 &emsp;<span class="icon-left12">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/camera.png)
 
+<div id="mdvr">
+</div>
+
 ② **Video settings: basic settings, main stream settings, sub stream settings, timing settings, storage management, OSD settings**
 
 &emsp;<span class="icon-left12">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/record.png)
