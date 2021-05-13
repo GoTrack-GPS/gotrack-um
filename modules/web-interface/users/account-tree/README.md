@@ -36,6 +36,8 @@ Or refer to other search methods [here](modules/get-started/#searchuser) <div id
 
     <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/map/account-tree-1.png)
 
-* If you want to edit your account, click Edit. See instructions [here](/modules/web-interface/users/account-management/#edit-acount) <div id="edit-acount">
-* If you want to change your account password, click Change Password. See instructions [here](/modules/web-interface/users/account-management/#change-pw) <div id="change-pw">
-* If you want to configure notifications, click on Alert Configuration. See instructions [here](/modules/web-interface/notification/#notification) <div id="notification">
+* If you want to edit your account, click **Edit**. See instructions [here](modules/web-interface/users/account-management/#edit-acount)
+
+* If you want to change your account password, click **Change assword**. See instructions [here](modules/web-interface/users/account-management/#change-pw) 
+
+* If you want to configure notifications, click on **Notifications setting**. See instructions [here](modules/web-interface/notification/#notification)

@@ -106,7 +106,7 @@ Sau khi sửa xong thông tin mà bạn cần sửa thì click vào **Lưu thay 
 
 ### 4. Đổi mật khẩu
 
-- **Cách 1:** CLick vào :point_right:   <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg)  của tài khoản đó. Chọn **Đổi mật khẩu**.
+- **Cách 1:** CLick vào :point_right:   <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg)  của tài khoản đó. Chọn **Đổi mật khẩu**.
 
     <span style="display:block;text-align:left">![ manage edit acount 2](/docs/assets/images/web-interface/users/change-password-1.png)
 
@@ -116,8 +116,8 @@ Sau khi sửa xong thông tin mà bạn cần sửa thì click vào **Lưu thay 
 
     Sẽ xuất hiện một hộp thoại như hình dưới đây:
 
-    <div id="change-pw">
-    </div>
+<div id="change-pw">
+</div>
 
     <span style="display:block;text-align:left">![ manage change password](/docs/assets/images/web-interface/users/change-password.png)
 
@@ -128,7 +128,7 @@ Sau khi sửa xong thông tin mà bạn cần sửa thì click vào **Lưu thay 
 ### 5. Xóa tài khoản
 
 
-* CLick vào :point_right: <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) của tài khoản đó. Chọn **Xóa**.
+* CLick vào :point_right: <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) của tài khoản đó. Chọn **Xóa**.
 
 * Sẽ xuất hiện một hộp thoại như hình dưới đây:
 
@@ -140,9 +140,9 @@ Nếu:
 
 ### 6. Xuất dữ liệu
 Có 2 loại:
-- Xuất excel <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel.svg).
+- Xuất excel <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel.svg).
 
-- Xuất pdf  <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf.svg).
+- Xuất pdf  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf.svg).
 
     <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/users/export-user.png)
 

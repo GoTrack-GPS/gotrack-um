@@ -184,10 +184,10 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
 
     * **Name**: Enter the name of the camera you want to install.
     * **Camera type**: **MDVR** in addition to taking pictures also has a video recording feature.
-    * **MDVR Id**: Enter the code of the camera.
-    * **Host**: The IP address that accesses the camera server
-    * **Port**: The port connects to the camera recorder
-    * **Channel**: Optional Camera channel
+    * **MDVR Id**: ID printed on SM400 device
+    * **Host**: IP address or camera server access domain name.
+    * **Port**: Connection port to the camera recorder. Default is 6605.
+    * **Channel**: If the camera cord is plugged into the port of any channel, select that channel. Position of the mounting channel at the recorder. Only 1 channel can be created.
     * **Stream**: Output stream option. Main data stream with high definition for storage and playback. And the extra data stream is used for viewing over the network -  with limited transmission speed.
     * **Description**: Can enter more information about the camera, ...
 

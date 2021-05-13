@@ -14,6 +14,7 @@
       - [Quản lý gửi lệnh ](vi/modules/web-interface/devices/send-the-device-command/)
 
     - **Camera**  
+      - [Hướng dẫn cài đặt và sử dụng MDVR](vi/modules/web-interface/camera/instructions-for-installing-configuring/)
       - [Xem trực tiếp](vi/modules/web-interface/camera/livestream/)
       - [Xem lại](vi/modules/web-interface/camera/playback/)
     - **Bản đồ**

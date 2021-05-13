@@ -3,7 +3,7 @@
 Để tra cứu Sim, bạn vào mục **Quản lý > Kho > Thẻ Sim**.
 Màn hình hiển thị như hình dưới đây : 
 
-  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/sim/Sim.png)
+  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/sim/sim.png)
 
 ### Tìm kiếm 
 
@@ -21,7 +21,7 @@ Màn hình hiển thị như hình dưới đây :
 
 ### Thêm Sim
 
-<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/sim/add-Sim.png)
+<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/sim/add-sim.png)
 
 * **Bước 1** : Nhấn vào **Thêm Sim**
 * **Bước 2** :
@@ -61,11 +61,11 @@ Hoặc **Đóng** để hủy thao tác.
     <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/sim/history-1.png)
 
 * Bước 2 : Màn hình Thẻ Sim lịch sử xuất hiện như hình dưới đây :
-  <span class="icon-left4">![Manage device ](/docs/assets/images/web-interface/sim/history-2.png)
+  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/sim/history-2.png)
 
 ### Gia hạn Sim
 
-<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/sim/renew-Sim.png)
+<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/sim/renew-sim.png)
 
 * **Cách 1**
   * Bước 1 : Chọn 1 hoặc nhiều Sim muốn gia hạn cùng thời điểm.

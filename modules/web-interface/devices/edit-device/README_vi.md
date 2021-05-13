@@ -141,9 +141,9 @@ Click **Thêm** để lưu cảm biến.
     <span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/add-camera-device-1.png)
 
     * Khi click vào  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Thêm camera** xuất  hiện hộp thoại như hình trên: 
-        - **Tên** : Nhập tên camera bạn muốn lắp đặt.
-        - **Loại camera** : Basic ( thường )  chỉ chụp ảnh.
-        - **Camera Id** : Nhập mã  của camera.
+        - **Tên** : Nhập tên camera  theo đúng kênh cắm ở đầu ghi.
+        - **Loại camera** : **Basic** ( thường ). Chỉ chụp ảnh.
+        - **Camera Id** : Nhập mã của camera. ID ghi trên thiết bị SM400
         - **Mô tả** : Có thể nhập thêm thông tin về camera,...
 
 <div id="camera">
@@ -154,14 +154,14 @@ Click **Thêm** để lưu cảm biến.
     <span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/add-camera-device-2.png)
 
     * Khi click vào  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Thêm camera** xuất  hiện hộp thoại như hình trên: 
-        - **Tên** : Nhập tên vị trí camera bạn muốn lắp đặt.
-        - **Loại camera** : MDVR ngoài chụp ảnh ra còn có thêm tính năng quay video.
-        - **MDVR Id** : Nhập mã của camera.
-        - **Host** : Địa chỉ IP truy cập server camera
-        - **Cổng** : Cổng kết nối đến đầu ghi hình camera. 
-        - **Kênh** : Tùy chọn kênh camera. Vị trí kênh lắp ở đầu ghi. Chỉ được tạo 1 kênh duy nhất. 
-        - **Luồng** : Tùy chọn luồng dữ liệu đầu ra. Luồng dữ liệu **chính** với độ nét cao để phục vụ lưu trữ, xem lại. Còn luồng dữ liệu **phụ** dùng để xem qua mạng – với tốc độ đường truyền hạn chế.
-        - **Mô tả** : Có thể nhập thêm thông tin về camera,...
+      - **Tên** : Nhập tên vị trí camera bạn muốn lắp đặt.
+      - **Loại camera** : **MDVR**. Ngoài chụp ảnh ra còn có thêm tính năng quay video.
+      - **MDVR Id** : ID in trên thiết bị SM400.
+      - **Host** : Địa chỉ IP hoặc tên miền truy cập server camera.
+      - **Cổng** : Cổng kết nối đến đầu ghi hình camera. Mặc định là 6605.
+      - **Kênh** : Dây nối camera cắm vào cổng của kênh nào thì chọn kênh đó. Vị trí kênh lắp ở đầu ghi. Chỉ được tạo 1 kênh duy nhất. 
+      - **Luồng** : Tùy chọn luồng dữ liệu đầu ra. Luồng dữ liệu **chính** với độ nét cao để phục vụ lưu trữ, xem lại. Còn luồng dữ liệu **phụ** dùng để xem qua mạng – với tốc độ đường truyền hạn chế.
+      - **Mô tả** : Có thể nhập thêm thông tin về camera,...
 
         Click **Thêm** để lưu camera.
 

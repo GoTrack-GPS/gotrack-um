@@ -21,7 +21,7 @@ Ví dụ : **developer (0/15)**. Trong đó
 * **developer** : Tên tài khoản đăng nhập.
 *  **0** : Số thiết bị có trong tài khoản developer(chính nó).
 * **15** : **Tổng** số thiết bị có trong tài khoản developer (tài khoản cha) **+** số thiết bị của các tài khoản con được tạo trong tài khoản developer .
-  
+
 ### <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg)  Tìm kiếm
 
 Người dùng có thể nhập **Tên người dùng/Tài khoản** để tìm kiếm.
@@ -35,9 +35,9 @@ Người dùng có thể nhập **Tên người dùng/Tài khoản** để tìm 
     <span style="display:block; text-align:left">![Interface Web](/docs/assets/images/web-interface//map/search-account-level-1.png)
 
 
-* Nếu muốn sửa tài khoản thì click vào **Sửa**. Xem hướng dẫn [tại đây](vi/modules/web-interface/users/account-management/#edit-acount) <div id="edit-acount">
+* Nếu muốn sửa tài khoản thì click vào **Sửa**. Xem hướng dẫn [tại đây](vi/modules/web-interface/users/account-management/#edit-acount) 
   
-* Nếu muốn đổi mật khẩu tài khoản thì click vào **Đổi  mật khẩu**. Xem hướng dẫn [tại đây](vi/modules/web-interface/users/account-management/#change-pw) <div id="change-pw">
+* Nếu muốn đổi mật khẩu tài khoản thì click vào **Đổi  mật khẩu**. Xem hướng dẫn [tại đây](vi/modules/web-interface/users/account-management/#change-pw) 
   
-* Nếu muốn cấu hình thông báo thì click vào **Cấu hình thông báo**. Xem hướng dẫn [tại đây](vi/modules/web-interface/notification/#notification) <div id="notification">
+* Nếu muốn cấu hình thông báo thì click vào **Cấu hình thông báo**. Xem hướng dẫn [tại đây](vi/modules/web-interface/notification/#notification) 
 

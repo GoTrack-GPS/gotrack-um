@@ -1,7 +1,5 @@
 # Xem trực tiếp
 
-Muốn  giám sát video và giám sát từ xa trên xe thì cần phải lắp camera, cài đặt thiết bị xem hướng dẫn [tại đây](vi/modules/integrated-devices/smc/sm400/operation-settings/#mdvr)  <div id="mdvr">
-
 Để cấu hình cảm biến camera xem video trực tiếp, xem hướng dẫn [tại đây](vi/modules/web-interface/devices/edit-device/#camera)  <div id="camera">  
 
 Sau khi cấu hình xong :
@@ -35,6 +33,5 @@ Sau khi cấu hình xong :
 <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-full-screen.svg) Toàn màn hình tất cả các kênh.
 
 <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/full-screen-exit.svg) Thu nhỏ màn hình các kênh camera về chế độ mặc định ban đầu.
- 
 
-* Alternatively, you can click on a certain channel to: **Play / stop / close / play all / close all**.
+* Ngoài ra, bạn có thể nhấn vào 1 kênh nào đó để **xem/dừng/đóng/xem tất cả/đóng tất cả**.

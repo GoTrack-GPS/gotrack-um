@@ -1,5 +1,7 @@
 # Live stream
 
+If you want to monitor video and monitor remotely on the vehicle, you need to install a camera, install equipment, see instructions [here](modules/integrated-devices/smc/sm400/operation-settings/#mdvr)  <div id="mdvr">
+
 To configure the camera sensor for live video view, see instructions [here](modules/web-interface/devices/edit-device/#camera)  <div id="camera">  
 
 After configuration is complete:
