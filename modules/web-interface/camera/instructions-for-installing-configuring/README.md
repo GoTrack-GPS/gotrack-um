@@ -1,7 +1,7 @@
-# Instructions for installing and using MDVR
+# Instructions for installing and using MDVR (SM400)
 
 ### Step 1: Prepare the hardware
-- Recorder device SM400 Base or Livestream.
+- Recorder device SM400 Basic or Livestream.
 - Equipment conforms to QCVN31 S200 or S400 standards.
 - Camera.
 - 4G sim for SM400 livestream recorder (if any).
@@ -25,7 +25,7 @@
 
     <span class="icon-left16">![Manage device ](/docs/assets/images/web-interface/livestream/connect-sm400-s200.jpg)
 
-     - Plug the camera into the recorder in order from AV1->AV4
+     - Plug the camera into the recorder in order from AV1 <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg) AV4
      - Insert the SD memory card into the SM400 recorder.
      - Insert 4G sim (only for SM400 livestream) into the SM400 recorder.
      - Connect the SM400 recorder to the monitor for configuration.
@@ -124,7 +124,7 @@
    
     After configuring the information, click **Save Changes** to complete the operation.
 
-#### 4.2. Recorder SM400 livestream
+#### 4.2. Recorder SM400  Livestream
 
 * You go to https://gps.gotrack.vn to log in.
 * Go to **Management > Devices**.
@@ -185,6 +185,10 @@
 #### 6.1. Check photo
 
 * Go to Photo Report to see photos
+  You go to **Manage > Camera > Photo History**.
+  The screen displays as shown below:
+
+  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/history-image.png)
 
 #### 6.2. Check out the video
 
@@ -195,7 +199,8 @@ After configuration is complete:
     <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/livestream.png)
 
 * To view the camera video again, go to **Management > Camera > Playback**.
-     The screen displays as shown below:
+    
+    The screen displays as shown below:
+
      <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/playback.png)
 
-* To view photo history, go to **Manage > Camera > Photo History**.

@@ -1,7 +1,7 @@
-# Hướng dẫn cài đặt và sử dụng MDVR
+# Hướng dẫn cài đặt và sử dụng MDVR (SM400)
 
 ### Bước 1 : Chuẩn bị phần cứng 
-- Thiết bị đầu ghi SM400 Base hoặc Livestream.
+- Thiết bị đầu ghi SM400 Basic hoặc Livestream.
 - Thiết bị hợp chuẩn QCVN31 S200 hoặc S400.
 - Camera. 
 -  Sim 4G cho thiết bị đầu ghi SM400 livestream (nếu có).
@@ -25,7 +25,7 @@
    
     <span class="icon-left16">![Manage device ](/docs/assets/images/web-interface/livestream/connect-sm400-s200.jpg)
 
-    - Cắm camera vào đầu ghi theo thứ tự từ AV1->AV4
+    - Cắm camera vào đầu ghi theo thứ tự từ AV1  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg)  AV4
     - Lắp thẻ nhớ SD vào đầu ghi SM400 .
     - Lắp sim 4G (chỉ dành cho SM400 livestream) vào đầu ghi SM400.
     - Nối đầu ghi SM400 vào màn hình để cấu hình.
@@ -125,7 +125,7 @@
 
     Sau khi cấu hình xong các thông tin, click **Lưu thay đổi** để hoàn thành thao tác.
 
-#### 4.2. Đầu ghi SM400 livestream
+#### 4.2. Đầu ghi SM400 Livestream
 
 * Bạn vào https://gps.gotrack.vn để đăng nhập.
 * Vào mục **Quản lý > Thiết bị**.
@@ -188,6 +188,11 @@
 
 * Vào Báo cáo ảnh để xem ảnh
 
+  Bạn vào **Quản lý > Camera > Lịch sử ảnh**.
+  Màn hình hiển thị như hình dưới đây :
+
+  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/history-image.png)
+
 #### 6.2. Kiểm tra video
 
 * Sau khi cấu hình xong :
@@ -197,8 +202,8 @@
     <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/livestream.png)
 
 * Muốn xem lại video camera , vào **Quản lý > Camera > Xem lại**. 
-    Màn hình hiển thị như hình dưới đây :
+  
+  Màn hình hiển thị như hình dưới đây :
 
     <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/playback-1.png)
 
-* Muốn xem lịch sử ảnh, vào **Quản lý > Camera > Lịch sử ảnh**.
