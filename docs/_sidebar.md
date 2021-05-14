@@ -22,7 +22,8 @@
                - [Extensive tools](modules/web-interface/tracking/map-tools/)
                - [Utility maps](modules/web-interface/tracking/map-widget/)
 
-          - **Camera**  
+          - **Camera** 
+               - [Instructions for installing and using MDVR](modules/web-interface/camera/instructions-for-installing-configuring/)
                - [Livestream](modules/web-interface/camera/livestream/)
                - [Playback](modules/web-interface/camera/playback/)
                
