@@ -113,10 +113,10 @@ After filling out all information, click **Add** to complete the operation
     <span class="icon-left4">![active device ](/docs/assets/images/web-english/users/change-password.png)
 
 
-* A dialog box appears as shown below:
+  * A dialog box appears as shown below:
 
-<div id="change-pw">
-</div>
+    <div id="change-pw">
+    </div>
 
     <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/users/reset-password-1.png)
 

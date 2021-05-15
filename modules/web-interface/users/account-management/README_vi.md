@@ -116,8 +116,8 @@ Sau khi sửa xong thông tin mà bạn cần sửa thì click vào **Lưu thay 
 
     Sẽ xuất hiện một hộp thoại như hình dưới đây:
 
-<div id="change-pw">
-</div>
+    <div id="change-pw">
+    </div>
 
     <span style="display:block;text-align:left">![ manage change password](/docs/assets/images/web-interface/users/change-password.png)
 
