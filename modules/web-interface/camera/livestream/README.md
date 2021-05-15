@@ -1,6 +1,9 @@
 # Live stream
 
-To configure the camera sensor for live video view, see instructions [here](modules/web-interface/devices/edit-device/#camera)  <div id="camera">  
+To configure the camera sensor for live video view.
+* Go to **Management > Devices**.
+* Click **<span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-edit.svg)Edit > Camera > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) Add camera** .
+* See instructions [here](modules/web-interface/devices/edit-device/#camera)  <div id="camera">  
 
 After configuration is complete:
 * Step 1: Go to **Live stream** to view the video camera.

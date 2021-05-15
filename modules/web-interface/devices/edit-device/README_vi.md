@@ -5,6 +5,7 @@
 
   
 Khi click vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-edit.svg) **Sửa** của thiết bị đó, sẽ xuất hiện hộp thoại như sau: 
+
 <div id="suathietbi">
 </div>
 
@@ -133,8 +134,6 @@ Khi click vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/imag
 
 Click **Thêm** để lưu cảm biến. 
 
-
-
 ### Camera 
 
 * **Đối với loại camera : Basic**
@@ -146,7 +145,7 @@ Click **Thêm** để lưu cảm biến.
         - **Camera Id** : Nhập mã của camera. ID ghi trên thiết bị SM400
         - **Mô tả** : Có thể nhập thêm thông tin về camera,...
 
-<div id="camera">
+<div id="cameraplay">
 </div>
 
 * **Đối với loại camera : MDVR**

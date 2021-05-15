@@ -127,7 +127,7 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
     * **Transport type QCVN**: Choose one of the types of transport that is correct for the vehicle/vehicle in which you install the equipment. (Selectable only when sending mode is enabled).
 
 
- <div id="cambien">
+<div id="sensor">
 </div>
 
 ### Sensor
@@ -173,7 +173,7 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
     * **Camera Id**: Enter the code of the camera.
     * **Description**: Can enter more information about the camera, ...
 
-<div id="camera">
+<div id="cameraplay">
 </div>
 
 * **For camera type: MDVR**

@@ -1,6 +1,10 @@
 # Xem trực tiếp
 
-Để cấu hình cảm biến camera xem video trực tiếp, xem hướng dẫn [tại đây](vi/modules/web-interface/devices/edit-device/#camera)  <div id="camera">  
+Để cấu hình cảm biến camera xem video trực tiếp. 
+- Vào mục **Quản lý > Thiết bị**. 
+- Click vào **<span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-edit.svg)Sửa > Camera > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) Thêm camera** .
+- Xem hướng dẫn [tại đây](vi/modules/web-interface/devices/edit-device/#cameraplay) <div id="cameraplay">  
+
 
 Sau khi cấu hình xong :
 * Bước 1 : Vào mục **Xem trực tiếp** để xem camera video. 
@@ -10,7 +14,7 @@ Sau khi cấu hình xong :
 
 ### Bảng điều khiển
 
-<span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-square.svg) Dừng xe 1 kênh camera nào đó.
+<span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-square.svg) Dừng xe 1 kênh camera nào đó nếu bạn đang phát.
 
 <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-sound-speaker.svg) Tăng/giảm âm lượng của kênh đó.
 
@@ -18,9 +22,9 @@ Sau khi cấu hình xong :
 
 <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/full-screen-icon-11.png) Chạm vào 1 kênh camera để phóng to màn hình kênh đó. Click lần nữa để thu nhỏ kênh đó.
 
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-play.svg) Tiếp tục xem tất cả camera.
+<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-play.svg) Tiếp tục xem tất cả camera nếu bạn đang dừng.
 
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-full-image.svg) Dừng xem tất cả camera.
+<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-full-image.svg) Tạm dừng tất cả video nếu bạn đang phát.
 
 <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-close-window.svg) Đóng tất cả các kênh camera. Muốn xem tiếp phải vào **tên kênh > Xem tất cả**.
 

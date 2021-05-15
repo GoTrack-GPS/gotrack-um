@@ -50,6 +50,9 @@
       - [Quản lý lập lịch báo cáo](vi/modules/web-interface/notification/Schedule-a-report/)
       - [Quản lý nhắc nhở](vi/modules/web-interface/notification/remind/)
 
+    - **Lịch sử phiên bản**
+      - [Lịch sử cập nhật](vi/modules/web-interface/version-history/)
+  
   - **App GoTrack365**
     - **Đăng nhập ứng dụng**
       - [Đăng nhập](vi/modules/app-gotrack365/login/)
@@ -81,13 +84,12 @@
       - [Tài liệu kỹ thuật](vi/modules/integrated-devices/smc/sm400/technical-document/)
       - [Hoạt động và cài đặt](vi/modules/integrated-devices/smc/sm400/operation-settings/)
       - [Sơ đồ đấu dây ](vi/modules/integrated-devices/smc/sm400/wriring-diagram/) 
- 
-  **Liên hệ**  
-    - [**Thông tin liên hệ**](vi/modules/web-interface/contact/)
 
 - **Câu hỏi thường gặp**
   - [Xây dựng ứng dụng](vi/modules/web-interface/faq/build-app/)
   - [Thiết bị S200/S400](vi/modules/web-interface/faq/device-s200-s400/)
   - [Thiết bị SM400](vi/modules/web-interface/faq/sm400/)
-- **Lịch sử phiên bản**
-  - [Lịch sử cập nhật](vi/modules/web-interface/version-history/)
+
+- **Liên hệ**  
+    - [**Thông tin liên hệ**](vi/modules/web-interface/contact/) 
+
