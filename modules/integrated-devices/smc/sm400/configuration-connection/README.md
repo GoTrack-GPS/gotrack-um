@@ -8,11 +8,17 @@
 ### 2. Configure on the device
 
 - RS232 port
-* rs232,0,9,115200 #
-- Shooting frequency: 300 seconds
-rs232para,0.300.0 #
-- Server and image upload path:
-* server,file,__ photos.gotrack365.com,80__# or * server,file,__125,212.235.150,9191 __#
-* server,path,__/api/receive-photos__ #
+  
+   **rs232,0,9,115200 #**
 
-* __reset #__
+- Shooting frequency: 300 seconds
+
+    **rs232para,0.300.0 #**
+
+- Server and image upload path:
+
+  * server,file,__ photos.gotrack365.com,80__# or * server,file,__125,212.235.150,9191 __#
+
+  * server,path,__/api/receive-photos__ #
+
+  * __reset #__

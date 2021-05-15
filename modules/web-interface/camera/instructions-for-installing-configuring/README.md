@@ -148,7 +148,27 @@
 
 ### Step 5: Configure QCVN
 
-#### 5.1. Set URL to download images
+#### 5.1. Configuration of receiving images
+
+**Configure to receive images according to SMS commands sent from the S200/S400 device**
+
+- RS232 port
+  
+   **rs232,0,9,115200 #**
+
+- Shooting frequency: 300 seconds
+
+    **rs232para,0.300.0 #**
+
+- Server and image upload path:
+
+  * server,file,__ photos.gotrack365.com,80__# or * server,file,__125,212.235.150,9191 __#
+
+  * server,path,__/api/receive-photos__ #
+
+  * __reset #__
+
+
 #### 5.2. Server settings
 * Install connection hub **server**
 
@@ -158,27 +178,6 @@
 
     *	Monitoring server settings: report the IP address of the video server (main IP connected to the monitoring center).
     *	Ministry standard server setting: Ministry standard protocol platform parameter setting, divided into main server and backup server, and other slaves, expansion server.
-
-#### 5.3. Configuration of receiving images
-
-* **Configure to receive images according to SMS commands sent from the S200/S400 device**
-
-    * **Wiring**
-
-      * RX of MDVR -> TX of S200 / S400: Yellow
-      * TX of MDVR -> RX of S200 / S400: Blue
-
-    * **Configure on the device**
-
-      - RS232 port
-      * rs232,0,9,115200 #        
-      - Shooting frequency: 300 seconds
-        rs232para,0.300.0 #
-      - Server and image upload path:
-      * server,file,__ photos.gotrack365.com,80__# or * server,file,__125,212.235.150,9191 __#
-      * server,path,__/api/receive-photos__ #
-
-      * __reset #__
 
 ## Step 6: Check photos and videos
 

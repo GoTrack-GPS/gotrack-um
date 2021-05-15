@@ -150,8 +150,28 @@
 
 ### Bước 5 : Cấu hình QCVN
 
-#### 5.1. Cài URL để tải ảnh
+#### 5.1. Cấu hình nhận ảnh
+
+ **Cấu hình nhận ảnh theo lệnh SMS gửi từ thiết bị S200/S400**
+
+- Cổng rs232
+
+    **rs232,0,9,115200#**
+
+- Tần suất chụp: 300 giây
+
+    **rs232para,0,300,0#**
+
+- Server và đường dẫn upload ảnh:
+
+    * server,file,__photos.gotrack365.com,80__# hoặc * server,file,__125.212.235.150,9191__#
+
+    * server,path,__/api/receive-photos__#
+
+    * __reset#__
+
 #### 5.2. Cài đặt máy chủ
+
 * Cài đặt máy chủ trung tâm kết nối
 
     <span class="icon-left12">![Manage device ](/docs/assets/images/web-interface/livestream/ip-camera.jpg)
@@ -161,26 +181,6 @@
   * Cài đặt IP  máy chủ giám sát: Báo cáo địa chỉ IP của máy chủ video (IP chính kết nối với trung tâm giám sát).
   * Thiết lập máy chủ tiêu chuẩn của Bộ: Thiết lập thông số nền tảng giao thức tiêu chuẩn của Bộ, được chia thành máy chủ chính và máy chủ dự phòng.
 
-#### 5.3. Cấu hình nhận ảnh
-
-* **Cấu hình nhận ảnh theo lệnh SMS gửi từ thiết bị S200/S400**
-
-    * **Nối dây**
-
-      * RX của MDVR--> TX của S200/S400: Màu vàng
-      * TX của MDVR--> RX của S200/S400: Màu Xanh
-
-    * **Cấu hình trên thiết bị**
-
-      - Cổng rs232
-      * rs232,0,9,115200#
-      - Tần suất chụp: 300 giây
-      rs232para,0,300,0#
-      - Server và đường dẫn upload ảnh:
-      * server,file,__photos.gotrack365.com,80__# hoặc * server,file,__125.212.235.150,9191__#
-      * server,path,__/api/receive-photos__#
-
-      * __reset#__
 
 ### Bước 6 : Kiểm tra ảnh, video
 
