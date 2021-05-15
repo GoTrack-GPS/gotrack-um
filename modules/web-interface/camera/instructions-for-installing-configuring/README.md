@@ -37,7 +37,7 @@
 
 * **Camera Server IP Settings**
 
-    <span class="icon-left4">![Manage device ](/docs/assets/images/web-interface/livestream/ip-camera.jpg)
+    <span class="icon-left12">![Manage device ](/docs/assets/images/web-interface/livestream/ip-camera-1.jpg)
 
 * **Video save mode setting**
   
@@ -172,7 +172,7 @@
 #### 5.2. Server settings
 * Install connection hub **server**
 
-    <span class="icon-left12">![Manage device ](/docs/assets/images/web-interface/livestream/ip-camera.jpg)
+    <span class="icon-left12">![Manage device ](/docs/assets/images/web-interface/livestream/ip-camera-1.jpg)
 
     <span class="icon-left12">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/bb-sv.png)
 

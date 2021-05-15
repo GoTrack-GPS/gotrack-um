@@ -80,7 +80,6 @@
     - **SM400**
       - [Tài liệu kỹ thuật](vi/modules/integrated-devices/smc/sm400/technical-document/)
       - [Hoạt động và cài đặt](vi/modules/integrated-devices/smc/sm400/operation-settings/)
-      - [Cấu hình nhận ảnh](vi/modules/integrated-devices/smc/sm400/configuration-connection/)
       - [Sơ đồ đấu dây ](vi/modules/integrated-devices/smc/sm400/wriring-diagram/) 
  
   **Liên hệ**  

@@ -37,7 +37,7 @@
 
 * **Cài đặt IP máy chủ camera**
 
-    <span class="icon-left4">![Manage device ](/docs/assets/images/web-interface/livestream/ip-camera.jpg)
+    <span class="icon-left12">![Manage device ](/docs/assets/images/web-interface/livestream/ip-camera-1.jpg)
 
 * **Cài đặt chế độ lưu video**
   
@@ -174,7 +174,7 @@
 
 * Cài đặt máy chủ trung tâm kết nối
 
-    <span class="icon-left12">![Manage device ](/docs/assets/images/web-interface/livestream/ip-camera.jpg)
+    <span class="icon-left12">![Manage device ](/docs/assets/images/web-interface/livestream/ip-camera-1.jpg)
 
     <span class="icon-left12">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/bb-sv.png)
 
