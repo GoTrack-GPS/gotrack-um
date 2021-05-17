@@ -12,9 +12,9 @@ Sau khi cấu hình xong :
 
 <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/livestream.png)
 
-### Bảng điều khiển
+### 3. Bảng điều khiển
 
-<span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-square.svg) Dừng xe 1 kênh camera nào đó nếu bạn đang phát.
+<span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-square.svg) Dừng xem 1 kênh camera nào đó nếu bạn đang phát.
 
 <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-sound-speaker.svg) Tăng/giảm âm lượng của kênh đó.
 

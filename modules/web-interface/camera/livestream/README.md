@@ -11,9 +11,9 @@ After configuration is complete:
 
     <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/livestream.png)
 
-### Dashboard
+### Control Panel
 
-<span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-square.svg) Stop a certain camera channel.
+<span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-square.svg) Stop watching a certain camera channel if you are playing.
 
 <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-sound-speaker.svg) Increase / decrease the volume of that channel.
 
@@ -21,9 +21,9 @@ After configuration is complete:
 
 <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/full-screen-icon-11.png) Touch 1 camera channel to enlarge the channel screen. Click again to minimize the channel.
 
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-play.svg) Continue to view all cameras.
+<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-play.svg) Continue to see all cameras if you are stopped.
 
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-full-image.svg) Stop viewing all cameras.
+<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-full-image.svg) Pause all videos if you are playing.
 
 <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-close-window.svg) Close all camera channels. Want to see more right in **channel name > Play all**.
 

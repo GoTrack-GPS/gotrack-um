@@ -17,6 +17,7 @@
       - [Hướng dẫn cài đặt và sử dụng MDVR](vi/modules/web-interface/camera/instructions-for-installing-configuring/)
       - [Xem trực tiếp](vi/modules/web-interface/camera/livestream/)
       - [Xem lại](vi/modules/web-interface/camera/playback/)
+      - [Lịch sử ảnh](vi/modules/web-interface/camera/history-image/)
     - **Bản đồ**
       - [Bố cục ](vi/modules/web-interface/tracking/Interface-main/)
       - [Giám sát tổng quát   ](vi/modules/web-interface/tracking/general-device-monitoring/)
