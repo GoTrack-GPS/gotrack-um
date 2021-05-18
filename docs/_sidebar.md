@@ -26,7 +26,8 @@
                - [Instructions for installing and using MDVR](modules/web-interface/camera/instructions-for-installing-configuring/)
                - [Livestream](modules/web-interface/camera/livestream/)
                - [Playback](modules/web-interface/camera/playback/)
-               
+               - [Pho to history](modules/web-interface/camera/history-image/)
+          
           - **Reports**
                - [1. General report](modules/web-interface/reports/general-report/)
                - [2. Fuel](modules/web-interface/reports/fuel/)
@@ -41,7 +42,6 @@
           - **Sim**
               - [Sim management](modules/web-interface/sim/)
 
-          
           - **Utilities**
                - [Trackings](modules/web-interface/utilities/trackings/) 
                - [Multi-tracking-by-geofence](modules/web-interface/utilities/multi-tracking-by-geofence/) 

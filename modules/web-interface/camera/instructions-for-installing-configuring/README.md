@@ -179,27 +179,32 @@
     *	Monitoring server settings: report the IP address of the video server (main IP connected to the monitoring center).
     *	Ministry standard server setting: Ministry standard protocol platform parameter setting, divided into main server and backup server, and other slaves, expansion server.
 
-## Step 6: Check photos and videos
+### Step 6: Check photos and videos
 
 #### 6.1. Check photo
 
 * Go to Photo Report to see photos
-  You go to **Manage > Camera > Photo History**.
+  You go to **Camera > Photo History**.
   The screen displays as shown below:
 
-  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/history-image.png)
+  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/history-image-1.png)
+
+  See details [here](modules/web-interface/camera/history-image/)
 
 #### 6.2. Check out the video
 
 After configuration is complete:
-* Step 1: Go to **Live stream** to view the video camera.
+* Step 1: Go to **Camera > Live stream** to view the video camera.
 * Step 2: Select a vehicle with camera configuration. Click on **a certain channel > Play all**.
 
-    <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/livestream.png)
+    <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/livestream-1.png)
 
-* To view the camera video again, go to **Management > Camera > Playback**.
+    See details [here](modules/web-interface/camera/livestream/)
+
+* To view the camera video again, go to **Camera > Playback**.
     
     The screen displays as shown below:
 
-     <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/playback.png)
-
+     <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/play-back-1.jpg)
+    
+    See details [here](modules/web-interface/camera/playback/)

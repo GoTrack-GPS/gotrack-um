@@ -188,22 +188,27 @@
 
 * Vào Báo cáo ảnh để xem ảnh
 
-  Bạn vào **Quản lý > Camera > Lịch sử ảnh**.
+  Bạn vào **Camera > Lịch sử ảnh**.
   Màn hình hiển thị như hình dưới đây :
 
-  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/history-image.png)
+  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/history-image-2.png)
+
+ Xem chi tiết [tại đây](vi/modules/web-interface/camera/history-image/)
 
 #### 6.2. Kiểm tra video
 
 * Sau khi cấu hình xong :
-  * Bước 1 : Vào mục **Xem trực tiếp** để xem camera video. 
+  * Bước 1 : Vào mục **Camera > Xem trực tiếp** để xem camera video. 
   * Bước 2 : Chọn xe đã cấu hình camera. Nhấn vào **1 kênh nào đó > Xem tất cả**.
 
-    <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/livestream.png)
+  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/livestream-1.png)
+  
+  Xem chi tiết [tại đây](vi/modules/web-interface/camera/livestream/)
 
-* Muốn xem lại video camera , vào **Quản lý > Camera > Xem lại**. 
+* Muốn xem lại video camera , vào **Camera > Xem lại**. 
   
   Màn hình hiển thị như hình dưới đây :
 
-    <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/playback-1.png)
+    <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/playback-2.png)
 
+  Xem chi tiết [tại đây](vi/modules/web-interface/camera/playback/)
