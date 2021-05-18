@@ -4,7 +4,7 @@ Muốn xem lại camera , vào **Quản lý > Camera > Xem lại**.
 
 Màn hình hiển thị như hình dưới đây :
 
-<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/playback.png)
+<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/playback-2.png)
 
 ### 1. Tìm kiếm
 

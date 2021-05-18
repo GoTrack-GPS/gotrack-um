@@ -6,10 +6,10 @@ To configure the camera sensor for live video view.
 * See instructions [here](modules/web-interface/devices/edit-device/#camera)  <div id="camera">  
 
 After configuration is complete:
-* Step 1: Go to **Live stream** to view the video camera.
+* Step 1: Go to **Camera > Live stream** to view the video camera.
 * Step 2: Select a vehicle with camera configuration. Click on **a certain channel > Play all**.
 
-    <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/livestream.png)
+    <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/livestream-1.png)
 
 ### Control Panel
 

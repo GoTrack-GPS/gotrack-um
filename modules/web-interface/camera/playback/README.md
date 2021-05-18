@@ -1,10 +1,10 @@
 # Playback
 
-* To view the camera video again, go to **Management > Camera > Playback**.
+* To view the camera video again, go to **Camera > Playback**.
   
      The screen displays as shown below:
 
-     <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/play-back.jpg)
+     <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/play-back-1.jpg)
 
 
 ### 1. Search
