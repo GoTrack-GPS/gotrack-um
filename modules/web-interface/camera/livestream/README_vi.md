@@ -7,12 +7,16 @@
 
 
 Sau khi cấu hình xong :
-* Bước 1 : Vào mục **Camera > Xem trực tiếp** để xem camera video. 
-* Bước 2 : Chọn xe đã cấu hình camera. Nhấn vào **1 kênh nào đó > Xem tất cả**.
 
 <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/livestream-1.png)
 
-### 3. Bảng điều khiển
+* Bước 1 : Vào mục **Camera > Xem trực tiếp** để xem camera video. 
+* Bước 2 : Chọn xe đã cấu hình camera. Nhấn vào **1 kênh nào đó > Xem tất cả**.
+
+### Bảng điều khiển
+
+
+<span class="icon-left5">![Manage device ](/docs/assets/images/web-interface/livestream/livestream-play.png)
 
 <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-square.svg) Dừng xem 1 kênh camera nào đó nếu bạn đang phát.
 

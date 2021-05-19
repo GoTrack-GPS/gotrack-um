@@ -18,7 +18,7 @@ Màn hình hiển thị như hình dưới đây :
       * Sim : Từ lúc mua đến lúc hết hạn là 15 tháng.
 * Nhấn nút **Tìm kiếm** 
 * Hoặc nhấn nút **Đặt lại** để xóa từ vừa tìm kiếm.
-
+<!-- 
 ### Thêm Sim
 
 <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/sim/add-sim.png)
@@ -123,4 +123,4 @@ Import (nhập) thêm CCID mới
   * Bước 4 : Nhấn **Gửi**.
 
 * **Cách 2** : Bỏ qua Bước 1. Tự nhập CCID.
-
+ -->

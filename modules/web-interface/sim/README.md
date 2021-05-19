@@ -18,7 +18,7 @@ The screen displays as shown below:
        * Sim: From the time of purchase until expiration is 15 months.
 * Press the button **Search**
 * Or press the button **Reset** to delete the searched word.
-
+<!-- 
 ### Add Sim
 
 <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/sim/add-sim.png)
@@ -124,4 +124,4 @@ Import adds a new CCID
     * Step 3 : Enter  **CCID new** to replace the old CCID.
     * Step 4 : Click **Submit**.
 
-* **Option 2** : Skip Step 1. Enter the CCID manually.
+* **Option 2** : Skip Step 1. Enter the CCID manually. -->
