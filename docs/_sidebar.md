@@ -26,10 +26,7 @@
                - [Instructions for installing and using MDVR](modules/web-interface/camera/instructions-for-installing-configuring/)
                - [Livestream](modules/web-interface/camera/livestream/)
                - [Playback](modules/web-interface/camera/playback/)
-               - [Pho                                                       
-               - 
-               - 
-               - to history](modules/web-interface/camera/history-image/)
+               - [Photo history](modules/web-interface/camera/history-image/)
           
           - **Reports**
                - [1. General report](modules/web-interface/reports/general-report/)
