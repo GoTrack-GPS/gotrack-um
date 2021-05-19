@@ -1,13 +1,9 @@
-# Sim
+# Search
 
 To look up your Sim card, go to **Manage > Warehouse > Sim manage**.
 The screen displays as shown below:
 
 <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/sim/sim.png)
-
-### Search 
-
-<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/sim/search.png)
 
 * It is possible to search by the following criteria:
      * **Simno** Simnumber (phone number), enter 1 or more characters to search.

@@ -1,13 +1,9 @@
-# Sim
+# Tìm kiếm 
 
 Để tra cứu Sim, bạn vào mục **Quản lý > Kho > Thẻ Sim**.
 Màn hình hiển thị như hình dưới đây : 
 
   <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/sim/sim.png)
-
-### Tìm kiếm 
-
-<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/sim/search.png)
 
 * Có thế tìm kiếm theo các tiêu chí sau :
     * **Simno** : Số Sim ( số điện thoại), nhập 1 hoặc nhiều ký tự để tìm kiếm.
