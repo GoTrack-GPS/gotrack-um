@@ -36,7 +36,7 @@
       - [Quản lý vùng](vi/modules/web-interface/configuration/manage-region/)
       - [Quản lý nhóm vùng](vi/modules/web-interface/configuration/group-geofence/)
       - [Quản lý điểm đánh dấu](vi/modules/web-interface/configuration/manage-poi/) 
-    - **Sim**
+    - **SIM**
       - [Tìm kiếm](vi/modules/web-interface/sim/)
     
     - **Tiện ích**

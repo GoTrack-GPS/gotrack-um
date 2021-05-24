@@ -35,11 +35,11 @@
 
 **(Chỉ áp dụng cho SM400 Livestream)**
 
-* **Cài đặt IP máy chủ camera**
+* **Cài đặt IP máy chủ camera GoTrack**
+  
+  **171.244.003.120**
 
     <span class="icon-left12">![Manage device ](/docs/assets/images/web-interface/livestream/ip-camera-1.jpg)
-
-* **Cài đặt chế độ lưu video**
   
 * **Cài đặt video: cài đặt cơ bản, cài đặt luồng chính, cài đặt luồng phụ, cài đặt thời gian, quản lý bộ nhớ, cài đặt OSD**
 
@@ -148,9 +148,7 @@
 
     Sau khi cấu hình xong các thông tin, click **Lưu thay đổi** để hoàn thành.
 
-### Bước 5 : Cấu hình QCVN
-
-#### 5.1. Cấu hình nhận ảnh
+### Bước 5 : Cấu hình nhận ảnh
 
  **Cấu hình nhận ảnh theo lệnh SMS gửi từ thiết bị S200/S400**
 
@@ -164,23 +162,11 @@
 
 - Server và đường dẫn upload ảnh:
 
-    * server,file,__photos.gotrack365.com,80__# hoặc * server,file,__125.212.235.150,9191__#
+     **server,file,__photos.gotrack365.com,80__#**
 
-    * server,path,__/api/receive-photos__#
+     **server,path,__/api/receive-photos__#**
 
-    * __reset#__
-
-#### 5.2. Cài đặt máy chủ
-
-* Cài đặt máy chủ trung tâm kết nối
-
-    <span class="icon-left12">![Manage device ](/docs/assets/images/web-interface/livestream/ip-camera-1.jpg)
-
-    <span class="icon-left12">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/bb-sv.png)
-
-  * Cài đặt IP  máy chủ giám sát: Báo cáo địa chỉ IP của máy chủ video (IP chính kết nối với trung tâm giám sát).
-  * Thiết lập máy chủ tiêu chuẩn của Bộ: Thiết lập thông số nền tảng giao thức tiêu chuẩn của Bộ, được chia thành máy chủ chính và máy chủ dự phòng.
-
+     __reset#__
 
 ### Bước 6 : Kiểm tra ảnh, video
 
