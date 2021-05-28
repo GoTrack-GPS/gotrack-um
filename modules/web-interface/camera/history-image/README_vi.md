@@ -1,6 +1,6 @@
 # Lịch sử ảnh
 
-Bạn vào **Quản lý > Camera > Lịch sử ảnh**.
+Bạn vào **Camera > Lịch sử ảnh**.
   Màn hình hiển thị như hình dưới đây :
 
   <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/history-image-2.png)

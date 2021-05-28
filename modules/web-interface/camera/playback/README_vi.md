@@ -1,6 +1,6 @@
 # Xem lại
 
-Muốn xem lại camera , vào **Quản lý > Camera > Xem lại**. 
+Muốn xem lại camera , vào **Camera > Xem lại**. 
 
 Màn hình hiển thị như hình dưới đây :
 
