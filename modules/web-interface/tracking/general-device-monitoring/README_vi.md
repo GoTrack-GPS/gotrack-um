@@ -12,7 +12,6 @@
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/classify.png)
 
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/classify-2.png)
 
     <span class="icon-left svg-filter-check">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square.svg) Ẩn tất cả thiết bị / từng thiết bị trên bản đồ
 
@@ -29,7 +28,7 @@
 * **Sắp xếp**
     Người dùng click vào <span class="icon-left svg-filter-check">![Ok](/docs/assets/images/web-interface/icon/SVG/sort-alpha-down.svg) nếu muốn sắp xếp danh sách thiết bị theo bảng chữ cái từ A-Z hoặc từ Z-A.
 
-<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/sort.png)
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/sort.png)
 
 ### Định vị thiết bị
 Chọn vào thiết bị cần xem, hệ thống hiển thị vị trí xe trên bản đồ cùng một số thông số cơ bản như hình dưới :
@@ -46,11 +45,11 @@ Chọn vào thiết bị cần xem, hệ thống hiển thị vị trí xe trên
 <div id="config">
 </div>
 
-* **Danh sách thiết bị**
+* **Cấu hình danh sách thiết bị**
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/list-device-map-1.png)
 
-    - Bước 1 : Vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) **> Danh sách thiết bị**
+    - Bước 1 : Vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) **> Cấu hình danh sách thiết bị**
     - Bước 2 :Hộp thông tin xuất hiện. Có thể bật / tắt thông tin mà bạn muốn / không muốn hiển thị. Lúc đó người dùng có thể xem trước kết quả ngay tại vùng 4 đó luôn. 
     - Bước 3 : Click **Lưu** để hoàn thành thao tác. 
     - Bước 4 : Sau khi lưu thành công thông tin sẽ được hiển thị ở vùng  4 ( Hộp danh sách thiết bị thuộc 1 tài khoản đã chọn trước đó).
