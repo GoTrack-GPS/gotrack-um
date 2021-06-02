@@ -1,8 +1,7 @@
 
 # Giám sát chi tiết thiết bị 
 
-- Bước 1 : Để xem chi tiết thông tin và vị trí xe hiện tại : Vào mục **Bản đồ > Chạm vào hình xe**.
-- Bước 2 : Để theo  dõi xe di chuyển trực tuyến : Nhấn vào hộp thông tin nổi ngay trên biểu tượng xe đó.
+- Để xem chi tiết thông tin và vị trí xe hiện tại : Vào mục **Bản đồ > Chạm vào hình xe**.
 
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/nexthome.jpg) 
 
@@ -10,112 +9,60 @@
 
 ### 1. Giám sát 
 
-Màn hình **Giám sát**  gồm 
-* Biểu tượng xe 
-* Hộp thông tin nổi ngay trên biểu tượng xe :
-    * Tên thiết bị
-    * Thời gian hiện tại đang truy cập vào phần mềm
-    * Trạng thái tắt mát / mở máy của thiết bị
-    * Trạng thái khóa điện của thiết bị 
+- Để giám sát xe, nhấn vào tab **Giám sát**. Màn hình hiển thị như hình dưới đây :
 
-### 2. Xem lại
-Để xem lại lịch sử di chuyển của xe : Click vào **Xem lại**. Vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-maintenance-date.svg) chọn ngày tháng cần xem, chọn theo lựa chọn có sẵn hoặc tùy chọn). 
+    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/monitoring.jpg) 
 
-Ví dụ: Chọn ngày **Hôm nay > Nhấn OK**. trên màn hình lúc này cập nhật lên lộ trình xe chạy như hình dưới :
+  - Hiển thị các thông tin cơ bản, trạng thái hiện tại của thiết bị.
+  - Thông tin  về quãng đường, lộ trình của ngày hôm nay.
+   - Thông tin về các cảm biến (nếu có).
 
-<span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/review-2.jpg) 
+### 2. Hành trình 
 
-* Ở đây cho phép quý khách lựa chọn tốc độ xem lại lộ trình nhanh hay chậm.
+Để xem hành trình của xe, có 2 cách :
 
-    <span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/history-2-365.jpg) 
+- **Cách 1** : CLick vào **icon xe > Tab Hành trình**.
+- **Cách 2** : Click vào **vào icon xe > Giám sát > Tab Hành trình**.
 
-    **1.** Chọn icon để xem/dừng xem lại lộ trình.
+    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/app365-journey.jpg)
+     
+- Màn hình **Hành trình** hiển thị như hình dưới đây :
 
-    **2.** Nhấn và giữ icon để xem lộ trình đến địa điểm nào đó theo ý bạn muốn.
+    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/journey.jpg)
+    
+    - Bước 1 : Click vào **thời gian** để xem lại hành trình.
+    - Bước 2 : Chọn sửa thời gian để xem lại.
+      - Nhấn vào **ô hiển thị ngày** để chọn lại ngày.
+      - Nhấn vào **ô hiển thị số giờ : phút** ở dòng Bắt đầu (giờ  : phút) - Kết thúc (giờ  : phút) để chọn lại giờ : phút  sáng/chiều. 
+  - Bước 3 : Nhấn **OK**.  Sẽ hiển thị vị trí, các điểm, khoảng thời gian xe chạy, dừng đỗ, quãng đường của ngày hôm đó.
 
-    **3.** Chọn xem mức độ nhanh chậm.
+### 3. Xem lại
 
-### 3. Thông tin
- Đây là thông tin của thiết bị. Có thể sửa thông tin đó.
+Để xem lại lộ trình, lịch sử di chuyển của xe, có 2 cách :
+- Cách 1 : CLick vào **icon xe > Tab Xem lại**
+- Cách 2 : Click vào vào **icon xe > Giám sát > Tab Xem lại**
 
- <span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/infomation-365.jpg)
- 
- Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](vi/modules/app-gotrack365/device/#edit-device) <div id="edit-device"> 
+    <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/app365-playback.jpg)
 
-### 4. Thêm 
+- Màn hình **Xem lại** hiển thị như hình dưới đây :
 
-Đây là xem danh sách các lệnh và lịch sử gửi lệnh.
+    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/playback.jpg)
+    
+    - Bước 1 : Click vào **thời gian** để xem lại lộ trình.
+    - Bước 2 : Chọn sửa thời gian để xem lại.
+      - Nhấn vào **ô hiển thị ngày** để chọn lại ngày.
+      - Nhấn vào **ô hiển thị số giờ : phút** ở dòng Bắt đầu (giờ  : phút) - Kết thúc (giờ  : phút) để chọn lại giờ : phút  sáng/chiều 
+    - Bước 3 : Nhấn **OK**.  Sẽ hiển thị quãng đường của ngày hôm đó.
 
-<span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/send-orders.jpg)
+- Để xem được các thông số: Thời gian, tốc độ, hướng, số km đã đi, tổng quảng đường đi hay là vị trí hiện tại mà xe đang di chuyển thì chọn vào icon
+<span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-circled-play.svg)
 
-Để tìm hiểu thêm chi tiết, bạn tham khảo tại đây
-* [Danh sách lệnh](vi/modules/app-gotrack365/send-order/#send-order) <div id="send-order"> 
-* [Lịch sử gửi lệnh](vi/modules/app-gotrack365/history-send-orders/#history) <div id="history"> 
+   **4.** Chọn icon <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-circled-play.svg) / <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-pause-button.svg)để xem/dừng xem lại lộ trình.
 
-### Tính năng mở rộng 
+    **5.** Nhấn và giữ icon để xem lộ trình đến địa điểm nào đó theo ý bạn muốn.
 
-<span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/home-3.jpg)
+    **6.** Chọn xem mức độ nhanh chậm. Từ **1x** <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg) **4x** 
 
-    1. Tắt máy từ xa
-
-    2. Khôi phục tắt máy
-
-    3. Tạo vùng nhanh
-
-    4. Google Maps 3D
-
-    5. Tìm đường 
-
-<div id="other" >
-</div>
-
-####  1. Tắt máy từ xa
-* **Cách 1**
-    * Click vào <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-lock.svg) . Hộp thoại xuất hiện như hình dưới đây . Chọn **OK**  .
-    * Sau khi gửi lệnh thành công. Màn hình thông tin của thiết bị => **Thiết bị : Phòng vệ bật**
-
-    <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/tat-may-tu-xa.jpg)
-
-    * Sử dụng tính năng này để bảo vệ phương tiện của bạn. Xe sẽ không thể nổ máy được khóa cho đến khi bạn khôi phục tắt máy.
-
-* **Cách 2** : Vào **Gửi lệnh**.
-
-    Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](vi/modules/app-gotrack365/send-order/#lock) <div id="lock"> 
-
-#### 2. Khôi phục tắt máy
-* **Cách 1**
-    * Click vào <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-unlock-52.png) . Hộp thoại xuất hiện như hình dưới đây . Chọn **OK**  .. 
-    * Sau khi gửi lệnh thành công. Màn hình thông tin của thiết bị => **Thiết bị : Phòng vệ tắt**
-
-    <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/khoi-phuc-tat-may.jpg)
-
-* **Cách 2** : Vào **Gửi lệnh**.
-
-    Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](vi/modules/app-gotrack365/send-order/#unlock) <div id="unlock"> 
-
-
-
-#### 3. Tạo vùng nhanh
-
-* Click vào <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/pentagon.svg) **> OK**.
- 
-    <span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/create-region.jpg)
-
-Ngoài ra, có thể tạo vùng chi tiết hơn [tại đây](vi/modules/app-gotrack365/warning-area/#warning-area) <div id="warning-area"> 
-
-#### 4. Google Maps 3D
-
-<span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/local.jpg) 
-
-
-Click vào **icon hình người** đó sẽ chuyển sang bản đồ Google 3D tại vị trí của thiết bị, chế độ xem phố và kèm theo những hình ảnh gần đó nhất mà bản đồ quét được. 
- 
-
-#### 5. Tìm đường
-
-Click vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/directions.svg) để tìm đường từ vị trí của máy đến vị trí thiết bị của bạn. Vị trí của bạn đang ở đâu để tìm ra cung đường ngắn nhất đến xe đấy.
-
- <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/search-the-way-1.jpg) 
 
 
 

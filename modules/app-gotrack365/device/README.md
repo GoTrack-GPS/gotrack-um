@@ -2,9 +2,6 @@
 
 Go to the **Device** tab, will display the list of devices for that account.
 
-<span class="icon-left4">![Interface Web](/docs/assets/images/web-english/gotrack365-el/device365-3.jpg)
-
-
 ### List of devices
 * All
 * Online: The device is active, using the service.

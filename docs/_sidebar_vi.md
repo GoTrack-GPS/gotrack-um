@@ -61,11 +61,13 @@
     - **Bản đồ**
       - [Giám sát tổng quát ](vi/modules/app-gotrack365/general-device-monitoring/)
       - [Giám sát chi tiết](vi/modules/app-gotrack365/detailed-monitoring/)
+      - [Tính năng mở rộng ](vi/modules/app-gotrack365/send-command/)
     - **Thiết bị**
       - [Quản lý thiết bị](vi/modules/app-gotrack365/device/)
-      - [Camera hành trình](vi/modules/app-gotrack365/camera/)
-      - [Gửi lệnh](vi/modules/app-gotrack365/send-order/)
-      - [Lịch sử lệnh](vi/modules/app-gotrack365/history-send-orders/)
+    - **Camera**  
+      - [Xem livestream](vi/modules/app-gotrack365/camera/)
+      - [Ảnh](vi/modules/app-gotrack365//)
+  
     - **Cảnh báo**
       - [Cảnh báo](vi/modules/app-gotrack365/notification/warning/)
     - **Tài khoản**
