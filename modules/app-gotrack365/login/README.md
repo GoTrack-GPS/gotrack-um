@@ -16,7 +16,7 @@ Then login.
 
 * Step 2: Click **Login** to complete the operation.
  
-* Step 3: Select **ALLOW ONLY WHILE USING THE APP** to **Allow GoTrack365 to access this device's location**. Use location-related features.
+* Step 3: Login successful will appear **Vehicle**. When going to the **Map** tab, select **ALLOW ONLY WHILE USING THE APP** to **Allow GoTrack365 to access this device's location**. Use location-related features.
 
 * Users can rely on the device ID for default login in the following way:
  

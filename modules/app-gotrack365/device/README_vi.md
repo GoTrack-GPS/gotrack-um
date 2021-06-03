@@ -27,6 +27,17 @@ Có thể tìm kiếm theo các tiêu chí sau :
 <div id = "edit-device">
 </div>
 
+**Lưu ý** : Đối với các trạng thái thiết bị sau đây :
+
+- Thiết bị **Hết hạn dịch vụ** :
+  - Khi click vào sẽ hiện thông báo  : "**Thiết bị hết hạn, vui lòng liên hệ nhà cung cấp**" để gia hạn thêm.
+  - Sẽ **không xem được Giám sát chi tiết** trên bản đồ.
+
+- Thiết bị **Chưa kích hoạt** :
+  - Sẽ không hiện trên bản đồ ,  không có vị trí và thông tin để hiển thị.
+  - Và không vào được tab Giám sát, không có dữ liệu để xem lại.
+
+
 ### Sửa thiết bị
 
 Để sửa thông tin thiết bị, có 2 cách :

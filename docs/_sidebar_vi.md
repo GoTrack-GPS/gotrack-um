@@ -65,8 +65,8 @@
     - **Thiết bị**
       - [Quản lý thiết bị](vi/modules/app-gotrack365/device/)
     - **Camera**  
-      - [Xem livestream](vi/modules/app-gotrack365/camera/)
-      - [Ảnh](vi/modules/app-gotrack365//)
+      - [Xem livestream](vi/modules/app-gotrack365/camera/livestream/)
+      - [Ảnh ](vi/modules/app-gotrack365/camera/photo/)
   
     - **Cảnh báo**
       - [Cảnh báo](vi/modules/app-gotrack365/notification/warning/)

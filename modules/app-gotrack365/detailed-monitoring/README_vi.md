@@ -36,6 +36,14 @@
       - Nhấn vào **ô hiển thị số giờ : phút** ở dòng Bắt đầu (giờ  : phút) - Kết thúc (giờ  : phút) để chọn lại giờ : phút  sáng/chiều. 
   - Bước 3 : Nhấn **OK**.  Sẽ hiển thị vị trí, các điểm, khoảng thời gian xe chạy, dừng đỗ, quãng đường của ngày hôm đó.
 
+- Hoặc :
+
+  - Click vào <span class="icon-left svg-filter-blue1">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-left.svg) để xem lại hành trình ngày hôm trước.
+
+  - Click vào <span class="icon-left svg-filter-blue1">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-right.svg) để xem lại hành trình ngày hôm sau.
+
+  - Click vào <span class="icon-left svg-filter-blue1">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg)  để tìm kiếm lại nếu chọn thời gian xong mà không hiển thị kết quả.
+
 ### 3. Xem lại
 
 Để xem lại lộ trình, lịch sử di chuyển của xe, có 2 cách :
@@ -63,6 +71,14 @@
 
     **6.** Chọn xem mức độ nhanh chậm. Từ **1x** <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg) **4x** 
 
+- Hoặc :
+
+  - Click vào <span class="icon-left svg-filter-blue1">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-left.svg) để xem lại lịch sử di chuyển ngày hôm trước.
+
+  - Click vào <span class="icon-left svg-filter-blue1">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-right.svg) để xem lại lịch sử di chuyển ngày hôm sau.
+  
+  - Click vào <span class="icon-left svg-filter-blue1">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg)  để tìm kiếm lại nếu chọn thời gian xong mà không hiển thị kết quả.
+  
 
 
 

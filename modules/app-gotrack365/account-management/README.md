@@ -21,7 +21,7 @@
 
     * Re-enter the correct **old password**.
      
-    * Enter the **new password**.
+    * Enter the **new password** > 6 characters.
      
     * Enter the **confirm new password** to match the new password.
      

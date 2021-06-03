@@ -238,6 +238,11 @@ filter: invert(41%) sepia(22%) saturate(3604%) hue-rotate(212deg) brightness(91%
 .svg-filter-blue img {
 filter: invert(44%) sepia(65%) saturate(4474%) hue-rotate(221deg) brightness(92%) contrast(86%);
 }
+.svg-filter-blue1 img {
+    filter: invert(56%) sepia(96%) saturate(7489%) hue-rotate(213deg) brightness(104%) contrast(104%);
+
+}
+    
 
 
 

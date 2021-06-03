@@ -1,24 +1,16 @@
 #  Device detailed monitoring
 
-* Step 1: To view detailed information and current vehicle location: Go to **Map > Touch on vehicle icon**. 
-
-* Step 2: To track the vehicle moving online: Click on the information box floating right on the vehicle's icon.
+- To view detailed information and current vehicle location: Go to **Map > Touch on vehicle icon**. 
 
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/detail-tracking.jpg) 
 
     The detailed monitoring screen is almost identical to the general monitor screen. The buttons in the extended feature are always fixed.
 
 ### 1. Tracking
-Tracking Screen includes
 
-* Vehicle icon
-* Information box floating right on the vehicle icon:
-    * Device name.
-    * The current time is accessing the software.
-    * Cool off / on status of the device.
-    * Device's electric lock status.
+- To monitor the vehicle, click on the **Monitoring** tab. The screen displays as shown below:
 
-
+<span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/detail-tracking-3.jpg)
 
 ### 2. Playback
 

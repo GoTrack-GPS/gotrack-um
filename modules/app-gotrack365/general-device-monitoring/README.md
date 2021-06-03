@@ -61,7 +61,7 @@ Additionally, more detailed Poi (landmark) can be added [here](modules/app-gotra
 
 Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-hunt-50.png) will point to your current location.
 
-<span  class="icon-left4">![Interface Web](/docs/assets/images/web-english/gotrack365-el/location365-1.jpg)
+<span  class="icon-left4">![Interface Web](/docs/assets/images/web-english/gotrack365-el/location-1.jpg)
 
 ### 7. Zoom in
 When clicked <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus-circle.svg), it will zoom in on the point, object, and position you want to enlarge.
