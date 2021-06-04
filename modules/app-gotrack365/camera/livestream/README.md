@@ -1,9 +1,12 @@
-# Camera journey
+# Livestream
 > Only devices fitted and configured with a camera have this feature. The technical department will add the camera and configure the name, ID, host, port, camera channels for that device.
+> If the device has a camera installed, the screen will show more <span class="icon-left svg-filter-blue1">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-live-video-on.svg)**Xem livestream**  **Livestream** and  <span class="icon-left svg-filter-blue1">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-camera.svg) **Photos**
 
-* Step 1: To view camera details: Go to **Map** tab **> Touch on vehicle icon**.
- 
-* Step 2: If the device has a camera installed, the screen will display more camera icon <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-live-video-on.svg) on the screen .
+- Step 1: To watch the livestream, there are 2 ways:
+
+    - Option 1: Click on the **vehicle icon > Livestream tab**.
+
+    - Option 2: Click on the **vehicle icon > Tracking > Livestream Tab.**
 
     * Click <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-live-video-on.svg) camera icon 
 

@@ -65,13 +65,12 @@
           - **Map**
                - [General supervision](modules/app-gotrack365/general-device-monitoring/)
                - [Detailed monitoring](modules/app-gotrack365/detailed-monitoring/)
-
+               - [Extended features](modules/app-gotrack365/send-command/)
           - **Device**
                - [Device Management](modules/app-gotrack365/device/)
-               - [Camera journey](modules/app-gotrack365/camera/)
-               - [Send command](modules/app-gotrack365/send-order/)
-               - [Command History](modules/app-gotrack365/history-send-orders/)
-
+          - **Camera**  
+              - [Livestream](modules/app-gotrack365/camera/livestream/)
+              - [Photo ](modules/app-gotrack365/camera/photo/)
           - **Notifications**
                - [Notifications](modules/app-gotrack365/notification/warning/)
 

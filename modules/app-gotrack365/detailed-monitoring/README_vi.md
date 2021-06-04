@@ -14,7 +14,7 @@
     <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/monitoring.jpg) 
 
   - Hiển thị các thông tin cơ bản, trạng thái hiện tại của thiết bị.
-  - Thông tin  về quãng đường, lộ trình của ngày hôm nay.
+  - Thông tin  về quãng đường, lộ trình, thời gian của ngày hôm nay.
    - Thông tin về các cảm biến (nếu có).
 
 ### 2. Hành trình 
@@ -24,16 +24,16 @@
 - **Cách 1** : CLick vào **icon xe > Tab Hành trình**.
 - **Cách 2** : Click vào **vào icon xe > Giám sát > Tab Hành trình**.
 
-    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/app365-journey.jpg)
+    <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/app365-journey.jpg)
      
 - Màn hình **Hành trình** hiển thị như hình dưới đây :
 
     <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/journey.jpg)
     
     - Bước 1 : Click vào **thời gian** để xem lại hành trình.
-    - Bước 2 : Chọn sửa thời gian để xem lại.
+    - Bước 2 : Chọn **sửa thời gian** để xem lại.
       - Nhấn vào **ô hiển thị ngày** để chọn lại ngày.
-      - Nhấn vào **ô hiển thị số giờ : phút** ở dòng Bắt đầu (giờ  : phút) - Kết thúc (giờ  : phút) để chọn lại giờ : phút  sáng/chiều. 
+      - Nhấn vào **ô hiển thị số giờ : phút** ở dòng Bắt đầu (giờ  : phút) - Kết thúc (giờ  : phút) để chọn lại **giờ : phút  sáng/chiều.** 
   - Bước 3 : Nhấn **OK**.  Sẽ hiển thị vị trí, các điểm, khoảng thời gian xe chạy, dừng đỗ, quãng đường của ngày hôm đó.
 
 - Hoặc :
@@ -60,12 +60,12 @@
     - Bước 2 : Chọn sửa thời gian để xem lại.
       - Nhấn vào **ô hiển thị ngày** để chọn lại ngày.
       - Nhấn vào **ô hiển thị số giờ : phút** ở dòng Bắt đầu (giờ  : phút) - Kết thúc (giờ  : phút) để chọn lại giờ : phút  sáng/chiều 
-    - Bước 3 : Nhấn **OK**.  Sẽ hiển thị quãng đường của ngày hôm đó.
+    - Bước 3 : Nhấn **OK**.  Sẽ hiển thị quãng đường, thời gian di chuyển, thời gian dừng của ngày hôm đó.
 
 - Để xem được các thông số: Thời gian, tốc độ, hướng, số km đã đi, tổng quảng đường đi hay là vị trí hiện tại mà xe đang di chuyển thì chọn vào icon
 <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-circled-play.svg)
 
-   **4.** Chọn icon <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-circled-play.svg) / <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-pause-button.svg)để xem/dừng xem lại lộ trình.
+   **4.** Chọn icon <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-circled-play.svg) / <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-pause-button.svg) để xem/dừng xem lại lộ trình.
 
     **5.** Nhấn và giữ icon để xem lộ trình đến địa điểm nào đó theo ý bạn muốn.
 

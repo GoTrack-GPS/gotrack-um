@@ -1,11 +1,11 @@
 # Quản lý thiết bị
 
-Vào mục **Thiết bị**, sẽ hiển thị ra danh sách thiết bị của tài khoản đó.
+Vào mục **Phương tiện**, sẽ hiển thị ra danh sách thiết bị của tài khoản đó.
 
 ### Danh sách thiết bị 
 - Tất cả
-- Online : Thiết bị đang hoạt động, đang sử dụng dịch vụ.
-- Offline : Thiết bị không hoạt động, hết hạn sử dụng dịch vụ.
+- Online : Thiết bị đang đang chạy, dừng, dừng nổ máy, GPS kém.
+- Offline : Thiết bị không hoạt động, GPRS kém, truyền lịch sử,  hết hạn dịch vụ, chưa kích hoạt.
 
     <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/list-device.jpg) 
 
