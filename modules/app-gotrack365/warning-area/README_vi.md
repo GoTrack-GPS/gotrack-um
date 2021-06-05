@@ -56,13 +56,13 @@ Click **Lưu** để hoàn thành thao tác
    
 ### Xóa vùng cảnh báo
 
-* Android : 
+* **Android** : 
 Để xóa vùng cảnh báo, **nhấn giữ vùng muốn xóa**. Lát sau sẽ hiển thị hộp thoại như hình dưới đây: 
     * Nhấn **OK** nếu muốn xóa.
 
     <span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/delete-geofence.jpg)
 
-* IOS : 
+* **IOS** : 
     Để xóa vùng cảnh báo, **trượt sang trái vùng muốn xóa** . Sẽ xuất hiện hộp thoại xác nhận xóa vùng cảnh báo.
 
 

@@ -23,7 +23,7 @@ Bên bộ phận kĩ thuật sẽ thêm camera và cấu hình về tên, ID, ho
 
 - Bước 3 : Video camera hiện ra. Có thể sử dụng những tính năng như sau :
 
-     <span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/camera-live.jpg)
+     <span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/camera-live.jpg)
 
      <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-play.svg) Tiếp tục xem camera.
 

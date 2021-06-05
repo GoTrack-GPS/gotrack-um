@@ -44,7 +44,7 @@ Alert Geofence when vehicles are entering / leaving the Geofence.
 
     Click **Reset** to start over.
 
-<span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/edit-geofence-5.jpg)
+    <span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/edit-geofence-5.jpg)
 
 * Step 4: Edit name, enter description. Click **Save** to complete the operation
 

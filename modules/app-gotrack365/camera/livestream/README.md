@@ -8,9 +8,11 @@
 
     - Option 2: Click on the **vehicle icon > Tracking > Livestream Tab.**
 
-    * Click <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-live-video-on.svg) camera icon 
+    <span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/cam-mdvr-365.jpg)
 
-    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-english/gotrack365-el/cam-mdvr-365.jpg)
+- Step 2: After clicking on Livestream tab, the screen is displayed as shown below:
+
+    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-english/gotrack365-el/allow.jpg)
 
     * Press **ALLOW** to **Allow GoTrack365 to make and manage phone calls**.
 
@@ -18,9 +20,9 @@
 
     * Press **ALLOW** to **Allow GoTrack365 to record audio**.
 
-    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-english/gotrack365-el/allow.jpg)
-
 * Step 3: You can use the following features:
+
+    <span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/camera-live.jpg)
 
     <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-pause.svg) Stop watching the camera.
 
