@@ -24,8 +24,7 @@ Có thể tìm kiếm theo các tiêu chí sau :
 
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/tracking.jpg)
 
-<div id = "edit-device">
-</div>
+
 
 **Lưu ý** : Đối với các trạng thái thiết bị sau đây :
 
@@ -37,6 +36,8 @@ Có thể tìm kiếm theo các tiêu chí sau :
   - Sẽ không hiện trên bản đồ ,  không có vị trí và thông tin để hiển thị.
   - Và không vào được tab Giám sát, không có dữ liệu để xem lại.
 
+<div id = "edit-device">
+</div>
 
 ### Sửa thiết bị
 

@@ -10,12 +10,22 @@
 - Dây nguồn kết nối thiết bị hợp chuẩn và đầu ghi.
 - Và các phụ kiện khác đi kèm : thẻ RFID, thẻ nhớ SD card, antena GPS, GSM (nếu có).
 
+* Chuẩn bị công cụ, dụng cụ :
+  - Màn Hình TFT LCD HD Tích Hợp Camera Quan Sát Cho Xe Hơi (7inch) : Để tiện khi update firm/ cấu hình hoặc khi xử lý lỗi.
+  - USB tối thiểu 1G  :  Lưu firmware và file cấu hình
+
+  <span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/lcd-hd.jpg)
+  
+  <span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/usb.jpg)
+
 * **Các thiết bị để cài SM400 Basic như hình dưới đây :**
 
     <span class="icon-left6">![Manage device ](/docs/assets/images/web-interface/livestream/mdvr-photo.jpg)
 
 * **Các thiết bị để cài SM400 Livestream như hình dưới đây :**
 
+   
+    
     <span class="icon-left6">![Manage device ](/docs/assets/images/web-interface/livestream/mdvr-live.jpg)
 
 ### Bước 2 : Nối dây

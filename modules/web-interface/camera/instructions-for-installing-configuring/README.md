@@ -9,6 +9,13 @@
 - 4G sim for QCVN31 standard equipment.
 - Power cord to connect standard equipment and recorder.
 - And other accessories included: RFID card, SD card, GPS antenna, GSM (if any).
+- Prepare tools:
+  - TFT LCD HD Screen Integrated Car CCTV (7inch): For convenience when updating firmware/configuration or when handling errors.
+  - USB at least 1G : Save firmware and configuration files.
+    
+    <span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/lcd-hd.jpg)
+  
+  <span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/usb.jpg)
 
 * **Devices to install SM400 Basic as shown below:**
 
