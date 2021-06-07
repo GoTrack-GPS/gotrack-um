@@ -141,7 +141,7 @@ python -m http.server 3000
 2. Window
 ```
 py -m http.server 3000
-py -m http.server 8000
+
 ```
 - trỏ tới 1 đoạn trong trang 
 ```
