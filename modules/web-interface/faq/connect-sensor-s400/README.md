@@ -6,6 +6,8 @@ You can refer to  [here](modules/web-interface/devices/calib-sensor/#calib)
 
 ### Step 2: Connect sensor to the GPS tracker
     
+<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/faq/wire-2.jpeg)
+
 * RX of Sensor --> TX of S200/S400: Yellow
 * TX of Sensor --> RX of S200/S400: Blue
 
@@ -19,13 +21,26 @@ You can refer to  [here](modules/web-interface/devices/calib-sensor/#calib)
 
     **Rs232.0,2,9600#**
 
-### Step 4: Reset configuration
+### Step 4: Save configuration
 
 Send **reset#** command to save and update configuration
 
-### Step 5: Wait a few minutes to check
+### Step 5: Check
     
-**view,comm#**
+#### Frequency to read data from sensor, default is 10s
+  
+  **rs232para,0,10.5#**
+
+#### Check sensor readings
+
+-Wait a few minutes, send command :
+ 
+  **view,comm#**
+
+- After sending the command **view,comm#**, the response content is as shown below:
+  - Having index = 0 means that the sensor is connected and readable
+
+  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/faq/check-connect-sensor-1.jpg)
 
 ### Step 6: Configuration on Platform
 
@@ -62,3 +77,9 @@ Send **reset#** command to save and update configuration
     **4.** Click **Add** to save the sensor.
     
     **5.** Click **Save Changes** to complete the device repair operation.
+
+#### Ask the device to send stat updates to the web
+
+- When the sensor readings have been read on the device, but the value has not been updated on the web, the following command can be used to request the device to send the sensor readings immediately
+
+  **pack,sensor#**

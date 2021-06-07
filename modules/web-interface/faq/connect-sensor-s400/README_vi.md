@@ -1,15 +1,17 @@
-# Cấu hình cảm biến nhiên liệu với thiết bị GPS S200/S400
+# Cấu hình cảm biến nhiên liệu soji với thiết bị GPS S200/S400
 
 ### Bước 1 : Hiệu chỉnh cảm biến
 
 Bạn có thể tham khảo [tại đây](vi/modules/web-interface/devices/calib-sensor/#calib)
 
 ### Bước 2 : Nối dây cảm biến với bộ theo dõi GPS 
-    
+
+<span class="icon-left4">![Manage device ](/docs/assets/images/web-interface/faq/wire-2.jpeg)
+
 * RX của Cảm Biến --> TX của S200/S400: Màu vàng
 * TX của Cảm Biến --> RX của S200/S400: Màu Xanh
 
-### Bước 3 :  Cấu hình 
+### Bước 3 :  Cấu hình baudrate
 
 - Cảm biến soji bán ra nước ngoài dùng baudrate 19200
 
@@ -19,13 +21,28 @@ Bạn có thể tham khảo [tại đây](vi/modules/web-interface/devices/calib
 
     **Rs232,0,2,9600#**
 
-### Bước 4 : Reset cấu hình
+### Bước 4 : Lưu cấu hình
 
 Gửi lệnh **reset#** để lưu và cập nhật cấu hình
 
-### Bước 5 : Đợi vài phút để kiểm tra
+### Bước 5 : Kiểm tra
     
-**view,comm#**
+#### Tần suất đọc dữ liệu từ cảm biến, mặc định là 10s
+  
+  **rs232para,0,10,5#**
+
+####  Kiểm tra chỉ số cảm biến
+
+- Đợi vài phút, gửi lệnh :
+  
+  **view,comm#**
+
+- Sau khi gửi lệnh **view,comm#** thì nội dung phản hồi như hình dưới đây :
+  
+  - Có chỉ số **= 0**  tức là đã kết nối và đọc được cảm biến
+
+  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/faq/check-connect-sensor.jpg)
+
 
 ### Bước 6 : Cấu hình trên Platform
 
@@ -63,3 +80,10 @@ Gửi lệnh **reset#** để lưu và cập nhật cấu hình
   **4.** Click **Thêm** để lưu cảm biến. 
   
   **5.** Click **Lưu thay đổi** để hoàn thành thao tác khi sửa thiết bị.
+
+#### Yêu cầu thiết bị gửi cập nhật chỉ số lên web
+
+- Khi mà trên thiết bị đã đọc được chỉ số cảm biến, nhưng trên web chưa thấy cập nhật giá trị, thì có thể dùng lệnh sau để yêu cầu thiết bị gửi chỉ số cảm biến ngay
+
+  **pack,sensor#**
+
