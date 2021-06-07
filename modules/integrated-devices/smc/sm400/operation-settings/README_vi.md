@@ -437,7 +437,7 @@ Thời lượng: báo động tương ứng sẽ được tạo sau khi đạt �
 * Bước 3: Sau khi điều chỉnh, nhấn nút phát trên điều khiển từ xa để lưu, hoặc nhấn EXIT trên điều khiển từ xa, sau đó nhấn lưu.
 
 
-**⑧ THÔNG TIN: =**
+**⑧ THÔNG TIN:**
 
 <table>
     <tr>
