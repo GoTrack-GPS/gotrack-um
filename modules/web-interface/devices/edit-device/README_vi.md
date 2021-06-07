@@ -120,7 +120,7 @@ Khi click vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/imag
     - **Đơn vị**: Chọn đơn vị cần đo .
     - **Loại cảm biến** : Chọn loại cảm biến tương ứng với đơn vị đo. 
     - **Hiệu chuẩn**  : Nhập giá trị đúng như ví dụ (Chỉ xuất hiện khi chọn phương pháp  Calibration (Hiệu chuẩn)
-    **Công thức** : Nhập giá trị đúng như ví dụ (Chỉ xuất hiện khi chọn phươngpháp  Linear (tuyến tính), Original (Nguyên bản)
+    **Công thức** : Nhập giá trị đúng như ví dụ (Chỉ xuất hiện khi chọn phương pháp  Linear (tuyến tính), Original (Nguyên bản)
     - **Tối thiểu**  : Nhập giá trị nhỏ nhất của hiệu chuẩn.
     - **Tối đa**: Nhập giá trị lớn nhất của hiệu chuẩn.
 -  ***Nâng cao*** : 

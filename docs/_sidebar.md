@@ -97,7 +97,8 @@
           - [Build App](modules/web-interface/faq/build-app/)
           - [Device S200/S400](modules/web-interface/faq/device-s200-s400/)
           - [Device SM400](modules/web-interface/faq/sm400/)
-     
+          - [Fuel sensor configuration](modules/web-interface/faq/connect-sensor-s400/)
+          - [Connect relay to device S200, S400](modules/web-interface/faq/ro-le/)
      - **Contact**  
           - [**Contact Info**](modules/web-interface/contact/)
 <!-- - 

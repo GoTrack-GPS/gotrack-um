@@ -148,7 +148,10 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
     * **Input**: Select the corresponding parameter.
     * **Unit**: Select the unit to be measured.
     * **Sensor Type**: Select the sensor type corresponding to the unit of measure.
-
+    - **Calibration** : Enter the correct value as the example (Only appears when the Calibration method is selected)
+    **Formula** : Enter the correct value as the example (Only appears when selecting the Linear (linear), Original method)
+    - **Min** : Enter the minimum value of the calibration.
+    - **Max**: Enter the maximum value of the calibration.
 * ***Advanced*** 
     * **Increase minimum**: Enter sensor value to change when abnormally increase.
     * **Decrease minimum**: Enter sensor value to change when decreasing abnormally.
