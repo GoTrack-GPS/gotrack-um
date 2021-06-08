@@ -128,9 +128,9 @@
     * **Camera type**: Select Basic  only captures pictures.
     * **Camera Id**: Enter the code of the camera.
     * **Description**: Can enter more information about the camera, ...
-    
+
   **3.** Click **Add** to save the camera.
-   
+
   **4.** After configuring the information, click **Save Changes** to complete the operation.
 
 #### 4.2. Recorder SM400  Livestream
