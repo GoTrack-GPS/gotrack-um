@@ -117,41 +117,54 @@
 #### 4.1. Recorder SM400 Basic
 
 * You go to https://gps.gotrack.vn to log in.
-* Go to **Management > Devices**.
-* If the camera is installed in any device, select **Edit** on that device.
-* Click **<span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-edit.svg)Edit > Camera > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) Add camera**
+  
+  **1.** Click on the <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/file-alt.svg) **Infor** tab of that vehicle. Or click on the icon <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/file-alt.svg)  in the device info box
+  
+  **2.**  Click **Camera > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) Add camera**, the following dialog box will appear:
 
-    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/add-camera-2.png)
+    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/add-camera-device-5.png)
 
     * **Name**: Enter the name of the camera you want to install.
     * **Camera type**: Select Basic  only captures pictures.
     * **Camera Id**: Enter the code of the camera.
     * **Description**: Can enter more information about the camera, ...
-    * Click **Add** to save the camera.
+    
+  **3.** Click **Add** to save the camera.
    
-    After configuring the information, click **Save Changes** to complete the operation.
+  **4.** After configuring the information, click **Save Changes** to complete the operation.
 
 #### 4.2. Recorder SM400  Livestream
 
 * You go to https://gps.gotrack.vn to log in.
-* Go to **Management > Devices**.
-* If the camera is installed in any device, select **Edit** on that device.
-* Click **<span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-edit.svg)Edit > Camera > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) Add camera**
+  
+  **1.** Click on the <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/file-alt.svg) **Infor** tab of that vehicle. Or click on the icon <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/file-alt.svg)  in the device info box
 
-    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/add-camera-3.png)
+  **2.** Click **Camera > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) Add camera**, the following dialog box will appear:
+
+    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/add-camera-4.png)
 
     * **Name**: Enter the name of the camera you want to install.
     * **Camera type**: **MDVR** in addition to taking pictures also has a video recording feature.
     * **MDVR Id**: ID printed on SM400 device.
     * **Host**: IP address or camera server access domain name.
     * **Port**: Connection port to the camera recorder. Default is 6605.
-    * **Channel**: If the camera cord is plugged into the port of any channel, select that channel. Position of the mounting channel at the recorder. Only 1 channel can be created.
-    * **Stream**: Output stream option. Main data stream with high definition for storage and playback. And the extra data stream is used for viewing over the network -  with limited transmission speed.
-    * **Description**: Can enter more information about the camera, ...
+    * **Channel** : The camera cable plugs into the port of any channel, then select that channel.
 
-    * Click **Add** to save the camera.
+      - Mounting channel position at the recorder, **AV1  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg)  AV4**. (For 8-channel recorders, **AV8** ).
+      - Corresponding from **CH1 <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg) CH8**
+      - Only 1 channel can be created.
 
-    After configuring the information, click **Save Changes** to complete the operation.
+  * **Position**: For vehicles that transmit data to the Ministry of Transport, it is mandatory to install cameras at the following 3 locations:
+
+    - **Driver** : The location where the driver or driver is seen.
+    - **Door**: Position of passengers getting on and off the vehicle.
+    - **Passenger**: The position covers all passengers on the vehicle.
+  * **Description**: Can enter more information about the camera, ...
+  * **Replication**: If you want to create multiple channels at the same time, choose to clone, copy that channel. To save time and create channels faster. When cloning is successful, just select the channel number again
+
+  **3.** Click **Add** to save the camera.
+
+  **4.** After configuring the information, click **Save Changes** to complete the operation.
 
 ### Step 5: Configure QCVN
 

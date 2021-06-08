@@ -132,67 +132,79 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
 
 ### Sensor
 
-<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/sensor.png)
-
 * Before adding new sensors, see the diagram below, how parameters are sent from the gps device and how they need to be paired with the sensors.
 
     <span class="icon-left6">![active device ](/docs/assets/images/web-english/device/sensor-device-2.png)
 
 * Choose "<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **Add sensor**" tab , the screen will display as follows:
  
+    <span class="icon-left6">![active device ](/docs/assets/images/web-english/device/sensor.png)
+
     <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/add-sensor.png)
 
-* ***Basic***
-    * **Sensor name**: Name your sensor for easy memory and visualization.
-    * **Calculation method**: Select 1 of 3 methods: Calibration, Linear, Original.
-    * **Input**: Select the corresponding parameter.
-    * **Unit**: Select the unit to be measured.
-    * **Sensor Type**: Select the sensor type corresponding to the unit of measure.
-    - **Calibration** : Enter the correct value as the example (Only appears when the Calibration method is selected)
-    **Formula** : Enter the correct value as the example (Only appears when selecting the Linear (linear), Original method)
-    - **Min** : Enter the minimum value of the calibration.
-    - **Max**: Enter the maximum value of the calibration.
-* ***Advanced*** 
-    * **Increase minimum**: Enter sensor value to change when abnormally increase.
-    * **Decrease minimum**: Enter sensor value to change when decreasing abnormally.
-    * **Offset**: Enter a zero correction value when calculating the ADC to output the correct temperature (sensor type) value.
-    * **Round**: Rounds the sensor value by how much after the (,).
-    * **Sort**: Sort the change sensor value to any position.
-    * **Description**: Can write more information about the sensor, ...
-    * **Show map on map**: Turn on / off to show / not show sensor name on the map.
-    Click **Add** to save the sensor.
+#### Basic
+    
+* **Sensor name**: Name your sensor for easy memory and visualization.
+* **Calculation method**: Select 1 of 3 methods: Calibration, Linear, Original.
+* **Input**: Select the corresponding parameter.
+* **Unit**: Select the unit to be measured.
+* **Sensor Type**: Select the sensor type corresponding to the unit of measure.
+- **Formula** : Enter the correct value as the example (Only appears when selecting the Linear (linear), Original method)
+- **Minimum** : Enter the minimum value of the calibration.
+- **Maximum**: Enter the maximum value of the calibration.
 
+#### Advanced 
+
+* **Increase minimum**: Enter sensor value to change when abnormally increase.
+* **Decrease minimum**: Enter sensor value to change when decreasing abnormally.
+* **Offset**: Enter a zero correction value when calculating the ADC to output the correct temperature (sensor type) value.
+* **Round**: Rounds the sensor value by how much after the (,).
+* **Sort**: Sort the change sensor value to any position.
+* **Description**: Can write more information about the sensor, ...
+* **Show map on map**: Turn on / off to show / not show sensor name on the map.
+
+    Click **Add** to save the sensor.
 
 ### Camera 
 
-* **For camera type: Basic**
+#### For camera type: Basic
 
-    Choose "<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **Add camera**" tab , the screen will display as follows:
+* Choose "<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **Add camera**" tab , the screen will display as follows:
 
     <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/add-camera-2.png)
 
-    * **Name**: Enter the name of the camera you want to install.
-    * **Camera type**: Select Basic  only captures pictures.
-    * **Camera Id**: Enter the code of the camera.
-    * **Description**: Can enter more information about the camera, ...
+  * **Name**: Enter the name of the camera you want to install.
+  * **Camera type**: Select Basic  only captures pictures.
+  * **Camera Id**: Enter the code of the camera.
+  * **Description**: Can enter more information about the camera, ...
 
 <div id="cameraplay">
 </div>
 
-* **For camera type: MDVR**
+#### For camera type: MDVR
 
-    Choose "<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **Add camera**" tab , the screen will display as follows:
+* Choose "<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **Add camera**" tab , the screen will display as follows:
 
-    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/add-camera-3.png)
+    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/add-camera-6.png)
 
-    * **Name**: Enter the name of the camera you want to install.
-    * **Camera type**: **MDVR** in addition to taking pictures also has a video recording feature.
-    * **MDVR Id**: ID printed on SM400 device.
-    * **Host**: IP address or camera server access domain name.
-    * **Port**: Connection port to the camera recorder. Default is 6605.
-    * **Channel**: If the camera cord is plugged into the port of any channel, select that channel. Position of the mounting channel at the recorder. Only 1 channel can be created.
-    * **Stream**: Output stream option. Main data stream with high definition for storage and playback. And the extra data stream is used for viewing over the network -  with limited transmission speed.
-    * **Description**: Can enter more information about the camera, ...
+  * **Name**: Enter the name of the camera you want to install.
+  * **Camera type**: **MDVR** in addition to taking pictures also has a video recording feature.
+  * **MDVR Id**: ID printed on SM400 device.
+  * **Host**: IP address or camera server access domain name.
+  * **Port**: Connection port to the camera recorder. Default is 6605.
+  * **Channel** : The camera cable plugs into the port of any channel, then select that channel.
+
+    - Mounting channel position at the recorder, **AV1  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg)  AV4**. (For 8-channel recorders, **AV8** ).
+    - Corresponding from **CH1 <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg) CH8**
+    - Only 1 channel can be created.
+
+  * **Position**: For vehicles that transmit data to the Ministry of Transport, it is mandatory to install cameras at the following 3 locations:
+
+    - **Driver** : The location where the driver or driver is seen.
+    - **Door**: Position of passengers getting on and off the vehicle.
+    - **Passenger**: The position covers all passengers on the vehicle.
+  * **Description**: Can enter more information about the camera, ...
+  * **Replication**: If you want to create multiple channels at the same time, choose to clone, copy that channel. To save time and create channels faster. When cloning is successful, just select the channel number again
 
     Click **Add** to save the camera.
 

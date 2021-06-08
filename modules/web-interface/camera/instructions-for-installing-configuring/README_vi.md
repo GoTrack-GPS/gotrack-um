@@ -120,9 +120,10 @@
 #### 4.1. Đầu ghi SM400 Basic
 
 *  Bạn vào https://gps.gotrack.vn để đăng nhập.
-* Vào mục **Quản lý > Thiết bị**.
-* Nếu lắp camera ở thiết bị nào thì chọn **Sửa** ở thiết bị đó. 
-* Click vào **<span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-edit.svg)Sửa > Camera > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) Thêm camera**
+   
+   **1**. Click vào tab <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/file-alt.svg)  **Thông tin** của xe đó. Hoặc click vào icon <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/file-alt.svg)  trong hộp thông tin thiết bị
+
+   **2.**  Click vào **Camera > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) Thêm camera**, sẽ xuất hiện hộp thoại như sau:  
 
     <span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/add-camera-device-1.png)
 
@@ -131,32 +132,41 @@
     - **Camera Id** : Nhập mã của camera. ID ghi trên thiết bị SM400
     - **Mô tả** : Có thể nhập thêm thông tin về camera,...
     
-    Click **Thêm** để lưu camera.
+    **3.** Click **Thêm** để lưu camera.
 
-    Sau khi cấu hình xong các thông tin, click **Lưu thay đổi** để hoàn thành thao tác.
+    **4.** Sau khi cấu hình xong các thông tin, click **Lưu thay đổi** để hoàn thành thao tác.
 
 #### 4.2. Đầu ghi SM400 Livestream
 
 * Bạn vào https://gps.gotrack.vn để đăng nhập.
-* Vào mục **Quản lý > Thiết bị**.
-<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/edit-device.png)
-* Nếu lắp camera ở thiết bị nào thì chọn **Sửa** ở thiết bị đó. 
-* Click vào **<span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-edit.svg)Sửa > Camera > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) Thêm camera**
+  
+  **1.** Click vào tab <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/file-alt.svg)  **Thông tin** của xe đó. 
+  
+  Hoặc click vào icon <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/file-alt.svg)  trong hộp thông tin thiết bị
+  
+  **2.** Click vào **Camera > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) Thêm camera**
 
-    <span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/add-camera-device-2.png)
+    <span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/add-camera-device-5.png)
 
     - **Tên** : Nhập tên vị trí camera bạn muốn lắp đặt.
     - **Loại camera** : **MDVR**. Ngoài chụp ảnh ra còn có thêm tính năng quay video.
     - **MDVR Id** : Nhập mã của camera. ID ghi trên thiết bị SM400
     - **Host** : Địa chỉ IP hoặc tên miền truy cập server camera.
     - **Cổng** : Cổng kết nối đến đầu ghi hình camera. Mặc định là 6605.
-    - **Kênh** : Dây nối camera cắm vào cổng của kênh nào thì chọn kênh đó. Vị trí kênh lắp ở đầu ghi. Chỉ được tạo 1 kênh duy nhất. 
-    - **Luồng** : Tùy chọn luồng dữ liệu đầu ra. Luồng dữ liệu **chính** với độ nét cao để phục vụ lưu trữ, xem lại. Còn luồng dữ liệu **phụ** dùng để xem qua mạng – với tốc độ đường truyền hạn chế.
-    - **Mô tả** : Có thể nhập thêm thông tin về camera,...
+    - **Kênh** : Dây nối camera cắm vào cổng của kênh nào thì chọn kênh đó. 
+      - Vị trí kênh lắp ở đầu ghi, **AV1  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg)  AV4**. (Đối với đầu ghi 8 kênh thì <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg)  **AV8** ). 
+      - Tương ứng từ **CH1 <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg) CH8**
+      -  Chỉ được tạo 1 kênh duy nhất. 
+  - **Vị trí** : Đối với các xe truyền dữ liệu lên Bộ Giao thông vận tải bắt buộc phải lắp camera tại 3 vị trí sau :
+      - **Lái xe** : Vị trí nhìn thấy người lái xe, tài xế.
+      - **Cửa** :  Vị trí  hành khách đi lên -  xuống xe.
+      - **Hành khách** : Vị trí bao quát hết các hành khách đang trên xe.
+  - **Mô tả** : Có thể nhập thêm thông tin về camera,...
+  - **Nhân bản** : Nếu muốn tạo nhiều kênh cùng 1 lúc thì chọn nhân bản, sao chép bằng đó kênh. Để tiết kiệm thời gian và tạo kênh nhanh hơn. Khi nhân bản thành công chỉ cần chọn lại số kênh.
 
-    Click **Thêm** để lưu camera.
+  **3.** Click **Thêm** để lưu camera.
 
-    Sau khi cấu hình xong các thông tin, click **Lưu thay đổi** để hoàn thành.
+  **4.** Sau khi cấu hình xong các thông tin, click **Lưu thay đổi** để hoàn thành.
 
 ### Bước 5 : Cấu hình nhận ảnh
 

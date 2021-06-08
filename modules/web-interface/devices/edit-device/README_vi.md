@@ -103,7 +103,6 @@ Khi click vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/imag
 
 ### Cảm biến 
 
-<span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/Sensor-device.png)
 
 * Trước khi thêm cảm biến mới, hãy xem sơ đồ bên dưới, cách các thông số được gửi từ thiết bị gps và cách chúng cần được ghép nối với các cảm biến.
 
@@ -111,58 +110,69 @@ Khi click vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/imag
 
 * Khi click vào  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Thêm cảm biến** , sẽ xuất hiện hộp thoại như sau:  
 
+    <span class="icon-left6">![delete device](/docs/assets/images/web-interface/device/Sensor-device.png)
     <span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/advanced-sensor-device.png)
 
-- ***Cơ bản*** 
-    - **Tên cảm biến** : Đặt tên cảm biến cho dễ nhớ, dễ nhìn. 
-    - **Phương pháp tính**: Chọn 1 trong 3 phương pháp:  Calibration (Hiệuchuẩn), Linear (tuyến tính), Original (Nguyên bản). 
-    - **Tham số**: Chọn tham số tương ứng.
-    - **Đơn vị**: Chọn đơn vị cần đo .
-    - **Loại cảm biến** : Chọn loại cảm biến tương ứng với đơn vị đo. 
-    - **Hiệu chuẩn**  : Nhập giá trị đúng như ví dụ (Chỉ xuất hiện khi chọn phương pháp  Calibration (Hiệu chuẩn)
-    **Công thức** : Nhập giá trị đúng như ví dụ (Chỉ xuất hiện khi chọn phương pháp  Linear (tuyến tính), Original (Nguyên bản)
-    - **Tối thiểu**  : Nhập giá trị nhỏ nhất của hiệu chuẩn.
-    - **Tối đa**: Nhập giá trị lớn nhất của hiệu chuẩn.
--  ***Nâng cao*** : 
-    -  **Tăng tối thiểu** : Nhập giá trị cảm biến thay đổi khi tăng bất thường.
-    -  **Giảm tối thiểu** : Nhập giá trị cảm biến thay đổi khi giảm bất thường.
-    -  **Cân đối bù trừ** : Nhập giá trị chỉnh "không" khi tính toán ra ADC để xuất ra giá trị nhiệt độ(loại cảm biến) đúng.
-    - **Làm tròn** : Làm tròn giá trị cảm biến bao nhiêu đó sau dấu (,).
-    - **Sắp xếp**: Sắp xếp giá trị cảm biến thay đổi lên vị trí nào. 
-    - **Mô tả** : Có thể ghi thêm thông tin về cảm biến,...
-    - **Hiển thị bản đồ trên map** : Bật / tắt để hiển thị / không hiển thị tên cảm biến trên bản đồ. 
+#### Cơ bản 
+
+- **Tên cảm biến** : Đặt tên cảm biến cho dễ nhớ, dễ nhìn. 
+- **Phương pháp tính**: Chọn 1 trong 3 phương pháp:  Calibration (Hiệuchuẩn), Linear (tuyến tính), Original (Nguyên bản). 
+- **Tham số**: Chọn tham số tương ứng.
+- **Đơn vị**: Chọn đơn vị cần đo .
+- **Loại cảm biến** : Chọn loại cảm biến tương ứng với đơn vị đo. 
+- **Công thức** : Nhập giá trị đúng như ví dụ (Chỉ xuất hiện khi chọn phương pháp  Linear (tuyến tính), Original (Nguyên bản)
+- **Tối thiểu**  : Nhập giá trị nhỏ nhất của hiệu chuẩn.
+- **Tối đa**: Nhập giá trị lớn nhất của hiệu chuẩn.
+
+#### Nâng cao
+
+-  **Tăng tối thiểu** : Nhập giá trị cảm biến thay đổi khi tăng bất thường.
+-  **Giảm tối thiểu** : Nhập giá trị cảm biến thay đổi khi giảm bất thường.
+-  **Cân đối bù trừ** : Nhập giá trị chỉnh "không" khi tính toán ra ADC để xuất ra giá trị nhiệt độ(loại cảm biến) đúng.
+- **Làm tròn** : Làm tròn giá trị cảm biến bao nhiêu đó sau dấu (,).
+- **Sắp xếp**: Sắp xếp giá trị cảm biến thay đổi lên vị trí nào. 
+- **Mô tả** : Có thể ghi thêm thông tin về cảm biến,...
+- **Hiển thị bản đồ trên map** : Bật / tắt để hiển thị / không hiển thị tên cảm biến trên bản đồ. 
 
 Click **Thêm** để lưu cảm biến. 
 
 ### Camera 
 
-* **Đối với loại camera : Basic**
-    <span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/add-camera-device-1.png)
+#### Đối với loại camera : Basic
+    
+<span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/add-camera-1.png)
 
-    * Khi click vào  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Thêm camera** xuất  hiện hộp thoại như hình trên: 
-        - **Tên** : Nhập tên camera  theo đúng kênh cắm ở đầu ghi.
-        - **Loại camera** : **Basic** ( thường ). Chỉ chụp ảnh.
-        - **Camera Id** : Nhập mã của camera. ID ghi trên thiết bị SM400
-        - **Mô tả** : Có thể nhập thêm thông tin về camera,...
+* Khi click vào  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Thêm camera** xuất  hiện hộp thoại như hình trên: 
+  - **Tên** : Nhập tên camera  theo đúng kênh cắm ở đầu ghi.
+  - **Loại camera** : **Basic** ( thường ). Chỉ chụp ảnh.
+  - **Camera Id** : Nhập mã của camera. ID ghi trên thiết bị SM400
+  - **Mô tả** : Có thể nhập thêm thông tin về camera,...
 
 <div id="cameraplay">
 </div>
 
-* **Đối với loại camera : MDVR**
+#### Đối với loại camera : MDVR
 
-    <span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/add-camera-device-2.png)
+<span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/add-camera-7.png)
 
-    * Khi click vào  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Thêm camera** xuất  hiện hộp thoại như hình trên: 
-      - **Tên** : Nhập tên vị trí camera bạn muốn lắp đặt.
-      - **Loại camera** : **MDVR**. Ngoài chụp ảnh ra còn có thêm tính năng quay video.
-      - **MDVR Id** : ID in trên thiết bị SM400.
-      - **Host** : Địa chỉ IP hoặc tên miền truy cập server camera.
-      - **Cổng** : Cổng kết nối đến đầu ghi hình camera. Mặc định là 6605.
-      - **Kênh** : Dây nối camera cắm vào cổng của kênh nào thì chọn kênh đó. Vị trí kênh lắp ở đầu ghi. Chỉ được tạo 1 kênh duy nhất. 
-      - **Luồng** : Tùy chọn luồng dữ liệu đầu ra. Luồng dữ liệu **chính** với độ nét cao để phục vụ lưu trữ, xem lại. Còn luồng dữ liệu **phụ** dùng để xem qua mạng – với tốc độ đường truyền hạn chế.
-      - **Mô tả** : Có thể nhập thêm thông tin về camera,...
-
-        Click **Thêm** để lưu camera.
+* Khi click vào  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg)**Thêm camera** xuất  hiện hộp thoại như hình trên: 
+  - **Tên** : Nhập tên vị trí camera bạn muốn lắp đặt.
+  - **Loại camera** : **MDVR**. Ngoài chụp ảnh ra còn có thêm tính năng quay video.
+  - **MDVR Id** : ID in trên thiết bị SM400.
+  - **Host** : Địa chỉ IP hoặc tên miền truy cập server camera.
+  - **Cổng** : Cổng kết nối đến đầu ghi hình camera. Mặc định là 6605.
+  - **Kênh** : Dây nối camera cắm vào cổng của kênh nào thì chọn kênh đó. 
+    - Vị trí kênh lắp ở đầu ghi, **AV1  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg)  AV4**. (Đối với đầu ghi 8 kênh thì <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg)  **AV8** ). 
+    - Tương ứng từ **CH1 <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg) CH8**
+    -  Chỉ được tạo 1 kênh duy nhất. 
+  - **Vị trí** : Đối với các xe truyền dữ liệu lên Bộ Giao thông vận tải bắt buộc phải lắp camera tại 3 vị trí sau :
+      - **Lái xe** : Vị trí nhìn thấy người lái xe, tài xế.
+      - **Cửa** :  Vị trí  hành khách đi lên -  xuống xe.
+      - **Hành khách** : Vị trí bao quát hết các hành khách đang trên xe.
+  - **Mô tả** : Có thể nhập thêm thông tin về camera,...
+  - **Nhân bản** : Nếu muốn tạo nhiều kênh cùng 1 lúc thì chọn nhân bản, sao chép bằng đó kênh. Để tiết kiệm thời gian và tạo kênh nhanh hơn. Khi nhân bản thành công chỉ cần chọn lại số kênh.
+    
+Click **Thêm** để lưu camera.
 
 > Bên nhân viên kỹ thuật sẽ cấu hình địa chỉ  MDVR Id, host, cổng cho thiết bị.
 
