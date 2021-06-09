@@ -19,7 +19,7 @@ You can refer to  [here](modules/web-interface/devices/calib-sensor/#calib)
 
 - Soji sensor sold in Vietnam uses 9600 baudrate
 
-    **Rs232.0,2,9600#**
+    **Rs232,0,2,9600#**
 
 ### Step 4: Save configuration
 
@@ -63,8 +63,8 @@ Send **reset#** command to save and update configuration
     * **Sensor Type**: Select the sensor type corresponding to the unit of measure.
     - **Calibration** : Enter the correct value as the example (Only appears when the Calibration method is selected)
     **Formula** : Enter the correct value as the example (Only appears when selecting the Linear (linear), Original method)
-    - **Min** : Enter the minimum value of the calibration.
-    - **Max**: Enter the maximum value of the calibration.
+    - **Min** : Enter the value of empty tank capacity
+    - **Max**: Enter the value of full tank capacity
   * ***Advanced*** 
     * **Increase minimum**: Enter sensor value to change when abnormally increase.
     * **Decrease minimum**: Enter sensor value to change when decreasing abnormally.
@@ -78,8 +78,8 @@ Send **reset#** command to save and update configuration
     
     **5.** Click **Save Changes** to complete the device repair operation.
 
-#### Ask the device to send stat updates to the web
+#### Force the GPS device send latest sensor value to the server
 
-- When the sensor readings have been read on the device, but the value has not been updated on the web, the following command can be used to request the device to send the sensor readings immediately
+- When the sensor values have been read on the device, but the value has not been updated on the web, the following command can be used to request the device to send the sensor immediately
 
   **pack,sensor#**

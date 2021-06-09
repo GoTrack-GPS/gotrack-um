@@ -65,9 +65,8 @@ Gửi lệnh **reset#** để lưu và cập nhật cấu hình
     - **Loại cảm biến** : Chọn loại cảm biến tương ứng với đơn vị đo. 
     - **Hiệu chuẩn**  : Nhập giá trị đúng như ví dụ (Chỉ xuất hiện khi chọn phương pháp  Calibration (Hiệu chuẩn)
     **Công thức** : Nhập giá trị đúng như ví dụ (Chỉ xuất hiện khi chọn phương pháp  Linear (tuyến tính), Original (Nguyên bản)
-    - **Tối thiểu**  : Nhập giá trị nhỏ nhất của hiệu chuẩn.
-    - **Tối đa**: Nhập giá trị lớn nhất của hiệu chuẩn.
-  
+    - **Tối thiểu**  : Nhập giá trị dung tích bình rỗng.
+    - **Tối đa**: Nhập giá trị dung tích bình đầy.
   -  ***Nâng cao*** : 
      -  **Tăng tối thiểu** : Nhập giá trị cảm biến thay đổi khi tăng bất thường.
      -  **Giảm tối thiểu** : Nhập giá trị cảm biến thay đổi khi giảm bất thường.

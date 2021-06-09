@@ -84,15 +84,17 @@ Tìm kiếm theo :
 
 ### Đặt lại mật khẩu 
 
+<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/internal/reset-pw-user-alias.png)
+
 Để đặt lại mật khẩu tài khoản phụ về mặc định, thực hiện các bước sau :
 
-Bước 1 : Click vào  icon đặt lại của tên tài khoản phụ đã tạo.
+- Bước 1 : Click vào  icon đặt lại của tên tài khoản phụ đã tạo.
 
-Bước 2 : Nhấn
+- Bước 2 : Nhấn
 
-Xác nhận : Nếu đồng ý đặt lại mật khẩu.
+  - **Xác nhận** : Nếu đồng ý đặt lại mật khẩu.
 
-Hủy : Nếu không muốn đặt lại.
+  - **Hủy** : Nếu không muốn đặt lại.
 
 ### Xóa 
 
