@@ -45,6 +45,7 @@ Send **reset#** command to save and update configuration
 ### Step 6: Configuration on Platform
 
 - First, select the vehicle you want to configure.
+  
   **1.** Click on the <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/file-alt.svg) **Infor** tab of that vehicle. Or click on the icon <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/file-alt.svg)  in the device info box
     
     <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/faq/add-sensor-4.jpg)
