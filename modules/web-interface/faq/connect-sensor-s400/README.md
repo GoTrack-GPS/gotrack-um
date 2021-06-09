@@ -6,7 +6,7 @@ You can refer to  [here](modules/web-interface/devices/calib-sensor/#calib)
 
 ### Step 2: Connect sensor to the GPS tracker
     
-<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/faq/wire-2.jpeg)
+<span class="icon-left4">![Manage device ](/docs/assets/images/web-interface/faq/wire-2.jpeg)
 
 * RX of Sensor --> TX of S200/S400: Yellow
 * TX of Sensor --> RX of S200/S400: Blue
