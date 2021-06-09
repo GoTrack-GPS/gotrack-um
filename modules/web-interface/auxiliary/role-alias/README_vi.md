@@ -1,5 +1,8 @@
 # Bí danh vai trò
 
+- Tài khoản phụ được tạo ra từ tài khoản chính và được liên kết với tài khoản chính.
+
+- Tài khoản phụ có nhiều chức năng khác nhau và có thể thay đổi đáng kể tùy thuộc vào vị trí của chúng và mục tiêu của chúng là gì.
 
 Để cấp quyền cho tài khoản phụ vào chức năng nào thì thực hiện như sau :
 
@@ -15,7 +18,7 @@ Tìm kiếm theo :
 
 - **Tên vai trò** : Nhập 1 hoặc nhiều ký tự để hiển thị kết quả nhanh nhất.
 
-  Nhấn **Tìm kiếm** để hiển thị kết quả.
+- Nhấn **Tìm kiếm** để hiển thị kết quả.
 
 ### Thêm  
 
@@ -29,9 +32,9 @@ Tìm kiếm theo :
   
   - **Mô tả** : Cấp quyền cho tài khoản phụ này để làm gì, ...
   
-  - **Các quyền** : Bật các quyền mà bạn muốn cấp cho tài khoản phụ thực hiện. 
+  - **Chọn quyền** : Bật / tắt các quyền mà bạn muốn cấp cho tài khoản phụ thực hiện. 
 
-  Cuộn xuống để bật các quyền khác.
+  Cuộn xuống để bật / tắt các quyền khác.
 
 - Bước 3 : Nhấn **Thêm** để hoàn thành thao tác.
 
@@ -49,7 +52,7 @@ Tìm kiếm theo :
   
   - **Mô tả**
   
-  - **Các quyền** : Bật / tắt các quyền mà bạn muốn cấp cho tài khoản phụ thực hiện. Cuộn xuống để bật / tắt các quyền khác.
+  - **Chọn quyền** : Bật / tắt các quyền mà bạn muốn cấp cho tài khoản phụ thực hiện. Cuộn xuống để bật / tắt các quyền khác.
 
 - Bước 3 : Nhấn **Lưu thay đổi** để lưu lại thông tin vừa sửa.
 

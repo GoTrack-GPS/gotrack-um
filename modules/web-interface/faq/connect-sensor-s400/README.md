@@ -15,7 +15,7 @@ You can refer to  [here](modules/web-interface/devices/calib-sensor/#calib)
 
 - Soji sensor sold abroad uses 19200 baudrate
 
-    **Rs232,0.2,19200#**
+    **Rs232,0,2,19200#**
 
 - Soji sensor sold in Vietnam uses 9600 baudrate
 
@@ -29,7 +29,7 @@ Send **reset#** command to save and update configuration
     
 #### Frequency to read data from sensor, default is 10s
   
-  **rs232para,0,10.5#**
+  **rs232para,0,10,5#**
 
 #### Check sensor readings
 

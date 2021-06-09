@@ -1,10 +1,16 @@
 # Bí danh người dùng
 
+- Tài khoản phụ được tạo ra từ tài khoản chính và được liên kết với tài khoản chính.
+
+- Tài khoản phụ có nhiều chức năng khác nhau và có thể thay đổi đáng kể tùy thuộc vào vị trí của chúng và mục tiêu của chúng là gì.
+
 Để tạo tài khoản phụ thì thực hiện như sau :
 
-Vào **Quản lý > Phụ trợ > Bí danh người dùng**.
+- Vào **Quản lý > Phụ trợ > Bí danh người dùng**.
 
-<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/internal/user-alias.png)
+- Nếu có nhiều tài khoản con thì click vào cây tài khoản, chọn tài khoản muốn tạo thêm tài khoản phụ.
+
+  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/internal/user-alias.png)
 
 ### Tìm kiếm 
 
@@ -16,7 +22,7 @@ Tìm kiếm theo :
 
 - **Tài khoản con**: Tick vào ô để xem kết quả ( nếu có ).
 
-  Nhấn **Tìm kiếm** để hiển thị kết quả.
+- Nhấn **Tìm kiếm** để hiển thị kết quả.
 
 ### Thêm 
 
@@ -26,7 +32,7 @@ Tìm kiếm theo :
 
 - Bước 2 : Nhập thông tin 
   
-  - Cơ bản :
+  - ***Cơ bản*** :
     
     - **Tài khoản chính** : Không thể sửa.
     
@@ -42,13 +48,13 @@ Tìm kiếm theo :
     
     - **Thời gian bắt đầu** ... **Thời gian kết thúc** : Hạn sử dụng tài khoản phụ.
   
-  - Thiết bị : Tick chọn một vài hoặc tất cả thiết bị để sử dụng quyền đối với thiết bị đó.
+  - ***Thiết bị*** : Tick chọn một vài hoặc tất cả thiết bị để sử dụng quyền đối với thiết bị đó.
 
 - Bước 3 : Nhấn **Thêm** để hoàn thành thao tác.
 
 ### Sửa 
 
-<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/internal/edit-user-alias.png)
+<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/internal/edit-user-alias-1.png)
 
 Để sửa tài khoản phụ, thực hiện các bước sau :
 
@@ -56,7 +62,7 @@ Tìm kiếm theo :
 
 - Bước 2 : Sửa các thông tin ( nếu có )
   
-  - Cơ bản :
+  - ***Cơ bản*** :
     
     - **Tài khoản chính** : Không thể sửa.
     
@@ -72,9 +78,21 @@ Tìm kiếm theo :
     
     - **Thời gian bắt đầu** ... **Thời gian kết thúc** : Hạn sử dụng tài khoản phụ.
   
-  - Thiết bị : Tick chọn một vài hoặc tất cả thiết bị để sử dụng quyền đối với thiết bị đó.
+  - ***Thiết bị*** : Tick chọn một vài hoặc tất cả thiết bị để sử dụng quyền đối với thiết bị đó.
 
 - Bước 3 : Nhấn **Lưu thay đổi** để lưu lại thông tin vừa sửa.
+
+### Đặt lại mật khẩu 
+
+Để đặt lại mật khẩu tài khoản phụ về mặc định, thực hiện các bước sau :
+
+Bước 1 : Click vào  icon đặt lại của tên tài khoản phụ đã tạo.
+
+Bước 2 : Nhấn
+
+Xác nhận : Nếu đồng ý đặt lại mật khẩu.
+
+Hủy : Nếu không muốn đặt lại.
 
 ### Xóa 
 

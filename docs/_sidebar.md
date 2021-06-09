@@ -6,6 +6,9 @@
                - [Forgot password](modules/web-interface/users/forget-password/)
                - [Account Management](modules/web-interface/users/account-management/)
                - [Account tree](modules/web-interface/users/account-tree/)
+          - **Sub-accounts**
+              - [Role alias](modules/web-interface/auxiliary/role-alias/)
+              - [User alias](modules/web-interface/auxiliary/user-alias/)
           - **Devices** 
                - [Search ](modules/web-interface/devices/search-device/)
                - [Add ](modules/web-interface/devices/add-device/)
