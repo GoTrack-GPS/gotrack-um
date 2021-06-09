@@ -47,6 +47,7 @@ Gửi lệnh **reset#** để lưu và cập nhật cấu hình
 ### Bước 6 : Cấu hình trên Platform
 
 - Đầu tiên , chọn xe muốn cấu hình.
+  
   **1.** Click vào tab <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/file-alt.svg)  **Thông tin** của xe đó. Hoặc click vào icon <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/file-alt.svg)  trong hộp thông tin thiết bị
     
     <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/faq/add-sensor.jpg)
