@@ -1,4 +1,4 @@
-# Configure fuel sensor with GPS device S200/S400
+# Configure fuel sensor soji with GPS device S200/S400
 
 ### Step 1: Calibrate the sensor
 
@@ -80,6 +80,6 @@ Send **reset#** command to save and update configuration
 
 #### Force the GPS device send latest sensor value to the server
 
-- When the sensor values have been read on the device, but the value has not been updated on the web, the following command can be used to request the device to send the sensor immediately
+- When the sensor values have been read on the device, but the value has not been updated on the web, the following command can be used to request the device to send the sensor value immediately
 
   **pack,sensor#**
