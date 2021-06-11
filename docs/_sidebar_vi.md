@@ -97,6 +97,7 @@
   - [Xây dựng ứng dụng](vi/modules/web-interface/faq/build-app/)
   - [Thiết bị S200/S400](vi/modules/web-interface/faq/device-s200-s400/)
   - [Thiết bị SM400](vi/modules/web-interface/faq/sm400/)
+  - [Cấu hình điểm dừng trên bản đồ](vi/modules/web-interface/faq/configure-stops/)
   - [Cấu hình cảm biến nhiên liệu soji với S200/S400](vi/modules/web-interface/faq/connect-sensor-s400/)
   - [Kết nối rơ le cho thiết bị S200, S400](vi/modules/web-interface/faq/ro-le/)
 - **Liên hệ**  

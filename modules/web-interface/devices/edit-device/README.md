@@ -219,6 +219,7 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
     * **Stop duration (second)**: Configure the minimum stopping time. If during that period it will not be counted as a stopped vehicle.
 
     *  **Min speed filter(km/h)**: Filtering the most accurate noise. To determine whether the vehicle is stopping/going.
+       *  If the vehicle has a speed < Min speed filter (km/h), it will be counted as a stopped vehicle.
 
     * **Time zone**: Select the local time zone.
 

@@ -183,7 +183,8 @@ Click **Thêm** để lưu camera.
 - ***Cấu hình*** 
     - **Thời gian chờ GPRS (phút)** : Cấu hình thời gian không sử dụng thiết bị (offline) , nhỏ  hơn số đó là thiết bị vẫn đang hoạt động.
     - **Thời gian dừng (giây)** : Cấu hình thời gian xe dừng tối thiểu. Nếu lớn hơn hoặc bằng thời gian dừng sẽ được tính là 1 điểm dừng.
-    - **Lọc tốc độ tối thiểu (km/h)** : Lọc độ nhiễu chính xác nhất. Để xác định được xe đang dừng/ đi.
+    - **Lọc tốc độ tối thiểu (km/h)** : Lọc độ nhiễu chính xác nhất. Để xác định được xe đang dừng/ đi. 
+      - Nếu xe có tốc độ < Lọc tốc độ tối thiểu ( km/h) thì sẽ là tính xe đang dừng.
     - **Múi giờ**: Chọn múi giờ địa phương.
 
     Ngoài ra, có thể cấu hình thiết bị bằng cách như hình dưới đây :
