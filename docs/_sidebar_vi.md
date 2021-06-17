@@ -100,6 +100,11 @@
   - [Cấu hình điểm dừng trên bản đồ](vi/modules/web-interface/faq/configure-stops/)
   - [Cấu hình cảm biến nhiên liệu soji với S200/S400](vi/modules/web-interface/faq/connect-sensor-s400/)
   - [Kết nối rơ le cho thiết bị S200, S400](vi/modules/web-interface/faq/ro-le/)
+- **Open API**  
+  - [Giới thiệu](vi/modules/api/get-started/) 
+  - [Lấy danh sách phương tiện](vi/modules/api/get-vehicles/)
+  - [Lấy lịch sử thiết bị](vi/modules/api/get-history/)
+  - [Lấy trạng thái thiết bị](vi/modules/api/get-status-vehicles/)
 - **Liên hệ**  
-    - [**Thông tin liên hệ**](vi/modules/web-interface/contact/) 
+  - [Thông tin liên hệ](vi/modules/web-interface/contact/) 
 
