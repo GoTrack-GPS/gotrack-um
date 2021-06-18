@@ -1,6 +1,7 @@
-# Lấy danh sách phương tiện
+# Danh sách phương tiện
 ### 1. Mô tả về API
 
+- Lấy toàn bộ danh sách phương tiện
 
 
 ### 2. URL 
@@ -139,4 +140,4 @@
 }
 
  ```
-```Note: id dùng để lấy trạng thái của xe, xem lại hành trình và báo cáo```
+```- Lưu ý : id dùng để lấy trạng thái của xe, xem lại hành trình và báo cáo```

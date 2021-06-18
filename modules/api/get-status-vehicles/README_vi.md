@@ -1,13 +1,13 @@
-# Lấy trạng thái thiết bị
+# Trạng thái thiết bị
 
 ### 1. Mô tả về API
 
-
+- Lấy danh sách phương tiện tùy chọn chứa thông tin trạng thái tức thời
 
 ### 2. URL 
 
 ```
-[GET]   {{host}}/api/v1/tracking-vehicles?apikey={apikey}&deviceIds={deviceId}
+[GET]   {{host}}/api/v1/tracking-vehicles?apikey={apikey}&deviceIds={deviceIds}
 ```
 
 
@@ -38,7 +38,7 @@
         <td >deviceIds </td>
         <td>number</td> 
         <td>path </td>
-        <td>Ngăn cách nhau bằng dấu , (deviceIds=1,2,3,4)</td> 
+        <td>Ngăn cách nhau bằng dấu <b>,</b> (deviceIds=1,2,3,4)</td> 
     </tr>
 </table>
 

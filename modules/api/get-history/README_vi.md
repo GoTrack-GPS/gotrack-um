@@ -1,15 +1,16 @@
-# Giới thiệu 
 
-# Lấy lịch sử thiết bị
+# Dữ liệu lịch sử
 
 ### 1. Mô tả về API
 
+- Lấy lịch sử dữ liệu trong khoảng thời gian truyền vào cho 1 phương tiện.
 
+> Lưu ý : Khoảng thời gian truyền vào không quá 3 ngày.
 
 ### 2. URL 
 
 ```
-[GET] {{host}}/api/v1/history-vehicle?apikey={apikey}&deviceId={deviceId}&timeFrom={timeFrom}&timeTo={timeEnnd}
+[GET] {{host}}/api/v1/history-vehicle?apikey={apikey}&deviceId={deviceId}&timeFrom={timeFrom}&timeTo={timeTo}
 
 ```
 

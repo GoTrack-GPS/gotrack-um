@@ -102,9 +102,9 @@
   - [Kết nối rơ le cho thiết bị S200, S400](vi/modules/web-interface/faq/ro-le/)
 - **Open API**  
   - [Giới thiệu](vi/modules/api/get-started/) 
-  - [Lấy danh sách phương tiện](vi/modules/api/get-vehicles/)
-  - [Lấy dữ liệu lịch sử](vi/modules/api/get-history/)
-  - [Lấy trạng thái thiết bị](vi/modules/api/get-status-vehicles/)
+  - [Danh sách phương tiện](vi/modules/api/get-vehicles/)
+  - [Dữ liệu lịch sử](vi/modules/api/get-history/)
+  - [Trạng thái thiết bị](vi/modules/api/get-status-vehicles/)
 - **Liên hệ**  
   - [Thông tin liên hệ](vi/modules/web-interface/contact/) 
 
