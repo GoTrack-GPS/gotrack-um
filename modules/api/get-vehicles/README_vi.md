@@ -22,12 +22,6 @@
         <td class="text-bold">Mô tả</td>  
     </tr> 
     <tr>
-        <td >accept </td>
-        <td>string</td> 
-        <td>header </td>
-        <td>Setting to application/vnd.github.v3+json is recommended.</td>  
-    </tr> 
-    <tr>
         <td >host </td>
         <td>string</td> 
         <td>path </td>
@@ -46,19 +40,21 @@
 #### 4.1. Lỗi
 ```
 {
-            "status": 401,
-            "datetime": "2021-06-12 03:45:29",
-            "message": "Key invalid.",
-            "messageCode": "CLIENT__KEY_INVALID",
-            "result": null
-        }
-        {
-            "status": 400,
-            "datetime": "2021-06-12 03:46:16",
-            "message": "Key not empty.",
-            "messageCode": "CLIENT__KEY_NOT_EMPTY",
-            "result": null
-        }
+    "status": 401,
+    "datetime": "2021-06-12 03:45:29",
+    "message": "Key invalid.",
+    "messageCode": "CLIENT__KEY_INVALID",
+    "result": null
+}
+```
+```
+{
+    "status": 400,
+    "datetime": "2021-06-12 03:46:16",
+    "message": "Key not empty.",
+    "messageCode": "CLIENT__KEY_NOT_EMPTY",
+    "result": null
+}
 ```
 
 #### 4.2. Thành công
@@ -75,7 +71,7 @@
            "groupName": "demo",
            "groupId": 65,
            "simno": "0123456789",
-           "userName": "nhatpham170",
+           "userName": "demoaccount",
            "active": 1,
            "status": 4,
            "icon": "motorbike",
@@ -87,14 +83,14 @@
            "name": "Vision - 102",
            "description": "desc",
            "createdAt": "2020-08-27 04:58:48",
-           "createByUser": "admin",
+           "createByUser": "demoaccount",
            "activeWarranty": 1,
            "warrantyActiveDate": "2020-08-27 04:59:05",
            "warrantyExpiredDate": "2021-08-27 04:59:05",
            "sortOrder": 0,
            "iconAdvancedJson": null,
            "updatedAt": "2021-05-26 11:09:21",
-           "modifiedBy": "admin",
+           "modifiedBy": "demoaccount",
            "coefficient": 1.2,
            "extensions": {
                "minSpeed": 1,
@@ -118,9 +114,9 @@
                    "calculationType": "Linear",
                    "parameters": "{\"max\": 1000.0, \"min\": 0.0\"type\": \"linear\", \"unit\": \"lit\", \"round\"0, \"offset\": 0, \"formula\": \"[value]\"\"decrease\": 20.0, \"increase\": 20.0\"typeSensor\": \"humid\", \"show_on_map\": false\"parameter_name\": \"input1\"}",
                    "description": "",
-                   "createBy": "admin",
+                   "createBy": "demoaccount",
                    "createdAt": "2021-03-10 07:44:57",
-                   "modifiedBy": "admin",
+                   "modifiedBy": "demoaccount",
                    "updatedAt": "2021-03-10 07:44:57",
                    "sortOrder": "0"
                },
@@ -131,9 +127,9 @@
                    "calculationType": "Linear",
                    "parameters": "{\"max\": 1000.0, \"min\": 0.0\"type\": \"linear\", \"unit\": \"l\", \"round\": 0\"offset\": 0, \"formula\": \"[value]/200\"\"decrease\": 20.0, \"increase\": 20.0\"typeSensor\": \"fuel\", \"show_on_map\": false\"parameter_name\": \"input1\"}",
                    "description": "",
-                   "createBy": "nhatpham170",
+                   "createBy": "demoaccount",
                    "createdAt": "2021-06-08 09:38:49",
-                   "modifiedBy": "nhatpham170",
+                   "modifiedBy": "demoaccount",
                    "updatedAt": "2021-06-08 09:38:49",
                    "sortOrder": "0"
                }

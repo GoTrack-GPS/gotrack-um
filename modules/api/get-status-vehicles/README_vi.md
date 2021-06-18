@@ -23,12 +23,6 @@
         <td class="text-bold">Mô tả</td>  
     </tr> 
     <tr>
-        <td >accept </td>
-        <td>string</td> 
-        <td>header </td>
-        <td>Setting to application/vnd.github.v3+json is recommended.</td>  
-    </tr> 
-    <tr>
         <td >host </td>
         <td>string</td> 
         <td>path </td>
@@ -55,32 +49,38 @@
 
 ``` 
 {
-                "status": 400,
-                "datetime": "2021-06-16 04:34:06",
-                "message": "Key not empty.",
-                "messageCode": "CLIENT__KEY_NOT_EMPTY",
-                "result": null
-            }
-            {
-                "status": 400,
-                "datetime": "2021-06-16 04:34:17",
-                "message": "Device id not empty",
-                "messageCode": "CLIENT__DEVICEID_NOT_EMPTY",
-                "result": null
-            }
-            {
-                "status": 401,
-                "datetime": "2021-06-16 04:39:32",
-                "message": "Key invalid.",
-                "messageCode": "CLIENT__KEY_INVALID",
-                "result": null
-            }
-            {
-                "status": 500,
-                "datetime": "2021-06-16 08:38:30",
-                "message": "Get status device fail.",
-                "messageCode": "CLIENT__GET_STATUS_DEVICE_FAIL",
-            }
+    "status": 400,
+    "datetime": "2021-06-16 04:34:06",
+    "message": "Key not empty.",
+    "messageCode": "CLIENT__KEY_NOT_EMPTY",
+    "result": null
+}
+```
+```
+{
+    "status": 400,
+    "datetime": "2021-06-16 04:34:17",
+    "message": "Device id not empty",
+    "messageCode": "CLIENT__DEVICEID_NOT_EMPTY",
+    "result": null
+}
+```
+```
+{
+    "status": 401,
+    "datetime": "2021-06-16 04:39:32",
+    "message": "Key invalid.",
+    "messageCode": "CLIENT__KEY_INVALID",
+    "result": null
+}
+```
+```
+{
+    "status": 500,
+    "datetime": "2021-06-16 08:38:30",
+    "message": "Get status device fail.",
+    "messageCode": "CLIENT__GET_STATUS_DEVICE_FAIL",
+}
 ```
 
 #### 4.2. Thành công

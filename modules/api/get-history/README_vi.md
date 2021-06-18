@@ -22,13 +22,7 @@
         <td class="text-bold">Loại</td> 
         <td class="text-bold">Trong </td>
         <td class="text-bold">Mô tả</td>  
-    </tr> 
-    <tr>
-        <td >accept </td>
-        <td>string</td> 
-        <td>header </td>
-        <td>Setting to application/vnd.github.v3+json is recommended.</td>  
-    </tr> 
+    </tr>  
     <tr>
         <td >host </td>
         <td>string</td> 
@@ -61,66 +55,73 @@
 </table>
 
 
-``` Không được lấy dữ liệu lịch sử quá 31 ngày```
+``` Không được lấy dữ liệu lịch sử quá 3 ngày```
 
 ### 4. Kết quả
 
 #### 4.1. Lỗi
 ```
 {
-            "status": 400,
-            "datetime": "2021-06-16 03:41:59",
-            "message": "Key not empty.",
-            "messageCode": "CLIENT__KEY_NOT_EMPTY",
-            "result": null
-        }
-
-        {
-            "status": 400,
-            "datetime": "2021-06-16 03:43:35",
-            "message": "Device id not empty",
-            "messageCode": "CLIENT__DEVICEID_NOT_EMPTY",
-            "result": null
-        }
-
-        {
-            "status": 400,
-            "datetime": "2021-06-16 03:46:22",
-            "message": "Time from not empty.",
-            "messageCode": "CLIENT__TIME_FROM_NOT_EMPTY",
-            "result": null
-        }
-
-        {
-            "status": 400,
-            "datetime": "2021-06-16 03:48:25",
-            "message": "Time to not empty.",
-            "messageCode": "CLIENT__TIME_TO_NOT_EMPTY",
-            "result": null
-        }
-
-        {
-            "status": 401,
-            "datetime": "2021-06-16 03:48:57",
-            "message": "Key invalid.",
-            "messageCode": "CLIENT__KEY_INVALID",
-            "result": null
-        }
-
-        {
-            "status": 403,
-            "datetime": "2021-06-16 04:06:57",
-            "message": "Does not permission get history of this device",
-            "messageCode": "CLIENT__DOES_NOT_PERMISSION_GET_HISTORY_THIS_DEVICE",
-            "result": null
-        }
-        {
-             "status": 400,
-             "datetime": "2021-06-16 10:31:27",
-             "message": "You can not get history too 31 day. ",
-             "messageCode": "CLIENT__YOU_CAN_NOT_GET_hISTORY_TOO_31_DAY",
-             "result": null
-        }
+    "status": 400,
+    "datetime": "2021-06-16 03:41:59",
+    "message": "Key not empty.",
+    "messageCode": "CLIENT__KEY_NOT_EMPTY",
+    "result": null
+}
+```
+```       
+{
+    "status": 400,
+    "datetime": "2021-06-16 03:43:35",
+    "message": "Device id not empty",
+    "messageCode": "CLIENT__DEVICEID_NOT_EMPTY",
+    "result": null
+}
+```
+```
+{
+    "status": 400,
+    "datetime": "2021-06-16 03:46:22",
+    "message": "Time from not empty.",
+    "messageCode": "CLIENT__TIME_FROM_NOT_EMPTY",
+    "result": null
+}
+```
+```        
+{
+    "status": 400,
+    "datetime": "2021-06-16 03:48:25",
+    "message": "Time to not empty.",
+    "messageCode": "CLIENT__TIME_TO_NOT_EMPTY",
+    "result": null
+}
+```
+```
+{
+    "status": 401,
+    "datetime": "2021-06-16 03:48:57",
+    "message": "Key invalid.",
+    "messageCode": "CLIENT__KEY_INVALID",
+    "result": null
+}
+```
+```
+{
+    "status": 403,
+    "datetime": "2021-06-16 04:06:57",
+    "message": "Does not permission get history of this device",
+    "messageCode""CLIENT__DOES_NOT_PERMISSION_GET_HISTORY_THIS_DEVICE",
+    "result": null
+}
+```
+```
+{
+     "status": 400,
+     "datetime": "2021-06-16 10:3:27",
+     "message": "You can not get history data over duration of 3 days",
+     "messageCode": "CLIENT__YOU_CAN_NOT_GET_hISTORY_TOO_3_DAY",
+     "result": null
+}
 ``` 
 
 #### 4.2. Thành công
@@ -285,7 +286,7 @@
                           }
                       },
                       {
-                          "name": "vunv",
+                          "name": "demoaccount",
                           "id": 63,
                           "parameters": {
                               "max": 1000.0,
