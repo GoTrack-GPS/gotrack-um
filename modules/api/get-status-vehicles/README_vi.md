@@ -7,7 +7,7 @@
 ### 2. URL 
 
 ```
-[GET]   {{host}}/api/v1/tracking-vehicles?apikey={apikey}&deviceIds={deviceIds}
+[GET]   {{host}}/api/v1/tracking-vehicles?apikey={apikey}&vehiclePlates={vehiclePlates}
 ```
 
 
@@ -35,10 +35,10 @@
         <td>Do nhà cung cấp thiết bị hành trình cung cấp</td> 
     </tr>
     <tr>
-        <td >deviceIds </td>
-        <td>number</td> 
+        <td >vehiclePlates </td>
+        <td>string</td> 
         <td>path </td>
-        <td>Ngăn cách nhau bằng dấu <b>,</b> (deviceIds=1,2,3,4)</td> 
+        <td>Biển số xe. <br> Ngăn cách nhau bằng dấu <b>,</b> (vehiclePlates=1,2,3,4)</td> 
     </tr>
 </table>
 

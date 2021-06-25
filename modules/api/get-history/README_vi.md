@@ -10,7 +10,7 @@
 ### 2. URL 
 
 ```
-[GET] {{host}}/api/v1/history-vehicle?apikey={apikey}&deviceId={deviceId}&timeFrom={timeFrom}&timeTo={timeTo}
+[GET] {{host}}/api/v1/history-vehicle?apikey={apikey}&vehiclePlate={vehiclePlate}&timeFrom={timeFrom}&timeTo={timeTo}
 
 ```
 
@@ -36,10 +36,10 @@
         <td>path </td>
         <td>Do nhà cung cấp thiết bị hành trình cung cấp</td> 
         <tr>
-        <td >deviceId </td>
-        <td>number</td> 
+        <td >vehiclePlate </td>
+        <td>string</td> 
         <td>path </td>
-        <td>Id của thiết bị</td> 
+        <td>Biển số xe</td> 
     </tr>
     <tr>
         <td >timeFrom </td>
