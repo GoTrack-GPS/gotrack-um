@@ -7,8 +7,8 @@
       - [Cây tài khoản](vi/modules/web-interface/users/account-tree/)
      
     - **Tài khoản phụ**
-      - [Bí danh vai trò](vi/modules/web-interface/auxiliary/role-alias/)
-      - [Bí danh người dùng](vi/modules/web-interface/auxiliary/user-alias/)
+      - [Vai trò phụ](vi/modules/web-interface/auxiliary/role-alias/)
+      - [Tài khoản phụ](vi/modules/web-interface/auxiliary/user-alias/)
     - **Thiết bị GPS**
       - [Tìm kiếm ](vi/modules/web-interface/devices/search-device/)
       - [Thêm ](vi/modules/web-interface/devices/add-device/)

@@ -1,4 +1,4 @@
-# Bí danh vai trò
+# Vai trò phụ
 
 - Tài khoản phụ được tạo ra từ tài khoản chính và được liên kết với tài khoản chính.
 
@@ -6,9 +6,10 @@
 
 Để cấp quyền cho tài khoản phụ vào chức năng nào thì thực hiện như sau :
 
-Vào **Quản lý > Phụ trợ > Bí danh vai trò**.
+- Vào **Quản lý > Phụ trợ > Vai trò phụ**.
+- Nếu có nhiều tài khoản con thì click vào cây tài khoản, chọn tài khoản muốn tạo thêm vai trò phụ.
 
-  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/internal/aliases-1.png)
+<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/internal/aliases-1.png)
 
 ### Tìm kiếm 
 
@@ -24,7 +25,7 @@ Tìm kiếm theo :
 
 <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/internal/grant-permission.png)
 
-- Bước 1 : Nhấn vào tab **Tạo mới bí danh vai trò**.
+- Bước 1 : Nhấn vào tab **Tạo Vai trò phụ**.
 
 - Bước 2 : Nhập thông tin 
   
@@ -42,9 +43,9 @@ Tìm kiếm theo :
 
   <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/internal/edit-aliases-1.png) 
 
-Để sửa bí danh vai trò , thực hiện các bước sau :
+Để sửa vai trò phụ , thực hiện các bước sau :
 
-- Bước 1 : Click vào icon <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/edit.svg) **Sửa** của tên bí danh vai trò đã tạo.
+- Bước 1 : Click vào icon <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/edit.svg) **Sửa** của tên vai trò phụ đã tạo.
 
 - Bước 2 : Sửa các thông tin ( nếu có )
   
@@ -61,9 +62,9 @@ Tìm kiếm theo :
 <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/internal/delete-aliases.png) 
 
 
-Để xóa bí danh vai trò, thực hiện các bước sau :
+Để xóa Vai trò phụ, thực hiện các bước sau :
 
-- Bước 1 : Click vào icon <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/trash-alt.svg) **Xóa** của tên bí danh vai trò đã tạo.
+- Bước 1 : Click vào icon <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/trash-alt.svg) **Xóa** của tên Vai trò phụ đã tạo.
 
 - Bước 2 : Nhấn 
   

@@ -7,7 +7,8 @@
 
 To grant permission for a sub-account to perform any function, do the following:
 
-Go to **Manage > Alias > Role alias**.
+- Go to **Manage > Alias > Role alias**.
+- If there are many child accounts, click on the account tree, select the account you want to create additional Role alias.
 
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/users/role-alias.png) 
 
@@ -25,7 +26,7 @@ Search by :
 
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/users/add-role-alias.png)
 
-- Step 1: Click the **Create new role alias** tab.
+- Step 1: Click the **Create Role alias** tab.
 
 - Step 2: Enter information
 
