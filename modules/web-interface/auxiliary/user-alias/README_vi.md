@@ -122,11 +122,11 @@ Tìm kiếm theo :
 
 - Trong trường hợp bạn muốn khóa tài khoản phụ, không cho người được cấp quyền vào tài khoản đó nữa. Mà không muốn xóa đi thì thực hiện như sau :
 
-  - Click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-lock-2.svg)**Khóa**. 
+  - Click vào icon <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg)  **>** <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-lock-2.svg)**Khóa**. 
 
     <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/internal/lock-user-alias.png)
 
-  - Nếu muốn mở khóa để cho sử dụng tài khoản phụ tiếp thì click vào <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-padlock.svg) Mở khóa
+  - Nếu muốn mở khóa để cho sử dụng tài khoản phụ tiếp thì click vào icon <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg)  **>** <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-padlock.svg) **Mở khóa**
 
     <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/internal/unlock-user-alias.png)
 

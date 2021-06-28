@@ -1,4 +1,4 @@
-# Edit decvice 
+# Edit device 
 
 <div id="suathietbi">
 </div>

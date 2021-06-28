@@ -1,10 +1,10 @@
-# Add decvice 
+# Add device 
 
 To start performing the **Search** function, users go to **Manage > Devices**
 
 <span class="icon-left4">![active device ](/docs/assets/images/web-english/device/manage-device.png)
 
-Choose "**<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) Add divice**" tab , the screen will display as follows:
+Choose "**<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) Add device**" tab , the screen will display as follows:
 
 <span class="icon-left4">![active device ](/docs/assets/images/web-english/device/add-device-1.png)
 

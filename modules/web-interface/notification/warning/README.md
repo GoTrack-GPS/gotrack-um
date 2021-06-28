@@ -18,70 +18,143 @@ First, click on **Manage > Alerts - Schedule > Alert Rules**
 
     **Reset**: Reset to factory default.
 
-### Create new alert rule
+### Create new
 
-* Step 1: Choose **Create new alert** tab.
+- Step 1: Click **Create New > Alert Type**.
+- Step 2 :
+ 
+  **2.1.** Select 1 from the list to generate an alert. A dialog box like the one below will appear
 
-* Step 2: The dialog box appears as below screen:
+    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-english/notifications/add-alert-rules.png)
 
-    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/notifications/add-alert-rules.png)
+     **Example: Over speeds**
+    - **Speeds** : Enter the value to alert. If the vehicle's speed exceeds 70 km/h, an alert will be sent.
+    - **Isloop** : Can enable/disable repeat. If repeat on, will choose how long to repeat / 1 time. Default is 5'/1 time for a alert violation.
 
-     <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/notifications/add-alert-rules-2.png)
+    **2.2. Notification**
+    
+    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-english/notifications/add-notice-alert-rules.png)
 
-     <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/notifications/add-alert-rules-3.png)
+    - **Name** : Enter the alert name.
+    
+    - **Text mess** : Notice what the problem is. Display accompanying when sending app/email alert
+    
+    - **Description** : Purpose, desire when creating this alert,...
+    
+    - **Activate** : Enable/disable the alert.
 
-* ***Basic***
+    - **SMS** : Enter a phone number in that box to add a phone number.
+    
+    - **Email** : Enter email in that box to add email.
+    You can add 1 or more emails to send alerts about. (Email list separated by `,' or ';')
 
-   * **Alert name**: Enter an alert name.
-   * **Description**: How is this warning, ...
-   * **Activation**: Toggle alerts on and off.
+    - Tick the box <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square.svg) to enable setting / turn off **Get notified via mobile app**
+    
+    Or **Urgent Notice**
 
-* ***Alert type***
-   
-   * **Alert type:** Select the alert type to which you need to send alerts.
-    Set the parameters for each respective alarm.
-* ***Device***
-   
-   * **Always select all devices**: On / Off applies the selected alert to all devices in that account.
-* ***Geofence*** : You can choose one of the following 3 options:
-    * Ignore.
-    * Out geofence.
-    * In geofence.
+    - **Weekly : Choose the days and times** to receive notifications as you wish
+    - **Date range**
+      - **Always active**
+      - **Active within** : Select a certain time period to receive that alert this week/this month,...
+    
+    **2.3. Device**
+    
+    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-english/notifications/add-device-alert-rules.png)
 
-* ***Configure notifications***
+    - **Always select all devices** : On/Off applies the selected alert to all devices / 1 device number in that account.
+    
+    **2.4. Geofence**
+    
+    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-english/notifications/add-geofence-alert-rules.png)
 
-    * **Email notification**: Enter an email in the box to add an email. You can add 1 or more emails to send alerts on.
+    You can choose one of the following three options:
+    - **Ignore** : Choose to receive all alerts. Both in and out geofence receive alerts.
+    - **Out geofence**
+    - **In geofence**
 
-    * **Sms notification**: Enter a phone number in that box to add a phone number. You can add 1 or more phone numbers to send alerts on.
+- Step 3: Click **Add** to complete the operation.
 
-    * Turn on / off **Receive notifications**.
 
-    * **Always active**
+### Edit
 
-    * **Activity range**: Set the date of receiving and when to receive notifications.
+* Step 1: Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/edit.svg) to fix the alert.
+* Step 2 :
 
-    * Tick the box <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square.svg) to set on / off alert type sent to email, app. After the installation is complete. 
-    Click **Add** to complete the operation.
+    **2.1.** Select 1 from the list in the sensor to generate an alert. A dialog box like the one below will appear
 
-### Edit elert
+    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-english/notifications/edit-alert.png)
 
-Step 1: Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/edit.svg) to edit the alert.
+    **Example: Over speeds**
+    - **Speeds** : Edit the value to alert. If the vehicle's speed exceeds 70 km/h, an alert will be sent.
+    - **Isloop** : Can enable/disable repeat. If repeat on, will choose how long to repeat / 1 time. Default is 5'/1 time for a alert violation.
 
-Step 2: Appearance dialog box as follows:
+    **2.2. Notification**
+    
+    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-english/notifications/edit-alert-notice.png)
 
-<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/notifications/edit-alert.png)
+    - **Name** : Edit the alert name.
+    
+    - **Text mess** : Notice what the problem is. Display accompanying when sending app/email alert
+    
+    - **Description** : Purpose, desire when creating this alert,...
+    
+    - **Activate** : Enable/disable the alert.
 
-After finishing fixing. Click **Save changes** to complete the operation.
+    - **SMS** : Enter a phone number in that box to add a phone number.
+    
+    - **Email** : Enter email in that box to add email.
+    You can add 1 or more emails to send alerts about. (Email list separated by `,' or ';')
 
-### Delete elert
+    - Tick the box <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square.svg) to enable setting / turn off **Get notified via mobile app**
+    
+    Or **Urgent Notice**
 
-### Lock/Unlock alert
+    - **Weekly : Choose the days and times** to receive notifications as you wish
+    - **Date range**
+      - **Always active**
+      - **Active within** : Select a certain time period to receive that alert this week/this month,...
+    
+    **2.3. Device**
+    
+    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-english/notifications/edit-alert-device.png)
 
-<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/notifications/lock-alert.png)
+    - **Always select all devices** : On/Off applies the selected alert to all devices / 1 device number in that account.
+    
+    **2.4. Geofence**
+    
+    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-english/notifications/edit-alert-device.png)
 
-<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/notifications/unlock-alert.png)
+    You can choose one of the following three options:
+    - **Ignore** : Choose to receive all alerts. Both in and out geofence receive alerts.
+    - **Out geofence**
+    - **In geofence**
+ 
+- Step 3: After finishing editing. Click **Save Changes** to complete the operation.
 
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-lock.svg) **Lock**: When the current user does not want to use this warning, re-use it later, if you want to hide the warning, then lock it. During the migration, if there is a violation of that warning, it will no longer be notified.
+### Delete
 
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-unlock-52.png) **Unlock**: After the user has locked it. If you want to use the alarm again, unlock it for it to work again. During the move, if there is a violation of that warning, it will notify.
+<span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-english/notifications/delete-alert-rule.png)
 
+To clear the fuel alert, perform the following steps:
+
+- Step 1: Click on <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) **>** <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/trash-alt.svg) **Delete** of alert created.
+
+- Step 2: Press
+
+  + **OK** : If you agree to delete.
+  
+  + **Cancel** : If you don't want to delete.
+  
+### Open / Lock the alert
+
+- In case you want to lock the alert, don't want to use it anymore. In the process of moving, if there is a violation of that alert, it will not be reported again. If you don't want to delete it, do the following:
+
+  - Click on the icon <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) **>** <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-lock-2.svg)**Lock**.
+    
+    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-english/notifications/lock-alert.png)
+
+
+
+  - Click on the icon <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) **>** <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-padlock.svg) **Unlock** : After the user has lock. If you want to use an alert again, unlock it to make it work again. In the process of moving, if there is a violation of that alert, it will be notified.
+
+    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-english/notifications/unlock-alert.png)

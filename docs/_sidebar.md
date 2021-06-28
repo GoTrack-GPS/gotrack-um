@@ -54,6 +54,7 @@
           - **Notification** 
                - [Manage notifications](modules/web-interface/notification/)
                - [Alert rules](modules/web-interface/notification/warning/)
+               - [Fuel alert](modules/web-interface/notification/fuel-alert/)
                - [Scheduled report](modules/web-interface/notification/Schedule-a-report/)
                - [Task remind](modules/web-interface/notification/remind/)
           - **Version history**
