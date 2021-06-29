@@ -35,7 +35,7 @@
       - [3. Nhiên liệu](vi/modules/web-interface/reports/fuel/)
     
     - **Cấu hình**
-      - [Quản lý nhóm thiết bị](vi/modules/web-interface/configuration/device-group/)
+      - [Quản lý nhóm thiết bị- đội xe ](vi/modules/web-interface/configuration/device-group/)
       - [Quản lý lái xe](vi/modules/web-interface/configuration/driver/)
       - [Quản lý vùng](vi/modules/web-interface/configuration/manage-region/)
       - [Quản lý nhóm vùng](vi/modules/web-interface/configuration/group-geofence/)

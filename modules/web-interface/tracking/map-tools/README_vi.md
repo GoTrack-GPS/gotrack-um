@@ -20,7 +20,7 @@
     - **Tốc độ** : Tốc độ xe khi đang chạy.
     - **Hướng di chuyển** : Hình mũi tên thể hiện hướng di chuyển của xe khi đang chạy.
   
-    <span class="icon-left6" style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/speed.png)
+    <span class="icon-left6" style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/speed-1.png)
 
 
 
