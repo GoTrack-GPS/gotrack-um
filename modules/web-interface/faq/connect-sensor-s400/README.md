@@ -40,7 +40,7 @@ Send **reset#** command to save and update configuration
 - After sending the command **view,comm#**, the response content is as shown below:
   - Having value = 0 means that the sensor is connected and readable
 
-  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/faq/check-connect-sensor-1.jpg)
+  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/faq/check-connect-sensor-2.jpg)
 
 ### Step 6: Configuration on Platform
 
