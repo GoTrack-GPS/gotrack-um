@@ -42,7 +42,7 @@
                - [Group geofences](modules/web-interface/configuration/group-geofence/)
                - [Landmarks](modules/web-interface/configuration/manage-poi/) 
           
-          - **Sim**
+          - **SIM Management**
               - [Search](modules/web-interface/sim/)
 
           - **Utilities**

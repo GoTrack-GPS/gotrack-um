@@ -57,7 +57,7 @@ To track the details of that vehicle, location, distance, sensors today to the c
 
 #### Route
   
-<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/history.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/map/history-1.png)
 
 - To see the route, the distance that the car has traveled, perform the following steps:
 
@@ -71,19 +71,42 @@ To track the details of that vehicle, location, distance, sensors today to the c
 
 * **Historical data**
 
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/data-history.png)
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/map/data-history.png)
 
   - **Step 1**
-    - Select icon <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-circled-play.svg) / <span class="icon-left" ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-pause-button.svg) to view/stop the route review.
+    - Select icon <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-circled-play.svg) / <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-pause-button.svg) to view/stop the route review.
 
     - Drag the small circle icon to see the time you want.
 
-    - **x1** : Choose whether to fast forward / slow down. From **x0.5** <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg) * *x24**
+    - **x1** : Choose whether to fast forward / slow down. From **x0.5** <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg) **x24**
   - **Step 2** : When rewinding will display detailed data every second corresponding to that time rewind in tab **History data**.
   - **Step 3** : Where the rewind line runs, it will display the speed, the total distance from the starting point to the running place. The route will be displayed in red indicating the route review.
   - **Step 4** : Click it if you want to display more detailed data lines on 1 page (Can choose from 6 lines - 100 lines/page).
   - **Step 5** : Excel format can be downloaded dạng
 
+* **Speed**
+   
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/speed.png)
+
+    **1.** Select speed. Drag and hold the mouse to the end of the segment to zoom in to see the vehicle speed. Hovering over each point on the graph will show the current time and speed.
+
+    **2.** Minimize the distance in the chart.
+
+    **3.** Label showing time, distance, address, at that time.
+    **4**. The speed and time are within the distance the vehicle is traveling.
+     
+* **GPS/GSM**: Number of satellite devices / Cell phone base station found the device's location.
+    
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/route-gps-gsm.png)
+
+* Battery / Power : Number of battery %, number of sources (V) of the device
+    
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/route-pin.png)
+
+* ***CBND*** : Temperature sensor attached to the device
+     
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/cbnd.png)
+    
 * **Route report**
 
     <span class="icon-left4 ">![Interface Web](/docs/assets/images//web-english/map/report-route.png)
