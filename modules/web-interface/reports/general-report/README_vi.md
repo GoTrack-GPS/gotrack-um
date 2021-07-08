@@ -1,9 +1,11 @@
 
 # 1. Báo cáo chung
-> Chỉ có những xe lắp cảm biến nhiệt độ mới có dữ liệu. <br> 
-> Thêm cảm biến nhiệt độ [tại đây](vi/modules/web-interface/devices/edit-device/#sensor) <div id="sensor">
+
 
 ### 1.1. Báo cáo nhiệt độ 
+
+> Chỉ có những xe lắp cảm biến nhiệt độ mới có dữ liệu. <br> 
+> Thêm cảm biến nhiệt độ [tại đây](vi/modules/web-interface/devices/edit-device/#sensor) <div id="sensor">
 
 Nếu người dùng muốn xem **Báo cáo nhiệt độ** :  
 

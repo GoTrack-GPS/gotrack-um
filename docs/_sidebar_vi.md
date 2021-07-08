@@ -49,7 +49,7 @@
       - [Theo dõi theo điểm](vi/modules/web-interface/utilities/multi-tracking-by-landmarks/)
       - [Ước phí tính đường bộ](vi/modules/web-interface/utilities/estimated-road-charges/)
      
-    - **Thông báo**
+    - **Quản lý**
       - [Quản lý thông báo](vi/modules/web-interface/notification/)
       - [Quy tắc cảnh báo](vi/modules/web-interface/notification/warning/)
       - [Cảnh báo nhiên liệu](vi/modules/web-interface/notification/fuel-alert/)
@@ -75,6 +75,13 @@
   
     - **Cảnh báo**
       - [Cảnh báo](vi/modules/app-gotrack365/notification/warning/)
+     
+    - **Báo cáo**
+      - [Nhiên liệu](vi/modules/app-gotrack365/reports/fuel/)
+      - [Nhiệt độ](vi/modules/app-gotrack365/reports/temperature/)
+      - [Tốc độ](vi/modules/app-gotrack365/reports/speed/)
+      - [Lịch sử hành trình](vi/modules/app-gotrack365/reports/route-history/)
+      - [Chi tiết  lộ  trình](vi/modules/app-gotrack365/reports/route-detail/)
     - **Tài khoản**
       - [Quản lý tài khoản](vi/modules/app-gotrack365/account-management/)
       - [Điểm đánh dấu](vi/modules/app-gotrack365/poi/)

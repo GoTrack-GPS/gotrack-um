@@ -1,8 +1,10 @@
 # 2. Fuel
 
+
+### 2.1. Chart
+
 > Only vehicles fitted with fuel sensors have data. <br>
 > Add fuel sensor [here](modules/web-interface/devices/edit-device/#sensor) <div id="sensor">
-### 2.1. Chart
 
 If the user wants the vehicle to report **Report Chart**:
 
