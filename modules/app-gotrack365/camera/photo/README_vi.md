@@ -11,7 +11,7 @@
 - Sau khi nhấn vào tab **Ảnh đã chụp**, màn hình hiển thị như hình dưới đây :
 
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/photo-3.jpg)
-    <span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/photos.jpg)
+
     
     - Bước 1 : Click vào **thời gian** để xem lại ảnh.
     - Bước 2 : Chọn sửa thời gian để xem lại.

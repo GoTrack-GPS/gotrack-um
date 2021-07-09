@@ -78,6 +78,16 @@
           - **Notifications**
                - [Notifications](modules/app-gotrack365/notification/warning/)
 
+
+          - **Báo cáo**
+            - [Fuel chart](modules/app-gotrack365/reports/fuel/)
+            - [Temperature chart](modules/app-gotrack365/reports/temperature/)
+            - [Speed chart](modules/app-gotrack365/reports/speed/)
+            - [Movement trips](modules/app-gotrack365/reports/route-history/)
+            - [Trip detail](modules/app-gotrack365/reports/route-detail/)
+            - [Captured photos](modules/app-gotrack365/reports/photo/)
+            - [Video playback](modules/app-gotrack365/reports/playback-video/)
+  
           - **Account**
                - [Account management](modules/app-gotrack365/account-management/)
                - [POI](modules/app-gotrack365/poi/)

@@ -82,6 +82,10 @@
       - [Tốc độ](vi/modules/app-gotrack365/reports/speed/)
       - [Lịch sử hành trình](vi/modules/app-gotrack365/reports/route-history/)
       - [Chi tiết  lộ  trình](vi/modules/app-gotrack365/reports/route-detail/)
+      - [Ảnh chụp ](vi/modules/app-gotrack365/reports/photo/)
+      - [Xem lại video](vi/modules/app-gotrack365/reports/playback-video/)
+    
+    
     - **Tài khoản**
       - [Quản lý tài khoản](vi/modules/app-gotrack365/account-management/)
       - [Điểm đánh dấu](vi/modules/app-gotrack365/poi/)
