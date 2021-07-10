@@ -35,7 +35,7 @@ Muốn xem báo cáo nhiên liệu qua biểu đồ, thực hiện các bước 
     - Nhấn vào **ô hiển thị số giờ : phút** ở dòng Bắt đầu (giờ  : phút) - Kết thúc (giờ  : phút) để chọn lại giờ : phút  sáng/chiều 
     -  Nhấn **OK**.  Sẽ hiển thị các ảnh đã chụp trong khoảng thời gian đó.
 
-- Hoặc :
+  Hoặc :
   - Click vào <span class="icon-left svg-filter-blue1">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg)  để tìm kiếm lại nếu không hiển thị kết quả.
   
   - Click vào <span class="icon-left svg-filter-blue1">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-left.svg) để xem lại lịch sử di chuyển ngày hôm trước.

@@ -27,7 +27,9 @@ To review Trip detail report, follow these steps:
     - Click on **box showing number of hours: minutes** in the line Start (hours: minutes) - End (hours: minutes) to re-select the hours: minutes am/pm
     - Press **OK**. Will display photos taken during that time period.
 
-- Or :
+  Or :
+  - Hold and drag the screen time-lapse line to rewind/rewind the video playback time. 
+  
   - Click on <span class="icon-left svg-filter-blue1">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg) to search again if not displayed result.
   
   - Click on <span class="icon-left svg-filter-blue1">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-left.svg) to review mobile history moved the previous day.

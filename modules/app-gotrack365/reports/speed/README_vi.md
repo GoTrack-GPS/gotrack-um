@@ -20,7 +20,7 @@ Muốn xem lại báo cáo tốc độ, thực hiện các bước sau :
     - Nhấn vào **ô hiển thị số giờ : phút** ở dòng Bắt đầu (giờ  : phút) - Kết thúc (giờ  : phút) để chọn lại giờ : phút  sáng/chiều 
     -  Nhấn **OK**.  Sẽ hiển thị các ảnh đã chụp trong khoảng thời gian đó.
 
-- Hoặc :   
+  Hoặc :   
 
   - Click vào <span class="icon-left svg-filter-blue1">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg)  để tìm kiếm lại nếu không hiển thị kết quả.
 

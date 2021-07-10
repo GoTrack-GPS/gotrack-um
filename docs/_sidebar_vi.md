@@ -72,7 +72,7 @@
     - **Camera**  
       - [Xem livestream](vi/modules/app-gotrack365/camera/livestream/)
       - [Ảnh ](vi/modules/app-gotrack365/camera/photo/)
-  
+      - [Videos ](vi/modules/app-gotrack365/camera/videos/)
     - **Cảnh báo**
       - [Cảnh báo](vi/modules/app-gotrack365/notification/warning/)
      

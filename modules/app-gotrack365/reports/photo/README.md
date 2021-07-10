@@ -21,7 +21,7 @@ To view photos taken from the camera, follow these steps:
     - Click on **box showing number of hours: minutes** in the line Start (hours: minutes) - End (hours: minutes) to re-select the hours: minutes am/pm
     - Press **OK**. Will display photos were taken during that time.
 
-- Or :
+  Or :
   - Click on <span class="icon-left svg-filter-blue1">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg) to search again if not displayed result.
   - Click on <span class="icon-left svg-filter-blue1">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-left.svg) to review mobile history moved the previous day.
 

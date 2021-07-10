@@ -1,20 +1,18 @@
-# Video playback
+# Videos
 
 To Playback the recorded video from the camera, perform the following steps:
 
-<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-english/gotrack365-el/report/playback-video-all.jpg)
+<span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/video-playback-1.jpg)
 
-- Step 1: Go to **Report > Video playback**.
+- Step 1 :
+   - Method 1: Go to **Means**. Select the vehicle you want to watch the video again.
+   - Method 2: Refer [here](en/modules/app-gotrack365/reports/playback-video/)
 
-- Step 2: If an account has many cameras installed. Then click on the device name.
-  
-  - If you want to see the results immediately, go to **step 4**.
+- Step 2: Select tab **Videos**
 
-- Step 3: A list of vehicles will appear. Select the vehicle you want to see the report.
+<span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/video-all-1.jpg)
 
-<span class="icon-left5">s![Interface Web](/docs/assets/images/web-english/gotrack365-el/report/playback-video-all-1.jpg)
-
-- Step 4: Display the result. 
+- Step 3 : Display the result. 
 
   Select edit time to review.
     - Click on **date display box** to select the date again.
@@ -27,13 +25,15 @@ To Playback the recorded video from the camera, perform the following steps:
   - Click on <span class="icon-left svg-filter-blue1">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-left.svg) to review mobile history moved the previous day.
 
   - Click on <span class="icon-left svg-filter-blue1">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-right.svg) to review mobile history move the next day.
-- Step 5: Select the video and time you want to watch again.
-- Step 6:
+- Step 4: Select the video and time you want to watch again.
+- Step 5:
   * After displaying the search results, if you want to review the video at any time, <br> click on the icon <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-video.svg) for review.
 
   * The video will playback on the screen.
 
   - Can select cells in the horizontal scroll bar to preview the video in a different time interval.
+
+  - Hold and drag the screen time-lapse line to rewind/rewind the video playback time.
 
     <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-play.svg) Continue viewing the camera.
 

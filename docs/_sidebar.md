@@ -75,11 +75,11 @@
           - **Camera**  
               - [Livestream](modules/app-gotrack365/camera/livestream/)
               - [Photo ](modules/app-gotrack365/camera/photo/)
+              - [Videos ](modules/app-gotrack365/camera/videos/)
           - **Notifications**
                - [Notifications](modules/app-gotrack365/notification/warning/)
 
-
-          - **Báo cáo**
+          - **Reports**
             - [Fuel chart](modules/app-gotrack365/reports/fuel/)
             - [Temperature chart](modules/app-gotrack365/reports/temperature/)
             - [Speed chart](modules/app-gotrack365/reports/speed/)
