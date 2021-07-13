@@ -11,9 +11,3 @@
 ### 2. Chuẩn bị nội dung cho app iOS
 
 * Ảnh logo (Hi-res icon) kích thước **1024 x 1024, 32bit PNG , 1 ảnh có nền trắng, 1 ảnh trong suốt**
-
-### 3. Tool tạo bộ ảnh
-
-* Need an image 1024 x 1024 for build icon set
-
-* https://appicon.co/ 

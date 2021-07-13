@@ -11,8 +11,3 @@
 
 * Logo image (Hi-res icon) size **1024 x 1024, 32bit PNG, 1 image with white background, 1 image transparent**
 
-### 3. Tool to create a set of images
-
-* Need an image 1024 x 1024 for build icon set
-
-* https://appicon.co/
