@@ -142,6 +142,9 @@ python -m http.server 3000
 ```
 py -m http.server 3000
 
+Hoặc 
+python -m http.server 3000
+
 ```
 - trỏ tới 1 đoạn trong trang 
 ```

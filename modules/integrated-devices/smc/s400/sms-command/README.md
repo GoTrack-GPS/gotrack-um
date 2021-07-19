@@ -11,6 +11,10 @@ A few notes:
 
 * **The first letter is not case sensitive and the other is lowercase**.
 
+### Detailed summary of command types
+
+You refer to <a href="/mindmaster/gpstracker-param-setting-english.pdf" target="_blank"> here</a> to view or download the file.
+
 ### 1. Set up and check basic parameters
 #### 1.1. IP / Port parameter
 

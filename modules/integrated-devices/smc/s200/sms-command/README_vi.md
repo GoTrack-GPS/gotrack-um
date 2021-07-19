@@ -11,6 +11,10 @@ Một vài lưu ý:
 
 - **Chữ cái đầu không phân biệt chữ hoa/chữ thường và chữ cái còn lại viết thường**. 
 
+###  Bảng tổng hợp chi tiết các loại lệnh
+
+Bạn tham khảo <a href="/mindmaster/gpstracker-param-setting.pdf" target="_blank"> tại đây</a> để xem hoặc tải file. 
+
 ### 1. Thiết lập và kiểm tra thông số cơ bản
 
 <div id="ip">
