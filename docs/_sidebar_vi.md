@@ -69,6 +69,7 @@
       - [Tính năng mở rộng ](vi/modules/app-gotrack365/send-command/)
     - **Thiết bị**
       - [Quản lý thiết bị](vi/modules/app-gotrack365/device/)
+      - [Gửi lệnh](vi/modules/app-gotrack365/send-command-pro-new/)
     - **Camera**  
       - [Xem livestream](vi/modules/app-gotrack365/camera/livestream/)
       - [Ảnh ](vi/modules/app-gotrack365/camera/photo/)

@@ -164,6 +164,8 @@ Bạn có thể tham khảo [tại đây](vi/modules/web-interface/tracking/Inte
 ```
 ```
 <span style="color:red">some **This is Red Bold.** text</span>
+
+<span style="color:orange"> @</span>
 ```
 ```
 * 2 ảnh có link cùng hàng

@@ -72,6 +72,7 @@
                - [Extended features](modules/app-gotrack365/send-command/)
           - **Device**
                - [Device Management](modules/app-gotrack365/device/)
+               - [Send command](modules/app-gotrack365/send-command-pro-new/)
           - **Camera**  
               - [Livestream](modules/app-gotrack365/camera/livestream/)
               - [Photo ](modules/app-gotrack365/camera/photo/)
