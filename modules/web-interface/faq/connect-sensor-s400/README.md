@@ -21,15 +21,15 @@ You can refer to  [here](modules/web-interface/devices/calib-sensor/#calib)
 
     **Rs232,0,2,9600#**
 
-### Step 4: Save configuration
-
-Send **reset#** command to save and update configuration
-
-### Step 5: Check
+### Step 4: Check
     
 #### Frequency to read data from sensor, default is 10s
   
   **rs232para,0,10,5#**
+
+### Step 5: Save configuration
+
+Send **reset#** command to save and update configuration
 
 #### Check sensor readings
 

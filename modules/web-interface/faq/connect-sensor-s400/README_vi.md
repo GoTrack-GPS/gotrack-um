@@ -21,15 +21,14 @@ Bạn có thể tham khảo [tại đây](vi/modules/web-interface/devices/calib
 
     **Rs232,0,2,9600#**
 
-### Bước 4 : Lưu cấu hình
-
-Gửi lệnh **reset#** để lưu và cập nhật cấu hình
-
-### Bước 5 : Kiểm tra
+### Bước 4: Kiểm tra
     
 #### Tần suất đọc dữ liệu từ cảm biến, mặc định là 10s
   
   **rs232para,0,10,5#**
+### Bước 5 : Lưu cấu hình
+
+Gửi lệnh **reset#** để lưu và cập nhật cấu hình
 
 ####  Kiểm tra chỉ số cảm biến
 
