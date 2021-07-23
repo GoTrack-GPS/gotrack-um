@@ -1,376 +1,498 @@
 # SM400
+### 1. Mở đầu
+#### 1.1 1.1.	Chỉ dẫn an toàn
 
-<span class="icon-left13">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/sm400.png)
+Các thông tin sau đây được cung cấp để đảm bảo sự an toàn trong vận hành thiết bị. Đề nghị đọc trước khi tiến hành sử dụng thiết bị!
+-	Trong trường hợp thiết bị gặp sự cố về chạm chập, hoặc các thành phần bảo vệ của thiết bị bị phá hủy, cần rút thiết bị ra khỏi nguồn cấp trước khi muốn tháo hoặc mở thiết bị.
+-	Thiết bị chỉ được phép tháo lắp bởi nhân viên kỹ thuật có chuyên môn.
+-	Thiết bị phải buộc bằng dây mềm ở vị trí đã được xác định từ việc khảo sát trước đó.
+-	Đảm bảo rằng thiết bị được lắp đạt tại vị trí không có tiếp xúc với nguồn phát ẩm, nhiệt, tia điện.
+-	Việc cài đặt trong khi có sấm sét là không được phép
+-	Việc thay thế pin cần đúng chủng loại, thông số và việc tiêu hủy pin phải tuân thủ các yêu cầu về môi trường
+-	Ngắt thiết bị khỏi nguồn điện trước khi tháo.
+-	Dải điện áp hoạt động cho phép của thiết bị là 12-36VDC
+-	Trong quá trình lắp đặt thiết bị nên được đặt tại nơi có thể quan sát được các led chỉ thị một các chính xác.
+-	Thiết bị được thiết kế phù hợp với việc lắp đặt trong khu vực bị giới hạn, ít tác động nhất lẫn các vị trí dễ quan sát và thao tác nhất (như mặt trên táp lô).
 
-### 1. Thông tin sản phẩm
-#### 1.1 Cảnh báo an toàn
 
-* Để người dùng có thể sử dụng dòng sản phẩm này lâu dài, an toàn và đạt yêu cầu, vui lòng đọc các cảnh báo sau trước khi lắp đặt và sử dụng sản phẩm ：
+#### 1.2. Điều khoản Pháp lý
 
-    ① Tất cả việc lắp đặt và bảo trì phải được thực hiện bởi nhân viên chuyên nghiệp và kỹ thuật.
+- Tài liệu và thông tin trong tài liệu thuộc bản quyền của SMC-GoTrack. 
+- Mọi sao chép, phân phối, xuất bản lại một phần hoặc toàn bộ nội dung trong tài liệu này dưới bất cứ hình thức nào mà không có sự cho phép bằng văn bản của SMC-GoTrack đều bị cấm. 
+- Các sản phẩm và tên công ty khác được đề cập trong tài liệu này có thể là tên nhãn hàng hoặc tên thương hiệu hoặc tên riêng.
 
-    ② Dải điện áp làm việc bình thường của thiết bị là DC 10V ~ 36V. Hãy chú ý đến nguồn điện đầu vào và sự ổn định của mạch nguồn điện đầu vào. Đầu ra không thể bị đoản mạch.
+#### 1.3. Các chú thích
+- Danh mục các thuật ngữ được sử dụng trong tài liệu 
+    - PC – Máy tính cá nhân;
+    - GPS – Hệ thống định vị toàn cầu;
+    - GPRS – Dịch vụ vô tuyến gói tổng hợp;
+    - GNSS – Hệ thống định vị vệ tinh toàn cầu;
+    - GSM – Hệ thống thông tin liên lạc di động toàn cầu;
+    - SMS – Dịch vụ tin nhắn văn bản;
 
-    ③. Thiết bị xuất ra bên ngoài điện áp 12V, chỉ được sử dụng để cấp nguồn cho máy ảnh và không nên kết nối thiết bị không được khuyến nghị nào ④. Kết nối chính xác dây nối đất của thiết bị với dây nối đất của xe để tạo thành vòng lặp.
+    - I/O – cổng tín hiệu vào ra;
+    - Record – Dữ liệu được lưu trữ trong bộ nhớ trong;
+    - Packet – Dữ liệu được truyền về máy chủ
+    - AVL – Định vị phương tiện tự động
+    - GSHT – Giám sát hành trình
 
-    ⑤. Thiết bị cần được lắp đặt trong môi trường khô thoáng, tránh ẩm ướt, mưa gió, vị trí rửa xe sạch sẽ, để thiết bị tránh xa nguồn nhiệt, bụi và từ trường mạnh.
+### 2. Thông tin sản phẩm
 
-    ⑥. Vui lòng lắp đặt thiết bị trên xe ở nơi rung lắc càng yếu càng tốt để cải thiện độ ổn định của thiết bị và kéo dài tuổi thọ.
+- SM400 là thiết bị đầu ghi hình camera có tích hợp GPS và hệ thống thông tin liên lạc 4G LTE có khả năng định vị và truyền tải hình ảnh, video, vị trí, trạng thái về máy chủ thông qua mạng dữ liệu 4G. 
 
-    ⑦. Không được xếp đống đồ lặt vặt trong vòng 20cm xung quanh thiết bị lắp đặt và không được đặt vật nặng dưới áp lực để đảm bảo môi trường tản nhiệt.
+- Với thiết kế tối ưu cho giúp dễ dàng cài đăt, lắp đặt, bảo trì cùng với mức tiêu hao năng lượng thấp cũng như giá thành cạnh tranh. Cho nên, SM400 có khả năng tương thích hoàn hảo với nhiều ứng dụng trong quản lý, điều hành phương tiện giao thông đường bộ.
 
-    ⑧. Các thiết bị lưu trữ và mô-đun trên thiết bị không hỗ trợ trao đổi nóng. Vui lòng không cắm và rút phích cắm của các thiết bị lưu trữ hoặc mô-đun khi thiết bị đang được bật nguồn.
+#### 2.1. Đóng gói
 
-    ⑨. Hãy thường xuyên bảo trì thẻ SD của thiết bị lưu trữ: sao chép dữ liệu video vào máy tính và định dạng nó.
+- Bộ sản phẩm SM400 được cung cấp tới khách hàng bao gồm:
 
-#### 1.2. Dòng sản phẩm
+    - 01-	Thiết bị SM400
+    - 02-	Bộ cáp nguồn (loại 2x2)
+    - 01-	Anten 4G-LTE
+    - 01-	Điều khiển từ xa
+    - 01-	Khóa nắp khay SIM
+    - 02-	Simcard (tùy chọn)
 
-* 4-720P SD-MDDVR
-* 4-1080P SD-MDVR
-* 4-720P HDD-MDVR
-* 4-1080P HDD-MDVR
-* 8-720P SD-MDVR
-* 8-720P HDD-MDVR
+#### 2.2. Hình ảnh tổng quan
+ 
+ <span class="icon-left13">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/sm400-front.png)
 
-### 2. Giới thiệu
+   <center>  Hình 1. Hình ảnh mặt trước thiết bị </center>
 
-#### 2.1. Mô tả sản phẩm
+ <span class="icon-left13">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/sm400-backside.png)
 
-* Dòng sản phẩm SM400 là một thiết bị hiệu quả về chi phí và có thể mở rộng được phát triển đặc biệt để giám sát video và giám sát từ xa trên xe.
+ <center> Hình 2. Hình ảnh mặt sau thiết bị  </center>
 
-* Nó sử dụng bộ xử lý tốc độ cao và hệ điều hành nhúng, kết hợp với công nghệ nén / giải nén video H.264 tiên tiến nhất, công nghệ mạng và công nghệ định vị GPS trong lĩnh vực CNTT.
+#### 2.3. Chứng chỉ
 
-* Các sản phẩm dòng SM400 có thể nhận ra 4 kênh ghi hình full-frame 720P, có thể chọn 4 định dạng ghi CIF / HD1 / D1 / 720P, ghi cục bộ và tải lên dữ liệu không dây, ghi thông tin lái xe ô tô và phần mềm trung tâm có thể nhận ra giám sát trung tâm và điều khiển từ xa quản lý liên kết cảnh báo Và phân tích phát lại, cam kết theo hướng kết nối mạng xe hơi.
+- SM400 phù hợp :
+    - QCVN 117:2018/BTTTT.
+    - QCVN 86:2019/BTTTT.S
 
-#### 2.2. Thông số kỹ thuật
 
-<p align="center">
-  <b>Thông số kỹ thuật</b>
-</p>
-
-<table>
-    <tr>
-        <td class="text-bold">Hệ thống</td>
-        <td>OS</td>
-        <td>Linux</td> 
-    </tr> 
-    <tr>
-        <td class="text-bold" rowspan="4">Video</td>
-        <td>Input</td>
-        <td>4 kênh AHD(1080P/720P)</td>   
-    </tr> 
-    <tr>
-        <td>Output</td>
-        <td>1 kênh</td>   
-    </tr> 
-    <tr>
-        <td>Tổng tài nguyên</td>
-        <td>PAL: <br>
-            4*720P@25fps(AHD) or4*1080P@15fps(AHD) <br>
-            NTSC : <br>
-            4*720P@30fps(AHD) or4*1080P@18fps(AHD) 
-        </td>   
-    </tr> 
-    <tr>
-        <td>Tiêu chuẩn tín hiệu video</td>
-        <td>Mức điện: 1Vpp Impedance: 75Ω NTSC / PAL Tùy chọn</td>   
-    </tr> 
-    <tr>
-        <td class="text-bold" rowspan="3">Âm thanh</td>
-        <td>Input</td>
-        <td>4 kênh</td>   
-    </tr> 
-    <tr>
-        <td>Output</td>
-        <td>1 kênh</td>   
-    </tr> 
-    <tr>
-        <td>Tiêu chuẩn tín hiệu âm thanh</td>
-        <td>Mức điện: 2Vpp  Input impedance: 4.7kΩ</td>   
-    <tr>
-        <td class="text-bold" rowspan="2">Màn hình</td>
-        <td>Tách màn hình</td>
-        <td>1-4</td>   
-    </tr> 
-    <tr>
-        <td>OSD</td>
-        <td>Thông tin GPS, báo động, số xe, tốc độ, ngày / giờ</td>   
-    </tr> 
-    <tr>
-        <td class="text-bold" rowspan="8">Recording</td>
-        <td rowspan="2">Nén video / âm thanh</td>
-        <td>Video: H.264/H.265</td>   
-    </tr> 
-    <tr>
-        <td>Audio: ADPCM, G.711A, G.726</td>
-    </tr> 
-    <tr>
-        <td>Độ phân giải hình ảnh</td>
-        <td>Tương tự: <br>
-            PAL: <br>
-            1080P(1920X1080), 720P(1280X720), D1(704X576), HD1(704x288), CIF(352x288) <br>
-            NTSC: <br>
-            1080P(1920X1080), 720P(1280X720), D1(704x480),HD1(704x240),CIF(352x240);
-        </td>   
-    </tr>
-    <tr>
-        <td>Chất lượng hình ảnh</td>
-        <td>1-8 mức có thể điều chỉnh (1 là tốt nhất)</td>   
-    </tr> 
-    <tr>
-        <td>Chế độ ghi âm</td>
-        <td>Lên lịch / Báo thức (kích hoạt cảm biến, tốc độ, gia tốc, mất video, nhiệt độ) </td>   
-    </tr> 
-    <tr>
-        <td>Ghi âm trước</td>
-        <td>0-60 giây </td>   
-    </tr> 
-    <tr>
-        <td>Sau ghi âm</td>
-        <td>0-60 minute</td>   
-    </tr> 
-    <tr>
-        <td>Ghi gương</td>
-        <td>Có</td>   
-    </tr> 
-    <tr>
-        <td class="text-bold">Mạng</td>
-        <td>WIFI / 3G / 4G (chọn một hoặc nhiều từ danh sách)</td>
-        <td>802.11b/g/n/ac/EVDO/TD-SCDMA/WCDMA/TDD-LTE/FDD-LTE ,...vv...</td> 
-    </tr> 
-    <tr>
-        <td class="text-bold">Định vị</td>
-        <td>GPS</td>
-        <td>Theo dõi vị trí, phát hiện tốc độ và đồng bộ hóa thời gian</td> 
-    </tr> 
-    <tr>
-        <td class="text-bold">Bộ nhớ</td>
-        <td>SD</td>
-        <td>Khe cắm thẻ nhớ SD x 2 (Mặc định 1)</td> 
-    </tr> 
-    <tr>
-        <td class="text-bold" rowspan="5">Giao diện</td>
-        <td>USB</td>
-        <td>USB2.0 x 1</td>   
-    </tr> 
-    <tr>
-        <td>RS485</td>
-        <td>RS485x1(không bắt buộc)</td>   
-    </tr> 
-    <tr>
-        <td>RS232</td>
-        <td>RS232 × 1(không bắt buộc)</td>   
-    </tr> 
-    <tr>
-        <td>SIM</td>
-        <td>SIM Slot x 1(không bắt buộc)</td>   
-    </tr> 
-    <tr>
-        <td>Sensor</td>
-        <td>4 inputs, 1 outputs</td>   
-    </tr> 
-    <tr>
-        <td class="text-bold" rowspan="3">Nguồn điện</td>
-        <td>Input</td>
-        <td>DC8-36V</td>   
-    </tr> 
-    <tr>
-        <td>Output</td>
-        <td>12V@2000mA</td>   
-    </tr> 
-    <tr>
-        <td>Tiêu thụ điện tối đa</td>
-        <td>36W</td>   
-    </tr> 
-    <tr>
-        <td class="text-bold" rowspan="2">Đặc trưng vật lý</td>
-        <td>Kích thước (L × W × H)</td>
-        <td>148mm x 138mm x 35mm</td>   
-    </tr> 
-    <tr>
-        <td>Trọng lượng</td>
-        <td>480g</td>   
-    </tr> 
-    <tr>
-        <td class="text-bold" rowspan="2">Môi trường</td>
-        <td>Nhiệt độ hoạt động</td>
-        <td>-40℃- +70℃</td>   
-    </tr> 
-    <tr>
-        <td>Độ ẩm tương đối hoạt động</td>
-        <td>8%~90%(Không cô đặc)</td>   
-    </tr>
-</table>
-
-### 3. Đặc điểm ngoài sản phẩm
-
-#### 3.1. Danh sách phụ kiện
+#### Đặc tả kỹ thuật
 
 <table>
-    <tr>
-        <td class="text-bold" align="center">STT</td>
-        <td align="center">Phụ kiện</td>
-        <td align="center">Hình ảnh</td>   
+    <tr class="color-primary">
+        <td colspan="4"> <b>Môi trường hoạt động</b></td>
     </tr>
     <tr>
-        <td align="center">1</td>
-        <td align="center">Thiết bị</td>
-        <td align="center"> <img src="/docs/assets/images/integrated-devices/smc/sm400/sm400.png"> 
-       <span class="icon-left8"> <img src="/docs/assets/images/integrated-devices/smc/sm400/hdd-mdvr.png"></td>   
+        <td rowspan="2">Nhiệt độ</td>
+        <td>Hoạt động</td>
+        <td>-20÷70oC ±0.5%</td>
+        <td rowspan="2">   </td>
     </tr>
     <tr>
-        <td align="center">2</td>
-        <td align="center">Dây cáp điện</td>
-        <td align="center">  <img src="/docs/assets/images/integrated-devices/smc/sm400/power-cable.png"> 
-        </td>   
+        <td>Lưu trữ</td>
+        <td>0÷60°C</td>
     </tr>
     <tr>
-        <td align="center">3</td>
-        <td align="center">Ăng ten 4G</td>
-        <td align="center">  <img src="/docs/assets/images/integrated-devices/smc/sm400/4g-antenna.png"> 
-        </td>   
+            <td colspan="2">Độ ẩm</td>
+            <td>8÷90% ±2.5%</td>
+            <td></td>
     </tr>
+    <tr class="color-primary">
+        <td colspan="4"> <b>Đặc tính điện và tiêu thụ</b></td> 
+        </tr>
+        <tr>
+            <td colspan="2">Dải hoạt động</td>
+            <td>9÷36VDC</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">Điện áp cấp danh định</td>
+            <td>12/24VDC</td>
+            <td></td>
+        </tr>
     <tr>
-        <td align="center">4</td>
-        <td align="center">Ăng ten GPS</td>
-        <td align="center">  <img src="/docs/assets/images/integrated-devices/smc/sm400/gps-antenna.png"> 
-        </td>   
-    </tr>
+            <td rowspan="2">Dòng tiêu thụ</td>
+            <td>Active</td>
+            <td>Max 3A</td>
+            <td rowspan="2"> @12VDC  </td>
+        </tr>
+        <tr>
+            <td>Idle</td>
+            <td>22÷24mA @12VDC</td>
+        </tr>
+        <tr>
+            <td colspan="2" rowspan="3">Chức năng bảo vệ</td>
+            <td>Chống ngắn mạch, quá dòng</td>
+            <td rowspan="3"></td>
+        </tr>
+        <tr>
+            <td>Chống quá áp, triệt tiêu xung điện áp</td>
+        </tr>
+        <tr>
+            <td>Ngược cực</td>
+        </tr>
+        <tr>
+            <td colspan="2" >Nguồn dự phòng</td>
+            <td>Siêu tụ</td>
+            <td></td>  
+        </tr>
+        <tr>
+            <td colspan="2">Power output</td>
+            <td>Dòng tải lớn nhất: 3A <br>
+                Điện áp lớn nhất: 12VDC </td>
+           <td> </td>
+        </tr>
+        <tr>
+            <td colspan="2">Digital input</td>
+            <td>0-36VDC <br>
+                Ngưỡng logic: 4V</td>
+            <td> </td>
+        </tr>
+        <tr class="color-primary">
+            <td colspan="4"> <b>Đặc tả vật lý </b></td> 
+        </tr>
+        <tr>
+            <td colspan="2">Kích thước</td>
+            <td>148 x 138 x 35 (mm)</td>
+            <td rowspan="3"> </td>
+        </tr>
+        <tr>
+           <td colspan="2">Trọng lượng</td>
+            <td>480g</td> 
+        </tr>
+        <tr>
+            <td colspan="2">Housing</td>
+            <td>Nhựa ABS + PC, Nhôm anode đen</td> 
+        </tr>
+        <tr>
+            <td colspan="2">Connector</td>
+            <td>MX 4.2mm 2x2 pin & MA 3.0mm 6x2 pin</td>
+            <td> </td>
+        </tr>
+         <tr>
+            <td colspan="2">Antenna</td>
+            <td>External (độ dài tùy chọn)</td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td colspan="2">SIM card</td>
+            <td>MINI SIM Card</td>
+            <td> </td>
+        </tr> <tr>
+            <td colspan="2">SD card</td>
+            <td>Hỗ trợ thẻ SD lên tới 256GB (cổng SD1)</td>
+            <td> </td>
+        </tr>
+     <tr class="color-primary">
+        <td colspan="4"> <b>Video</b></td> 
+        </tr>
     <tr>
-        <td align="center">5</td>
-        <td align="center">Điều khiển</td>
-        <td align="center"> <span class="icon-left10"> <img src="/docs/assets/images/integrated-devices/smc/sm400/remote.png"> 
-        </td>   
-    </tr>
-    <tr>
-        <td align="center">6</td>
-        <td align="center">Chìa khóa</td>
-        <td align="center"> <img src="/docs/assets/images/integrated-devices/smc/sm400/key.png"> 
-        </td>   
-    </tr>
-    <tr>
-        <td align="center">7</td>
-        <td align="center">Cáp IO</td>
-        <td align="center">  <span class="icon-left11"><img src="/docs/assets/images/integrated-devices/smc/sm400/io-cable.png"> 
-        </td>   
-    </tr>
-    <tr>
-        <td align="center">8</td>
-        <td align="center">Hướng dẫn sử dụng</td>
-        <td align="center"></td>   
-    </tr>
-    <tr>
-        <td align="center">9</td>
-        <td align="center">Cáp video</td>
-        <td align="center"><span class="icon-left11"><img src="/docs/assets/images/integrated-devices/smc/sm400/video-cable.png"> </td>   
-    </tr>
+            <td colspan="2">Input</td>
+            <td>Hỗ trợ tới 4 Camera analog AHD 720p/ 960p/ 1080p </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">Output</td>
+            <td>1 Video Output</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">Chuẩn tín hiệu Video</td>
+            <td>Electrical level: 1Vpp Impedance: 75Ω   <br>
+                NTSC/PAL Optional <br></td>
+            <td></td>
+        </tr>
+    <tr class="color-primary">
+        <td colspan="4"> <b>Kết nối không dây và vệ tinh</b></td> 
+        </tr>
+        <tr>
+            <td rowspan="4">4G-LTE</td>
+            <td>Modem</td>
+            <td>Quectel EC25</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Antena</td>
+            <td>4G-LTE external</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Băng tần</td>
+            <td>TDD-LTE: B38/B40/B41  <br>
+                FDD-LTE: B1/B3/B5/B7/B8/B20 <br>
+                WCDMA: B1/B5/B8<br>
+                GSM/EDGE: B3/B8</td>
+            <td></td>
+        </tr>
+         <tr>
+            <td>Data transfer</td>
+            <td>LTE CAT4: Max 150M(DL)/50M(UL)</td>
+            <td></td>
+        </tr>
+    <tr class="color-primary">
+        <td colspan="4"> <b>Bộ xử lý và lưu trữ </b></td> 
+        </tr>
+        <tr>
+            <td rowspan="4">CPU Core </td>
+            <td> Master Chip</td>
+            <td>AQuectel EC25 (core Qualcom IC)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>SDRAM</td>
+            <td>2Gb</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Operating system</td>
+            <td>Embedded Linux operating system</td>
+            <td></td>
+        </tr>
+         <tr>
+            <td>Memory</td>
+            <td>4G NAND internal</td>
+            <td></td>
+        </tr>
+    <tr class="color-primary">
+        <td colspan="4"> <b>Cảm biến (tích hợp trên bo mạch) </b></td> 
+        </tr>
+        <tr>
+            <td colspan="2">Cảm biến gia tốc </td>
+            <td>3 trục gia tốc tuyến tính <br>
+            Dải đo 2÷16g độ phân giải cao 16bits</td>
+            <td rowspan="3"></td>
+        </tr>
+        <tr>
+            <td colspan="2">Cảm biến nhiệt </td>
+            <td> Độ phân giải 12 bits, quản lý nhiệt độ CPU </td>
+        </tr>
+        <tr>
+            <td colspan="2">Cảm biến điện áp </td>
+            <td> Đo đạc điện áp đầu vào </td>
+        </tr>
+    <tr class="color-primary">
+        <td colspan="4"> <b>Cổng kết nối tín hiệu </b></td> 
+        </tr>
+        <tr>
+            <td rowspan="2">Cổng POWER</td>
+            <td>Cấp nguồn VDC </td>
+            <td>9-36VDC Nguồn cấp cho thiết bị</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>1 x Đầu vào số</td>
+            <td>1 tín hiệu mức tích cực cao <br>
+                Phát hiện chìa khóa xe bật và đóng/ cắt nguồn điện cấp cho mạch</td>
+            <td>ACC</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Cổng B </td>
+            <td>4 x Đầu vào số</td>
+            <td>4 tín hiệu mức tích cực cao</td>
+            <td>ALARM 0-3</td>
+        </tr>
+        <tr>
+            <td>1 x Nguồn cấp ra ngoại vi</td>
+            <td>Cấp nguồn điện áp 12VDC, max 3A</td>
+            <td>12V_OUT</td>
+        </tr>
+        <tr>
+            <td>1 x RS232</td>
+            <td>1 cổng RS232</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">01 x VGA/AV OUT </td>
+            <td>Cổng xuất tín hiệu Video</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">04 x Camera</td>
+            <td>Hỗ trợ tối đa 4 camera input</td>
+            <td>AV 1-4</td>
+        </tr>
+        <tr>
+            <td colspan="2">02 x Antena</td>
+            <td>Kết nối anten GPS và anten 4G-LTE</td>
+            <td>GPS, 3/4G</td>
+        </tr>
+        <tr>
+            <td colspan="2">01 x USB Type A</td>
+            <td>Hỗ trợ chuột máy tính hoặc bộ nhớ USB để cập nhật phần mềm thiết bị ngoại tuyến</td>
+            <td></td>
+        </tr>
+    <tr class="color-primary">
+        <td colspan="4"> <b>Chỉ thị trạng thái</b></td> 
+        </tr>
+        <tr>
+            <td colspan="2">Đèn Led</td>
+            <td>4 led: POWER, SD card, GNSS, CELLULAR</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">Còi Bip</td>
+            <td>Không</td>
+            <td></td>
+        </tr>
+    <tr class="color-primary">
+        <td colspan="4"> <b>Tính năng</b></td> 
+        </tr>
+        <tr>
+            <td colspan="2" rowspan="4">Cơ bản</td>
+            <td>Bắt tay xác nhận 2 chiều</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Định vị, giám sát hành trình thời gian thực</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Giám sát trực tuyến qua video</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Xem lại video lưu trên thiết bị</td>
+            <td></td>
+        </tr>
+        <td colspan="2">Đồng bộ thời gian</td>
+            <td>NTP, vệ tinh GPS</td>
+            <td></td>
+        </tr>
+    <td colspan="2" rowspan="2">Tính năng mở rộng</td>
+            <td>Cập nhật firmware từ xa (OTA)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Hỗ trợ nguồn dự phòng (siêu tụ)</td>
+            <td></td>
+        </tr>
 </table>
 
-#### 3.2 Hình ảnh sản phẩm 
+<center>Bảng 1. Đặc tả thông số kỹ thuật</center>
 
-<span class="icon-left12">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/sd-card.png) 
-```
-    Hình 1. Đầu ghi video thẻ SD                    
-```
-<span class="icon-left12">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/hdd-video.png)
-```
-    Hình 2. Đầu ghi video HDD
-```
+### 3. Cổng tín hiệu, và Led chỉ thị
 
-#### 3.3 Kích thước máy và gắn vị trí lỗ (đơn vị: mm)
-
-<span class="icon-left16">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/size.png)
-
-#### 3.4 Giao diện bảng điều khiển phía trước và đèn báo 
-
-<span class="icon-left15">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/sm400.png)
-
-Giao diện bảng điều khiển phía trước và đèn báo được xác định trong bảng sau ：
+#### 3.1. Led chỉ thị
 
 <table>
-    <tr>
-        <td class="text-bold" align="center">Phân loại</td>
-        <td class="text-bold">Đối tượng</td>
-        <td class="text-bold">Định nghĩa</td>   
-    </tr>
-    <tr>
-        <td>Giao diện</td>
-        <td>SD1/SD2 <br>
-             SIM
-        </td>
-        <td>Khe cắm thẻ SD, hai thẻ SD CARDS có thể lặp lại video <br>
-            Thẻ 3G / 4G, truy cập Internet quay số
-        </td>   
-    </tr>
-    <tr>
-        <td>Đèn báo</td>
-        <td>GPS</td>
-        <td>Đèn báo GPS, nhấp nháy khi mô-đun GPS không có tín hiệu; <br>
-             Đèn luôn sáng khi tín hiệu bình thường; Không phát hiện thấy đèn mô-đun tắt
-        </td>   
-    </tr>
-    <tr>
-        <td>IR</td>
-        <td>Máy thu hồng ngoại</td>
-        <td>Nhận nút điều khiển từ xa</td>   
-    </tr>
-    <tr>
-        <td>Khóa điện tử</td>
-        <td>KHÓA</td>
-        <td>Thẻ SD và thẻ SIM khóa vách ngăn, không khóa máy chủ không thể khởi động, nhấn <br>
-         Trạng thái chờ tự động của máy chủ 5 giây sau khi mở khóa
-        </td>   
-    </tr>
-</table>
+    <tr class="color-primary">
+        <td> <b>LED</b></td>
+        <td><b>Kiểu dạng sáng, chớp</b></td>
+        <td><b>Chỉ thị trạng thái</b></td>
+        </tr>
+        <tr>
+        <td rowspan="2"><b>Power</b></td>
+        <td><b>Sáng ổn định không chớp</b></td>
+        <td><b>Nguồn cung cấp tốt</b></td>
+        </tr>
+        <tr>
+            <td>Không sáng</td>
+            <td>Chưa có nguồn hoặc đang ở chế độ ngủ</td>
+        </tr>
+        <td rowspan="3"><b>SD Card</b></td>
+        <td><b>Sáng ổn định không chớp</b></td>
+        <td><b>Thẻ nhớ tốt</b></td>
+        </tr>
+        <tr>
+            <td>Chớp sáng chậm</td>
+            <td>Đang dò thẻ SD Card/đọc ghi dữ liệu</td>
+        </tr>
+        <tr>
+            <td>Không sáng</td>
+            <td>Không có thẻ nhớ/ thẻ nhớ lỗi</td>
+        </tr>
+        <td rowspan="4"><b>GNSS (GPS)</b></td>
+        <td> <b>Sáng ổn định không chớp</b></td>
+        <td> <b> Đã có vị trí từ module GPS trả về</b></td>
+        </tr>
+        <tr>
+            <td>Không sáng</td>
+            <td>Không có/ không nhận module GPS</td>
+        </tr>
+        <tr>
+            <td>Chớp sáng nhanh</td>
+            <td>Anten chưa được gắn hoặc hỏng</td>
+        </tr>
+        <tr>
+            <td> Chớp sáng chậm</td>
+            <td> Module đang dò vị trí  </td>
+        </tr>
+       <td rowspan="4"><b>CELLULAR <br>
+                          (3/4G)</b></td>
+        <td> <b> Sáng ổn định không chớp </b></td>
+        <td> <b> SIM card tốt, thiết bị đã kết nối đến server <b> </td>
+        </tr>
+        <tr>
+            <td>Không sáng</td>
+            <td>Không có/ không nhận module Cellular </td>
+        </tr>
+        <tr>
+            <td> Chớp sáng chậm </td>
+            <td> Thiết bị đang tiến hành kết nối tới server </td>
+        </tr>
+         <tr>
+            <td> Chớp sáng nhanh </td>
+            <td> Đang đang ký mạng hoặc SIM card không có kết nối </td>
+        </tr>
+</table>       
+<center>Bảng 2. Mô tả led chỉ thị</center>
 
-#### 3.5 Giao diện bảng mặt sau và định nghĩa
+#### 3.2. Cổng tín hiệu
 
-<span class="icon-left15">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/back-interface.png)
+<span class="icon-left13">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/port-signal.png)
 
-Sơ đồ định nghĩa giao diện video ：
-Sơ đồ định nghĩa giao diện đầu vào và đầu ra âm thanh và video (AV_IN1 ~ AV_IN4, AV-out)
-
-<span class="icon-left14">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/input-device.png) 
-
-<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/4pin.png)
-
-Mô tả bảng mặt sau ：
+   <center>  Hình 3. Chú thích các cổng kết nối </center>
 
 <table>
+    <tr class="color-primary">
+        <td> <b><center>Cổng</center></b></td>
+        <td><b><center>Pin</center></b></td>
+         <td><b><center>Màu</center></b></td>
+        <td><b><center>Mô tả</center></b></td>
+        </tr>
     <tr>
-        <td class="text-bold">Giao diện</td>
-        <td class="text-bold">Định nghĩa</td>   
+        <td rowspan="3"><b> Cổng POWER </b></td>
+        <td>Ignition (ACC)</td>
+        <td>Vàng</td>  
+        <td>Kết nối với dây tín hiệu khóa điện của xe, tích cực dương
+(nếu không kết nối mạch sẽ ở chế độ ngủ để bảo vệ bình acquy của xe)
+</td>
+    </tr>  
+    <tr>
+        <td> <b> VDC_in  </b> </td>
+        <td> <b>Đỏ</b> </td>
+        <td> <b> Kết nối với điện áp + 12/24 VDC  </b> </td>
+    </tr>  
+    <tr>
+        <td> <b> GND <b> </td>
+        <td> <b> Đen <b> </td>
+        <td> <b> Kết nối với Mass/ 0VDC <b> </td>
+    </tr> 
+    <tr>
+        <td rowspan="6"><b>Cổng I/O</b></td>
+        <td>RS232_TX</td>
+        <td>Vàng</td>  
+        <td rowspan="2">Kết nối với RX và TX (nối chéo) với thiết bị ngoại vi chuẩn truyền thông RS232</td>
+    </tr>  
+    <tr>
+        <td>RS232_RX1</td>
+        <td>Xanh lá</td>
+    </tr>  
+    <tr>
+        <td>ALT</td>
+        <td>Trắng</td>
+        <td>Tín hiệu Digital input có thể cấu hình mức cao hoặc thấp (mặc định không kết nối trên mạch)</td>
+    </tr> 
+       <tr>
+        <td>ACC out</td>
+        <td>Cam</td>
+        <td>Chuyển tiếp tín hiệu khóa điện của xe cho thiết bị ngoại vi khác</td>
     </tr>
     <tr>
-        <td>AV—IN1~AV—IN4</td>
-        <td>Giao diện đầu vào âm thanh và video camera bốn chiều</td> 
+        <td>12VDC Out</td>
+        <td>Đỏ</td>
+        <td>Cấp nguồn điện áp 12VDC max 3A cho ngoại vi</td>
     </tr>
     <tr>
-        <td>AV—OUT</td>
-        <td>Giao diện đầu ra âm thanh và video</td> 
-    </tr>
-    <tr>
-        <td>VGA</td>
-        <td>Giao diện đầu ra video HD</td> 
-    </tr>
-    <tr>
-        <td>4G</td>
-        <td>Giao diện ăng ten 3G / 4G</td> 
-    </tr>
-    <tr>
-        <td>GPS</td>
-        <td>Xác định vị trí giao diện ăng-ten mô-đun</td> 
-    </tr>
-    <tr>
-        <td>IO</td>
-        <td>Đầu vào IO 4 kênh, đầu ra cảnh báo 2 kênh, giao diện 1*RS485 hoặc 1*RS232</td> 
-    </tr>
-    <tr>
-        <td>Nguồn</td>
-        <td>Giao diện đầu vào nguồn, DC10-33V</td> 
+        <td>GND</td>
+        <td>Đen</td>
+        <td>Kết nối với Mass</td>
     </tr>
 </table>
-
-
+ <center>Bảng 3. Mô tả dây tín hiệu</center>
 
 
