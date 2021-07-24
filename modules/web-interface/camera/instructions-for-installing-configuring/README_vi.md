@@ -41,7 +41,56 @@
     - Nối đầu ghi SM400 vào màn hình để cấu hình.
     - Bật nguồn đầu ghi SM400.
 
-### Bước 3 : Cấu hình đầu ghi
+### Bước 3 : Vị trí lắp camera
+
+```> Khuyến cáo lắp vị trí camera theo ND10```
+
+#### Hướng dẫn lắp đặt camera đảm bảo quan sát được toàn bộ quá trình làm việc của người lái xe.
+
+- Vị trí lắp đặt mắt camera phải đảm bảo quan sát được hình ảnh khi người lái xe làm việc, hình ảnh phải đảm bảo nhìn thấy người lái xe từ thắt lưng trở lên và toàn bộ vô lăng điều khiển xe.
+- Vị trí lắp đặt camera tối ưu ở phía trước mặt người lái xe, nằm trong không gian đảm bảo góc α ≤ 60 độ (như hình vẽ dưới đây). 
+  - Tuỳ theo loại mắt camera, đơn vị lắp đặt có thể lắp ở vị trí phía trên đầu người lái xe (trong khoảng từ vô lăng đến đầu xe)
+
+<span class="icon-left6">![Manage device ](/docs/assets/images/web-interface/livestream/install-cam-driver.png)
+
+Hình ảnh minh họa như sau: 
+
+
+<table>
+    <tr>
+        <td align="center"><span class="icon-left11"> <img src="/docs/assets/images/web-interface/livestream/install-cam-driver-1.png"> <br>
+        Quan sát hình ảnh người lái xe làm việc từ thắt lưng trở lên và vô lăng điều khiển xe </td>
+        <td align="center"> <span class="icon-left11"><img src="/docs/assets/images/web-interface/livestream/install-cam-driver-2.png">  <br>
+        Quan sát hành vi người lái xe như: nghe điện thoại, không thắt dây an toàn,… 
+        </td>
+    </tr>
+</table>
+
+#### Hướng dẫn lắp đặt camera đảm bảo quan sát được khoang hành khách trên xe
+
+- Vị trí lắp camera đảm bảo quan sát được tối thiểu toàn bộ không gian lối đi giữa của xe (1 hoặc 2 lối đi giữa tùy theo từng loại xe).
+- Vị trí lắp đặt camera tối ưu ở phía đầu xe như hình vẽ. Tuỳ theo loại mắt camera, đơn vị lắp đặt có thể lắp ở vị trí trên nóc xe phía đầu xe.
+
+  <span class="icon-left6">![Manage device ](/docs/assets/images/web-interface/livestream/install-cam-passenger.png)
+
+- Hình ảnh minh họa (xe 1 lối đi, xe giường nằm 2 lối đi giữa) như sau:  
+
+  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/install-cam-updown-door.png)
+
+#### Hướng dẫn lắp đặt camera đảm bảo quan sát được cửa lên xuống của xe 
+ 
+- 	Vị trí lắp đặt camera phải đảm bảo quan sát được việc đóng, mở xe; đảm bảo quan sát được tối thiểu 50% hình ảnh cửa xe 
+ 
+- Hình ảnh minh họa (xe 1 cửa trên và xe 2 cửa): 
+
+  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/install-cam-updown-door-1.png)
+
+- Một số hình ảnh minh hoạ vị trí lắp 1 mắt camera trên một số loại xe có thể quan sát được quá trình làm việc của người lái xe, khoang hành khách và cửa lên xuống xe như sau: 
+
+  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/install-cam-updown-door-2.png)
+
+
+### Bước 4 : Cấu hình đầu ghi
 
 **(Chỉ áp dụng cho SM400 Livestream)**
 
@@ -115,9 +164,9 @@
     * Kích hoạt: mở / đóng .
     * Tọa độ X / Y: vị trí hiển thị thông tin chồng chéo trên màn hình .
 
-### Bước 4 : Cấu hình camera trên platform
+### Bước 5 : Cấu hình camera trên platform
 
-#### 4.1. Đầu ghi SM400 Basic
+#### 5.1. Đầu ghi SM400 Basic
 
 *  Bạn vào https://gps.gotrack.vn để đăng nhập.
    
@@ -136,7 +185,7 @@
 
     **4.** Sau khi cấu hình xong các thông tin, click **Lưu thay đổi** để hoàn thành thao tác.
 
-#### 4.2. Đầu ghi SM400 Livestream
+#### 5.2. Đầu ghi SM400 Livestream
 
 * Bạn vào https://gps.gotrack.vn để đăng nhập.
   
@@ -168,7 +217,7 @@
 
   **4.** Sau khi cấu hình xong các thông tin, click **Lưu thay đổi** để hoàn thành.
 
-### Bước 5 : Cấu hình nhận ảnh
+### Bước 6 : Cấu hình nhận ảnh
 
  **Cấu hình nhận ảnh theo lệnh SMS gửi từ thiết bị S200/S400**
 
@@ -188,9 +237,9 @@
 
      __reset#__
 
-### Bước 6 : Kiểm tra ảnh, video
+### Bước 7 : Kiểm tra ảnh, video
 
-#### 6.1. Kiểm tra ảnh
+#### 7.1. Kiểm tra ảnh
 
 * Vào Báo cáo ảnh để xem ảnh
 
@@ -201,7 +250,7 @@
 
  Xem chi tiết [tại đây](vi/modules/web-interface/camera/history-image/)
 
-#### 6.2. Kiểm tra video
+#### 7.2. Kiểm tra video
 
 * Sau khi cấu hình xong :
   * Bước 1 : Vào mục **Camera > Xem trực tiếp** để xem camera video. 

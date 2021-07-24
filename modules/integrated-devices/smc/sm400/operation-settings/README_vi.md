@@ -5,7 +5,7 @@
 
 > Chú ý cần mở khóa nắp khay SIM (sau khi lắp đặt xong cần khóa lại thì thiết bị mới quay về chế độ hoạt động)
 
-<span class="icon-left13">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/set-sim-sd.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/set-sim-sd.png)
 
    <center>  Hình 1. Vị trí và hướng cài SIM card </center> 
 
@@ -81,7 +81,7 @@ Mô tả chức năng của remote:
         <td>Phím đang nhập MENU (có thể cần có mật khẩu – mặc định là: 666666)</td> 
     </tr>
     <tr>
-        <td align="center"><img src="/docs/assets/images/integrated-devices/smc/sm400/power.png"> </td>
+        <td align="center" ><span class="icon-left17" ><img src="/docs/assets/images/integrated-devices/smc/sm400/power-button.svg">  </td>
         <td>Nút nguồn/ thông tin chính</td> 
     </tr>
     <tr>
@@ -93,7 +93,7 @@ Mô tả chức năng của remote:
         <td>Phím hiển thị thông tin, tình trạng hiện tại của thiết bị</td> 
     </tr>
     <tr>
-        <td><span class="icon-left"><img src="/docs/assets/images/integrated-devices/smc/sm400/up.png"> 
+        <td align="center"><span class="icon-left"><img src="/docs/assets/images/integrated-devices/smc/sm400/up.png"> 
         <img src="/docs/assets/images/integrated-devices/smc/sm400/down.png">
         <br> </br>
         <img src="/docs/assets/images/integrated-devices/smc/sm400/left.png">
@@ -124,7 +124,7 @@ Màn hình MENU chính
 
 - Kiểm tra thông tin thiết bị: Số ID cố định, các thông số có thể nhập thêm bằng bàn phím.
 
-    &emsp;<span class="icon-left12">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/terminal.png)
+    <span class="icon-left12">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/terminal.png)
 
 - Cài đặt thời gian 
 

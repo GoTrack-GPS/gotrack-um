@@ -424,7 +424,7 @@ The following information is provided to ensure the safe operation of the equipm
         </tr>
         <tr>
             <td> Slow flash of light </td>
-            <td> Thiết bị đang tiến hành kết nối tới server </td>
+            <td> The device is connecting to the server </td>
         </tr>
          <tr>
             <td> Fast flash of light </td>
@@ -432,3 +432,67 @@ The following information is provided to ensure the safe operation of the equipm
         </tr>
 </table>       
 <center>Table 2. Description led indicator</center>
+
+#### 3.2. Signal port
+
+<span class="icon-left13">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/port-signal-english.png)
+
+   <center> Figure 3. Annotation of connection ports </center>
+
+<table>
+    <tr class="color-primary">
+        <td> <b><center>Port</center></b></td>
+        <td><b><center>Battery</center></b></td>
+         <td><b><center>Color</center></b></td>
+        <td><b><center>Desciption</center></b></td>
+        </tr>
+    <tr>
+        <td rowspan="3"><b> POWER port </b></td>
+        <td>Ignition (ACC)</td>
+        <td>Yellow</td>  
+        <td>KConnect to the car's electric lock signal wire, positive positive
+(if not connected, the circuit will be in sleep mode to protect the vehicle battery)
+</td>
+    </tr>  
+    <tr>
+        <td> <b> VDC_in  </b> </td>
+        <td> <b>Red</b> </td>
+        <td> <b> Connect to voltage + 12/24 VDC  </b> </td>
+    </tr>  
+    <tr>
+        <td> <b> GND <b> </td>
+        <td> <b> Black <b> </td>
+        <td> <b>Connect to Mass / 0 VDC <b> </td>
+    </tr> 
+    <tr>
+        <td rowspan="6"><b> I/O port </b></td>
+        <td>RS232_TX</td>
+        <td>Yellow</td>  
+        <td rowspan="2">RX and TX connection (cross-connection) with standard RS232 communication peripherals</td>
+    </tr>  
+    <tr>
+        <td>RS232_RX1</td>
+        <td>Green</td>
+    </tr>  
+    <tr>
+        <td>ALT</td>
+        <td>White</td>
+        <td>Digital input signal configurable high or low (default not connected on board)</td>
+    </tr> 
+       <tr>
+        <td>ACC out</td>
+        <td>Orange</td>
+        <td>Forward the vehicle's ignition signal to other peripherals</td>
+    </tr>
+    <tr>
+        <td>12VDC Out</td>
+        <td>Red</td>
+        <td>Power supply voltage 12VDC max 3A for peripherals</td>
+    </tr>
+    <tr>
+        <td>GND</td>
+        <td>Black</td>
+        <td>Connect to Mass</td>
+    </tr>
+</table>
+ <center>Table 3. Signal wire description</center>

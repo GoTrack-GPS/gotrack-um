@@ -460,7 +460,7 @@ Các thông tin sau đây được cung cấp để đảm bảo sự an toàn t
     <tr>
         <td> <b> GND <b> </td>
         <td> <b> Đen <b> </td>
-        <td> <b> Kết nối với Mass/ 0VDC <b> </td>
+        <td> <b> Kết nối với Mass / 0 VDC <b> </td>
     </tr> 
     <tr>
         <td rowspan="6"><b>Cổng I/O</b></td>
@@ -485,7 +485,7 @@ Các thông tin sau đây được cung cấp để đảm bảo sự an toàn t
     <tr>
         <td>12VDC Out</td>
         <td>Đỏ</td>
-        <td>Cấp nguồn điện áp 12VDC max 3A cho ngoại vi</td>
+        <td>Cấp nguồn điện áp 12 VDC max 3A cho ngoại vi</td>
     </tr>
     <tr>
         <td>GND</td>
