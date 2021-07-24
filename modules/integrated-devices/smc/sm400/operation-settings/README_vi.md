@@ -10,24 +10,24 @@
    <center>  Hình 1. Vị trí và hướng cài SIM card </center> 
 
 ### 2. Những lưu ý khi lắp đặt thiết bị
-### 2.1. Dây kết nối
+#### 2.1. Dây kết nối
 -	Các dây tín hiệu cần được buộc gọn gàng và cố định vào với các phần cố định khác gần đó. Cố gắng tránh các nguồn sinh nhiệt hoặc các đối tượng chuyển động
 -	Nếu buộc phải đi dây ở bên ngoài nơi mà có thể tiếp xúc trực tiếp với mội trường tự nhiên hoặc môi trường có nhiệt, ẩm …, cần bổ sung thêm các ống cách ly để kháng lại các yếu tố này.
 -	Tháo bỏ các dây kết nối máy tính sau khi cấu hình xong.
 
-### 2.2. Kết nối nguồn điện
+#### 2.2. Kết nối nguồn điện
 
 - Kết nối với nguồn điện đảm bảo điện áp danh định 12VDC, công suất max 3A @12VDC
 
-### 2.3. Kết nối khóa điện
+#### 2.3. Kết nối khóa điện
 
 - Hãy kiểm tra lại điện áp khi khóa điện On hoặc OFF phải có giá trị điện áp phù hợp tương ứng
 
-### 2.4. Kết nối dây mass
+#### 2.4. Kết nối dây mass
 
 - Dây nguồn nên được kết nối tới phần kim loại cố định trên khung sườn kim loại của xe.
 
-### 2.5. Vị trí lắp đặt
+#### 2.5. Vị trí lắp đặt
 
 - Thiết bị SM400 được thiết kế tích hợp module GPS để định vị vị trí. Để thu tín hiệu tốt nhất nên lắp đặt Anten GPS chỗ thông thoáng, mặt hướng lên trời, tránh tuyệt đối các vật cản bằng kim loại, vật liệu chắn sings.
 

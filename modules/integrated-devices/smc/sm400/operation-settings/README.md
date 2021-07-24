@@ -9,24 +9,24 @@
    <center> Figure 1. SIM card location and orientation </center>
 
 ### 2. Notes when installing equipment
-### 2.1. Connecting wire
+#### 2.1. Connecting wire
 - Signal wires need to be neatly tied and fixed with other fixings nearby. Try to avoid sources of heat or moving objects
 - If the wiring is forced to go outside where it can be directly exposed to the natural environment or the environment as heat, humidity, etc., it is necessary to add additional isolation pipes to resist these factors.
 - Remove the computer connection wires after the configuration is complete.
 
-### 2.2. Connect the power supply
+#### 2.2. Connect the power supply
 
 - Connect to the power supply to ensure the nominal voltage 12VDC, maximum capacity 3A @12VDC
 
-### 2.3. Electric lock connection khóa
+#### 2.3. Electric lock connection khóa
 
 - Please check the voltage when the ignition switch On or OFF must have the corresponding voltage value
 
-### 2.4. Connecting the mass wire
+#### 2.4. Connecting the mass wire
 
 The power cord should be connected to the metal part fixed on the vehicle's metal chassis.
 
-### 2.5. Installation location
+#### 2.5. Installation location
 
 - Device SM400 is designed with a built-in GPS module for positioning. To receive the best signal, it is recommended to install the GPS Antenna in a well-ventilated area, facing the sky, avoiding absolutely metal obstacles and blocking materials.
 
