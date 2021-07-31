@@ -1,4 +1,5 @@
 # Giám sát thiết bị chung trên bản đồ
+
 <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/list-and-device-information.png)
 
 ###  Tìm kiếm 

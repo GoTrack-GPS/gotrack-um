@@ -1,5 +1,5 @@
 
-# 7. Theo dõi nhiều xe 
+# Theo dõi nhiều xe 
 
 Để theo dõi nhiều xe, vào  <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-maintenance.svg) > **Theo dõi nhiều xe**
  

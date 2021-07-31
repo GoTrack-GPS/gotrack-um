@@ -1,5 +1,5 @@
 
-# 7. Trackings
+# Trackings
 
 * To track multiple vehicles, go to <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-maintenance.svg) **Utilities > Tracking**.
 

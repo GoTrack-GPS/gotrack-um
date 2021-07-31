@@ -94,7 +94,7 @@ Nếu người dùng muốn xem **Báo cáo TT73-Thời gian lái xe liên tục
   
 Hiện ra màn hình **TT73-Thời gian lái xe liên tục (SV)** như hình dưới đây :
 
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/continuous-driving-time.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/continuous-driving-time.png)
 
 #### Tìm kiếm 
 
@@ -124,7 +124,7 @@ Nếu người dùng muốn xem **Báo cáo TT73-Thời gian lái xe liên tục
   
 Hiện ra màn hình **TT73-Thời gian lái xe liên tục** như hình dưới đây :
 
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/continuous-driving-time-1.png)
+<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/continuous-driving-time-1.png)
 
 #### Tìm kiếm 
 

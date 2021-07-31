@@ -45,26 +45,6 @@ Click vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/we
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/measurin-distance.png) 
 
-### Tìm đường
-
-<span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/map/find-the-way.png)
-
-- Bước 1 : Click vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/directions.svg)
-
-- Bước 2 : 
-    - Cách 1 : Nhập  điểm khởi hành, điểm đến.
-
-    - Cách 2 : Nhấp và biểu tượng <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/dot-circle.svg) và <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/place-marker-2.svg) để lấy vị trí.
-
-    Click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus1.svg) **Thêm địa điểm** để thêm địa chỉ muốn đến tiếp theo.
-
-- Bước 3 : Click vào **Tìm trên Google Maps**.
-
-Ví dụ: Kết quả như hình dưới đây :
-
-<span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/find-the-way-2.png)
-
-
 ### Phóng to / Thu nhỏ vùng hiển thị
 Giống với cách phóng to (<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/full-screen.svg) ) / Thu nhỏ (<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/normal-screen.svg)) vùng hiển thị ở thanh công cụ mở rộng.
 

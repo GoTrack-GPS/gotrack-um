@@ -1,6 +1,7 @@
 # Nhóm vùng địa lý
 
 Để xem nhóm vùng địa lý, người dùng vào **Quản lý > Cấu hình > Nhóm vùng địa lý** . Màn hình hiển thị như hình dưới đây :
+
 <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/map/regional-groups.jpg)
 
 

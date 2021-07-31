@@ -43,21 +43,7 @@ Click <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-int
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/measure-distance.png)
 
-### Find the way
 
-<span class="icon-left4">![Interface Web](/docs/assets/images//web-english/map/find-the-way..png)
-
-* Step 1 :  Click <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/directions.svg)
- 
-* Step 2 :
-
-    * Option 1: Choose starting point, destination.
-
-    * Method 2: Click icon <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/dot-circle.svg) and <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/place-marker-2.svg) to get the location.
-
-    Click **Add destination** to add the next destination.
-
-* Step 3: Click on **Search on Google Maps**.
 ### Full screen / Normall screen 
 
 Same way to Full screen (<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/full-screen.svg)) / Normall screen (<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/normal-screen.svg)) the visible area in Extensive tools.
