@@ -6,8 +6,6 @@
 <span class="icon-left1 ">[<img src="/docs/assets/images/web-interface/app-gotrack365/images.png">](https://apple.co/3sugMZi)
 <span class="icon-left2">[<img src="/docs/assets/images/web-interface/app-gotrack365/google-play-download-android-app.png" >](https://bit.ly/3gl5Bjb) 
 
-
-
 Sau đó đăng nhập. 
 
 ### Cách 1 : Đăng nhập thủ công
@@ -19,7 +17,6 @@ Sau đó đăng nhập.
 * Bước 2 : Click vào **Đăng nhập** để hoàn thành thao tác. 
 
 * Bước 3 : Đăng nhập thành công sẽ hiện ra Màn hình **Phương tiện**. Khi sang **tab Bản đồ**, chọn **CHỈ CHO PHÉP KHI DÙNG ỨNG DỤNG** để **Cho phép GoTrack365 truy cập vào vị trí của thiết bị này?** Sử dụng được những tính năng liên quan đến vị trí.
-
 
 * Người dùng có thể dựa vào ID thiết bị để **đăng nhập** mặc định theo cách sau.:
 
