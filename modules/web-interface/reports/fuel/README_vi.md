@@ -1,6 +1,6 @@
-# 3. Nhiên liệu
+# 2. Nhiên liệu
 
- ### 3.1. Biểu đồ
+ ### 2.1. Biểu đồ
 
 > Chỉ có những xe lắp cảm biến nhiên liệu mới có dữ liệu. <br>
 > Thêm cảm biến nhiên liệu [tại đây](vi/modules/web-interface/devices/edit-device/#sensor) <div id="sensor">
@@ -31,7 +31,7 @@ Nếu người dùng muốn xem **Báo cáo biểu đồ** :
 
 * Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng PDF.
 
-### 3.2. Nạp xả
+### 2.2. Nạp xả
 
 Nếu người dùng muốn xem **Báo cáo nạp xả** :  
 
@@ -62,7 +62,7 @@ Nếu người dùng muốn xem **Báo cáo nạp xả** :
 
 * Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) , <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) để xuất báo cáo dạng Excel, PDF.
 
-### 3.3. Tổng hợp
+### 2.3. Tổng hợp
 
 Nếu người dùng muốn xem **Báo cáo tổng hợp** :  
 * Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/gas-station.svg)  Nhiên liệu > Tổng hợp**.

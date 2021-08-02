@@ -1,4 +1,4 @@
-# 2. Bộ giao thông vận tải
+# 4. Bộ giao thông vận tải
 
  Đây là báo cáo QCVN ( Quy chuẩn Việt Nam) của Bộ Giao thông vận tải.
 
@@ -6,7 +6,7 @@
 
  Bạn có thể tham khảo [tại đây](vi/modules/web-interface/devices/edit-device/#advanced) <div id="advanced">
 
- ### 2.1. TT73-Hành trình xe chạy
+ ### 4.1. TT73-Hành trình xe chạy
 
 Nếu người dùng muốn xem **Báo cáo TT73-Hành trình xe chạy** :  
 
@@ -34,7 +34,7 @@ Nếu người dùng muốn xem **Báo cáo TT73-Hành trình xe chạy** :
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/export-the-transportation.png)
 
-### 2.2. TT73-Tốc độ từng giây 
+### 4.2. TT73-Tốc độ từng giây 
 
 Nếu người dùng muốn xem **Báo cáo TT73-Tốc độ từng giây** :  
 * Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-police-uniform.svg)  Bộ giao thông vận tải > TT73-Tốc độ từng giây**.
@@ -60,7 +60,7 @@ Nếu người dùng muốn xem **Báo cáo TT73-Tốc độ từng giây** :
 
 * Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel.svg) , <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf.svg) để xuất báo cáo dạng Excel, PDF
 
-### 2.3. TT73-Quá tốc độ giới hạn 
+### 4.3. TT73-Quá tốc độ giới hạn 
 
 Nếu người dùng muốn xem **Báo cáo TT73-Quá tốc độ giới hạn** :  
 * Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-police-uniform.svg)  Bộ giao thông vận tải > TT73-Quá tốc độ giới hạn**.
@@ -85,7 +85,7 @@ Nếu người dùng muốn xem **Báo cáo TT73-Quá tốc độ giới hạn**
 
 * Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel.svg) , <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf.svg) để xuất báo cáo dạng Excel, PDF.
 
-### 2.4. TT73-Thời gian lái xe liên tục (SV)
+### 4.4. TT73-Thời gian lái xe liên tục (SV)
 
 
 Nếu người dùng muốn xem **Báo cáo TT73-Thời gian lái xe liên tục (SV)**, Server gửi về theo hành trình :  
@@ -115,7 +115,7 @@ Hiện ra màn hình **TT73-Thời gian lái xe liên tục (SV)** như hình d�
 
 * Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel.svg) , <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf.svg) để xuất báo cáo dạng Excel, PDF.
 
-### 2.5. TT73-Thời gian lái xe liên tục 
+### 4.5. TT73-Thời gian lái xe liên tục 
 
 
 Nếu người dùng muốn xem **Báo cáo TT73-Thời gian lái xe liên tục**, giá trị đo đạc thời gian lái xe được gửi từ thiết bị. Để lấy được báo cáo, thiết bị đó phải là thiết bị hợp chuẩn, có chứng nhận hợp chuẩn QCVN31 của Bộ Giao thông Vận Tải.  (Ví dụ : Các loại thiết bị có mã S200, S400, LE) :  
@@ -146,7 +146,7 @@ Hiện ra màn hình **TT73-Thời gian lái xe liên tục** như hình dưới
 * Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel.svg) , <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf.svg) để xuất báo cáo dạng Excel, PDF.
 
 
-### 2.6. TT73-Dừng đỗ
+### 4.6. TT73-Dừng đỗ
 
 
 Nếu người dùng muốn xem **Báo cáo TT73-Dừng đỗ** :  
@@ -174,7 +174,7 @@ Nếu người dùng muốn xem **Báo cáo TT73-Dừng đỗ** :
 
 * Khi tìm kiếm ra kết quả, click vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel.svg) , <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf.svg) để xuất báo cáo dạng Excel, PDF.
 
-### 2.7. TT73-Tổng hợp theo xe
+### 4.7. TT73-Tổng hợp theo xe
 
 
 Nếu người dùng muốn xem **Báo cáo TT73-Tổng hợp theo xe** :  

@@ -596,20 +596,20 @@ Perform the setup by sending commands from the server to which the device is con
     <tr>
         <td>Feedback content</td>
         <td>
-        <b> led </b>,< state>,< 4 led indicator status,from left to right: "Drive" - ​​"Memory" - "Mobile network" - "GPS"> <br>
-        <b> gps </b>,< state>,< 0-No good,1-Good>,< satellite number> <br>
-        <b> cell </b>,< state>,1,1,1,1,1,< signal strength>,< sv connection state / server login state: 0-bad,1-good> <br>
-        <b> buz </b>,< state>,< 0/1: no bip / playing beep> <br>
-        <b> rfid </b>,< state>,< tag ID> <br>
-        <b> Acce </b>,< state>,< x-axis>,< y-axis>,< z-axis>,< xyz-axis> <br>
-        <b> rs0 </b>,< state>,< sensor id>,< state>,< sensor reading value> <br>
-        <b> rs1 </b>,< state>,< sensor id>,< state>,< sensor reading value> <br>
-        <b> acc </b>,< state>,< active level> <br>
-        <b> eng </b>,< state>,< active level> <br>
-        <b> AIR </b>,< state>,1,+,< active level> <br>
-        <b> SOS </b>,< state>,3,+,< positive level> <br>
-        <b> DO </b>,< state>,< active level> <br>
-        <i>state </i>: <br>
+        <b> led </b>,< reversed>,< 4 led indicator status,from left to right: "Drive" - ​​"Memory" - "Mobile network" - "GPS"> <br>
+        <b> gps </b>,< reversed>,< 0-No good,1-Good>,< satellite number> <br>
+        <b> cell </b>,< reversed>,1,1,1,1,1,< signal strength>,< sv connection state / server login state: 0-bad,1-good> <br>
+        <b> buz </b>,< reversed>,< 0/1: no bip / playing beep> <br>
+        <b> rfid </b>,< reversed>,< tag ID> <br>
+        <b> Acce </b>,< reversed>,< x-axis>,< y-axis>,< z-axis>,< xyz-axis> <br>
+        <b> rs0 </b>,< reversed>,< sensor id>,< state>,< sensor reading value> <br>
+        <b> rs1 </b>,< reversed>,< sensor id>,< state>,< sensor reading value> <br>
+        <b> acc </b>,< reversed>,< active level> <br>
+        <b> eng </b>,< reversed>,< active level> <br>
+        <b> AIR </b>,< reversed>,1,+,< active level> <br>
+        <b> SOS </b>,< reversed>,3,+,< positive level> <br>
+        <b> DO </b>,< reversed>,< active level> <br>
+        <i>reversed </i>: <br>
         &emsp;&emsp;&emsp;&emsp;-	7: disabled / not in use <br>
         &emsp;&emsp;&emsp;&emsp;-	6: reset <br>
         &emsp;&emsp;&emsp;&emsp;-	5: pause temporarily <br>

@@ -609,20 +609,20 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
     <tr>
         <td>Nội dung phản hồi</td>
         <td>
-        <b>led</b>,< state>,< trạng thái 4 led chỉ thị,tính từ trái qua phải: “Lái xe” – “Bộ nhớ” – “Mạng di động” – “GPS”> <br>
-        <b>gps</b>,< state>,< 0-Không tốt,1-Tốt>,<số vệ tinh> <br>
-        <b>cell</b>,< state>,1,1,1,1,1,< độ mạnh sóng>,< trạng thái kết nối sv/trạng thái đăng nhập server: 0-không tốt,1-Tốt> <br>
-        <b>buz</b>,< state>,< 0/1: không bip/đang phát kêu bip> <br>
-        <b>rfid</b>,< state>,< ID thẻ> <br>
-        <b>Acce</b>,< state>,< trục x>,< trục y>,< trục z>,< trục xyz> <br> 
-        <b>rs0</b>,< state>,< sensor id>,< state>,< giá trị số đọc từ cảm biến> <br>
-        <b>rs1</b>,< state>,< sensor id>,< state>,<giá trị số đọc từ cảm biến> <br>
-        <b>acc</b>,< state>,< mức tích cực> <br>
-        <b>eng </b>,< state>,< mức tích cực> <br>
-        <b>AIR</b>,< state>,1,+,< mức tích cực> <br>
-        <b>SOS</b>,< state>,3,+,< mức tích cực> <br>
-        <b>DO</b>,< state>,< mức tích cực>  <br>
-        <i>state </i>: <br>
+        <b>led</b>,< reversed>,< trạng thái 4 led chỉ thị,tính từ trái qua phải: “Lái xe” – “Bộ nhớ” – “Mạng di động” – “GPS”> <br>
+        <b>gps</b>,< reversed>,< 0-Không tốt,1-Tốt>,<số vệ tinh> <br>
+        <b>cell</b>,< reversed>,1,1,1,1,1,< độ mạnh sóng>,< trạng thái kết nối sv/trạng thái đăng nhập server: 0-không tốt,1-Tốt> <br>
+        <b>buz</b>,< reversed>,< 0/1: không bip/đang phát kêu bip> <br>
+        <b>rfid</b>,< reversed>,< ID thẻ> <br>
+        <b>Acce</b>,< reversed>,< trục x>,< trục y>,< trục z>,< trục xyz> <br> 
+        <b>rs0</b>,< reversed>,< sensor id>,< state>,< giá trị số đọc từ cảm biến> <br>
+        <b>rs1</b>,< reversed>,< sensor id>,< state>,<giá trị số đọc từ cảm biến> <br>
+        <b>acc</b>,< reversed>,< mức tích cực> <br>
+        <b>eng </b>,< reversed>,< mức tích cực> <br>
+        <b>AIR</b>,< reversed>,1,+,< mức tích cực> <br>
+        <b>SOS</b>,< reversed>,3,+,< mức tích cực> <br>
+        <b>DO</b>,< reversed>,< mức tích cực>  <br>
+        <i>reversed </i>: <br>
         &emsp;&emsp;&emsp;&emsp;-	7: bị tắt/Không sử dụng <br>
         &emsp;&emsp;&emsp;&emsp;-	6: bị reset <br>
         &emsp;&emsp;&emsp;&emsp;-	5: dừng tạm thời <br>

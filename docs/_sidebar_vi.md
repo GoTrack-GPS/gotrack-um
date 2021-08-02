@@ -31,9 +31,9 @@
     
     - **Báo cáo**
       - [1. Báo cáo chung](vi/modules/web-interface/reports/general-report/)
-      - [2. Bộ giao thông vận tải](vi/modules/web-interface/reports/the-transportation/)
-      - [3. Nhiên liệu](vi/modules/web-interface/reports/fuel/)
-    
+      - [2. Nhiên liệu](vi/modules/web-interface/reports/fuel/)
+      - [3. Nhiệt độ](vi/modules/web-interface/reports/temperature/)
+      - [4. Bộ giao thông vận tải](vi/modules/web-interface/reports/the-transportation/)
     - **Cấu hình**
       - [Quản lý nhóm thiết bị- đội xe ](vi/modules/web-interface/configuration/device-group/)
       - [Quản lý lái xe](vi/modules/web-interface/configuration/driver/)
