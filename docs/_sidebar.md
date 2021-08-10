@@ -73,6 +73,7 @@
           - **Device**
                - [Device Management](modules/app-gotrack365/device/)
                - [Send command](modules/app-gotrack365/send-command-pro-new/)
+             
           - **Camera**  
               - [Livestream](modules/app-gotrack365/camera/livestream/)
               - [Photo ](modules/app-gotrack365/camera/photo/)
@@ -114,6 +115,7 @@
           - [Device SM400](modules/web-interface/faq/sm400/)
           - [Configure stops on the map](modules/web-interface/faq/configure-stops/)
           - [Soji fuel sensor configuration with S200/S400](modules/web-interface/faq/connect-sensor-s400/)
+          - [Send command check sensor connection on app GoTrack365](modules/app-gotrack365/send-command-sensor-pro-new/)
           - [Connect relay to device S200, S400](modules/web-interface/faq/ro-le/)
      - **Contact**  
           - [**Contact Info**](modules/web-interface/contact/)

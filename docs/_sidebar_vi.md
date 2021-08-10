@@ -70,6 +70,7 @@
     - **Thiết bị**
       - [Quản lý thiết bị](vi/modules/app-gotrack365/device/)
       - [Gửi lệnh](vi/modules/app-gotrack365/send-command-pro-new/)
+      
     - **Camera**  
       - [Xem livestream](vi/modules/app-gotrack365/camera/livestream/)
       - [Ảnh ](vi/modules/app-gotrack365/camera/photo/)
@@ -112,6 +113,7 @@
   - [Thiết bị SM400](vi/modules/web-interface/faq/sm400/)
   - [Cấu hình điểm dừng trên bản đồ](vi/modules/web-interface/faq/configure-stops/)
   - [Cấu hình cảm biến nhiên liệu soji với S200/S400](vi/modules/web-interface/faq/connect-sensor-s400/)
+  - [Hướng dẫn gửi lệnh kết nối cảm biến trên app GoTrack365](vi/modules/app-gotrack365/send-command-sensor-pro-new/)
   - [Kết nối rơ le cho thiết bị S200, S400](vi/modules/web-interface/faq/ro-le/)
 - **Open API**  
   - [Giới thiệu](vi/modules/api/get-started/) 
