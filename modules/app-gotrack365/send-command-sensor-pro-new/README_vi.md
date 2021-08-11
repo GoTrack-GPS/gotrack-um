@@ -1,5 +1,5 @@
 
-# Hướng dẫn Gửi lệnh kiểm tra kết nối cảm biến 
+# Hướng dẫn Gửi lệnh kiểm tra kết nối cảm biến trên app GoTrack365
 
 Tính năng gửi lệnh này chỉ dành cho : 
 - Tài khoản loại Distributor. 

@@ -1,4 +1,4 @@
-# Send command check sensor connection
+# Send command check sensor connection on app GoTrack365
 
 This sending feature is only for :
 - Distributor type account.
