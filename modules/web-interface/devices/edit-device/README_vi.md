@@ -89,7 +89,7 @@ Khi click vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/imag
 - ***Nhiên liệu*** 
     - **Định mức tiêu hao (lít/100km)** : Đặt giới hạn tiêu hao nhiên liệu của xe cho bao nhiêu lít/100km.
 - ***Tính năng nâng cao*** 
-    - **Trạm thu phí** : Có thể bật / tắt. Khi bật lên khi xe qua các trạm thu phí sẽ cảnh báo và tương ứng với loại hình vận tải thì sẽ tính được xe mấtbao nhiêu phí khi đi qua.
+    - **Trạm thu phí** : Có thể bật / tắt. Khi bật lên khi xe qua các trạm thu phí sẽ cảnh báo và tương ứng với loại hình vận tải thì sẽ tính được xe mất bao nhiêu phí khi đi qua.
     - **Loại hình vận tải** : Chọn 1 trong 5 loại hình vận tải.(Chỉ áp dụng ở Việt Nam)
     <span class="icon-left4">![delete device](/docs/assets/images/web-interface/device/Price-list.png)
 

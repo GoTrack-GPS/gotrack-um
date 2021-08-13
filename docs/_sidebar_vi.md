@@ -112,6 +112,7 @@
   - [Thiết bị S200/S400](vi/modules/web-interface/faq/device-s200-s400/)
   - [Thiết bị SM400](vi/modules/web-interface/faq/sm400/)
   - [Cấu hình điểm dừng trên bản đồ](vi/modules/web-interface/faq/configure-stops/)
+  - [Cài đặt cảnh báo vượt quá tốc độ](vi/modules/web-interface/faq/setting-over-speed/)
   - [Cấu hình cảm biến nhiên liệu soji với S200/S400](vi/modules/web-interface/faq/connect-sensor-s400/)
   - [Hướng dẫn gửi lệnh kết nối cảm biến trên app GoTrack365](vi/modules/app-gotrack365/send-command-sensor-pro-new/)
   - [Kết nối rơ le cho thiết bị S200, S400](vi/modules/web-interface/faq/ro-le/)

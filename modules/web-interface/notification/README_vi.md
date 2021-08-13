@@ -37,36 +37,41 @@ Màn hình sẽ hiển thị chi tiết của thông báo và vị trí gặp c�
 <div>
 
 ### Cài đặt thông báo 
+<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/faq/send-notice.jpg)
 
-<span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/setting.jpg)
+ - **Bước 1** : Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-alarm.svg) Thông báo** > <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) để cài đặt nhận thông báo.
 
-
-- Bước 1 : Click vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-alarm.svg) > <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) để cấu hình thông báo
-
-- Bước 2 : Xuất hiện màn hình cấu hình thông báo :
+- **Bước 2** : Xuất hiện màn hình cấu hình thông báo :
     - **Email thông báo** : Nhập email vào ô đó để thêm email.
     Bạn có thể thêm 1 hoặc nhiều email để gửi cảnh báo về.
 
     - **Sms thông báo** : Nhập  số điện thoại vào ô đó để thêm số điện thoại.
     Bạn có thể thêm 1 hoặc nhiều số điện thoại để gửi cảnh báo về.
+    - **Telegram** : Nhập chat id để nhận thông báo trên Telegram.
     - Bật / tắt **Nhận thông báo**.
         - **Luôn hoạt động**
         - **Hoạt động trong khoảng** :  Cài đặt ngày nhận, thời gian  nhận thông báo . 
-    - Tick vào ô <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square.svg) để cài đặt bật / tắt các **Loại cảnh báo** gửi về email, app. 
-Sau khi cài đặt xong. Bấm **Lưu** để hoàn thành thao tác.
+
+- **Bước 3** :
+  - Tick vào ô <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square.svg) để cài đặt bật / tắt các **Loại cảnh báo** gửi cảnh báo về **Email , App, Telegram** theo ý muốn của bạn.
+
+- **Bước 4** : Sau khi cài đặt xong. 
+
+    Bấm **Lưu** để hoàn thành thao tác.
+
 
 ### Đánh dấu thông báo
 * **Đánh dấu từng thông báo**
 
-<span class="icon-left svg-filter-pink">![Ok](/docs/assets/images/web-interface/icon/SVG/bell.svg) : Đánh dấu chưa đọc 
+    <span class="icon-left svg-filter-pink">![Ok](/docs/assets/images/web-interface/icon/SVG/bell.svg) : Đánh dấu chưa đọc 
 
-<span class="icon-left svg-filter-pink">![Ok](/docs/assets/images/web-interface/icon/SVG/bell1.svg) :Đánh dấu đã đọc
+    <span class="icon-left svg-filter-pink">![Ok](/docs/assets/images/web-interface/icon/SVG/bell1.svg) :Đánh dấu đã đọc
 
 * **Đánh dấu tất cả** 
 
-Click vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-alarm.svg) để xem thông báo. Nhấn <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-double-tick.svg) **Đánh dấu tất cả đã đọc** 
+    Click vào <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-alarm.svg) để xem thông báo. Nhấn <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-double-tick.svg) **Đánh dấu tất cả đã đọc** 
 
-<span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/infomation-1.jpg)
+    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/infomation-1.jpg)
 
 
 

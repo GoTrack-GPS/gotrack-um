@@ -67,7 +67,7 @@
   <span class="icon-left svg-filter-pink">![Ok](/docs/assets/images/web-interface/icon/SVG/bell1.svg)  : Mark as read
 
 * **Mark all**
-Click <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-alarm.svg) to see the notice. Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-double-tick.svg) **Mark all as read** .
+    Click <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-alarm.svg) to see the notice. Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-double-tick.svg) **Mark all as read** .
 
     <span class="icon-left4">![active device ](/docs/assets/images/web-english/notifications/mark-all.png)
 

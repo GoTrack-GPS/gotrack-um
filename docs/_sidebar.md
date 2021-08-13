@@ -114,6 +114,7 @@
           - [Device S200/S400](modules/web-interface/faq/device-s200-s400/)
           - [Device SM400](modules/web-interface/faq/sm400/)
           - [Configure stops on the map](modules/web-interface/faq/configure-stops/)
+          - [Set over speed alert](modules/web-interface/faq/setting-over-speed/)
           - [Soji fuel sensor configuration with S200/S400](modules/web-interface/faq/connect-sensor-s400/)
           - [Send command check sensor connection on app GoTrack365](modules/app-gotrack365/send-command-sensor-pro-new/)
           - [Connect relay to device S200, S400](modules/web-interface/faq/ro-le/)
