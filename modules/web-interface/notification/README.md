@@ -38,25 +38,28 @@
 
 ### Notification settings
 
-<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/notifications/setting-notifications.png)
+<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/faq/send-notice-el.jpg)
 
-* Step 1: Click <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-alarm.svg) > <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) to configure notifications
+ - **Step 1** : Go to **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-alarm.svg) Notification** > <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) to install set to receive notifications.
 
+- **Step 2** : The notification configuration screen appears:
+    - **Email notification** : Enter email in that box to add email.
+    You can add 1 or more emails to send alerts about.
 
-* Step 2: Appearance of the notification configuration screen:
+    - **Sms notification** : Enter a phone number in that box to add a phone number.
+    You can add 1 or more phone numbers to send alerts about.
+    - **Telegram** : Enter chat id to receive notifications on Telegram.
+    - Enable/disable **Get Notifications**.
+        - **Always active**
+        - **Activity in range** : Set the date to receive, the time to receive notifications.
 
-    * **Email notification**: Enter an email in the box to add an email. You can add 1 or more emails to send alerts on.
+- **Step 3** :
 
-    * **Sms notification**: Enter a phone number in that box to add a phone number. You can add 1 or more phone numbers to send alerts on.
+   * Tick the box <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square.svg) to set on / off alert type sent to **Email , App, Telegram**.
 
-    * Turn on / off **Receive notifications**.
+- **Step 4** : After the installation is complete.
 
-    * **Always active**
-
-    * **Activity range**: Set the date of receiving and when to receive notifications.
-
-    * Tick the box <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square.svg) to set on / off alert type sent to email, app. After the installation is complete. 
-    Click **Save** to complete the operation.
+  Click **Save** to complete the operation.
 
 ### Notification markers
 
