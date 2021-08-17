@@ -496,3 +496,10 @@ The following information is provided to ensure the safe operation of the equipm
     </tr>
 </table>
  <center>Table 3. Signal wire description</center>
+
+### 4. Data consumption
+
+Below is the estimated data traffic used by SM400 (MDVR- in sheet 2)
+
+- Step 1: Click <a href="/docs/assets/images/integrated-devices/smc/sm400/statistics-of-storage-memory-device.xlsx" target="_blank">here</a > to download files.
+- Step 2: Open the file and fill in the information according to the downloaded form.

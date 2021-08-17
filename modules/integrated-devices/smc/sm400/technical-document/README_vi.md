@@ -496,3 +496,9 @@ Các thông tin sau đây được cung cấp để đảm bảo sự an toàn t
  <center>Bảng 3. Mô tả dây tín hiệu</center>
 
 
+### 4. Tiêu thụ data
+
+Dưới đây là dự tính lưu lượng data sử dụng bởi SM400  (MDVR- trong sheet 2)
+
+- Bước 1 : Click vào <a href="/docs/assets/images/integrated-devices/smc/sm400/vi-statistics-of-storage-memory-device.xlsx" target="_blank">đây</a> để tải file. 
+- Bước 2 :  Mở file và điền thông tin theo form vừa tải xuống.

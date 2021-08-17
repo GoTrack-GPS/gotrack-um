@@ -55,6 +55,7 @@
   - QCVN 55:2011/BTTTT
   - QCVN 96:2015/BTTTT
 
+
 ### 2. Đặc tả kỹ thuật
 
 <table>
@@ -733,3 +734,10 @@
     <span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/setting.png)
 
 <center>Hình 8. Khu vực tốt nhất để lắp đặt thiết bị</center>
+
+### 5. Tiêu thụ data
+
+Dưới đây là dự tính lưu lượng data sử dụng bởi S400 (trong sheet 1)
+
+- Bước 1 : Click vào <a href="/docs/assets/images/integrated-devices/smc/sm400/vi-statistics-of-storage-memory-device.xlsx" target="_blank">đây</a> để tải file. 
+- Bước 2 :  Mở file và điền thông tin theo form vừa tải xuống.

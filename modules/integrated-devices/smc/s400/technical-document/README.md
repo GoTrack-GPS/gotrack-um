@@ -726,3 +726,10 @@ With optimal design for easy installation, installation and maintenance with low
     <span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/setting.png)
 
 <center>Figure 8. Best area for equipment installation</center>
+
+### 5. Data consumption
+
+Below is the estimated data traffic used by S400 (in sheet 1)
+
+- Step 1: Click <a href="/docs/assets/images/integrated-devices/smc/sm400/statistics-of-storage-memory-device.xlsx" target="_blank">here</a > to download files.
+- Step 2: Open the file and fill in the information according to the downloaded form.
