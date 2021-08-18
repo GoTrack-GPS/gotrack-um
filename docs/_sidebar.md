@@ -118,6 +118,7 @@
           - [Soji fuel sensor configuration with S200/S400](modules/web-interface/faq/connect-sensor-s400/)
           - [Send command check sensor connection on app GoTrack365](modules/app-gotrack365/send-command-sensor-pro-new/)
           - [Connect relay to device S200, S400](modules/web-interface/faq/ro-le/)
+          - [How to clear cache on Google Play](modules/web-interface/faq/clear-cache-on-google-play/)
      - **Contact**  
           - [**Contact Info**](modules/web-interface/contact/)
 <!-- - 

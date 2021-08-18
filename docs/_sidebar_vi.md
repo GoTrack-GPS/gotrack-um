@@ -116,6 +116,7 @@
   - [Cấu hình cảm biến nhiên liệu soji với S200/S400](vi/modules/web-interface/faq/connect-sensor-s400/)
   - [Hướng dẫn gửi lệnh kết nối cảm biến trên app GoTrack365](vi/modules/app-gotrack365/send-command-sensor-pro-new/)
   - [Kết nối rơ le cho thiết bị S200, S400](vi/modules/web-interface/faq/ro-le/)
+  - [Cách xóa cache trên Google Play](vi/modules/web-interface/faq/clear-cache-on-google-play/)
 - **Open API**  
   - [Giới thiệu](vi/modules/api/get-started/) 
   - [Danh sách phương tiện](vi/modules/api/get-vehicles/)
