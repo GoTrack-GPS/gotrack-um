@@ -15,7 +15,7 @@
 
     <span class="icon-left svg-filter-check">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square.svg) Ẩn tất cả thiết bị / từng thiết bị trên bản đồ
 
-    <span class="icon-left svg-filter-check">![Ok](/docs/assets/images/web-interface/icon/SVG/star.svg) Thêm / Bỏ thiết bị đó vào / ra danh sách yêu thích.  Xem chế độ yêu thích / Ản chế độ yêu thích.
+    <span class="icon-left svg-filter-check">![Ok](/docs/assets/images/web-interface/icon/SVG/star.svg) Thêm / Bỏ thiết bị đó vào / ra danh sách yêu thích.  Xem chế độ yêu thích / Ẩn chế độ yêu thích.
 
     <span class="icon-left svg-filter-check">![Ok](/docs/assets/images/web-interface/icon/SVG/location_alt.svg) Theo dõi từng thiết bị.
 
