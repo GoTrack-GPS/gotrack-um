@@ -43,21 +43,25 @@
     - **SIM**
       - [Tìm kiếm](vi/modules/web-interface/sim/)
     
-    - **Tiện ích**
-      - [Theo dõi nhiều xe](vi/modules/web-interface/utilities/trackings/) 
-      - [Theo dõi theo vùng](vi/modules/web-interface/utilities/multi-tracking-by-geofence/) 
-      - [Theo dõi theo điểm](vi/modules/web-interface/utilities/multi-tracking-by-landmarks/)
-      - [Ước phí tính đường bộ](vi/modules/web-interface/utilities/estimated-road-charges/)
-     
     - **Quản lý**
       - [Quản lý thông báo](vi/modules/web-interface/notification/)
       - [Quy tắc cảnh báo](vi/modules/web-interface/notification/warning/)
       - [Cảnh báo nhiên liệu](vi/modules/web-interface/notification/fuel-alert/)
       - [Quản lý lập lịch báo cáo](vi/modules/web-interface/notification/Schedule-a-report/)
       - [Quản lý nhắc nhở](vi/modules/web-interface/notification/remind/)
+     
+    - **Tiện ích**
+      - [Theo dõi nhiều xe](vi/modules/web-interface/utilities/trackings/) 
+      - [Theo dõi theo vùng](vi/modules/web-interface/utilities/multi-tracking-by-geofence/) 
+      - [Theo dõi theo điểm](vi/modules/web-interface/utilities/multi-tracking-by-landmarks/)
+      - [Ước phí tính đường bộ](vi/modules/web-interface/utilities/estimated-road-charges/)
+     
+    - **Văn phòng hỗ trợ**
+      - [Ticket](vi/modules/web-interface/back-office/ticket/)
 
-    - **Lịch sử phiên bản**
+    - **Trợ Giúp**
       - [Lịch sử cập nhật](vi/modules/web-interface/version-history/)
+      - [Phản hồi](vi/modules/web-interface/back-office/feedback/)
   
   - **App GoTrack365**
     - **Đăng nhập ứng dụng**

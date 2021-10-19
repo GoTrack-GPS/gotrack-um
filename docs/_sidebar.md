@@ -45,21 +45,25 @@
           - **SIM Management**
               - [Search](modules/web-interface/sim/)
 
-          - **Utilities**
-               - [Trackings](modules/web-interface/utilities/trackings/) 
-               - [Multi-tracking-by-geofence](modules/web-interface/utilities/multi-tracking-by-geofence/) 
-              - [Multi-tracking-by-landmarks](modules/web-interface/utilities/multi-tracking-by-landmarks/)
-              - [Estimated-road-charges](modules/web-interface/utilities/estimated-road-charges/)
-          
-          - **Notification** 
+          - **Manage** 
                - [Manage notifications](modules/web-interface/notification/)
                - [Alert rules](modules/web-interface/notification/warning/)
                - [Fuel alert](modules/web-interface/notification/fuel-alert/)
                - [Scheduled report](modules/web-interface/notification/Schedule-a-report/)
                - [Task remind](modules/web-interface/notification/remind/)
-          - **Version history**
-            - [Update history](modules/web-interface/version-history/)
-     
+
+          - **Utilities**
+               - [Trackings](modules/web-interface/utilities/trackings/) 
+               - [Multi-tracking-by-geofence](modules/web-interface/utilities/multi-tracking-by-geofence/) 
+              - [Multi-tracking-by-landmarks](modules/web-interface/utilities/multi-tracking-by-landmarks/)
+              - [Estimated-road-charges](modules/web-interface/utilities/estimated-road-charges/)
+
+          - **Back Office**
+              - [Ticket](modules/web-interface/back-office/ticket/)
+
+          - **Help**
+              - [Change logs](modules/web-interface/version-history/)
+              - [Feedback](modules/web-interface/back-office/feedback/)
      - **App GoTrack365**
           - **Sign in to the application**
 
