@@ -30,8 +30,23 @@
       - [Tiện ích bản đồ](vi/modules/web-interface/tracking/map-widget/)
     
     - **Báo cáo**
-      - [1. Báo cáo chung](vi/modules/web-interface/reports/general-report/)
-      - [2. Nhiên liệu](vi/modules/web-interface/reports/fuel/)
+      - **1. Báo cáo chung**
+          - [1.1. Tổng hợp thiết bị](vi/modules/web-interface/reports/general-report/summary-devices/)
+          - [1.2. Tổng hợp theo ngày](vi/modules/web-interface/reports/general-report/summary-by-days/)
+          - [1.3. Tổng hợp ra vào vùng](vi/modules/web-interface/reports/general-report/geofence-summary/)
+          - [1.4. Chi tiết ra vào vùng](vi/modules/web-interface/reports/general-report/geofence-detail/)
+          - [1.5. Dữ liệu lịch sử](vi/modules/web-interface/reports/general-report/history/)
+          - [1.6. Lộ trình](vi/modules/web-interface/reports/general-report/route/)
+          - [1.7. Lộ trình rút gọn](vi/modules/web-interface/reports/general-report/route-simple/)
+          - [1.8. Trạng thái thiết bị](vi/modules/web-interface/reports/general-report/status-device/)
+          - [1.9. Lịch sử trạng thái](vi/modules/web-interface/reports/general-report/status-history/)
+          - [1.10. Trạm thu phí](vi/modules/web-interface/reports/general-report/toll-station/)
+          - [1.11. Thời gian máy nổ](vi/modules/web-interface/reports/general-report/engine/)
+          - [1.12. Thời gian nổ máy chi tiết](vi/modules/web-interface/reports/general-report/engine-detail/)
+          - [1.13. Điểm dừng](vi/modules/web-interface/reports/general-report/stop-point/)
+      - **2. Nhiên liệu**
+          - [2.1. Biểu đồ](vi/modules/web-interface/reports/fuel/chart/)
+          - [2.2. Nạp xả](vi/modules/web-interface/reports/fuel/changes/)
       - [3. Nhiệt độ](vi/modules/web-interface/reports/temperature/)
       - [4. Bộ giao thông vận tải](vi/modules/web-interface/reports/the-transportation/)
     - **Cấu hình**
