@@ -1,6 +1,6 @@
 # 1.1. Tổng hợp thiết bị
 - Tổng hợp thiết bị là tổng hợp lại tất cả các thông tin cơ bản của từng thiết bị theo 1 ngày/nhiều ngày có trong tài khoản.
--  thống kê tốc độ, tổng  quãng đường, nhiên liệu trong thời gian mà bạn chọn. 
+- Thống kê tốc độ, tổng  quãng đường, nhiên liệu trong thời gian mà bạn chọn. 
 - Để xem Báo cáo Tổng hợp thiết bị thực hiện như sau : 
   - Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Báo cáo > Tổng hợp thiết bị**.
  

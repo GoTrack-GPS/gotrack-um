@@ -33,7 +33,7 @@
   - **Nhỏ** : Chiều cao của từng hàng sẽ nhỏ lại.
   - **Trung bình** : Chiều cao của hàng sẽ rộng ra cách chữ 1 chút.
   - **Lớn** : Chiều cao của hàng sẽ rộng hơn loại Trung bình thêm 1 chút.
-- Click vào icon <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg) để Bật/tắt  hiển thị dạng biểu đồ, dữ liệu trên trục X ( trục dọc) & trục Y ( trục ngang ).
+- Click vào icon <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg) để Bật/tắt  hiển thị dạng biểu đồ, dữ liệu trên trục X ( trục dọc) & trục Y ( trục ngang ).
 - Dạng bảng :  Click vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) để hiển thị dữ liệu dạng bảng.
 
     - Bật / tắt <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg) hiển thị bảng / cột theo ý bạn muốn.

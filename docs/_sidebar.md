@@ -2,38 +2,57 @@
 - **Get Started**
      - **Web interface**
           - **Accounts** 
-               - [Login](modules/web-interface/users/login/)
-               - [Forgot password](modules/web-interface/users/forget-password/)
-               - [Account Management](modules/web-interface/users/account-management/)
-               - [Account tree](modules/web-interface/users/account-tree/)
+            - [Login](modules/web-interface/users/login/)
+            - [Forgot password](modules/web-interface/users/forget-password/)
+            - [Account Management](modules/web-interface/users/account-management/)
+            - [Account tree](modules/web-interface/users/account-tree/)
           - **Sub-accounts**
-              - [Role alias](modules/web-interface/auxiliary/role-alias/)
-              - [User alias](modules/web-interface/auxiliary/user-alias/)
+            - [Role alias](modules/web-interface/auxiliary/role-alias/)
+            - [User alias](modules/web-interface/auxiliary/user-alias/)
           - **Devices** 
-               - [Search ](modules/web-interface/devices/search-device/)
-               - [Add ](modules/web-interface/devices/add-device/)
-               - [Edit  ](modules/web-interface/devices/edit-device/)
-               - [Delete  ](modules/web-interface/devices/delete-device/)
-               - [Other functions](modules/web-interface/devices/equipment-management/)
+            - [Search ](modules/web-interface/devices/search-device/)
+            - [Add ](modules/web-interface/devices/add-device/)
+            - [Edit  ](modules/web-interface/devices/edit-device/)
+            - [Delete  ](modules/web-interface/devices/delete-device/)
+            - [Other functions](modules/web-interface/devices/equipment-management/)
                - [Command ](modules/web-interface/devices/send-the-device-command/)
-
           
           - **Map Tracking**
-               - [Workspace overview](modules/web-interface/tracking/Interface-main/)
-               - [General supervision](modules/web-interface/tracking/general-device-monitoring/)
-               - [Detailed monitoring](modules/web-interface/tracking/detailed-monitoring/)
-               - [Extensive tools](modules/web-interface/tracking/map-tools/)
-               - [Utility maps](modules/web-interface/tracking/map-widget/)
+            - [Workspace overview](modules/web-interface/tracking/Interface-main/)
+            - [General supervision](modules/web-interface/tracking/general-device-monitoring/)
+            - [Detailed monitoring](modules/web-interface/tracking/detailed-monitoring/)
+            - [Extensive tools](modules/web-interface/tracking/map-tools/)
+            - [Utility maps](modules/web-interface/tracking/map-widget/)
 
           - **Camera** 
-               - [Instructions for installing and using MDVR](modules/web-interface/camera/instructions-for-installing-configuring/)
-               - [Livestream](modules/web-interface/camera/livestream/)
-               - [Playback](modules/web-interface/camera/playback/)
-               - [Photo history](modules/web-interface/camera/history-image/)
+            - [Instructions for installing and using MDVR](modules/web-interface/camera/instructions-for-installing-configuring/)
+            - [Livestream](modules/web-interface/camera/livestream/)
+            - [Playback](modules/web-interface/camera/playback/)
+            - [Photo history](modules/web-interface/camera/history-image/)
           
           - **Reports**
-               - [1. General report](modules/web-interface/reports/general-report/)
-               - [2. Fuel](modules/web-interface/reports/fuel/)
+            - **1. General report**
+              - [1.1. Summary device](modules/web-interface/reports/general-report/summary-devices/)
+              - [1.2. Summary by days](modules/web-interface/reports/general-report/summary-by-days/)
+              - [1.3. Summary geofence](modules/web-interface/reports/general-report/geofence-summary/)
+              - [1.4. Detail geofence](modules/web-interface/reports/general-report/geofence-detail/)
+              - [1.5. Data log](modules/web-interface/reports/general-report/history/)
+              - [1.6. Routes](modules/web-interface/reports/general-report/route/)
+              - [1.7. Simple routes](modules/web-interface/reports/general-report/route-simple/)
+              - [1.8. Equipment status](modules/web-interface/reports/general-report/status-device/)
+              - [1.9. Status history](modules/web-interface/reports/general-report/status-history/)
+              - [1.10. Engine hours](modules/web-interface/reports/general-report/engine/)
+              - [1.11. Engine hours detail](modules/web-interface/reports/general-report/engine-detail/)
+              - [1.12. Stop point](modules/web-interface/reports/general-report/stop-point/)
+            - [**2. Fuel**](modules/web-interface/reports/fuel/)
+              - [2.1. Chart](modules/web-interface/reports/fuel/chart/)
+              - [2.2. Changes](modules/web-interface/reports/fuel/changes/)
+              - [2.3. Fuel consume (km)](modules/web-interface/reports/fuel/fuel-estimate/)
+              - [2.4. Summary](modules/web-interface/reports/fuel/fuel-summary/)
+              - [2.5. Summary by device](modules/web-interface/reports/fuel/fuel-summary-by-days/)
+            - [**3. Temperature**](modules/web-interface/reports/temperature/)
+              - [3.1. Chart](modules/web-interface/reports/temperature/chart/)
+              - [3.2. Detail](modules/web-interface/reports/temperature/detail/)
               
           - **Configuration**
                - [Group device](modules/web-interface/configuration/device-group/)

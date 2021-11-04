@@ -1,26 +1,39 @@
-### 1.5. Data log
+# 1.7. Simple routes
+- Simple routes is the statistics of the vehicle route in the state: Running, as well as the travel time, the start-end location, the speed of the vehicle in a period of time.
+- To view the Short Simple routes Report do the following:
+  - Go to **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Report > <span class= "icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg) Report > Simple routes**.
+  
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/simple-routes.jpg)
 
-If the user wants the vehicle to report **Report Data log**:
+###  Search
+- Step 1: You can search by the following criteria:
+  - **Date** : Select available or optional time.
+  - **Device** : Click on a device you want to see the report.
+- Step 2: Click **Search** to see the Shortcut Route report.
+  - Press **Reset** to clear data and return to factory defaults.
+ 
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/simple-routes-search.jpg)
 
-*  Go to **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg ) Reports > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Reports  > Route**. 
+### Export report
+* When searching results, click **Download** to export data
 
-   *  The **Report Data log** screen  appears as shown below:
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/simple-routes-export.jpg)
 
-   <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/data-log.png)
+    - <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) **XLSX** : Download Excel format of the current page.
 
-#### Search
+    - <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) **PDF** : Download PDF of the current page.
+   - <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) **Download all XLSX** : Download all pages in Excel format.
+    - <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) **Download all PDF** : Download all PDF all pages.
+- Click on <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-reset.svg) to refresh the list.
+      
+- Click on <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/column-height.svg) to edit the height of the image. **Small** <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg) **Large**
 
-* Step 1: Search by the following criteria:
+  - **Small** : The height of each row will be smaller.
+  - **Medium** : The height of the row will be slightly wider than the text.
+  - **Large** : The height of the row will be slightly wider than the Medium type.
+- Tabular: Click <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) to display tabular data.
 
-    * **Date, time** : Select available or optional times.
-    * **Select device**: Select 1 device you want to see report.
-
-* Step 2: Click **Search**.
-
-    If pressing **Reset** will return to the original default.
-
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/search-data-log-1.png)
-
-#### Export report
-
-* When searching for results, click <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) to export the report in Excel format.
+    - Enable/disable <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg) table/column display as you wish.
+    
+    - If unchecked, hide 1 or more columns. <br>
+    When pressing **Reset** will reset to default display all

@@ -1,8 +1,5 @@
 # 2.1. Biểu đồ
 
-> Chỉ có những xe lắp cảm biến nhiên liệu mới có dữ liệu. <br>
-> Thêm cảm biến nhiên liệu [tại đây](vi/modules/web-interface/devices/edit-device/#sensor) <div id="sensor">
-
 Nếu người dùng muốn xem **Báo cáo biểu đồ** : 
 
 * Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/gas-station.svg)  Nhiên liệu > Biểu đồ**.
@@ -17,7 +14,7 @@ Nếu người dùng muốn xem **Báo cáo biểu đồ** :
 
     * **Thời gian** : Chọn thời gian có sẵn hoặc tùy chọn.
     * **Biển số** : Chọn 1  biển số muốn xem báo cáo biểu đồ nhiên liệu.
-    * **Cảm biến** : Chọn 1 hoặc nhiều tên cảm biến nhiên liệu của xe đó.
+    * **Cảm biến** : Chọn 1 trong những tên cảm biến nhiên liệu của xe đó.
 
 * Bước 2 : Nhấn **Tìm kiếm**.
  
@@ -43,7 +40,7 @@ Nếu người dùng muốn xem **Báo cáo biểu đồ** :
   - **Trung bình** : Chiều cao của hàng sẽ rộng ra cách chữ 1 chút.
   - **Lớn** : Chiều cao của hàng sẽ rộng hơn loại Trung bình thêm 1 chút.
 
-- Click vào icon <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg) để Bật/tắt hiển thị dạng biểu đồ, dữ liệu trên trục X ( trục dọc) & trục Y ( trục ngang ).
+- Click vào icon <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg) để Bật/tắt hiển thị dạng biểu đồ, dữ liệu trên trục X ( trục dọc) & trục Y ( trục ngang ).
 
 
 - Dạng bảng :  Click vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) để hiển thị dữ liệu dạng bảng.

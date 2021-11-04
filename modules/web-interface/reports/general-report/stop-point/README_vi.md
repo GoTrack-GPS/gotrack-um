@@ -1,4 +1,4 @@
-# 1.13. Điểm dừng
+# 1.12. Điểm dừng
 - Điểm dừng là thống kê khoảng thời gian, địa chỉ mà xe dừng . Thời gian xe dừng tính từ lúc tắt khóa điện/động cơ và các thông tin khác kèm theo.
 
 - Để xem Báo cáo Điểm dừng thực hiện như sau : 

@@ -10,8 +10,10 @@
 - Có thể tìm kiếm theo các tiêu chí sau :
   - **Thời gian** : Chọn thời gian có sẵn hoặc tùy chọn.
   - **Thiết bị** : Nhấn chọn 1 trong những thiết bị muốn xem báo cáo.
-  - Nhấn **Tìm kiếm** để xem Lộ trình rút gọn.
-  - Nhấn **Đặt lại** để xóa dữ liệu, đưa về chế độ mặc định ban đầu.
+  - **Trạng thái**: Chọn 1 loại để xem lịch sử trạng thái
+
+- Nhấn **Tìm kiếm** để xem Lộ trình rút gọn.
+- Nhấn **Đặt lại** để xóa dữ liệu, đưa về chế độ mặc định ban đầu.
 
 ### Xuất báo cáo
 * Khi tìm kiếm ra kết quả, click vào **Tải xuống** để xuất dữ liệu

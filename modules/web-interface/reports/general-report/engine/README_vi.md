@@ -10,8 +10,9 @@
 - Có thể tìm kiếm theo các tiêu chí sau :
   - **Thời gian** : Chọn thời gian có sẵn hoặc tùy chọn.
   - **Thiết bị** : Nhấn chọn 1 trong những thiết bị muốn xem báo cáo.
-  - Nhấn **Tìm kiếm** để xem Thời gian máy nổ .
-  - Nhấn **Đặt lại** để xóa dữ liệu, đưa về chế độ mặc định ban đầu.
+- Nhấn **Tìm kiếm** để xem Thời gian máy nổ .
+- Nhấn **Đặt lại** để xóa dữ liệu, đưa về chế độ mặc định ban đầu.
+- Click vào  **Chi tiết** để chuyển sang trang **Thời gian máy nổ chi tiết** ở thời gian đó.
 
 ### Xuất báo cáo
 * Khi tìm kiếm ra kết quả, click vào **Tải xuống** để xuất dữ liệu

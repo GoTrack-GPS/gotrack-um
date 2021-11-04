@@ -1,33 +1,46 @@
-### 1.3. Report summary geofence
+# 1.3. Summary geofence
+- Summary geofence is to summarize how many times that device enters that warning area, how many times a day. How long is the total time in the warning zone?
+- To view the Summary geofence Report do the following:
+  - Go to **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Report > <span class= "icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg) Report > Summary geofence**.
+ 
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/summary-geofence-in.jpg)
 
-If the user wants the vehicle to report **Report summary geofence**:
+###  Search
+- Step 1 : You can search by the following criteria:
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/summary-geofence-search.jpg)
 
-* **Option 1** : Go to **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg ) Reports > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Reports  > Report summary geofence**. 
-
-  * The **Report summary geofence** screen  appears as shown below:
-
-  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/summary-geofence.png)
-
-* **Option 2** : Choose "**Summary geofence**" tab in **REPORTS
-DETAIL GEOFENCE**
-
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/summary-geofence-2.png)
+  - **Time** : Select available or optional time.
+  - **Device** : Click 1 in the list of devices you want to see the report.
+  - **Geographic Area** : You can select 1 or more created alert areas.
+  - **Stop time** : You can choose the time the vehicle stays in the warning area for filtering.
+- Step 2 : Click **Search** to view the Aggregate report by region.
+  - Press **Reset** to clear data and return to factory defaults.
 
 
-#### Search
+### Details
 
-* Step 1: Search by the following criteria:
+- Clicking on **Details** of each device will move to the **Detail geofence** page
 
-    * **Date, time** : Select available or optional times.
-    * **All device**: Click to select 1 or more devices that want to see the report.
-    * **All geofence**: Click to select 1 or more geofence to see the report.
-    * Stop time (minutes): Enter the stop time in that geofence.
+### Export report
+
+* When searching results, click **Download** to export data
+
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/summary-geofence-export.jpg)
   
-* Step 2: Click **Search**.
- If pressing **Reset** will return to the original default.
+    - <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) **XLSX** : Download Excel format of the current page.
 
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/search-summary-geofence.png)
+    - <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) **PDF** : Download PDF of the current page.
 
-#### Export report
+- Click on <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-reset.svg) to refresh the list.
+      
+- Click on <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/column-height.svg) to edit the height of the image. **Small** <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg) **Large**
 
-* When searching for results, click <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg), <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) to export the report in Excel, PDF format.
+  - **Small** : The height of each row will be smaller.
+  - **Medium** : The height of the row will be slightly wider than the text.
+  - **Large** : The height of the row will be slightly wider than the Medium type.
+- Tabular: Click <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) to display tabular data.
+
+    - Enable/disable <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg) table/column display as you wish.
+    
+    - If unchecked, hide 1 or more columns. <br>
+    When pressing **Reset** will reset to default display all

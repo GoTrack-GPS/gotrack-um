@@ -1,0 +1,48 @@
+# 2.4.  Tổng hợp theo thiết bị
+
+Nếu người dùng muốn xem **Tổng hợp theo thiết bị** : 
+
+* Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/gas-station.svg)  Nhiên liệu > Tổng hợp theo thiết bị**.
+  
+  * Hiện ra màn hình **Tổng hợp theo thiết bị** như hình dưới đây :
+
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/fuel-summary-by-device.jpg)
+
+### Tìm kiếm 
+
+* Bước 1 : Tìm kiếm theo các tiêu chí sau :
+
+    * **Thời gian** : Chọn thời gian có sẵn hoặc tùy chọn.
+    * **Biển số** : Chọn 1 hoặc nhiều  biển số muốn xem báo cáo.
+
+* Bước 2 : Nhấn **Tìm kiếm**.
+ 
+    Nếu nhấn **Đặt lại** sẽ trở về mặc định ban đầu.
+
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/fuel-summary-search.jpg)
+
+### Xuất báo cáo
+* Khi tìm kiếm ra kết quả, click vào **Tải xuống** để xuất dữ liệu
+
+  - <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) **XLSX** : Tải xuống dạng Excel của trang hiện tại.
+
+  - <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) **PDF** : Tải xuống dạng PDF của trang hiện tại.
+
+- Click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-reset.svg) để làm mới danh sách.
+      
+- Click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/column-height.svg) để chỉnh sửa chiều cao của hàng theo mức **Nhỏ** <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg) **Lớn** 
+
+  - **Nhỏ** : Chiều cao của từng hàng sẽ nhỏ lại.
+  - **Trung bình** : Chiều cao của hàng sẽ rộng ra cách chữ 1 chút.
+  - **Lớn** : Chiều cao của hàng sẽ rộng hơn loại Trung bình thêm 1 chút.
+
+- Click vào icon <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg) để Bật/tắt hiển thị dạng biểu đồ, dữ liệu trên trục X ( trục dọc) & trục Y ( trục ngang ).
+
+
+- Dạng bảng :  Click vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) để hiển thị dữ liệu dạng bảng.
+
+    - Bật / tắt <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg) hiển thị bảng / cột theo ý bạn muốn.
+    
+    - Nếu bỏ tick ẩn đi 1 hoặc nhiểu cột. <br>
+    Khi Nhấn **Đặt lại** sẽ chọn lại về mặc định hiển thị tất cả
+

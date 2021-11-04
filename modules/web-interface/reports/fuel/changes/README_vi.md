@@ -1,7 +1,5 @@
 # 2.2. Nạp xả
 
-> Chỉ có những xe lắp cảm biến nhiên liệu mới có dữ liệu.
-
 Nếu người dùng muốn xem **Báo cáo Nạp xả** : 
 
 * Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/gas-station.svg)  Nhiên liệu > Nạp xả**.
@@ -50,4 +48,3 @@ Nếu người dùng muốn xem **Báo cáo Nạp xả** :
     
     - Nếu bỏ tick ẩn đi 1 hoặc nhiểu cột. <br>
     Khi Nhấn **Đặt lại** sẽ chọn lại về mặc định hiển thị tất cả
-

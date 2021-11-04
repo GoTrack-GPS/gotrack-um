@@ -1,7 +1,7 @@
 # 1.7. Lộ trình rút gọn
 - Lộ trình rút gọn là thống kê lộ trình xe ở trạng thái : Đang chạy, cũng như thời gian di chuyển , địa điểm bắt đầu-kết thúc, tốc độ của xe trong 1 khoảng thời gian.
 - Để xem Báo cáo Lộ trình  rút gọn thực hiện như sau : 
-  - Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Báo cáo > Lộ trình**.
+  - Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Báo cáo > Lộ trình  rút gọn**.
   
   <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/route-simple.png)
 
@@ -9,7 +9,7 @@
 - Có thể tìm kiếm theo các tiêu chí sau :
   - **Thời gian** : Chọn thời gian có sẵn hoặc tùy chọn.
   - **Thiết bị** : Nhấn chọn 1 thiết bị muốn xem báo cáo.
-  - Nhấn **Tìm kiếm** để xem báo cáo Lộ trình  rút gọn .
+  - Nhấn **Tìm kiếm** để xem báo cáo Lộ trình rút gọn .
   - Nhấn **Đặt lại** để xóa dữ liệu, đưa về chế độ mặc định ban đầu.
 
 ### Xuất báo cáo

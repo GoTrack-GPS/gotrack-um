@@ -1,4 +1,4 @@
-### 1.12. Thời gian máy nổ chi tiết
+### 1.11. Thời gian máy nổ chi tiết
 - Thời gian nổ máy chi tiết là thống kê chi tiết cụ thể mỗi lần / tổng  số lần mà thiết bị đó nổ máy trong trong 1 ngày.  Trong từng lần đó di chuyển nổ máy, thời gian nổ máy bao lâu và các thông tin khác kèm theo.
 
 - Để xem Báo cáo Thời gian máy nổ chi tiết thực hiện như sau : 
