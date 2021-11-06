@@ -4,20 +4,21 @@
 - Để xem Báo cáo Lịch sử trạng thái thực hiện như sau : 
   - Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Báo cáo > Lịch sử trạng thái**.
  
-  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/status-history.png)
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/status-history-in.png)
 
 ###  Tìm kiếm 
-- Có thể tìm kiếm theo các tiêu chí sau :
+- Bước 1 : Có thể tìm kiếm theo các tiêu chí sau :
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/status-history-search.png)
   - **Thời gian** : Chọn thời gian có sẵn hoặc tùy chọn.
   - **Thiết bị** : Nhấn chọn 1 trong những thiết bị muốn xem báo cáo.
   - **Trạng thái**: Chọn 1 loại để xem lịch sử trạng thái
 
-- Nhấn **Tìm kiếm** để xem Lộ trình rút gọn.
+- Bước 2 : Nhấn **Tìm kiếm** để xem Lộ trình rút gọn.
 - Nhấn **Đặt lại** để xóa dữ liệu, đưa về chế độ mặc định ban đầu.
 
 ### Xuất báo cáo
 * Khi tìm kiếm ra kết quả, click vào **Tải xuống** để xuất dữ liệu
-
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/status-history-export.png)
     - <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) **XLSX** : Tải xuống dạng Excel của trang hiện tại.
 
     - <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) **PDF** : Tải xuống dạng PDF của trang hiện tại.

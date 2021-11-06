@@ -4,19 +4,20 @@
 - Để xem Báo cáo Thời gian máy nổ  thực hiện như sau : 
   - Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Báo cáo > Thời gian máy nổ**.
  
-  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/engine.png)
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/engine-in.png)
 
 ###  Tìm kiếm 
-- Có thể tìm kiếm theo các tiêu chí sau :
+- Bước 1 :  Có thể tìm kiếm theo các tiêu chí sau :
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/engine-search.png)
   - **Thời gian** : Chọn thời gian có sẵn hoặc tùy chọn.
   - **Thiết bị** : Nhấn chọn 1 trong những thiết bị muốn xem báo cáo.
-- Nhấn **Tìm kiếm** để xem Thời gian máy nổ .
+- Bước 2 :  Nhấn **Tìm kiếm** để xem Thời gian máy nổ .
 - Nhấn **Đặt lại** để xóa dữ liệu, đưa về chế độ mặc định ban đầu.
 - Click vào  **Chi tiết** để chuyển sang trang **Thời gian máy nổ chi tiết** ở thời gian đó.
 
 ### Xuất báo cáo
 * Khi tìm kiếm ra kết quả, click vào **Tải xuống** để xuất dữ liệu
-
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/engine-export.png)
   - <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) **XLSX** : Tải xuống dạng Excel của trang hiện tại.
 
   - <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) **PDF** : Tải xuống dạng PDF của trang hiện tại.

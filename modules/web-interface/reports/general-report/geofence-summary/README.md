@@ -13,7 +13,7 @@
   - **Device** : Click 1 in the list of devices you want to see the report.
   - **Geographic Area** : You can select 1 or more created alert areas.
   - **Stop time** : You can choose the time the vehicle stays in the warning area for filtering.
-- Step 2 : Click **Search** to view the Aggregate report by region.
+- Step 2 : Click **Search** to view the Summary geofence report.
   - Press **Reset** to clear data and return to factory defaults.
 
 

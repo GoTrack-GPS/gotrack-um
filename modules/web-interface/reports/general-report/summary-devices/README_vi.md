@@ -4,18 +4,22 @@
 - Để xem Báo cáo Tổng hợp thiết bị thực hiện như sau : 
   - Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Báo cáo > Tổng hợp thiết bị**.
  
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/summary-devices.png)
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/summary-devices-in.png)
 
 ###  Tìm kiếm 
-- Có thể tìm kiếm theo các tiêu chí sau :
+- Bước 1 : Có thể tìm kiếm theo các tiêu chí sau :
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/summary-devices-search.png)
+
   - **Thời gian** : Chọn thời gian có sẵn hoặc tùy chọn.
   - **Thiết bị** : Nhấn chọn 1 hoặc nhiều thiết bị muốn xem báo cáo.
-  - Nhấn **Tìm kiếm** để xem báo cáo Tổng hợp thiết bị.
+- Bước 2 : Nhấn **Tìm kiếm** để xem báo cáo Tổng hợp thiết bị.
   - Nhấn **Đặt lại** để xóa dữ liệu, đưa về chế độ mặc định ban đầu.
 > Chỉ tìm kiếm được dữ liệu từ ngày hôm qua đổ về trước
 
 ### Xuất báo cáo
 * Khi tìm kiếm ra kết quả, click vào **Tải xuống** để xuất dữ liệu
+
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/summary-devices-export.png)
 
     - <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) **XLSX** : Tải xuống dạng Excel của trang hiện tại.
 

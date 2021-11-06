@@ -3,15 +3,16 @@
 - Để xem Báo cáo Tổng hợp theo vùng thực hiện như sau : 
   - Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Báo cáo > Tổng hợp theo vùng**.
  
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/geofence-summary.png)
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/summary-geofence-in.png)
 
 ###  Tìm kiếm 
-- Có thể tìm kiếm theo các tiêu chí sau :
+- Bước 1 :Có thể tìm kiếm theo các tiêu chí sau :
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/summary-geofence-search.png)
   - **Thời gian** : Chọn thời gian có sẵn hoặc tùy chọn.
   - **Thiết bị** : Nhấn chọn 1 trong danh sách thiết bị muốn xem báo cáo.
   - **Vùng địa lý** : Có thể chọn 1 hoặc nhiều vùng cảnh báo đã tạo.
   - **Thời gian dừng** : Có thể chọn thời gian xe ở trong vùng cảnh báo để lọc .
-  - Nhấn **Tìm kiếm** để xem báo cáo Tổng hợp theo vùng.
+- Bước 2 : Nhấn **Tìm kiếm** để xem báo cáo Tổng hợp theo vùng.
   - Nhấn **Đặt lại** để xóa dữ liệu, đưa về chế độ mặc định ban đầu.
 
 ### Chi tiết 
@@ -20,7 +21,7 @@
 
 ### Xuất báo cáo
 * Khi tìm kiếm ra kết quả, click vào **Tải xuống** để xuất dữ liệu
-
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/summary-geofence-export.png)
     - <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) **XLSX** : Tải xuống dạng Excel của trang hiện tại.
 
     - <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) **PDF** : Tải xuống dạng PDF của trang hiện tại.

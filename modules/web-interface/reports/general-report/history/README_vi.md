@@ -3,16 +3,16 @@
 - Để xem Báo cáo Dữ liệu lịch sử  thực hiện như sau : 
   - Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Báo cáo > Dữ liệu lịch sử**.
  
-  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/history-2.png)
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/data-log-in.png)
 
 ###  Tìm kiếm 
-  * Bước 1 : Tìm kiếm theo các tiêu chí sau :
+* Bước 1 : Tìm kiếm theo các tiêu chí sau :
     - **Thời gian** : Chọn thời gian có sẵn hoặc tùy chọn.
     - **Thiết bị** : Nhấn chọn 1 thiết bị muốn xem báo cáo.
-  - * Bước 2 : Nhấn **Tìm kiếm** để xem báo cáo Dữ liệu lịch sử .
+-  Bước 2 : Nhấn **Tìm kiếm** để xem báo cáo Dữ liệu lịch sử .
     - Nhấn **Đặt lại** để xóa dữ liệu, đưa về chế độ mặc định ban đầu.
 
-    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/history-search-1.png)
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/data-log-search.png)
 
   - Chạm vào từng mốc thời gian trên biểu đồ sẽ hiện ra giá trị nhiên liệu và tốc độ ở thời gian đó.
   - Nhấn giữ chuột phải và kéo rộng ra để phóng to khoảng thời gian muốn xem dữ liệu chi tiết hơn. 
@@ -34,6 +34,9 @@
   - **Trung bình** : Chiều cao của hàng sẽ rộng ra cách chữ 1 chút.
   - **Lớn** : Chiều cao của hàng sẽ rộng hơn loại Trung bình thêm 1 chút.
 - Click vào icon <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg) để Bật/tắt  hiển thị dạng biểu đồ, dữ liệu trên trục X ( trục dọc) & trục Y ( trục ngang ).
+
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/reports/data-log-export.png)
+
 - Dạng bảng :  Click vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) để hiển thị dữ liệu dạng bảng.
 
     - Bật / tắt <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg) hiển thị bảng / cột theo ý bạn muốn.
