@@ -214,10 +214,10 @@
 #### 6.2. Check out the video
 
 After configuration is complete:
-* Step 1: Go to **Camera > Live stream** to view the video camera.
-* Step 2: Select a vehicle with camera configuration. Click on **a certain channel > Play all**.
+- Step 1: Go to **Camera > Live stream** to view the video camera.
+- Step 2: Select a vehicle with camera configuration. Click on **a certain channel > Play all**.
 
-    <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/livestream-1.png)
+  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/livestream-v1.2.5.png)
 
     See details [here](modules/web-interface/camera/livestream/)
 
@@ -225,6 +225,6 @@ After configuration is complete:
     
     The screen displays as shown below:
 
-     <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/play-back-1.jpg)
+    <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/playback-2.png)
     
     See details [here](modules/web-interface/camera/playback/)

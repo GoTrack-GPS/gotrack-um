@@ -6,7 +6,7 @@
   <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/data-log-in.png)
 
 ###  Search
-* Step 1: Search by the following criteria:
+- Step 1: Search by the following criteria:
     - **Date** : Select available or optional time.
     - **Device** : Click on a device you want to see the report.
 -  Step 2: Click **Search** to view the Historical Data report.

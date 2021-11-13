@@ -15,9 +15,9 @@ Pull down to refresh data
 
 <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-english/gotrack365-el/notification-setting.jpg)
 
-* Step 1: Go to **Notifications** tab **>** <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg).
+- Step 1: Go to **Notifications** tab **>** <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg).
 
-* Step 2: Appears the warning setting screen:
+- Step 2: Appears the warning setting screen:
 
     * Enable / disable **receive notification**.
 

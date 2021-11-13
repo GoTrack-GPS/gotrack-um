@@ -3,7 +3,7 @@
 Bạn vào **Camera > Lịch sử ảnh**.
   Màn hình hiển thị như hình dưới đây :
 
-  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/history-image-2.png)
+  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/history-image-V1.2.5.png) 
 
 ### Tìm kiếm
 

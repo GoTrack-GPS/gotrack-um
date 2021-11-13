@@ -2,5 +2,5 @@
 
 
 > Chỉ có những xe lắp cảm biến nhiên liệu mới có dữ liệu. <br>
-> Thêm cảm biến nhiệt độ [tại đây](vi/modules/web-interface/devices/edit-device/#sensor) <div id="sensor">s
+> Thêm cảm biến nhiệt độ [tại đây](vi/modules/web-interface/devices/edit-device/#sensor) <div id="sensor">
 

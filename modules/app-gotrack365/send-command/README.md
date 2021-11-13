@@ -24,11 +24,11 @@ To use the extended features, there are 2 ways:
 
 ### 1. Turn off engine power
 
-* Step 1 : Click <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-lock.svg). The dialog box appears as shown below. 
+- Step 1 : Click <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-lock.svg). The dialog box appears as shown below. 
 
-* Step 2 : Select **OK** .
+- Step 2 : Select **OK** .
   
-* Step 3 : After sending the order successfully. Device's information screen => **Device: Armed**.
+- Step 3 : After sending the order successfully. Device's information screen => **Device: Armed**.
 
     <span class="icon-left4">![Interface Web](/docs/assets/images/web-english/gotrack365-el/turn-off-power-5.jpg)
 
@@ -38,11 +38,11 @@ To use the extended features, there are 2 ways:
 
 ### 2. Restore engine power
 
-* Step 1 : Click <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-unlock-52.png). The dialog box appears as shown below. 
+- Step 1 : Click <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-unlock-52.png). The dialog box appears as shown below. 
 
-* Step 2 : Select **OK** .
+- Step 2 : Select **OK** .
 
-* Step 3 : After sending the order successfully. Device's information screen => **Device: Disarmed**.
+- Step 3 : After sending the order successfully. Device's information screen => **Device: Disarmed**.
 
     <span class="icon-left4">![Interface Web](/docs/assets/images/web-english/gotrack365-el/restore-engine-3.jpg)
 
@@ -53,7 +53,7 @@ For more details, please refer [here](modules/app-gotrack365/send-order/#unlock)
 
 ### 3. Create quick geofence
 
-* Step 1 : Click <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/pentagon.svg) 
+- Step 1 : Click <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/pentagon.svg) 
  
 *  Step 2 : The dialog box appears as shown below. Select **OK** to create a quick alert area at that location.
 

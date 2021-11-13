@@ -45,8 +45,8 @@ Clicking on the device name will switch to the detailed monitoring screen of tha
 
 <span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/edit-device.jpg)
 
-* Step 1: Go to **Information** tab **> Edit**.
-* Step 2: After editing the information,
+- Step 1: Go to **Information** tab **> Edit**.
+- Step 2: After editing the information,
      click **Save** to complete the operation.
 
 

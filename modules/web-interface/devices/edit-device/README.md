@@ -14,9 +14,9 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
 ### Basic
 * ***Device Information*** 
 
-    * **IMEI**: Identification number of the device. (Editing is not allowed).
+    - **IMEI**: Identification number of the device. (Editing is not allowed).
 
-    * **Account**: Your account name/username. (Editing is not allowed).
+    - **Account**: Your account name/username. (Editing is not allowed).
 
     * **Icon**: Click on the box below to select the icon of the vehicle/vehicle where you are installing the device.
 
@@ -30,11 +30,11 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
 
         <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/add-device-group.png)
 
-        * Step 1: Click <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) to add the device group.
+        - Step 1: Click <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) to add the device group.
 
-        * Step 2: Select the account you want to add the device group too. Enter the device group name.
+        - Step 2: Select the account you want to add the device group too. Enter the device group name.
 
-        * Step 3: Click **Add** to complete the operation.
+        - Step 3: Click **Add** to complete the operation.
 
         Besides, you can create more device groups by doing the following:
 
@@ -52,8 +52,15 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
     * Activate warranty: Can be on / off.
     * Warranty activation date: Activation date of device warranty.
     * Warranty period: The equipment warranty expiration date according to the warranty package of that service.
-    * Notes: Type a note if you want to annotate something.
 
+- ***Note***
+     - **Odometer (km)** : When the car runs at the end of the day, it will automatically calculate the total distance that the car has traveled from before to yesterday.
+       - If correcting to another number, it will add from that number to the number of kilometers traveled since that time of correction.
+     - **Odo engine (hour)** : If the correct engine signal is selected (Electric lock/engine) when the device is installed, it will automatically calculate the starting time.
+       - If correcting to another number, it will add from that number to the number of kilometers traveled since that time of correction.
+     - **Note** : Enter a note if you want to annotate something.
+     - **Notes (manager)** : Only **Agent** accounts can display this textbox and have permission to enter notes.
+     - **FW Version** : Enter the firmware version when exporting.
 * ***Sell info*** 
 
     * **Sold**: When the device has been sold to the account, it will turn on automatically. If not, it will be turned off.
@@ -83,7 +90,7 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
 
         <span class="icon-left4">![active device ](/docs/assets/images/web-english/device/add-driver.png)
 
-        * **Account** : The name of the account you want to add the driver to.
+        - **Account** : The name of the account you want to add the driver to.
 
         * **Name** : Name of the driver who installed the device.
 
@@ -222,7 +229,11 @@ When you click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/im
        *  If the vehicle has a speed < Min speed filter (km/h), it will be counted as a stopped vehicle.
 
     * **Time zone**: Select the local time zone.
+    - **Record raw data** : Raw data is unprocessed computer data. This information may be stored in a file, or may just be a collection of numbers and characters stored on somewhere in the computer's hard disk. Turn on if needed.
+    - **Engine input** : The signal when the device is installed is to connect the acc/engine wire.
+     In addition, the device can be configured by as shown below:
 
+     <span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/device-configuration.png)
     Besides, the device can be configured by the following figure:
 
     <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/extension-device-2.png)

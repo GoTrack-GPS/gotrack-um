@@ -6,7 +6,7 @@
 You go to **Camera > Photo History**.
   The screen displays as shown below:
 
-<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/history-image-1.png)
+<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/history-image-el.png)
 
 ### Search
 

@@ -1,8 +1,8 @@
 # Xem lại video
 
-Muốn xem lại camera , vào **Camera > Xem lại video**. Màn hình hiển thị như hình dưới đây :
+- Muốn xem lại camera , vào **Camera > Xem lại video**. Màn hình hiển thị như hình dưới đây :
 
-<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/playback-2.png)
+  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/playback-2.png)
 
 ### Tìm kiếm
 
@@ -19,7 +19,7 @@ Muốn xem lại camera , vào **Camera > Xem lại video**. Màn hình hiển t
     
     Hoặc **Đặt lại** để xóa từ vừa nhập, đặt về trạng thái mặc định ban đầu.
 
-### 2. Hiển thị
+### Hiển thị
 
 * Sau khi hiển thị kết quả tìm kiếm :
 

@@ -20,7 +20,7 @@
 
     * Press **ALLOW** to **Allow GoTrack365 to record audio**.
 
-* Step 3: You can use the following features:
+- Step 3: You can use the following features:
 
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/camera-live.jpg)
 

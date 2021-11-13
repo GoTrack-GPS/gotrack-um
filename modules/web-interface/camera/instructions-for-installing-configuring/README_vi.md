@@ -246,7 +246,7 @@ Hình ảnh minh họa như sau:
   Bạn vào **Camera > Lịch sử ảnh**.
   Màn hình hiển thị như hình dưới đây :
 
-  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/history-image-2.png)
+  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/history-image-V1.2.5.png) 
 
  Xem chi tiết [tại đây](vi/modules/web-interface/camera/history-image/)
 
@@ -256,7 +256,7 @@ Hình ảnh minh họa như sau:
   * Bước 1 : Vào mục **Camera > Xem trực tiếp** để xem camera video. 
   * Bước 2 : Chọn xe đã cấu hình camera. Nhấn vào **1 kênh nào đó > Xem tất cả**.
 
-  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/livestream-1.png)
+  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/livestream-v1.2.5.png)
   
   Xem chi tiết [tại đây](vi/modules/web-interface/camera/livestream/)
 
@@ -267,3 +267,4 @@ Hình ảnh minh họa như sau:
     <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/livestream/playback-2.png)
 
   Xem chi tiết [tại đây](vi/modules/web-interface/camera/playback/)
+

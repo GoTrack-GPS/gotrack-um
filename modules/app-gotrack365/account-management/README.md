@@ -4,20 +4,20 @@
 
 <span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/account-management.jpg)
 
-* Step 1: Click on **Account > account name**.
+- Step 1: Click on **Account > account name**.
 
-* Step 2: Edit the information you want to edit. Click **Save** to complete the operation.
+- Step 2: Edit the information you want to edit. Click **Save** to complete the operation.
 
 ### Change Password
 
 <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-english/gotrack365-el/account-management-3.jpg)
 
 
-* Step 1: Go to **Account > General**.
+- Step 1: Go to **Account > General**.
 
-* Step 2: Click **Change Password**.
+- Step 2: Click **Change Password**.
 
-* Step 3 :
+- Step 3 :
 
     * Re-enter the correct **old password**.
      

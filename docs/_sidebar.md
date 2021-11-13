@@ -15,7 +15,7 @@
             - [Edit  ](modules/web-interface/devices/edit-device/)
             - [Delete  ](modules/web-interface/devices/delete-device/)
             - [Other functions](modules/web-interface/devices/equipment-management/)
-               - [Command ](modules/web-interface/devices/send-the-device-command/)
+            - [Command ](modules/web-interface/devices/send-the-device-command/)
           
           - **Map Tracking**
             - [Workspace overview](modules/web-interface/tracking/Interface-main/)
@@ -26,8 +26,11 @@
 
           - **Camera** 
             - [Instructions for installing and using MDVR](modules/web-interface/camera/instructions-for-installing-configuring/)
-            - [Livestream](modules/web-interface/camera/livestream/)
-            - [Playback](modules/web-interface/camera/playback/)
+            - [List camera ](modules/web-interface/camera/list-camera/)
+            - [Live stream](modules/web-interface/camera/livestream/)
+            - [Live stream (basic)](modules/web-interface/camera/livestream-basic/)
+            - [Playback video](modules/web-interface/camera/playback/)
+            - [Tracking photo](modules/web-interface/camera/live-photo/)
             - [Photo history](modules/web-interface/camera/history-image/)
           
           - **Reports**

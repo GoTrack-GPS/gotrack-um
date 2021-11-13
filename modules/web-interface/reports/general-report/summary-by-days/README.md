@@ -7,10 +7,10 @@
   <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/summary-by-days-in.jpg)
 
 ###  Search
-* Step 1 : You can search by the following criteria:
+- Step 1 : You can search by the following criteria:
   - **Date** : Select available or optional time.
   - **Device** : Click 1 in the list of devices you want to see the report.
-* Step 2 : Click **Search** to see the Summary by days.
+- Step 2 : Click **Search** to see the Summary by days.
   - Press **Reset** to clear data and return to factory defaults.
   
   <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/summary-by-days-search.jpg)

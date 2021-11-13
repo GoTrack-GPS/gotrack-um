@@ -54,6 +54,8 @@
           - [2.4. Tổng hợp](vi/modules/web-interface/reports/fuel/fuel-summary/)
           - [2.5. Tổng hợp theo thiết bị](vi/modules/web-interface/reports/fuel/fuel-summary-by-days/)
       - [**3. Nhiệt độ**](vi/modules/web-interface/reports/temperature/)
+          - [3.1. Biểu đồ](vi/modules/web-interface/reports/temperature/chart/)
+          - [3.2. Chi tiết](vi/modules/web-interface/reports/temperature/detail/)
       - [**4. Bộ giao thông vận tải**](vi/modules/web-interface/reports/the-transportation/)
           - [4.1. TT73-Hành trình xe chạy](vi/modules/web-interface/reports/the-transportation/gov-journey/)
           - [4.2. TT73-Tốc độ từng giây](vi/modules/web-interface/reports/the-transportation/gov-speed/)
@@ -112,6 +114,7 @@
       - [Cảnh báo](vi/modules/app-gotrack365/notification/warning/)
      
     - **Báo cáo**
+      - [Tổng hợp theo ngày](vi/modules/app-gotrack365/reports/summary-by-day/)
       - [Nhiên liệu](vi/modules/app-gotrack365/reports/fuel/)
       - [Nhiệt độ](vi/modules/app-gotrack365/reports/temperature/)
       - [Tốc độ](vi/modules/app-gotrack365/reports/speed/)

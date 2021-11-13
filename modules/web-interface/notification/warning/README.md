@@ -7,14 +7,14 @@ First, click on **Manage > Alerts - Schedule > Alert Rules**
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/notifications/alerts-rules.png)
 
 ### Search
-* Step 1: Search by the following criteria:
+- Step 1: Search by the following criteria:
 
     * **Name**: Enter 1 or more characters in the alert name you want to search for.
     * **Alert type**: Select one of the alert types in that box to make searching easier.
 
     <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/notifications/search-alert-rules.jpg)
 
-* Step 2 : Click **Search**.
+- Step 2 : Click **Search**.
 
     **Reset**: Reset to factory default.
 
@@ -77,8 +77,8 @@ First, click on **Manage > Alerts - Schedule > Alert Rules**
 
 ### Edit
 
-* Step 1: Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/edit.svg) to fix the alert.
-* Step 2 :
+- Step 1: Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/edit.svg) to fix the alert.
+- Step 2 :
 
     **2.1.** Select 1 from the list in the sensor to generate an alert. A dialog box like the one below will appear
 

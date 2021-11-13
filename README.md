@@ -25,45 +25,63 @@ Below is the home page interface (Overview) of the software.
 
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/overview.png) 
 
-* **Menu** is used to quicly access frequently used tools and settings. 
+- **Area 1**: **Menu** is used for quick access to frequently used tools and settings.
+    * Click once on <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-double-right-svgrepo-com.svg) to expand the vertical menu. (Click once more on <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-double-left-svgrepo-com.svg) to collapse the vertical menu).
 
-1. The menu is used for quick access to frequently used tools and settings.
+- **Area 2** : Search for devices/accounts. See details [right below](en/#search-ov)
 
-    * Click once <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/bars.svg) to expand the vertical menu. (Click again <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/times.svg) to collapse the vertical menu).
-
-
-2. Area for displaying general data.
-
-3. Configuration display.
-
-    * Turn on / off <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg) the information to be displayed in the data area.
-
-    * Click once <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-down.svg) to expand the display configuration. (Click again <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-up.svg) to collapse the display configuration).
+- **Area 3** : Display configuration.
+    - Account information and device related statistics.
+    - Click once on <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-down.svg) to expand the configuration display image. (Click again on <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/chevron-up.svg) to collapse display configuration).
+- **Area 4** : General data display area.
+  - Statistics according to the chart:
+  - Expired & upcoming devices.
+  - Devices by state.
+  - Type of device.
+  - Deploy equipment,...
 
 ### <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg) Advanced search
 
-* **Search device** 
+<div id="search-ov">
+</div>
 
-    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/map/search-device.png) 
+* **Search for devices**
 
-    * Step 1: Click <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg) **Search** on the menu.
+    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/search-device.png)
+
+    - Step 1: Click on <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg) **Search** on **menu** : User can enter both name or some characters contained in IMEI / Device name / License plate / Generated SIM number.
+
+    - Step 2: After showing the results that are not as desired, you can search again in the following 2 criteria:
+        * **IMEI / Device Name / Number Plate** : User can enter both the name or some characters contained in the generated IMEI / Device Name / Number Plate.
+        * **SIM Number** : Enter phone number.
+
+    - Step 3: Click **Search**.
+    - Step 4: After showing the correct result. You can click on <br/>
+       
+        <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/info.svg) **Info** : Switch to desktop **Fix device**. <br/>
+       
+        <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/computer-svgrepo-com.svg) **Monitor** : Switch to a new tab to the **Maps** page to that device's location. <br/>
+       
+        <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) : Switch to **Manage screen device**.
+
+* **Search accounts**
     
-    * Step 2: Choose **Device** tab
+    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/search-user.png)
 
-        * **IMEI / Device Name / Number Plate**: User can enter both names or some characters in IMEI / Device name/number plate created.
-        * **SIM number**: Enter the phone number.
-    * Step 3: Click **Search**.
- 
-* **Search user**
+    - Step 1: Click on <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg) / **Enter Find search** on **menu**.
 
-    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/map/search-user.png) 
+    - Step 2: Select tab **Account**
 
- 
-    * Step 1: Click <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg) **Search** on the menu.
-    
-    * Step 2: Choose **User** tab
+        * **Account / User Name** : Enter both the account name / registered user or a few characters present in the account / user name.
 
-        * **Account name / Username** : Enter either Account name / registered username or some characters in the Account name / Username
-    
-        * **Email**: The user can enter both the registered Email name or some characters in his Email.
-
+        * **Email** : User can enter both the registered Email name or a few characters in his Email.
+        
+    - Step 3: Click **Search**.
+      * If **Reset** is pressed, it will return to factory defaults.
+    - Step 4: After displaying the correct results to find. You can click on <br/>
+       
+        <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/info.svg) **Info** : Switch to desktop **Account Edit**. <br/>
+       
+        <dspan class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/computer-svgrepo-com.svg) **Monitor** : Switch to a new tab to the **Maps** page. <br/>
+       
+        <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) **>** Select **Manage account manager / Device manager / Reset password** as you like.

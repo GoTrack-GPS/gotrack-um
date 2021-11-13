@@ -1,6 +1,6 @@
 # 1.2. Tổng hợp theo ngày
 - Tổng hợp theo ngày là tổng hợp lại tất cả các thông tin cơ bản theo từng ngày của từng thiết bị có trong tài khoản.
--  thống kê tốc độ, quãng đường, nhiên liệu theo từng ngày.
+- Thống kê tốc độ, quãng đường, nhiên liệu theo từng ngày.
 - Để xem Báo cáo Tổng hợp theo ngày thực hiện như sau : 
   - Vào **<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/dynamic.svg )Báo cáo > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/chart-line.svg)  Báo cáo > Tổng hợp theo ngày**.
  

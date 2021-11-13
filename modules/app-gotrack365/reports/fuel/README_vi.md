@@ -29,8 +29,11 @@ Muốn xem báo cáo nhiên liệu qua biểu đồ, thực hiện các bước 
 - Bước 3 : Sẽ hiện ra danh sách xe lắp cảm biến. Tùy chọn xe muốn xem báo cáo.
 
 - Bước 4 : Hiển thị kết quả
-
-  Chọn sửa thời gian để xem lại.
+  - Click vào từng chi tiết nạp xả để xem chế độ đường phố.
+  - Kèm theo địa chỉ và hình ảnh nơi nạp/xả.
+  <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/report/report-fuel-detail-streetview.jpg)
+  
+  - Chọn sửa thời gian để xem lại.
     - Nhấn vào **ô hiển thị ngày** để chọn lại ngày.
     - Nhấn vào **ô hiển thị số giờ : phút** ở dòng Bắt đầu (giờ  : phút) - Kết thúc (giờ  : phút) để chọn lại giờ : phút  sáng/chiều 
     -  Nhấn **OK**.  Sẽ hiển thị các ảnh đã chụp trong khoảng thời gian đó.

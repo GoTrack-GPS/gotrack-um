@@ -12,14 +12,14 @@
 
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/notifications/search-notifications.png)
 
-* Step 1 : Search by the following criteria:
+- Step 1 : Search by the following criteria:
 
     * **Device name**: Enter 1 or more characters in the device name you want to search for.
 
     * **Alert type**: Select one of the alert types in that box to make searching easier.
     * **Date, time**: Click to select according to available options or options).
 
-* Step 2: Click **Search**.
+- Step 2: Click **Search**.
 
     **Reset** : Reset to factory default.
 

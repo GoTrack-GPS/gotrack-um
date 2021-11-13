@@ -12,8 +12,8 @@
 
 <span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/add-group-geographic.png)
 
-* Step 1 : Choose "**<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) Create by group geofence**" tab
-* Step 2 : A dialog box appears as shown above:
+- Step 1 : Choose "**<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) Create by group geofence**" tab
+- Step 2 : A dialog box appears as shown above:
 
     * **Name** : Set the name of the geofence group.
 
@@ -25,8 +25,8 @@ Click **Add** to complete the operation.
 
 <span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/edit-group-geographic.png)
 
-* Step 1 : Click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-edit.svg) **Edit** each geofence.
-* Step 2 : A dialog box appears as shown above:
+- Step 1 : Click on <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-edit.svg) **Edit** each geofence.
+- Step 2 : A dialog box appears as shown above:
 
      * **Name** : Edit the created group geofence name.
     

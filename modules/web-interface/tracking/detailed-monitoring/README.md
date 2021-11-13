@@ -3,23 +3,23 @@
 ### 1. Favorite / Disfavor
 
 * **Favorite** : To find quickly, easily track the details of the vehicle that you are interested in, need to handle.
-    * Step 1 :  Click  <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-v.svg) **> Favorite** of that device.
+    - Step 1 :  Click  <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-v.svg) **> Favorite** of that device.
     Or  <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/star.svg) in the device information box
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/favourite.png)
 
-    * Step 2 : After clicking, the message "**Added a Favorite**" will appear. The icon will change to  <span class="icon-left svg-filter-blue">![Ok](/docs/assets/images/web-interface/icon/SVG/star1.svg)
+    - Step 2 : After clicking, the message "**Added a Favorite**" will appear. The icon will change to  <span class="icon-left svg-filter-blue">![Ok](/docs/assets/images/web-interface/icon/SVG/star1.svg)
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/favourite-2.png)
 
 * **Disfavour** : If you have finished processing, you can un-favorite.
 
-    * Step 1 :  Click  <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-v.svg) **> Disfavour** of that device.
+    - Step 1 :  Click  <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-v.svg) **> Disfavour** of that device.
     Or  <span class="icon-left svg-filter-blue">![Ok](/docs/assets/images/web-interface/icon/SVG/star1.svg) in the device information box
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/disfavourite.png)
 
-    * Step 2 : After clicking, the message "**Removed the favorite**" will appear. The icon will change to <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/star.svg)
+    - Step 2 : After clicking, the message "**Removed the favorite**" will appear. The icon will change to <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/star.svg)
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/disfavourite-2.png)
 
@@ -119,7 +119,7 @@ To track the details of that vehicle, location, distance, sensors today to the c
 
 ### 3. Send command
 
-* Step 1
+- Step 1
 
     * Option 1: Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-v.svg)  **>**   <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/terminal.svg) **Send command** in the device list box
 
@@ -129,7 +129,7 @@ To track the details of that vehicle, location, distance, sensors today to the c
 
      <span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/send-command.png)
 
-* Step 2 : The dialog box appears as shown below. Choose the type of command to be sent. And click **Submit** to complete the operation.
+- Step 2 : The dialog box appears as shown below. Choose the type of command to be sent. And click **Submit** to complete the operation.
     <span class="icon-left4 ">![Interface Web](/docs/assets/images//web-english/map/send-command-2.png)
 
     Review command history [here](modules/web-interface/devices/send-the-device-command/).
@@ -137,11 +137,11 @@ To track the details of that vehicle, location, distance, sensors today to the c
 
 * **Option 1** 
 
-    * Step 1 : Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-v.svg) **> Notifications** in the device list box.
+    - Step 1 : Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-v.svg) **> Notifications** in the device list box.
 
         <span class="icon-left4 ">![Interface Web](/docs/assets/images//web-english/map/notification.png)
 
-    * Step 2: Screen notification as shown below. Click on each notification, the center map icon  <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG//plus1.svg) will show the location that it has warned about.
+    - Step 2: Screen notification as shown below. Click on each notification, the center map icon  <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG//plus1.svg) will show the location that it has warned about.
 
         <span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/notification-2.png)
 
@@ -153,19 +153,19 @@ To track the details of that vehicle, location, distance, sensors today to the c
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/notification-1.png)
 
-    * Step 1: Click on the icon of the vehicle to see details.
+    - Step 1: Click on the icon of the vehicle to see details.
 
-    * Step 2: Display the vehicle details screen. Click **Notifications** tab.
+    - Step 2: Display the vehicle details screen. Click **Notifications** tab.
 
-    * Step 3: **Notifications** tab screen appears.
+    - Step 3: **Notifications** tab screen appears.
 
 ### 5. Device details
 
-* Step 1: Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-v.svg) **> Details** in the device list box or <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/file-alt.svg) the device details box.
+- Step 1: Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-v.svg) **> Details** in the device list box or <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/file-alt.svg) the device details box.
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/edit-device.png)
 
-* Step 2 : The dialog box appears. Perform device repair [here](modules/web-interface/devices/edit-device/#suathietbi) <div id="suathietbi">
+- Step 2 : The dialog box appears. Perform device repair [here](modules/web-interface/devices/edit-device/#suathietbi) <div id="suathietbi">
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images//web-english/map/edit-device-2.png)
 

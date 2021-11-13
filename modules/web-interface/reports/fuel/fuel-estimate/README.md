@@ -20,12 +20,12 @@ To have the data displayed in **Fuel consume (km) Report** , the user does the f
 
 #### Search
 
-* Step 1: Search by the following criteria:
+- Step 1: Search by the following criteria:
 
     * **Date** : Select available or optional time.
     * **Number plate** : Select 1 or more number plates you want to see the report.
 
-* Step 2: Click **Search**.
+- Step 2: Click **Search**.
  
     If **Reset** is pressed, it will return to factory defaults.
 

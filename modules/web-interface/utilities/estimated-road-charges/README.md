@@ -1,6 +1,6 @@
 # Toll free calculation
 
-* Step 1: To view Toll free calculation, go to <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-maintenance.svg) > **Toll free calculation**
+- Step 1: To view Toll free calculation, go to <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-maintenance.svg) > **Toll free calculation**
 
 <span class="icon-left5">![Interface Web](/docs/assets/images//web-english/map/toll-free-calculation.png)
 

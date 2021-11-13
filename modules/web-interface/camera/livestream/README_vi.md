@@ -56,6 +56,7 @@ Sau khi thêm camera, muốn xem video trực tiếp  kèm Bản đồ  thì th�
     <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/layout.svg) Kiểu bố trí các kênh camera. Tùy chọn kiểu bố trí giao diện kênh muốn hiển thị.
     
     - Chọn loại càng nhiều ô thì xem cùng lúc sẽ được nhiều kênh của nhiều xe khác nhau.
+    - Chọn giao diện bố cục càng nhiều ô thì càng xem cùng 1 lúc thêm được nhiều kênh camera của xe khác.
     - Ví dụ : Chọn giao diện 3x2 : chia làm 2 hàng, mỗi hàng 3 kênh.
     
     <span class="icon-left5">![Manage device ](/docs/assets/images/web-interface/livestream/ux.png)

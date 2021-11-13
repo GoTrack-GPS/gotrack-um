@@ -22,9 +22,9 @@ Go to **Manage > Configuration > Driver**. The **Driver** Management screen appe
 
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/add-driver-1.png)
 
-* Step 1: Choose <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **Create new driver** tab.
-* Step 2 :
-    * **Account**: The name of the account you want to add the driver to.
+- Step 1: Choose <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **Create new driver** tab.
+- Step 2 :
+    - **Account**: The name of the account you want to add the driver to.
     * **Name**: Name of the driver who installed the device.
     * **Phone number**: The driver's phone number.
     * **License number**: Class of driver's license.
@@ -40,8 +40,8 @@ Go to **Manage > Configuration > Driver**. The **Driver** Management screen appe
 
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/edit-driver.png)
 
-* Step 1: Click <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-edit.svg) **Edit**.
-* Step 2: Edit the cells you want to edit.
+- Step 1: Click <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-edit.svg) **Edit**.
+- Step 2: Edit the cells you want to edit.
 Click **Save changes** to complete the operation.
 
 ### Delete driver

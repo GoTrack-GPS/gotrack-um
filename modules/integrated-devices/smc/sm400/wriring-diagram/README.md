@@ -26,9 +26,9 @@
 #### 3.2. Vehicles quickly report to the server
 
 > Note: For hosts without WIFI and 3G module functions, the following descriptions are  invalid and do not need to be reported to the platform. 
-* Step 1: Install the SIM card, select the SIM card according to the corresponding module.
-* Step 2: Boot into the system menu, first modify the mobile phone number in the terminal settings (that is the unique ID of the reporting server) and then modify the corresponding license plate number.
-* Step 3: Enter the important network settings, modify the corresponding IP and port number according to the different server deployment IP of each customer, and select the platform of the standard protocol, select the main GPS server on the next page to modify the IP and port number .
+- Step 1: Install the SIM card, select the SIM card according to the corresponding module.
+- Step 2: Boot into the system menu, first modify the mobile phone number in the terminal settings (that is the unique ID of the reporting server) and then modify the corresponding license plate number.
+- Step 3: Enter the important network settings, modify the corresponding IP and port number according to the different server deployment IP of each customer, and select the platform of the standard protocol, select the main GPS server on the next page to modify the IP and port number .
 
 &emsp;<span class="icon-left09">![Interface Web](/docs/assets/images/integrated-devices/smc/sm400/terminal-sv-.png)
 

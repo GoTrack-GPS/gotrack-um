@@ -17,9 +17,9 @@ Search by device group **Name**
 
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/add-device-group.png)
 
-* Step 1: Choose <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **Create device group** tab.
+- Step 1: Choose <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **Create device group** tab.
 
-* Step 2: The dialog box appears as shown above:
+- Step 2: The dialog box appears as shown above:
 
     **Name**: Set the device group name.
 
@@ -31,9 +31,9 @@ Click **Add** to complete the operation.
 
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/edit-device-group.png)
 
-* Step 1: Click <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-edit.svg) **Edit**.
+- Step 1: Click <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-edit.svg) **Edit**.
 
-* Step 2: The dialog box appears as shown above:
+- Step 2: The dialog box appears as shown above:
 
     **Name**  : Edit the device group name.
 

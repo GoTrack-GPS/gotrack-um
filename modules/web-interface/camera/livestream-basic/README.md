@@ -1,43 +1,16 @@
-# Live stream
+# Live stream (basic)
 
-To configure the camera sensor for live video view.
-* Go to **Management > Devices**.
-* Click **<span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-edit.svg)Edit > Camera > <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) Add camera** .
-* See instructions [here](modules/web-interface/devices/edit-device/#camera)  <div id="camera">  
+After adding a camera, if you want to watch live video without a Map, do the following:
 
-After configuration is complete:
+- Step 1: Go to **Camera > Live stream (Basic)** to view the live video camera.
+- Step 2: Select the vehicle with the camera configured. Click on a certain **1 channel**. Choose one of the following modes:
+  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/livestream-basic.png)
+  - **Play** : Only watch the selected channel.
+  - **Stop** : Stops the selected channel only.
+  - **Close** : Closes the selected channel only.
+  - **Play all** : Opens all installed camera channels of that vehicle.
+  - **Close all** : Close all camera channels running on the screen.
+- Step 3: Display camera channels on the screen for live viewing.
+  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/livestream-basic-all.png)
 
-<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/livestream-1.png)
-
-* Step 1: Go to **Camera > Live stream** to view the video camera.
-* Step 2: Select a vehicle with camera configuration. Click on **a certain channel > Play all**.
-
-### Control Panel
-
-<span class="icon-left5">![Manage device ](/docs/assets/images/web-interface/livestream/livestream-play.png)
-
-<span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-square.svg) Stop watching a certain camera channel if you are playing.
-
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-sound-speaker.svg) Increase / decrease the volume of that channel.
-
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-camera.svg) Screen capture and download.
-
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/full-screen-icon-11.png) Touch 1 camera channel to enlarge the channel screen. Click again to minimize the channel.
-
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-play.svg) Continue to see all cameras if you are stopped.
-
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-full-image.svg) Pause all videos if you are playing.
-
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-close-window.svg) Close all camera channels. Want to see more right in **channel name > Play all**.
-
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-hd.svg) Turn on / off HD view.
-
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-video-call.svg) Camera channel format. Choose the format you want to display.
-
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/layout.svg) Layout of camera channels. The layout option you want to display.
-
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-full-screen.svg) Full screen all channels.
-
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/full-screen-exit.svg) Minimize the screen of camera channels to factory default.
- 
-* Alternatively, you can click on a certain channel to: **Play / stop / close / play all / close all**.
+- Control bar similar to **Live stream with Map**, see details [here](en/modules/web-interface/camera/livestream/#livestream-tool)

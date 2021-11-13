@@ -3,8 +3,8 @@
 <span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/list-command.jpg)
 
 
-* Step 1: Go to **Settings > Command List**.
-* Step 2: Click on each command to be executed.
+- Step 1: Go to **Settings > Command List**.
+- Step 2: Click on each command to be executed.
 
 ### Restore / Turn off engine power
 
@@ -18,8 +18,8 @@
 
 * If you forget to turn off the knob within 150 seconds without the impact of car shaking, the car will automatically power down to protect the battery and the device to enter anti-theft mode. Want to start the car power into the app do the following:
 
-    * Step 1: Go to **Settings > Command List**.
-    * Step 2: Click **Restore engine power** to send the command.
+    - Step 1: Go to **Settings > Command List**.
+    - Step 2: Click **Restore engine power** to send the command.
 
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/restore-engine.jpg)
 
@@ -32,9 +32,9 @@
 
 * If the knob is damaged, the car will not automatically shut down. If you want to lock the device, go to the app and do the following:
 
-    * Step 1: Go to **Settings > Command List**.
+    - Step 1: Go to **Settings > Command List**.
 
-    * Step 2: Click **Turn off engine power** to send the command.
+    - Step 2: Click **Turn off engine power** to send the command.
 
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/turn-off-power-3.jpg)
 
@@ -44,9 +44,9 @@
 
 * If the knob is broken / want to lock the car remotely. If you want to automatically lock, you go to the app and do the following:
 
-    * Step 1: Go to **Settings > Command List**.
+    - Step 1: Go to **Settings > Command List**.
 
-    * Step 2: Click on 1 of the following commands:
+    - Step 2: Click on 1 of the following commands:
 
         * CLick **Lock after some time** to customize the autolock period. **Enter the number of seconds you want to automatically lock**. Click **Submit**.
 

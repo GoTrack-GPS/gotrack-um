@@ -10,13 +10,13 @@ If the user wants to see **Chart Report** :
 
 ### Search
 
-* Step 1: Search by the following criteria:
+- Step 1: Search by the following criteria:
 
     * **Date** : Select available or optional time.
     * **Number plate** : Select a number plate you want to see the fuel chart report.
     * **Sensor** : Select one of the vehicle's fuel sensor names.
 
-* Step 2: Click **Search**.
+- Step 2: Click **Search**.
  
     If **Reset** is pressed, it will return to factory defaults.
 

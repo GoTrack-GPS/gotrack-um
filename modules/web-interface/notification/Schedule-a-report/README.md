@@ -13,9 +13,9 @@ First, you click on **Manage > Alerts - Schedule > Scdeduled report**
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/notifications/add-scheduled-report.png)
 
 
-* Step 1: Choose "**Create New Schedule Report**" tab.
+- Step 1: Choose "**Create New Schedule Report**" tab.
 
-* Step 2: A dialog box appears as shown above.
+- Step 2: A dialog box appears as shown above.
 
     * **Name**: Enter a name to schedule the report.
  

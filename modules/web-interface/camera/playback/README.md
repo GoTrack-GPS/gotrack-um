@@ -1,55 +1,34 @@
-# Playback
+# Playback video
 
-* To view the camera video again, go to **Camera > Playback**.
-  
-     The screen displays as shown below:
+- To view the camera again, go to **Camera > Playback video**. The screen displays as shown below:
 
-     <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/play-back-1.jpg)
+     <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/playback-2.png)
 
-
-### 1. Search
+### Search
 
 * Search by the following criteria:
-   - **Device** : Select number plate of the device.
-   - **Camera** : Select the camera channel you want to watch specifically.
-   - **Date** : Select the date you want to review the camera video.
-   - **From** ... **To** : Choose a time interval to watch the video again.
 
-     Press the **Search** button to display the results.
+  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/playback-search.png)
+- Step 1 :
+  - **Device** : Select the license plate of that device.
+  - **Camera** : Select the camera channel you want to watch specifically.
+  - **Date** : Select the date you want to review the camera video.
+  - **From** ... **To** : Choose a time interval to watch the video again.
+
+- Step 2: Press the **Search** button to display the results.
     
-     Or **Reset** to delete the entered word, resetting it to the original default state.
+    Or **Reset** to delete the entered word, resetting it to the original default state.
 
-### 2. Display
+### Display
 
-* After displaying the search results, if you want to watch the video again at any time, click on the icon <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-video.svg) to review it.
+* After displaying search results:
 
-* The video will play back on the screen.
+ <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/playback-tool.png)
 
-<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/livestream/search-playback.jpg)
+**1.** If you want to see the video again at any time, click on the icon 
+<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-video.svg) for review. The video will play back on the screen.
+  * Click icon <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/download-svgrepo-com.svg) to download that playback video.
 
-### 3. Control Panel
-
-<span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-square.svg) Stop watching the camera channel if you are playing.
-
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-sound-speaker.svg) Increase / decrease the volume of that channel.
-
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-camera.svg) Screen capture and download.
-
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/full-screen-icon-11.png) Touch camera channel to enlarge the channel screen. Click again to minimize the channel.
-
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-play.svg) Continue to see video if you are stopped.
-
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-full-image.svg) Pause video if you are playing.
-
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-close-window.svg) Close camera channels. If you want to continue watching, you have to click on the icon <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-video.svg) to watch again.
-
-
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-video-call.svg) Camera channel format. Choose the format you want to display.
-
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/layout.svg) Layout of camera channels. The layout option you want to display.
-
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-full-screen.svg) Full screen channel is watching.
-
-<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/full-screen-exit.svg) Minimize the screen of camera channels to factory default.
+**2.** The control bar is the same as **Live stream with Map**, see details [here](en/modules/web-interface/camera/livestream/#livestream-tool)
 
 * Click on the timeline on that channel to fast forward or rewind the content in that video.

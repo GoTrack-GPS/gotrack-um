@@ -9,13 +9,13 @@ Alert Geofence when vehicles are entering / leaving the Geofence.
 </div>
 
 ### Add geofence
-* Step 1: Go to **Account > <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/pentagon.svg)  Geofence**.
+- Step 1: Go to **Account > <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/pentagon.svg)  Geofence**.
 
-* Step 2: Click <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) to create a new Geofence.
+- Step 2: Click <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) to create a new Geofence.
 
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/add-geofence-2.jpg)
 
-* Step 3 
+- Step 3 
 
     * Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/circle.svg) to create a circle Geofence: Zoom **(** <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **/** <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/minus.svg)  **)** the map to create a radius, drag the map to select the center.
 
@@ -29,16 +29,16 @@ Alert Geofence when vehicles are entering / leaving the Geofence.
 
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/add-geofence-3.jpg)
 
-* Step 4: Set the **name**, enter the **description**, the **icon** matches that geofence. Click Save to finish undo.
+- Step 4: Set the **name**, enter the **description**, the **icon** matches that geofence. Click Save to finish undo.
 
 ### Edit geofence
 
-* Step 1: Go to **Account > <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/pentagon.svg)  Geofence**.
-* Step 2: Click on the name of the created geofence.
+- Step 1: Go to **Account > <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/pentagon.svg)  Geofence**.
+- Step 2: Click on the name of the created geofence.
 
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/edit-geofence-2.jpg)
 
-* Step 3: Edit the geofence, move to the place you want to alert
+- Step 3: Edit the geofence, move to the place you want to alert
 
     Click **Save** to temporarily save the newly selected geofence.
 
@@ -46,7 +46,7 @@ Alert Geofence when vehicles are entering / leaving the Geofence.
 
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/edit-geofence-5.jpg)
 
-* Step 4: Edit name, enter description. Click **Save** to complete the operation
+- Step 4: Edit name, enter description. Click **Save** to complete the operation
 
 
 ### Delete geofence

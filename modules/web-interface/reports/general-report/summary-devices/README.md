@@ -7,13 +7,13 @@
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/summary-by-device-in.jpg)
 
 ###  Search
-* Step 1: Search by the following criteria:
+- Step 1: Search by the following criteria:
   
   <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/summary-by-device-search.jpg)
   
   - **Date** : Select available or optional time.
   - **Device** : Click to select 1 or more devices you want to see the report.
-* Step 2: Click **Search** to view the Summary device report.
+- Step 2: Click **Search** to view the Summary device report.
   - Press **Reset** to clear data and return to factory defaults.
 
 > Only data from yesterday can be searched

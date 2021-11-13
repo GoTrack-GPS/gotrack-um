@@ -17,6 +17,7 @@
     **4.** Google Maps 3D
 
     **5.** Tìm đường 
+    **6**. Chế độ xem phố
 
 <div id="other" >
 </div>
@@ -76,3 +77,10 @@ Click vào **icon hình người** đó sẽ chuyển sang bản đồ Google 3D
 Click vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/directions.svg) để tìm đường từ vị trí của máy đến vị trí thiết bị của bạn. Vị trí của bạn đang ở đâu để tìm ra cung đường ngắn nhất đến xe đấy.
 
  <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/search-the-way-1.jpg) 
+
+### 6. Chế độ xem phố
+- Google Street View là một tính năng được tích hợp vào bản đồ Google và Google Earth cho phép bạn đi du lịch ảo vòng quanh thế giới thông qua tầm nhìn toàn cảnh 360 ° theo chiều ngang và 160 ° theo chiều dọc, chụp trên đường phố và ở một số điểm du lịch.
+- Chế độ xem phố giúp người nhìn có cái nhìn trực quan hơn về một địa điểm nào đó.
+<span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/streetview.jpg)
+
+- Khi click vào icon <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/3d-rotate.png) , nếu vị trí đó có hỗ trợ và có ảnh chụp đường phố thì sẽ hiện ra toàn cảnh địa điểm đó.

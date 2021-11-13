@@ -6,9 +6,9 @@
 
 <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/map/setting-map.png)
 
-* Step 1 : Click <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg).
+- Step 1 : Click <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg).
 
-* Step 2 : The dialog box appears. Install, turn on / off information at will.
+- Step 2 : The dialog box appears. Install, turn on / off information at will.
 
     * **Map type** : Select a map view for easy viewing.
 
@@ -53,11 +53,11 @@
 <div id="zoom">
 </div>
 
-* Step 1 :  Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/full-screen.svg) to full screen the map
+- Step 1 :  Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/full-screen.svg) to full screen the map
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/map/full-screen.png)
 
-* Step 2 : Result
+- Step 2 : Result
  
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/map/normall-screen.png)
 
@@ -65,20 +65,20 @@
 
 ### Collapse display area
 
-* Step 1: Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/direction-arrow-fit.svg) to collapse the display area.
+- Step 1: Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/direction-arrow-fit.svg) to collapse the display area.
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/map/display-area..png)
 
-* Step 2: View the overview of all devices in that account in the best view.
+- Step 2: View the overview of all devices in that account in the best view.
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/map/display-area-1.png)
 
 
 ### Geofence
 
-* Step 1 : Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/pentagon.svg). 
+- Step 1 : Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/pentagon.svg). 
 
-* Step 2 : The area management screen appears as shown below:
+- Step 2 : The area management screen appears as shown below:
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/map/geofence.png)
 
@@ -90,9 +90,9 @@
 
 * **Edit geofence**
 
-    * Step 1: Click <span class="icon-left svg-filter-circlepurple">![Ok](/docs/assets/images/web-interface/icon/SVG/edit.svg) to edit geofence.
+    - Step 1: Click <span class="icon-left svg-filter-circlepurple">![Ok](/docs/assets/images/web-interface/icon/SVG/edit.svg) to edit geofence.
   
-    * Step 2: The dialog box appears as shown below:
+    - Step 2: The dialog box appears as shown below:
 
         <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/map/edit-geofence.png)
 
@@ -117,9 +117,9 @@
 
 * **Delete geofence**
 
-    * Step 1: Click <span class="icon-left svg-filter-circlepurple">![Ok](/docs/assets/images/web-interface/icon/SVG/trash-alt.svg) to delete geofence.
+    - Step 1: Click <span class="icon-left svg-filter-circlepurple">![Ok](/docs/assets/images/web-interface/icon/SVG/trash-alt.svg) to delete geofence.
 
-    * Step 2: The dialog box appears as shown below:
+    - Step 2: The dialog box appears as shown below:
 
         <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/map/delete-geofence.png)
 
@@ -129,9 +129,9 @@
 
 ### Landmark
 
-* Step 1 : Click  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/map-marked.svg). 
+- Step 1 : Click  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/map-marked.svg). 
 
-* Step 2 : The marker management screen appears as shown below:
+- Step 2 : The marker management screen appears as shown below:
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/map/landmark.png)
 
@@ -143,9 +143,9 @@
 
 * **Edit landmark**
 
-    * Step 1: Click <span class="icon-left svg-filter-circlepurple">![Ok](/docs/assets/images/web-interface/icon/SVG/edit.svg) to edit landmark.
+    - Step 1: Click <span class="icon-left svg-filter-circlepurple">![Ok](/docs/assets/images/web-interface/icon/SVG/edit.svg) to edit landmark.
   
-    * Step 2: The dialog box appears as shown below:
+    - Step 2: The dialog box appears as shown below:
 
         <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/map/edit-landmark.png)
 
@@ -163,9 +163,9 @@
 
 * **Delete geofence**
 
-    * Step 1: Click <span class="icon-left svg-filter-circlepurple">![Ok](/docs/assets/images/web-interface/icon/SVG/trash-alt.svg) to delete geofence.
+    - Step 1: Click <span class="icon-left svg-filter-circlepurple">![Ok](/docs/assets/images/web-interface/icon/SVG/trash-alt.svg) to delete geofence.
 
-    * Step 2: The dialog box appears as shown below:
+    - Step 2: The dialog box appears as shown below:
 
         <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/map/delete-landmark.png)
 
@@ -175,11 +175,11 @@
 
 
  ### Create new landmark
- * Step 1 : Click  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus-square.svg) **>** <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/place-marker-2.svg) **Create new landmark**.
+ - Step 1 : Click  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus-square.svg) **>** <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/place-marker-2.svg) **Create new landmark**.
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/map/create-landmark.png)
 
-* Step 2: The dialog box appears as shown below:
+- Step 2: The dialog box appears as shown below:
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/map/create-landmark-2.png)
 
@@ -199,7 +199,7 @@ Click **Add** to complete the operation.
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/map/create-geofence.png)
 
-* Step 2: The dialog box appears as shown below: 
+- Step 2: The dialog box appears as shown below: 
 
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/map/add-geofence.png)
 

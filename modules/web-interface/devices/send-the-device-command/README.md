@@ -1,46 +1,83 @@
-# Management send commands
-
 <div id="command">
 </div>
 
-To view the order sending list, click on **Manage > Send command**. The screen displays as shown below: 
+# Management send command
 
-<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/manage-send-command.png)
+To view the list of sending command, click **Manage > Send command**. The screen displays as shown below:
 
-### Search 
+<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/device/send-the-device-command.jpg)
 
-* You can search by the following 2 criteria:
-    * Device name
-    * IMEI
 
-<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/search-send-command.png)
+### Search
 
-### Create send command
+- Step 1: You can search by the following 2 criteria:
+    * **Device name**
+    - **IMEI**
+  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/device/search-device-3.png)
+- Step 2: Select **Search** will display the information you are looking for.
+    - **Reset** : Will delete the characters you just entered to search and display again according to the original default mode.
 
-<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/create-send-command.png)
+- Step 3: Tick **turn on Refresh after 10s**. After 10 seconds will automatically reload the list.
 
-* Step 1: Choose "**<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) Create send command**" tab 
+### Create send commands
+
+
+
+- Step 1: Go to <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) **Create and send commands**
+
+- Step 2: A dialog box appears.
+    
+    <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/device/send-the-device-command-2.jpg)
+  
+  - **IMEI** : Select 1 or all devices in the list below the box if you need to send a command.
+  - **Device type** : Select the device type corresponding to the device you just selected above.
+  - **Command Type** : Displays the commands that the Device Type supports. Select **command type** to request execution.
+  - **Send order** : Will automatically display the command/command formula corresponding to that command type.
+    - If the formula is present, the values ​​in the formula below will be manually entered.
+    - Example: As shown in the image below:
+    <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/device/send-the-device-command-4.jpg)
+
+ - Step 3: Click **Send** to send device command.
+
+### Order sending details
  
-* Step 2: A dialog box appears.
+- To see the details of sending commands, click on <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-info.svg) **Details** .
 
-   * Enter the **IMEI**, select the **Device Type** created.
+    <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/device/send-the-device-command-3.jpg)
 
-   * Select **Command type** to be executed.
+### Lock command
 
- Click **Submit** to send the device command.
+- In case you want to send an order but accidentally sent it but haven't seen the successful order, you want to stop that order, don't want to send that order anymore, go here to block the order.
 
-###  Details send command
+  - Step 1: Click on <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) **> <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-lock-2.svg) Lock**.
 
-To view specific order details, click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-info.svg) **Detail**.
+  - Step 2: A dialog box appears as shown below.
+    If:
+    - Select **OK**: To lock the command.
+    - Select **Cancel**: Will cancel the lock operation.
+    
+    <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/device/lock.jpg)
 
-<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/detail-send-command.png)
+  - Step 3: After successful locking, the status will change from **Activate <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg) Locked**
 
-### Lock the command
-In case you want to send commands that somehow accidentally sent that have not seen the newspaper to send commands to, you want to stop that command again, do not want to send them now, in this order to lock commands.
+### Resend
+- If you want to resend the command but don't want to create it from scratch, do the following:
 
-Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-lock-2.svg) **Lock**. 
+    <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/device/send-again.jpg)
 
-The dialog box appears as shown below. If you agree, click **OK** to lock the command.
+- Step 1: Click on <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) **> Resend** of that sent command.
+- Step 2: Click the button **Send** to execute the command.
 
-<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/device/lock-send-command.png)
+### Utilities on the right corner
 
+- Click on the icon <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-reset.svg) to refresh the data .
+
+  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-english/device/export-command.jpg)
+
+- Click on <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/column-height.svg) to edit the height of the image. **Small** <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg) **Large**
+
+  - **Small** : The height of each row will be smaller.
+  - **Medium** : The height of the row will be slightly wider than the text.
+  - **Large** : The height of the row will be slightly wider than the Medium type.
+
+  

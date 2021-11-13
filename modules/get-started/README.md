@@ -51,13 +51,13 @@ Below is the home page interface (Overview) of the software.
 
     <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/map/search-device.png) 
 
-    * Step 1: Click <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg) **Search** on the menu.
+    - Step 1: Click <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg) **Search** on the menu.
     
-    * Step 2: Choose **Device** tab
+    - Step 2: Choose **Device** tab
 
         * **IMEI / Device Name / Number Plate**: User can enter both names or some characters in IMEI / Device name/number plate created.
         * **SIM number**: Enter the phone number.
-    * Step 3: Click **Search**.
+    - Step 3: Click **Search**.
 
 
 
@@ -69,9 +69,9 @@ Below is the home page interface (Overview) of the software.
     <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/map/search-user.png) 
 
  
-    * Step 1: Click <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg) **Search** on the menu.
+    - Step 1: Click <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/search.svg) **Search** on the menu.
     
-    * Step 2: Choose **User** tab
+    - Step 2: Choose **User** tab
 
         * **Account name / Username** : Enter either Account name / registered username or some characters in the Account name / Username
     

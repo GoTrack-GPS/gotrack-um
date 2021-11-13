@@ -34,7 +34,7 @@ Khi click vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/imag
 
             <span style="display:block;text-align:left">![search device ](/docs/assets/images/web-interface/device/Add-a-device-group-2.png)
         
-    Tham khảo thêm chi tiết [tại đây](vi/modules/web-interface/configuration/device-group/#device-group) <div id="device-group" >
+        Tham khảo thêm chi tiết [tại đây](vi/modules/web-interface/configuration/device-group/#device-group) <div id="device-group" >
 
     - **Loại SIM**: Chọn loại SIM tương ứng với nhà mạng của số điện thoại.
 - ***Dịch vụ***  
@@ -44,11 +44,18 @@ Khi click vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/imag
     - **Kích hoạt bảo hành**: Có thể bật/tắt.
     - **Ngày kích hoạt bảo hành**: Ngày bật kích hoạt bảo hành thiết bị.
     - **Hạn bảo hành**: Ngày hết hạn bảo hành thiết bị theo gói bảo hành của dịch vụ đó.
-- ***Ghi chú***  Nhập ghi chú nếu bạn muốn chú thích điều gì đó.
+- ***Ghi chú***  
+    - **Tổng quãng đường (km)** : Khi xe chạy hết ngày sẽ tự động tính tổng quãng đường mà xe đã chạy từ trước tới ngày hôm qua.
+      - Nếu sửa về số khác, thì nó sẽ tính thêm từ số đó với số km đã chạy tính từ thời điểm sửa đó.
+    - **Thời gian nổ máy (giờ)** : Nếu chọn đúng tín hiệu động cơ (Khóa điện/động cơ) mà khi lắp thiết bị thì sẽ tự động tính thời gian nổ máy.
+      - Nếu sửa về số khác, thì nó sẽ tính thêm từ số đó với số km đã chạy tính từ thời điểm sửa đó.
+    - **Ghi chú** : Nhập ghi chú nếu bạn muốn chú thích điều gì đó.
+    - **Ghi chú (quản lý)** : Chỉ tài khoản **Đại lý** mới hiển thị textbox này và có quyền nhập ghi chú.
+    - **Phiên bản** : Nhập phiên bản firmware khi xuất kho.
 - ***Thông tin bán***  
     - **Đã bán** : Khi thiết bị đã bán sang tài khoán sẽ tự động bật. Nếu chư   bán sẽ ỏ chế độ tắt.
     - **Ngày bán** : Cài đặt ngày bán thiết bị sang tài khoản khác (nếu có).
-    - Ngày cập nhật : Hệ thống tự động cập nhật ngày bán thiết bị khi có thay đổi .
+    - **Ngày cập nhật** : Hệ thống tự động cập nhật ngày bán thiết bị khi có thay đổi .
 
 <div id="advanced">
 </div>
@@ -58,7 +65,7 @@ Khi click vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/imag
 <span class="icon-left9">![search device ](/docs/assets/images/web-interface/device/advanced-device.png)  
 
 - ***Thông tin xe*** 
-    - **Biển số** : Biến số xe mà đã lắp thiết bị định vị.      
+    - **Biển số** : Biến số xe mà đã lắp thiết bị định vị. Biển số phải nhập đúng định dạng : **Viết liền, có cả chữ và số** thì mới trên lên Tổng cục đường bộ.  
     - **Số VIN** : Số khung xe gồm 17 ký tự. (Dành cho oto).
     - **Hệ số quãng đường** : Là khoảng cách tính bằng km trong 1 đơn vị vectơ  Theo mặc định, hệ số khoảng cách là 1,0.
     - **Số khung** : Là số nhận dạng xe. Một chuỗi seri và kí tự được đục trê   khung xe. (Dành cho xe máy).
@@ -94,7 +101,7 @@ Khi click vào  <span class="icon-left svg-filter-serch">![Ok](/docs/assets/imag
     <span class="icon-left4">![delete device](/docs/assets/images/web-interface/device/Price-list.png)
 
 - ***Bộ Giao thông vận tải***
-    - **Gửi dữ liệu**: Có thể  bật / tắt.
+    - **Gửi dữ liệu**: Có thể  bật / tắt. Chỉ khi nào bật lên dữ liệu mới trên lên Tổng cục đường bộ.
     - **Sở Giao thông vận tải** : Chọn tỉnh để gửi dữ liệu. (Chỉ chọn đượkhi bật chế độ gửi dữ liệu).
     - **Loại hình vận tải QVCN** : Chọn 1 trong các loại hình đó, đúng với xe / phương tiện mà bạn lắp thiết bị. (Chỉ chọn được khi bật chế độ gửi dữ liệu).
 
@@ -186,7 +193,8 @@ Click **Thêm** để lưu camera.
     - **Lọc tốc độ tối thiểu (km/h)** : Lọc độ nhiễu chính xác nhất. Để xác định được xe đang dừng/ đi. 
       - Nếu xe có tốc độ < Lọc tốc độ tối thiểu ( km/h) thì sẽ là tính xe đang dừng.
     - **Múi giờ**: Chọn múi giờ địa phương.
-
+    - **Lưu dữ liệu thô** : Dữ liệu thô là dữ liệu máy tính chưa qua xử lý. Thông tin này có thể được lưu trữ trong một tệp, hoặc có thể chỉ là một tập hợp các số và ký tự được lưu trữ trên một nơi nào đó trong đĩa cứng của máy tính. Bật nếu cần.
+    - **Tín hiệu động cơ** : Là tín hiệu khi lắp thiết bị là nối dây acc/engine.
     Ngoài ra, có thể cấu hình thiết bị bằng cách như hình dưới đây :
 
     <span style="display:block;text-align:left">![delete device](/docs/assets/images/web-interface/device/device-configuration.png)

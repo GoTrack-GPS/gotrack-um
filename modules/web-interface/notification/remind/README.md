@@ -12,8 +12,8 @@ First, you click on **Manage > Alerts - Schedule > Remind**
 
 ### Add task remind
 
-* Step 1: Choose "**<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) Create new reminder**" tab.
-* Step 2: A dialog box appears as shown below:
+- Step 1: Choose "**<span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) Create new reminder**" tab.
+- Step 2: A dialog box appears as shown below:
 
     <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/notifications/add-task-remind.png)
 

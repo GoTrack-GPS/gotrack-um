@@ -34,8 +34,8 @@ See more details about the **Account tree** [here](/modules/web-interface/users/
 
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/map/list-device.png)
 
-* Step 1: Select the account you want to see the device list.
-* Step 2: After displaying the list, you can select details for each device, view the history, travel route, edit information, configure the device list and perform other actions.
+- Step 1: Select the account you want to see the device list.
+- Step 2: After displaying the list, you can select details for each device, view the history, travel route, edit information, configure the device list and perform other actions.
 
 ### Map tracking
 Online monitoring: Location, route, the direction of movement, status, vehicle speed in real-time.
@@ -53,8 +53,8 @@ Online monitoring: Location, route, the direction of movement, status, vehicle s
 
 <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/map/device-details.png)
 
-* Step 1: Select the device.
-* Step 2: Details will be displayed in the Device information box, you can configure the information box, edit information, view history, travel route, and perform other operations.
+- Step 1: Select the device.
+- Step 2: Details will be displayed in the Device information box, you can configure the information box, edit information, view history, travel route, and perform other operations.
 
 ### Extensive tools
 

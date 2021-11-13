@@ -3,28 +3,48 @@
 Vào mục **Phương tiện**, sẽ hiển thị ra danh sách thiết bị của tài khoản đó.
 
 ### Danh sách thiết bị 
-- Tất cả
-- Online : Thiết bị đang đang chạy, dừng, dừng nổ máy, GPS kém.
-- Offline : Thiết bị không hoạt động, GPRS kém, truyền lịch sử,  hết hạn dịch vụ, chưa kích hoạt.
+- Hiển thị danh sách theo trạng thái và danh sách yêu thíh của thiết bị :
+  - **Tất cả** : Tổng hợp tất cả thiết bị có trong tài khoản đang chọn/đăng nhập.
+  - **Đang dừng** : Xe đã dừng và tắt máy , thời gian dừng > 10s và tốc độ tối thiểu < 3 km/h ( Đã cài đặt trong phần Mở rộng của Sửa thiết bị).
+  - **Đang chạy** : Xe đang chạy với tốc độ > 0.
+  - **GPS kém** : Các thiết bị có GPS < 0.
+  - **GPRS kém** : Thời gian chờ GPRS > 10'  ( Đã cài đặt trong phần Mở rộng của Sửa thiết bị).
+  - **Quan tâm** : Các thiết bị nằm trong danh sách yêu thích , đã thêm ở trên web. Chỉ thêm và bỏ khỏi danh sách  yêu thích ở trên Web .
 
-    <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/list-device.jpg) 
+  <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/list-device-b52.png) 
 
-### Tìm kiếm thiết bị
+- Ở mỗi thiết thị hiển thị kèm các thông tin như :
+  - **Tên thiết bị**.
+  - **Trạng thái thiết bị** ( Thời gian tương ứng)
+  - **Địa chỉ** hiện tại. Nếu thiết bị đang ở trong vùng cảnh báo, thì sẽ hiển thị tên vùng cảnh báo thay cho địa chỉ.
 
-Có thể tìm kiếm theo các tiêu chí sau :
-- Tên thiết bị
-- IMEI
-- Sim ( Số điện thoại)
+### Tìm kiếm
 
-    <span class="icon-left8">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/device-3.jpg)
+#### Tìm kiếm thiết bị
+- Bước 1 : Có thể tìm kiếm theo các tiêu chí sau :
+  - **Tên thiết bị / IMEI / Sim** ( Số điện thoại).
+
+<span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/search-device.png)
+
+- Bước 2 : Nhấn **Tìm kiếm**.
+    
+    
+
+#### Tìm kiếm tài khoản
+- Bước 1 : Có thể tìm kiếm theo các tiêu chí sau :
+  - **Tài khoản / Tên**
+  
+<span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/search-user.png)
+  
+  - Bước 2 : Nhấn **Tìm kiếm**.
+
+    
 
 ### Theo dõi thiết bị
 
 - Click vào tên thiết bị sẽ chuyển sang màn hình giám sát chi tiết của thiết bị đó
 
-    <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/tracking.jpg)
-
-
+    <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/traccking.jpg)
 
 **Lưu ý** : Đối với các trạng thái thiết bị sau đây :
 
@@ -42,18 +62,19 @@ Có thể tìm kiếm theo các tiêu chí sau :
 ### Sửa thiết bị
 
 Để sửa thông tin thiết bị, có 2 cách :
-- Cách 1 : CLick vào **icon xe > Tab Chi tiết**
-- Cách 2 : Click vào vào **icon xe > Giám sát > Tab Chi tiết**
+- Bước 1 
+  - Cách 1 : CLick vào **icon xe > Tab Chi tiết**
+  - Cách 2 : Click vào vào **icon xe > Giám sát > Tab Chi tiết**
 
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/infomation.jpg)
 
-- Màn hình **Chi tiết** hiển thị như hình dưới đây :
+  - Màn hình **Chi tiết** hiển thị như hình dưới đây :
 
-    <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/edit-device-1.jpg)
+    <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/edit-device-2.jpg)
 
-  - Bước 1 : Nhấn vào **Sửa**.
-  - Bước 2 : Sau khi sửa các thông tin xong thì <br>
- nhấn **Lưu** để hoàn thành thao tác.
+  - Bước 2 : Nhấn vào **Sửa**.
+  - Bước 3 : Sửa các thông tin. <br>
+  - Bước 4 : Nhấn **Lưu** để hoàn thành thao tác.
   
 
 

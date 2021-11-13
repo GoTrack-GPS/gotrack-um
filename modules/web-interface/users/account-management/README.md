@@ -44,7 +44,7 @@ Add a new user and select a role for him. Chosen role influences available right
 * ***Basic***
     * **Parent account** : Select the parent account to create a new account.
     * **Page main** : Select the page to display first after successful system login.
-    * **Account** : Enter the account name/username in an unsigned instant. Cannot edit.
+    - **Account** : Enter the account name/username in an unsigned instant. Cannot edit.
     * **Name** : Enter the display name that replaces the username when showing up on your profile, application.
     * **Phone number** : Enter the current phone number you are using.
     * **Email** : Enter the email you are currently using.
@@ -54,6 +54,8 @@ Add a new user and select a role for him. Chosen role influences available right
     * **Confirm password** : Re-enter the exact password you just entered.
     * **Description** : Can add your personal information or what you use the system for.
     * **Address**: Your current address.
+    - **Status** : Enable/disable to log in/disable login of that account.
+    - **Enable** : Enable/disable to log in/disable login of that account. The status will update again in the list.
 * ***Parameter***
     * **Time zone**: Select the local time zone.
     * **Language** : Select the language according to the country in which you live.
@@ -72,8 +74,8 @@ After filling out all information, click **Add** to complete the operation
 
 #### Option 1
 
-* Step 1 : Click on **Edit** for that account. 
-* Step 2 : A dialog box will appear as shown below. Click **Save changes** to save.
+- Step 1 : Click on **Edit** for that account. 
+- Step 2 : A dialog box will appear as shown below. Click **Save changes** to save.
 
     <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/users/edit-user.png)
 
@@ -126,58 +128,91 @@ After filling out all information, click **Add** to complete the operation
 
 ### 5. Delete account
 
-* Step 1 :  Click on :point_right:   <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) that account. Select **Delete**
+- Step 1 :  Click on :point_right:   <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) that account. Select **Delete**
+
+- Step 2 : A dialog box appears as shown below.
 
     <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/users/delete-acount.png)
 
-* Step 2 : A dialog box appears as shown below.
-
-    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/users/delete-acount-1.png)
-
-* If:
+  * If:
     - Select **OK**: Will delete the account.
     - Select **Cancel**: Deletion will be canceled.
 
-### 6. Export data
+### 6. Export report
 
-* 2 types:
+* When the search results, click on
 
-    * Export excel <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel.svg).
+    - <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) **XLSX** : Download Excel format of the current page.
 
-    * Export pdf <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf.svg).
+    - <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) **PDF** : Download PDF of the current page
+   
+    - <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) **Download all XLSX** : Download in Excel form all pages.
+    - <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) **Download all PDF** : Download all PDF all pages.
+
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/users/export-user.png)
 
 
-### 7. Activity logs
+- Click on the icon <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-reset.svg) to refresh the data .
 
-* To view the activity log, the user goes to <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-user.svg) **> Activity Log**. 
-  
-* Display the list as shown below
+- Click on <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/column-height.svg) to edit the height of the image. **Small** <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg) * *Big**
 
-    <span class="icon-left4">![active device ](/docs/assets/images/web-english/users/activity-logs.png)
+  - **Small** : The height of each row will be smaller.
+  - **Medium** : The height of the row will be slightly wider than the text.
+  - **Large** : The height of the row will be slightly wider than the Medium type.
+
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/users/export-user-1.png)
+
+- Tabular : Click <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) to display tabular data.
+
+    - Enable/disable <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg) table/column display as you wish.
+    
+    - If unchecked, hide 1 or more columns. <br>
+    - When pressing **Reset** will reset to default display all.
+
+### 7. Activity Log
+* To view the activity log, the user goes to <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-user. svg) **> Activity Log**. Display the list as shown below
+
+    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-english/users/activity-diary.png)
 
 #### Search
+- **Step 1** : Search by the following criteria:
+   <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-english/users/activity-search.png)
+    * **Date, time** : Click on <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-calendar. svg) choose from available or optional). Click **Agree** .
+    * **Objects** : Click on the object box to select the objects you want to search for
+    * **Function type** : Click on the function type box to select the functions you want to search for.
+    * **Subaccount** : Tick the box <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square .svg) to see the activity of the child accounts.
+- **Step 2** : Click **Search**.
 
-* Step 1: Search by the following criteria:
+    **Reset** : Reset to factory defaults.
 
-    * **Date, time** : Click to <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-calendar.svg) select according to available options or options). Click **Apply**. 
 
-    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/users/date.png)
+#### Export Activity Log
 
-    * **Object type** : Click the object box to select the objects you want to search
+* When the search results, click on
 
-    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/users/object-type.png)
+    - <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) **XLSX** : Download Excel format of the current page.
 
-    * **Action type** : Click in the function type box to select the functions you want to search.
+    - <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) **PDF** : Download PDF of the current page
+   
+    - <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) **Download all XLSX* * : Download in Excel form all pages.
+    - <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) **Download all PDF* * : Download all PDF all pages.
 
-    <span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/users/activity-type.png)
+    <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/users/activity-logs-export.png)
 
-    * **Child account** : Tick the box <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square.svg) to see the activity of other Child Account.
 
-* Step 2: Click **Search**. 
+- Click on the icon <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-reset.svg) to refresh the data .
 
-    **Reset**: Reset to factory default.
+- Click on <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/column-height.svg) to edit the height of the image. **Small** <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg) **Large**
 
-#### Detail
-Click to <span class="icon-left svg-filter-circlepurple">![Ok](/docs/assets/images/web-interface/icon/SVG/info-circle.svg) see details of each activity.
+  - **Small** : The height of each row will be smaller.
+  - **Medium** : The height of the row will be slightly wider than the text.
+  - **Large** : The height of the row will be slightly wider than the Medium type.
 
-<span style="display:block;text-align:left">![active device ](/docs/assets/images/web-english/users/details.png)
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/users/activity-logs-export-1.png)
+
+- Tabular : Click <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) to display tabular data.
+
+    - Enable/disable <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg) table/column display as you wish.
+    
+    - If unchecked, hide 1 or more columns. <br>
+    - When pressing **Reset** will reset to default display all.

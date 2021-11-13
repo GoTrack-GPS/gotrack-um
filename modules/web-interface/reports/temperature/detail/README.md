@@ -12,13 +12,13 @@ If the user wants to see **Detail Report** :
 - Search by the following criteria:
     <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-english/reports/temperature-detail-search.png)
 
-  * Step 1 :
+  - Step 1 :
 
     * **Date** : Select available or optional time.
     * **Number plate** : Select a Number plate you want to see the fuel chart report.
     * **Sensor** : Select a fuel sensor name corresponding to the selected number plate.
 
-  * Step 2: Click **Search**.
+  - Step 2: Click **Search**.
 
 
 ### Export report

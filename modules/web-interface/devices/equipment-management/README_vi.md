@@ -5,7 +5,7 @@
  
 ### 1. Chuyển/Bán thiết bị
 Để chuyển/gán thiết bị sang cho tài khoản khác, có 2 cách
-* **Cách 1** : 
+* **Cách 1** 
 
     <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/device/move-device.png)
 
@@ -13,7 +13,14 @@
     - Bước 2: Chọn **Chuyển/Bán**.
     - Bước 3: Một hộp thoại xuất hiện. Chọn **tài khoản** để chuyển/bán thiết bị sang đó. **IMEI** là mã số của thiết bị đó.
     - Bước 4: Click vào **Gửi** để chuyển/bán thiết bị.
-* **Cách 2**
+* **Cách 2** 
+
+    <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/device/move-device-2.png)
+
+- Bước 1 : CLick  vào icon **<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) > Bán** của thiết bị đó.
+- Bước 2 : Sau khi  click vào "Bán" xong. Sẽ cập nhật trạng thái hiện tại <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg) **Đã bán**. 
+  - Thông báo "Thiết bị đã được bán".
+* **Cách 3**
 
     <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/device/equipment-sale.png)
     
@@ -26,7 +33,7 @@
         - **Vai trò** : Chọn vai trò tài khoản.
         - **IMEI** : Mã số của thiết bị đó.
 
-    Click vào **Gửi** để bán thiết bị.
+    - Bước 4 : Click vào **Gửi** để bán thiết bị.
 
 ### 2. Kích hoạt / Vô hiệu hóa thiết bị
 - **Kích hoạt tự động**: Thiết bị được tự động kích hoạt sau 8h kể từ khi tạo và lắp xong thiết bị.
@@ -40,7 +47,7 @@
         Cài đặt trạng thái là **kích hoạt** / **vô hiệu hóa**. 
         **IMEI** là mã số của thiết bị đó.
 
-    Click vào **Gửi** để kích hoạt / vô hiệu hóa thiết bị.
+    - Bước 4 : Click vào **Gửi** để kích hoạt / vô hiệu hóa thiết bị.
 
 ### 3. Cài đặt trạng thái thiết bị
 
@@ -68,26 +75,82 @@
 
 Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](vi/modules/web-interface/devices/send-the-device-command/#command)  <div id="command"> 
 
-### 5. Gia hạn thiết bị
-Để gia hạn thiết bị, thực hiện các bước sau: 
+### 5. CCID
+- Kiểm tra SIM đang lắp trên thiết bị có phải SIM hợp lệ hay không.
+- CCID Origin là SIM được gắn kèm khi xuất kho và có thể cập nhật khi có yêu cầu thay đổi.
+- CCID là SIM hiện tại đang được gắn với thiết bị.
+- SIM hợp lệ là SIM có CCID bằng CCID Origin.
+- SIM không hợp lệ là trường có CCID không bằng CCID Origin + phải bật kiểm tra CCID + CCID phải do GoTrack cũng cấp và tồn tại trong hệ thông quán lý SIM.
 
-<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/device/device-extension.png)
+#### 5.1. Đồng bộ CCID
+- **Cách 1**
+  - Là **cập nhật CCID Origin = CCID**
+
+    <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/device/ccid-sync.png)
+
+  - Bước 1 : Tick chọn **IMEI** cần đồng bộ CCID.
+  - Bước 2 : Click **CCID > <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) > Đồng bộ CCID**.
+  - Bước 3 : **Kiểm tra IMEI**.
+  - Bước 4 : Nhấn **Gửi** để đồng bộ CCID.
+- **Cách 2**
+    <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/device/syn-ccid.png)
+  - CLick  vào icon **<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) > Đồng bộ CCID** của thiết bị đó.
+
+#### 5.2. Cập nhật kiểm tra CCID
+- Là **cho phép bật / tắt kiểm tra SIM**
+
+    <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/device/update-ccid-check.png)
+  - Bước 1 : Tick chọn **IMEI** cần cập nhật kiểm tra CCID.
+  - Bước 2 : Click **CCID > <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) > Cập nhật kiểm tra CCID**.
+  - Bước 3 : 
+    - **Trạng thái** : Kích hoạt/Không kích hoạt để bật/tắt SIM.
+    - **IMEI** Thiết bị cần kiểm tra.
+  - Bước 4 : Nhấn **Gửi** để cập nhật kiểm tra CCID.
 
 
-- Bước 1: Tick vào thiết bị cần gia hạn.
-- Bước 2: Chọn **Gia hạn**.
-- Bước 3: Một hộp thoại xuất hiện. Chọn **loại card/gói gia hạn** sử dụng dịch vụ gồm 2 loại là card năm và card trọn đời. **IMEI** là mã số của thiết bị đó.
- Nhập **mô tả** bất kì, có thể là mục đích, mong muốn,... khi sử dụng dịch vụ.
-- Bước 4: Click vào **Gửi** để gia hạn thiết bị.
+#### 5.3. Cập nhật CCID: 
+- Cho phép cập nhật CCID thủ công.
 
-### 6. Xuất dữ liệu
-* Có 2 loại:
-    - **Tải xuống (.xlsx)** : Chỉ  có dữ liệu của thiết bị bạn chọn.
-    - **Tải xuống tất cả (.xlsx)** : Có tất cả dữ liệu thiết bị mà tài khoản đó có.
+    <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/device/update-ccid.png)
+  - Bước 1 : Tick chọn **IMEI** cần cập nhật CCID.
+  - Bước 2 : Click **CCID > <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) > Cập nhật CCID**.
+  - Bước 3 : 
+    - **IMEI** Thiết bị cần kiểm tra.
+    - **CCID** là là mã số in trên thẻ SIM. SIM hiện tại đang được gắn với thiết bị
 
+  - Bước 4 : Nhấn **Gửi** để cập nhật CCID.
 
+### 6. Thêm
+#### 6.1. Đặt lại vị trí
+- Nếu vị trí của thiết bị chưa có thì có thể cấu hình nhanh ở đây.
+  <span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/device/reset-location.png)
 
+  - Bước 1 : **Chọn thiết bị** cần thiết lập vị trí
+  - Bước 2 : Vào **Thêm > <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) > Đặt lại vị trí**.
+  - Bước 3 : Hộp thoại mở ra. Nhập thông tin vào form :
+    - **Vĩ độ** là giá trị xác định vị trí của một điểm nào đó trên bề mặt Trái đất và kể cả các hành tinh khác, ở phía bắc hay phía nam của xích đạo. 
+    -  **Kinh độ** là giá trị tọa độ địa lý theo hướng đông sang tây.  
+    - Bạn có thể vào Bản đồ của Google để lấy tọa độ chính xác.
+  > Lưu ý : Chỉ nhập được tọa độ là số nguyên.
+  - Bước 4 : Nhấn **Gửi** để đặt lại vị trí.
 
+#### 6.2. Đổi  IMEI
+- Khi xe của khách hàng đổi sang thiết bị mới, muốn đổi lại IMEI trên hệ thống để hiển thị dữ liệu theo IMEI mới thì thực hiện như sau :
+<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/device/change-imei.png)
+  - Bước 1 : **Chọn thiết bị** cần phải chuyển đổi IMEI.
+  - Bước 2 : Click vào **Thêm > <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) > Đổi IMEI**.
+  - Bước 3 : Xuất hiện hộp thoại. Điền thông tin vào form.
+    - **IMEI mới** : Nhập IMEI mới mà đã có sẵn trong kho.
+  - Bước 3 : Nhấn **Lưu thay đổi** để đổi IMEI.
+
+#### 6.3. Đặt lại mặc định
+- Khi muốn lưu lại dữ liệu mới từ đầu/gặp vấn đề gì đó cần phải đặt lại mặc định thì thực hiện như sau :
+<span style="display:block;text-align:left">![Manage device ](/docs/assets/images/web-interface/device/reset-to-defaults.png)
+  - Bước 1 : **Chọn thiết bị** cần đặt lại mặc định
+  - Bước 2 : Click vào **Thêm > <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) > Đặt lại mặc định**.
+  - Bước 3 : Xuất hiện hộp thoại. Điền thông tin vào form.
+    - **IMEI** : Nhập IMEI mà đã có sẵn trong kho/thêm IMEI cần đặt lại mặc định và kiểm tra lại IMEI đó.
+  - Bước 3 : Nhấn **Gửi** để đổi IMEI.
 
 
 

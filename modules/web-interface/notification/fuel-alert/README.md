@@ -74,8 +74,8 @@ First, click on **Manage > Alerts - Schedule > Alert Rules**
 
 ### Edit
 
-* Step 1: Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/edit.svg) to fix the alert.
-* Step 2 :
+- Step 1: Click <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/edit.svg) to fix the alert.
+- Step 2 :
 
     **2.1.** Select 1 from the list in the sensor to generate an alert. A dialog box like the one below will appear
 
