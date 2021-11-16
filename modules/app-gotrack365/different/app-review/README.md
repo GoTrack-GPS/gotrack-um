@@ -5,7 +5,7 @@
 - We expect reviewers to also be honest and unbiased.
 - To evaluate, people do the following:
   
-  <span class="icon-left5">![Web Interface](/docs/assets/images/web-english/gotrack365-el/app-reviews.jpg)
+  <span style="display:block;text-align:left">![Web Interface](/docs/assets/images/web-english/gotrack365-el/app-reviews.jpg)
   
   - Step 1: Go to **Account > Rate us**.
   - Step 2: Switch to the application on Google play. Scroll down to the reviews section.

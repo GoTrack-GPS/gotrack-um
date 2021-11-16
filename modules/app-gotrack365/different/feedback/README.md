@@ -11,5 +11,5 @@ To create feedback, people do the following:
        - ***Telephone***
        - ***Email***
      - **Content of feedback**: Description of screen information/problem that is faulty, needs to be checked or is not reasonable, needs to be changed/corrected,...
-     - **Snapshot but screenshot** : Click on the box with <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) . Upload a screenshot of that error/information to check (If any).
+     - **Snapshot but screenshot** : Click on the box with <span class="icon-left svg-filter-search">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) . Upload a screenshot of that error/information to check (If any).
     - Step 3: Click the button **Send** to send feedback.

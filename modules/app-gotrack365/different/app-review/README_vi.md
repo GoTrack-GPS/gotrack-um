@@ -5,7 +5,7 @@
 - Chúng tôi mong người đánh giá cũng sẽ trung thực và không thiên vị.
 - Để đánh giá, mọi người thực hiện như sau :
   
-  <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/app-reviews.jpg) 
+  <span style="display:block;text-align:left">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/app-reviews.jpg) 
   
   - Bước 1 : Vào **Tài khoản > Đánh giá ứng dụng**.
   - Bước 2 : Chuyển sang ứng dụng trêm Google play. Di chuyển xuống đến phần đánh giá. 
