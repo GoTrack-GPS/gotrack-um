@@ -22,9 +22,9 @@ Vào mục **Phương tiện**, sẽ hiển thị ra danh sách thiết bị c�
 
 #### Tìm kiếm thiết bị
 - Bước 1 : Có thể tìm kiếm theo các tiêu chí sau :
-  - **Tên thiết bị / IMEI / Sim** ( Số điện thoại).
+  - **Tên thiết bị / IMEI / SIM** ( Số điện thoại).
 
-<span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/search-device.png)
+    <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/search-device.png)
 
 - Bước 2 : Nhấn **Tìm kiếm**.
     
@@ -34,11 +34,9 @@ Vào mục **Phương tiện**, sẽ hiển thị ra danh sách thiết bị c�
 - Bước 1 : Có thể tìm kiếm theo các tiêu chí sau :
   - **Tài khoản / Tên**
   
-<span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/search-user.png)
+    <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/search-user.png)
   
   - Bước 2 : Nhấn **Tìm kiếm**.
-
-    
 
 ### Theo dõi thiết bị
 
@@ -68,11 +66,12 @@ Vào mục **Phương tiện**, sẽ hiển thị ra danh sách thiết bị c�
 
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/infomation.jpg)
 
-  - Màn hình **Chi tiết** hiển thị như hình dưới đây :
+  - Bước 2 : Nhấn vào **Sửa**.
+
+    - Màn hình **Chi tiết** hiển thị như hình dưới đây :
 
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-gotrack365/edit-device-2.jpg)
-
-  - Bước 2 : Nhấn vào **Sửa**.
+    
   - Bước 3 : Sửa các thông tin. <br>
   - Bước 4 : Nhấn **Lưu** để hoàn thành thao tác.
   

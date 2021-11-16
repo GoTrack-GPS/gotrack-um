@@ -128,6 +128,9 @@
       - [Quản lý tài khoản](vi/modules/app-gotrack365/account-management/)
       - [Điểm đánh dấu](vi/modules/app-gotrack365/poi/)
       - [Vùng cảnh báo](vi/modules/app-gotrack365/warning-area/) 
+      - [Phản hồi](vi/modules/app-gotrack365/different/feedback/)
+      - [Đánh giá ứng dụng](vi/modules/app-gotrack365/different/app-review/)
+      - [Chia sẻ ứng dụng](vi/modules/app-gotrack365/different/app-share/)
 
 - **Thiết bị tích hợp**
   - **GoTrack**

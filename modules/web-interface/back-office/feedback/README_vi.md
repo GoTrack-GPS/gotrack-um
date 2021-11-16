@@ -11,4 +11,4 @@
     - **Nội dung** : Mô tả thông tin màn hình/vấn đề đang bị lỗi, cần kiểm tra  hoặc chỗ nào không hợp lý, cần phải thay đổi/chỉnh sửa,...
     - **Hình ảnh** : Click vào **Tải lên**. Tải ảnh chụp màn hình lỗi đó (Nếu có). 
     Kích thước mỗi ảnh phải < 5 MB. Tối đa là 5 ảnh.
-   - Bước 3 : Nhấn vào button Gửi để gửi phản hồi
+   - Bước 3 : Nhấn vào button **Gửi** để gửi phản hồi

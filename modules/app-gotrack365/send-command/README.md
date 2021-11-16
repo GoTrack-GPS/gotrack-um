@@ -19,6 +19,7 @@ To use the extended features, there are 2 ways:
 
     **5.** Find your way
 
+    **6**. Street View
 <div id="other" >
 </div>
 
@@ -72,3 +73,11 @@ For more details, please refer [here](modules/app-gotrack365/send-order/#unlock)
 Click <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/directions.svg) to find your way from the machine's location to the location of your device. Where is your position to find the shortest route to the vehicle.
 
 <span class="icon-left4">![Interface Web](/docs/assets/images/web-english/gotrack365-el/find-way.jpg)
+
+### 6. Street View
+- Google Street View is a feature built into Google maps and Google Earth that allows you to travel virtual around the world through 360° horizontal and 160° vertical panoramic views, capturing on the road streets and in some tourist spots.
+- Street view helps viewers have a more intuitive view of a certain place.
+
+    <span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/streetview.jpg)
+
+- When clicking on the icon <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/3d-rotate.png) , if the position If there is support and there are street photos, the whole place will be displayed.

@@ -29,8 +29,12 @@ To view the fuel report through the chart, perform the following steps:
 - Step 3: A list of vehicles with sensors will appear. Select the vehicle you want to see the report.
 
 - Step 4: Display the result
-
-  Select edit time to review.
+  - Click on each discharge detail to see street view.
+  - Attach the address and picture of the place of fill / drain details.
+   
+   <span class="icon-left5">![Interface Web](/docs/assets/images/web-english/gotrack365-el/report/report-fuel-detail-streetview.jpg)
+  
+  - Select edit time to review.
     - Click on **date display box** to select the date again.
     - Click on **box showing number of hours: minutes** in the line Start (hours: minutes) - End (hours: minutes) to re-select the hours: minutes am/pm
     - Press **OK**. Will display photos taken during that time period.

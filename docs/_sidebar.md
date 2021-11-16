@@ -108,6 +108,7 @@
                - [Notifications](modules/app-gotrack365/notification/warning/)
 
           - **Reports**
+            - [Summary by days](modules/app-gotrack365/reports/summary-by-day/)
             - [Fuel chart](modules/app-gotrack365/reports/fuel/)
             - [Temperature chart](modules/app-gotrack365/reports/temperature/)
             - [Speed chart](modules/app-gotrack365/reports/speed/)
@@ -115,11 +116,13 @@
             - [Trip detail](modules/app-gotrack365/reports/route-detail/)
             - [Captured photos](modules/app-gotrack365/reports/photo/)
             - [Video playback](modules/app-gotrack365/reports/playback-video/)
-  
           - **Account**
                - [Account management](modules/app-gotrack365/account-management/)
                - [POI](modules/app-gotrack365/poi/)
                - [Geofence](modules/app-gotrack365/warning-area/)
+               - [Feedback](modules/app-gotrack365/feedback/)
+               - [App reviews](vi/modules/app-gotrack365/different/app-review/)
+               - [Share app](vi/modules/app-gotrack365/different/app-share/)
      - **Integrated devices**
           - **GoTrack**
                - **S200**
