@@ -609,7 +609,7 @@ Perform the setup by sending commands from the server to which the device is con
         <b> AIR </b>,< reversed>,1,+,< active level> <br>
         <b> SOS </b>,< reversed>,3,+,< positive level> <br>
         <b> DO </b>,< reversed>,< active level> <br>
-        <i>reversed </i>: <br>
+        <i>state </i>: <br>
         &emsp;&emsp;&emsp;&emsp;-	7: disabled / not in use <br>
         &emsp;&emsp;&emsp;&emsp;-	6: reset <br>
         &emsp;&emsp;&emsp;&emsp;-	5: pause temporarily <br>

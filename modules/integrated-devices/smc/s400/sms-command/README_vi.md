@@ -613,7 +613,7 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
         <b>AIR</b>,< reversed>,1,+,< mức tích cực> <br>
         <b>SOS</b>,< reversed>,3,+,< mức tích cực> <br>
         <b>DO</b>, < reversed>,< mức tích cực>  <br>
-        <i>reversed </i>: <br>
+        <i>state </i>: <br>
         &emsp;&emsp;&emsp;&emsp;-	7: bị tắt/Không sử dụng <br>
         &emsp;&emsp;&emsp;&emsp;-	6: bị reset <br>
         &emsp;&emsp;&emsp;&emsp;-	5: dừng tạm thời <br>
