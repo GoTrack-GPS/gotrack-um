@@ -78,7 +78,7 @@
       - [Quản lý thông báo](vi/modules/web-interface/notification/)
       - [Quy tắc cảnh báo](vi/modules/web-interface/notification/warning/)
       - [Cảnh báo nhiên liệu](vi/modules/web-interface/notification/fuel-alert/)
-      - [Quản lý lập lịch báo cáo](vi/modules/web-interface/notification/Schedule-a-report/)
+      - [Quản lý lập lịch báo cáo](vi/modules/web-interface/notification/schedule-a-report/)
       - [Quản lý nhắc nhở](vi/modules/web-interface/notification/remind/)
      
     - **Tiện ích**
