@@ -94,4 +94,4 @@
     - Enable/disable <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg) table/column display as you wish.
     
     - If unchecked, hide 1 or more columns. <br>
-    Pressing **Reset** will reset to default display all
+    Pressing **Reset** will reset to default display all.
