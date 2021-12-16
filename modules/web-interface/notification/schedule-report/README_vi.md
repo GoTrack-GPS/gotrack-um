@@ -10,7 +10,7 @@
 
 - Đầu tiên, bạn nhấn vào **Quản lý > Cảnh báo - Lập lịch >  Lập lịch báo cáo**
 
-    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/schedule-a-report.jpg) 
+    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/schedule-report.jpg) 
 
 ### Tìm kiếm 
 
