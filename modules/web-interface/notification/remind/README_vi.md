@@ -21,7 +21,7 @@
     Nếu nhấn **Đặt lại** sẽ trở về mặc định ban đầu.
 
 
-### Tạo mới nhắc nhở
+### Tạo mới 
 
 - Bước 1 : Nhấn vào **Tạo nhắc nhở**.
 - Bước 2 : Xuất hiện màn hình thêm mới
@@ -45,14 +45,73 @@
     - **Thông báo trước** : Sẽ lấy trong khoảng Lần bảo trì tiếp theo - Lần bảo trì trước. 
   - **Nhắc nhở theo giờ nổ máy**  : 
     - Để gửi nhắc nhở này về mail. Cần thực hiện **thêm 1 bước** nữa :
-      - Vào **Map > Thông tin > Tab Mở rộng**. 
+      - Vào **Bản đồ > Thông tin > Tab Mở rộng**. 
+      <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/remind-by-hour.jpg)
+  
       - Chọn **Tín hiệu động cơ : Khóa điện hoặc Động cơ**. Tùy theo thiết bị lắp dây nào.
+      - Nhấn **Lưu thay đổi** để hoàn thành thao tác.
     - **Lần bảo trì trước** : Khi chọn biển số sẽ tự động hiện ra giờ nổ máy đã chạy
     - **Lần bảo trì tiếp theo** : Nhập đúng với lịch hẹn của bạn.
     - **Thông báo trước** : Sẽ lấy trong khoảng Lần bảo trì tiếp theo - Lần bảo trì trước. 
 - Bước 3 : Nhấn button **Thêm** để tạo nhắc nhở.
 
 
-### Sửa nhắc nhở
+### Sửa
 
-### Xóa nhắc nhở
+- Để sửa nhắc nhở, thực hiện như sau :
+
+  <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/remind-edit.jpg)
+
+  - Bước 1 : Click vào **Sửa** của nhắc nhở đó.
+  - Bước 2 : Sửa các thông tin **nếu có thay đổi** về biển số, mail, loại nhắc nhở,...
+  - Bước 3 : Nhấn **Lưu thay đổi** để lưu lại các thông tin vừa sửa.
+
+### Trạng thái kích hoạt
+- Để thay đổi trạng thái kích hoạt mà không cần phải vào Sửa nhắc nhở, thực hiện như sau : 
+
+  <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/change-status-active.jpg)
+  
+  - CLick  vào icon **<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) > Thay đổi trạng thái**.
+  - Trạng thái sẽ thay đổi từ : 
+    - **Kích hoạt <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg) Không kích hoạt** : Nhắc nhở dừng hoạt động.
+    - **Không  kích hoạt <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg) Kích hoạt** : Nhắc nhở tiếp tục hoạt động đến số liệu/thời gian đã giới hạn trong nhắc nhở.
+
+### Xóa 
+
+- Bước 1 : CLick  vào icon **<span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-h.svg) > Xóa** của nhắc nhở đó, sẽ xuất hiện một hộp thoại như hình dưới đây:
+
+    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/remind-delete.jpg)
+
+- Bước 2 : Nếu:
+  - Chọn **OK**: Sẽ xóa nhắc nhở đó.
+  - Chọn **Hủy**: Sẽ hủy thao tác xóa.
+
+### Xuất báo cáo
+
+* Khi tìm kiếm ra kết quả, click vào **Tải xuống** để xuất dữ liệu
+ 
+    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/download-remind.jpg)
+  
+  - <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) **XLSX** : Tải xuống dạng Excel của trang hiện tại.
+
+  - <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) **PDF** : Tải xuống dạng PDF của trang hiện tại.
+
+  - <span class="icon-left svg-filter-circlegreen2">![Ok](/docs/assets/images/web-interface/icon/SVG/file-excel1.svg) **Tải xuống tất cả XLSX** : Tải xuống dạng Excel tất cả các trang.
+  
+  - <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/file-pdf1.svg) **Tải xuống tất cả PDF** : Tải xuống tất cả  PDF tất cả các trang.
+
+- Click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-reset.svg) để làm mới danh sách.
+      
+- Click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/column-height.svg) để chỉnh sửa chiều cao của hàng theo mức **Nhỏ** <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/arrow-right.svg) **Lớn** 
+
+  - **Nhỏ** : Chiều cao của từng hàng sẽ nhỏ lại.
+  - **Trung bình** : Chiều cao của hàng sẽ rộng ra cách chữ 1 chút.
+  - **Lớn** : Chiều cao của hàng sẽ rộng hơn loại Trung bình thêm 1 chút.
+- Dạng bảng :  Click vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) để hiển thị dữ liệu dạng bảng.
+    
+    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/download-remind-1.jpg)
+    
+    - Bật / tắt <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg) hiển thị bảng / cột theo ý bạn muốn.
+    
+    - Nếu bỏ tick ẩn đi 1 hoặc nhiểu cột. <br>
+    Khi Nhấn **Đặt lại** sẽ chọn lại về mặc định hiển thị tất cả

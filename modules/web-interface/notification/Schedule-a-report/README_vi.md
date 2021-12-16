@@ -25,7 +25,7 @@
 
     <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/search-report-scheduling.jpg)
 
-### Tạo mới lập lịch báo cáo
+### Tạo mới
 
 - Bước 1 : Click vào **Tạo Lập lịch báo cáo**.
 - Bước 2 : Xuất hiện màn hình thêm mới :
@@ -36,7 +36,7 @@
   - **Loại báo cáo** : Chọn loại báo cáo đúng với mục đích bạn muốn nhận báo cáo.
   - **Biển số** : Chọn biển số lấy dữ liệu báo cáo.
   - **Mô tả** : Nhập mô tả về báo cáo ( Nếu có).
-  - **Gửi thông báo** : Bật / tắt để gửi thông báo về web/app.
+  - **Gửi thông báo** : Bật / tắt để gửi thông báo về app.
   - **Trạng thái** : Bật / tắt để kích hoạt / dừng hoạt động báo cáo này.
   - **Loại nhiệm vụ** : 
     - **Lập lịch** : Chọn gửi báo cáo về **hàng ngày/hàng tuần/cả 2**. 
@@ -91,7 +91,7 @@
   - **Lớn** : Chiều cao của hàng sẽ rộng hơn loại Trung bình thêm 1 chút.
 - Dạng bảng :  Click vào <span class="icon-left ">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-gear.svg) để hiển thị dữ liệu dạng bảng.
     
-    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/download-report-scheduling.jpg)
+    <span style="display:block;text-align:left">![Interface manage acount](/docs/assets/images/web-interface/notification/download-report-scheduling-2.jpg)
     - Bật / tắt <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg) hiển thị bảng / cột theo ý bạn muốn.
     
     - Nếu bỏ tick ẩn đi 1 hoặc nhiểu cột. <br>

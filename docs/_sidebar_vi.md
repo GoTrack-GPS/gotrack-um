@@ -65,12 +65,16 @@
           - [4.6. TTT73-Dừng đỗ](vi/modules/web-interface/reports/the-transportation/gov-stop/)
           - [4.7. TT73-Tổng hợp theo lái xe](vi/modules/web-interface/reports/the-transportation/gov-summary-by-driver/)
           - [4.8. TT09-Thời gian lái xe trong ngày](vi/modules/web-interface/reports/the-transportation/gov-driving-on-day/)
+      - **5. Corridor**
+        - [**5.1. Tổng hợp**](vi/modules/web-interface/reports/corridor/summary/)
+        - [**5.2. Chi tiết**](vi/modules/web-interface/reports/corridor/detail/)
     - **Cấu hình**
       - [Quản lý nhóm thiết bị- đội xe ](vi/modules/web-interface/configuration/device-group/)
       - [Quản lý lái xe](vi/modules/web-interface/configuration/driver/)
       - [Quản lý vùng](vi/modules/web-interface/configuration/manage-region/)
       - [Quản lý nhóm vùng](vi/modules/web-interface/configuration/group-geofence/)
       - [Quản lý điểm đánh dấu](vi/modules/web-interface/configuration/manage-poi/) 
+      - [Corridor](vi/modules/web-interface/configuration/corridor/)
     - **SIM**
       - [Tìm kiếm](vi/modules/web-interface/sim/)
     
