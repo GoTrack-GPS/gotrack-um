@@ -23,7 +23,7 @@
             - [Detailed monitoring](modules/web-interface/tracking/detailed-monitoring/)
             - [Extensive tools](modules/web-interface/tracking/map-tools/)
             - [Utility maps](modules/web-interface/tracking/map-widget/)
-
+            - [Corridor list](modules/web-interface/tracking/map-corridor/)
           - **Camera** 
             - [Instructions for installing and using MDVR](modules/web-interface/camera/instructions-for-installing-configuring/)
             - [List camera ](modules/web-interface/camera/list-camera/)
@@ -32,7 +32,6 @@
             - [Playback video](modules/web-interface/camera/playback/)
             - [Tracking photo](modules/web-interface/camera/live-photo/)
             - [Photo history](modules/web-interface/camera/history-image/)
-          
           - **Reports**
             - **1. General report**
               - [1.1. Summary device](modules/web-interface/reports/general-report/summary-devices/)
@@ -66,6 +65,7 @@
                - [Group geofences](modules/web-interface/configuration/group-geofence/)
                - [Landmarks](modules/web-interface/configuration/manage-poi/) 
                - [Corridor](modules/web-interface/configuration/corridor/)
+               
 
           - **SIM Management**
               - [Search](modules/web-interface/sim/)

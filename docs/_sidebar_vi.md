@@ -31,7 +31,7 @@
       - [Giám sát chi tiết](vi/modules/web-interface/tracking/detailed-monitoring/)
       - [Công cụ mở rộng](vi/modules/web-interface/tracking/map-tools/)
       - [Tiện ích bản đồ](vi/modules/web-interface/tracking/map-widget/)
-    
+      - [Danh sách corridor](vi/modules/web-interface/tracking/map-corridor/)
     - **Báo cáo**
       - **1. Báo cáo chung**
           - [1.1. Tổng hợp thiết bị](vi/modules/web-interface/reports/general-report/summary-devices/)

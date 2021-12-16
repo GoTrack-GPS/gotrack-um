@@ -89,4 +89,6 @@
     - Bật / tắt <span class="icon-left svg-filter-tick">![Ok](/docs/assets/images/web-interface/icon/SVG/check-square1.svg) hiển thị bảng / cột theo ý bạn muốn.
     
     - Nếu bỏ tick ẩn đi 1 hoặc nhiểu cột. <br>
-    Khi Nhấn **Đặt lại** sẽ chọn lại về mặc định hiển thị tất cả
+    Khi Nhấn **Đặt lại** sẽ chọn lại về mặc định hiển thị tất cả.
+    
+- Ngoài ra, bạn có thể tạo mới và quản lý corridor [tại đây](vi/modules/web-interface/tracking/map-corridor/#map-corridor)
