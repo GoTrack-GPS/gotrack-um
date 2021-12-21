@@ -4,7 +4,7 @@
 - Task type: **Schedule**
   - **Daily** : The next day will automatically send the report back. The data in the report file will be from yesterday.
   - **Weekly** : Every Monday will automatically send the previous week's report.
-- Mission type: **Performed once**
+- Task type: **Single task**
   - Will **send report immediately** after successful creation.
 
 - First, click **Manage > Alerts - Scheduling > Schedule Report**
