@@ -56,8 +56,8 @@
               - [3.1. Chart](modules/web-interface/reports/temperature/chart/)
               - [3.2. Detail](modules/web-interface/reports/temperature/detail/)
             - **4. Corridor**
-              - [**4.1. Tổng hợp**](modules/web-interface/reports/corridor/summary/)
-              - [**4.2. Chi tiết**](modules/web-interface/reports/corridor/detail/)
+              - [**4.1. Summary**](modules/web-interface/reports/corridor/summary/)
+              - [**4.2. Detail**](modules/web-interface/reports/corridor/detail/)
           - **Configuration**
                - [Group device](modules/web-interface/configuration/device-group/)
                - [Driver](modules/web-interface/configuration/driver/)
