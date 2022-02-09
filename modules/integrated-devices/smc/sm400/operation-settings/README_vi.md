@@ -21,7 +21,7 @@
 
 #### 2.3. Kết nối khóa điện
 
-- Hãy kiểm tra lại điện áp khi khóa điện On hoặc OFF phải có giá trị điện áp phù hợp tương ứng
+- Hãy kiểm tra lại điện áp khi khóa điện ON hoặc OFF phải có giá trị điện áp phù hợp tương ứng
 
 #### 2.4. Kết nối dây mass
 

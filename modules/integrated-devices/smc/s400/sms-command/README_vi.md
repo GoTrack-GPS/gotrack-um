@@ -51,7 +51,7 @@ Bạn tham khảo <a href="/mindmaster/gpstracker-param-setting.pdf" target="_bl
 
 
 
-> Lưu ý: đối với lệnh thiết lập cho thông số này để thực hiện được thành công cần như sau: <br> 
+> Lưu ý: Đối với lệnh thiết lập cho thông số này để thực hiện được thành công cần như sau: <br> 
 Thiết bị chưa bị khóa cấu hình (để kiểm tra,xem mục [2.10](vi/modules/integrated-devices/smc/s400/sms-command/#unlock) ). <br>
 Nếu cấu hình đã bị khóa,số điện thoại thực hiện thiết lập phải là số điện thoại trung tâm. (để kiểm tra/thiết lập,xem mục [1.9](vi/modules/integrated-devices/smc/s400/sms-command/#sensor)). <br>
 Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết bị đang kết nối.

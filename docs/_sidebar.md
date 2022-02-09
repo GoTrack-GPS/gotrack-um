@@ -143,7 +143,7 @@
      
      - **FAQ**
           - [Build App](modules/web-interface/faq/build-app/)
-          - [Device S200/S400](modules/web-interface/faq/device-s200-s400/)
+          - [Device S200/S400/S400E](modules/web-interface/faq/device-s200-s400-s400e/)
           - [Device SM400](modules/web-interface/faq/sm400/)
           - [Configure stops on the map](modules/web-interface/faq/configure-stops/)
           - [Set over speed alert](modules/web-interface/faq/setting-over-speed/)

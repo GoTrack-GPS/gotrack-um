@@ -144,6 +144,9 @@
     - **S400**
       - [Tài liệu kỹ thuật](vi/modules/integrated-devices/smc/s400/technical-document/)
       - [Lệnh SMS](vi/modules/integrated-devices/smc/s400/sms-command/)
+    - **S400E**
+      - [Tài liệu kỹ thuật](vi/modules/integrated-devices/smc/s400e/technical-document/)
+      - [Lệnh SMS](vi/modules/integrated-devices/smc/s400e/sms-command/) 
     - **SM400**
       - [Tài liệu kỹ thuật](vi/modules/integrated-devices/smc/sm400/technical-document/)
       - [Hoạt động và cài đặt](vi/modules/integrated-devices/smc/sm400/operation-settings/)
@@ -152,7 +155,7 @@
 
 - **Câu hỏi thường gặp**
   - [Xây dựng ứng dụng](vi/modules/web-interface/faq/build-app/)
-  - [Thiết bị S200/S400](vi/modules/web-interface/faq/device-s200-s400/)
+  - [Thiết bị S200/S400/S400E](vi/modules/web-interface/faq/device-s200-s400-s400e/)
   - [Thiết bị SM400](vi/modules/web-interface/faq/sm400/)
   - [Cấu hình điểm dừng trên bản đồ](vi/modules/web-interface/faq/configure-stops/)
   - [Cài đặt cảnh báo vượt quá tốc độ](vi/modules/web-interface/faq/setting-over-speed/)

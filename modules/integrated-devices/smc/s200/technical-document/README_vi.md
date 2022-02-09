@@ -34,7 +34,7 @@
 
 #### 1.2. Hình ảnh tổng quan
 
-<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/s200-cau-tao-than.png)
+<span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s400e/s400e-cau-tao-than.jpg)
 
 <center>Hình 1. Tổng quát các thành phần cấu tạo thân thiết bị</center>
 
@@ -88,7 +88,7 @@
             <td></td>
         </tr>
     <tr>
-            <td rowspan="3">Dòng tiêu</td>
+            <td rowspan="3">Dòng tiêu thụ</td>
             <td>Active</td>
             <td>48÷60mA </td>
             <td rowspan="3"> @12VDC  </td>

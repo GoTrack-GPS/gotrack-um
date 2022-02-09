@@ -91,7 +91,7 @@
             <td></td>
         </tr>
     <tr>
-            <td rowspan="3">Dòng tiêu</td>
+            <td rowspan="3">Dòng tiêu thụ</td>
             <td>Active</td>
             <td>48÷60mA </td>
             <td rowspan="3"> @12VDC  </td>
@@ -615,6 +615,7 @@
         <td>Quá thời gian lái xe liên tục đồng thời đang quá tốc độ cho phép</td>
         </tr>  
 </table>
+<center>Bảng 3. Mô tả chỉ thị còi</center>
 
 #### 3.3. Cổng tín hiệu
 
@@ -686,7 +687,7 @@
         <td>Kết nối với Mass</td>
     </tr>
 </table>
- <center>Bảng 3. Mô tả dây tín hiệu</center>
+ <center>Bảng 4. Mô tả dây tín hiệu</center>
 
 > Lưu ý: Chú thích tên tín hiệu có ghi lên mặt dưới của thân vỏ thiết bị
 
