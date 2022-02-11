@@ -1,4 +1,4 @@
-# S400
+# S400E
 
 <span class="icon-left6">![Interface Web](/docs/assets/images/integrated-devices/smc/s200/s200.png)
 
@@ -22,7 +22,7 @@
 With optimal design for easy installation, installation and maintenance with low energy consumption as well as competitive price. Therefore, the S400E is perfectly compatible with many applications in road traffic management and operation.
 
 #### 1.1. Pack
-- The S400 product set provided to customers includes:
+- The S400E product set provided to customers includes:
    - The S400E product set provided to customers includes:
      - 01- Device S400E
      - 01-Set of signal cables (type 2x3)
