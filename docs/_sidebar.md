@@ -134,6 +134,9 @@
                - **S400**
                   - [Technical document](modules/integrated-devices/smc/s400/technical-document/)
                   - [SMS commands](modules/integrated-devices/smc/s400/sms-command/)
+               - **S400E**
+                  - [Technical document](modules/integrated-devices/smc/s400e/technical-document/)
+                  - [SMS commands](modules/integrated-devices/smc/s400e/sms-command/)
                - **SM400**
                   - [Technical document](modules/integrated-devices/smc/sm400/technical-document/)
                   - [Operation and settings](modules/integrated-devices/smc/sm400/operation-settings/) 
