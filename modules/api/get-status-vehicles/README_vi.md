@@ -26,7 +26,7 @@
         <td >host </td>
         <td>string</td> 
         <td>path </td>
-        <td></td> 
+        <td> https://gps.gotrack365.com</td> 
     </tr>
     <tr>
         <td >apikey </td>
