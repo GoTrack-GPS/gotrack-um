@@ -139,7 +139,7 @@ Thực hiện việc thiết lập qua gửi lệnh từ máy chủ mà thiết 
     </tr> 
      <tr>
         <td>Gửi</td>
-        <td>tim#,10,900#</td>
+        <td>tim,10,900#</td>
         <td class="text-bold">tim#</td>  
     </tr> 
     <tr>

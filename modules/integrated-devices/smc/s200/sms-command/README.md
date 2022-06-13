@@ -143,7 +143,7 @@ Perform the setup by sending commands from the server to which the device is con
     </tr> 
      <tr>
         <td>Send  </td>
-        <td>tim#,10,900#</td>
+        <td>tim,10,900#</td>
         <td class="text-bold">tim#</td>  
     </tr> 
     <tr>
